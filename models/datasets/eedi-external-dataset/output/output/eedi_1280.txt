@@ -1,0 +1,29 @@
+###
+Question: What is the sum of the interior angles of a hexagon?
+
+###
+Answers:
+(A) - 720 degrees
+
+(B) - 540 degrees
+
+(C) - 360 degrees
+
+(D) - 1080 degrees
+
+###
+Misconceptions:
+(A) - Miscalculates the formula for the sum of interior angles using sides incorrectly.
+
+(B) - Correctly applies the formula but might incorrectly calculate or remember the value for a hexagon.
+
+(C) - Relies on the formula for a triangle instead of a hexagon, misunderstanding the concept of polygons.
+
+(D) - Incorrectly assumes that adding additional angles for each side would compound excessively without following the formula.
+
+###
+Subject: Properties of Polygons
+###
+ConstructName: Understanding the sum of interior angles of a polygon
+###
+CorrectAnswer: A

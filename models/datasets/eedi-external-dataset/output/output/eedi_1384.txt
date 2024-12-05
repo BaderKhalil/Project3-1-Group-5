@@ -1,0 +1,29 @@
+###
+Question: Which of the following answers correctly identifies the factorisation of the expression below? \( x^{2}-16 \) 
+
+###
+Answers:
+(A) - \( (x-4)(x+4) \) 
+
+(B) - \( x(x-16) \) 
+
+(C) - \( (x-8)(x-2) \) 
+
+(D) - Cannot be factorised 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Does not recognise difference of two squares 
+
+(C) - Confuses the product of binomials and misapplies the difference of squares 
+
+(D) - Does not recognise difference of two squares 
+
+###
+Subject: Difference of Two Squares
+###
+ConstructName: Factorise a quadratic expression in the form x² - c
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What number should replace the box to make the equation true? \( 475 - \square = 200 \) 
+
+###
+Answers:
+(A) - \( 275 \) 
+
+(B) - \( 375 \) 
+
+(C) - \( 225 \) 
+
+(D) - \( 175 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the operation; assumes that subtracting a larger number will yield a smaller result correctly. 
+
+(B) - Confuses the relationship between the numbers; assumes subtraction involves taking away from a larger number rather than finding a difference. 
+
+(C) - Assumes they just need to subtract 200 from 475 directly without applying the correct operation. 
+
+(D) - Recognizes the need to subtract but miscalculates, thinking the missing number is simply half of the difference. 
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Complete missing number mental subtraction problems up to 1000 
+###
+CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: \(\square\quad +\quad 2.345 = 5.8\)
+
+###
+Answers:
+(A) - \( 3.455 \) 
+
+(B) - \( 2.455 \) 
+
+(C) - \( 3.555 \) 
+
+(D) - \( 2.555 \) 
+
+###
+Misconceptions:
+(A) - Adds instead of subtracts 
+
+(B) - Incorrectly retains a decimal place, miscalculating the sum 
+
+(C) - Misaligns the addition of decimals, causing an incorrect total 
+
+(D) - Correctly identifies the need to subtract, but makes an error in the calculation 
+
+###
+Subject: Adding and Subtracting with Decimals
+###
+ConstructName: Carry out missing number addition problems where a written method is needed
+###
+CorrectAnswer: B

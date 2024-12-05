@@ -1,0 +1,29 @@
+###
+Question: Solve for \( x \) in the equation \( 2(x + 3) = 4 - x \) 
+
+###
+Answers:
+(A) - \( x = -1 \)
+
+(B) - \( x = 1 \)
+
+(C) - \( x = 2 \)
+
+(D) - \( x = -5 \)
+
+###
+Misconceptions:
+(A) - Incorrectly simplifies the equation by misapplying the distributive property and not balancing the equation correctly.
+
+(B) - Incorrectly assumes the solution should be positive without properly solving the equation.
+
+(C) - Mistakenly arrives at a solution by ignoring the properties of equality and incorrectly simplifying the equation.
+
+(D) - correctly solves the equation but may misinterpret the steps leading to this answer.
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve linear equations with the variable appearing on both sides
+###
+CorrectAnswer: D

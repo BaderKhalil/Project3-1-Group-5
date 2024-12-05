@@ -1,0 +1,29 @@
+###
+Question: If \( y = \frac{5}{x} \), what is the value of \( y \) when \( x = 5 \)? 
+
+###
+Answers:
+(A) - \( 1 \)
+
+(B) - \( 0 \)
+
+(C) - \( 5 \)
+
+(D) - \( \frac{1}{5} \)
+
+###
+Misconceptions:
+(A) - Believes that dividing 5 by itself results in 1, understanding it correctly. 
+
+(B) - Thinks that any division involving a number results in zero. 
+
+(C) - Incorrectly believes that the output remains the same as the input value. 
+
+(D) - Presumes that the value of y will simply reflect 5 scaled down by a factor related to the fraction format. 
+
+###
+Subject: Cubics and Reciprocals
+###
+ConstructName: Given a positive x value, find the corresponding y value for reciprocal graphs
+###
+CorrectAnswer: A

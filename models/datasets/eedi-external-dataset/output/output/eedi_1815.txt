@@ -1,0 +1,29 @@
+###
+Question: \( (5)^{-2}=? \) 
+
+###
+Answers:
+(A) - \( 25 \) 
+
+(B) - \( \frac{1}{25} \) 
+
+(C) - \( 5 \) 
+
+(D) - \( -\frac{1}{25} \) 
+
+###
+Misconceptions:
+(A) - Misunderstanding the negative exponent rule as leading to a positive result. 
+
+(B) - nan 
+
+(C) - Confusing the negative exponent with the base raised to a positive power. 
+
+(D) - Incorrectly applying the rule that might suggest negative results with a negative exponent. 
+
+###
+Subject: Laws of Indices
+###
+ConstructName: Raise a positive integer to a negative power
+###
+CorrectAnswer: B

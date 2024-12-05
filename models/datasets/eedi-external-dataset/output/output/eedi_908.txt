@@ -1,0 +1,31 @@
+###
+Question: Consider the linear equation represented by the graph 
+\(y = 3 + 0.5x\) ![A set of axes with y=3+0.5x drawn on.]() Use the graph to find the solution for 
+\(3 + 0.5x = 0\) 
+
+###
+Answers:
+(A) - \( x = -6 \) 
+
+(B) - \( x = 0 \) 
+
+(C) - \( x = 3 \) 
+
+(D) - \( x = -3 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes the solution of mx + c = 0 is x = 0 
+
+(C) - Believes they can find the x-intercept by simply looking at the y-intercept 
+
+(D) - Believes the solution of mx + c = 0 is found by taking the opposite of c 
+
+###
+Subject: Graphical Solution of Simultaneous Equations
+###
+ConstructName: Given a sketch of a linear graph solve f(x) = 0
+###
+CorrectAnswer: A

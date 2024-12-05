@@ -1,0 +1,29 @@
+###
+Question: What is the solution to the inequality \(3x + 5 < 20\)?
+
+###
+Answers:
+(A) - \(x < 5\)
+
+(B) - \(x > 15\)
+
+(C) - \(x < 10\)
+
+(D) - \(x < 5\)
+
+###
+Misconceptions:
+(A) - Assumes that the subtraction in the inequality only affects the constant and not the variable. 
+
+(B) - Misunderstands that solving an inequality results in values lower than a given amount.
+
+(C) - Incorrectly calculates the boundary by not isolating the variable properly.
+
+(D) - Believes that inequalities can only represent whole or integer values.
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve one-step linear inequalities in one variable where the variable appears on one side of the equation
+###
+CorrectAnswer: A

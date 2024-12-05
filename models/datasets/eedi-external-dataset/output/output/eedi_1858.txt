@@ -1,0 +1,29 @@
+###
+Question: Which of the following scenarios would best be represented using a line graph?
+
+###
+Answers:
+(A) - Tracking the test scores of students over several months
+
+(B) - Displaying the number of pages read by a student in a week
+
+(C) - Illustrating the most popular pets owned by families
+
+(D) - Comparing the heights of different trees in a park
+
+###
+Misconceptions:
+(A) - Does not recognize that a line graph captures trends over time rather than static values.
+
+(B) - Does not realize that while it shows an amount, it doesn't illustrate a relationship over a continuous interval which a line graph depicts.
+
+(C) - Does not understand that a line graph is not suited for categorical data and is instead better for trends.
+
+(D) - Does not understand that a line graph shows changes with respect to another variable, rather than fixed comparisons.
+
+###
+Subject: Time Series and Line Graphs
+###
+ConstructName: Identify when it is appropriate to use a line graph
+###
+CorrectAnswer: A

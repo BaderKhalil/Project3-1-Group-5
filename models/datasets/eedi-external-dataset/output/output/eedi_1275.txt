@@ -1,0 +1,32 @@
+###
+Question: If two parallel lines are cut by a transversal, what can be said about the alternate interior angles? ![Two parallel lines with a transversal intersecting them, forming angles on either side.]() 
+
+###
+Answers:
+(A) - They are equal 
+
+(B) - They add together to make
+\[
+180^{\circ}
+\] 
+
+(C) - They are supplementary 
+
+(D) - They are complementary 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes alternate interior angles sum to 180 degrees 
+
+(C) - Believes alternate interior angles always add up to a specific sum without recognizing their equality 
+
+(D) - Confuses complementary angles with angles that sum to 90 degrees 
+
+###
+Subject: Basic Angle Facts (straight line, opposite, around a point, etc)
+###
+ConstructName: Recognise the alternate interior angles relationship
+###
+CorrectAnswer: A

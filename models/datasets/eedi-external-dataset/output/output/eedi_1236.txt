@@ -1,0 +1,29 @@
+###
+Question: \( 1.5 \div 0.5= \)
+
+###
+Answers:
+(A) - \( 2.5 \)
+
+(B) - \( 1 \)
+
+(C) - \( 3 \)
+
+(D) - \( 0.75 \)
+
+###
+Misconceptions:
+(A) - Incorrectly adds the numbers instead of dividing
+
+(B) - Assumes that the divisor is larger, leading to a smaller quotient
+
+(C) - Miscalculates the division by thinking it results in a whole number
+
+(D) - Confuses division with multiplication by mistakenly lowering the value
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Divide two decimals with different decimal places
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: \( 25.6 \div 10= \) 
+
+###
+Answers:
+(A) - \( 2.56 \) 
+
+(B) - \( 0.256 \) 
+
+(C) - \( 15.6 \) 
+
+(D) - \( 25.06 \) 
+
+###
+Misconceptions:
+(A) - Divided by 100 rather than 10 
+
+(B) - Divides incorrectly by 100 
+
+(C) - Subtracts instead of divides 
+
+(D) - Misplaces the decimal point when dividing 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Divide decimals by 10
+###
+CorrectAnswer: A

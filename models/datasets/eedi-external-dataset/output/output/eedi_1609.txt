@@ -1,0 +1,29 @@
+###
+Question: What is the measure of the interior angle of a regular hexagon?
+
+###
+Answers:
+(A) - \( 120^\circ \)
+
+(B) - \( 90^\circ \)
+
+(C) - \( 135^\circ \)
+
+(D) - \( 150^\circ \)
+
+###
+Misconceptions:
+(A) - Confuses the interior angle of a hexagon with that of a triangle or other polygon
+
+(B) - Incorrectly identifies the angle of a square
+
+(C) - Miscalculates the interior angle using the wrong formula for hexagons
+
+(D) - Misunderstands how to divide the total interior angle sum
+
+###
+Subject: Interior Angles of Polygons
+###
+ConstructName: Calculate the measure of interior angles in regular polygons
+###
+CorrectAnswer: A

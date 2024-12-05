@@ -1,0 +1,32 @@
+###
+        Question: Simplify the following expression into a single fraction:
+\(
+\frac{3x}{2x^{2}+4x} + \frac{5}{x+2}
+\)
+
+        ###
+        Answers:
+        (A) - \( \frac{3x + 10}{2x(x+2)} \)
+
+        (B) - \( \frac{3x + 5}{2x(x+2)} \)
+
+        (C) - \( \frac{3x^2 + 10x}{2x^2 + 4x} \)
+
+        (D) - \( \frac{8}{2x(x+2)} \)
+
+        ###
+        Misconceptions:
+        (A) - Fails to combine like terms correctly. 
+
+        (B) - Fails to recognize the common denominator needed for addition. 
+
+        (C) - Incorrectly adds the numerators without a common denominator. 
+
+        (D) - Simplifies prematurely without considering all terms. 
+
+        ###
+        Subject: Adding and Subtracting Algebraic Fractions
+        ###
+        ConstructName: Add algebraic fractions with linear denominators
+        ###
+        CorrectAnswer: A

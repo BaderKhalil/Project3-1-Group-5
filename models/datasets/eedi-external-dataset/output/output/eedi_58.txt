@@ -1,0 +1,29 @@
+###
+Question: Which of the following diagrams accurately shows \( x \leq 3 \) ?
+
+###
+Answers:
+(A) - ![Image of a number line. At 3 there is an open, unfilled circle drawn, with an arrow pointing to the left, towards the negative numbers in the number line.]() 
+
+(B) - ![Image of a number line. At 3 there is a red, filled circle drawn, with an arrow pointing to the right, towards the higher positive numbers in the number line.]() 
+
+(C) - ![Image of a number line. At 3 there is a red, filled circle drawn, with an arrow pointing to the left, towards the negative numbers in the number line.]() 
+
+(D) - ![Image of a number line. At 3 there is an open, unfilled circle drawn, with an arrow pointing to the right, towards the higher positive numbers in the number line.]() 
+
+###
+Misconceptions:
+(A) - Confuses the meaning of open circles with closed circles when representing inequalities.
+
+(B) - Assumes that \( \leq \) is the same as \( < \) and represents it incorrectly.
+
+(C) - nan
+
+(D) - Mistakenly thinks that \( \leq \) applies only to positive numbers, ignoring the leftward direction of inequality.
+
+###
+Subject: Inequalities on Number Lines
+###
+ConstructName: Represent a linear inequality with a single tail on a numberline
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: If angle \( m \) is \( 78^\circ \) and angle \( n \) is \( 102^\circ \), what is the size of angle \( p \) ? ![Two angles meeting to form a point. They are labelled 78 degrees and 102 degrees and p.]() 
+
+###
+Answers:
+(A) - \( 180^{\circ} \) 
+
+(B) - \( 78^{\circ} \) 
+
+(C) - \( 102^{\circ} \) 
+
+(D) - \( 0^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Believes the angles at a point must sum to 180 degrees rather than the full circle of 360 degrees 
+
+(B) - Misunderstands the arrangement of angles around a point and assumes directly using one of the given angles 
+
+(C) - Assumes \( p \) can be either \( m \) or \( n \) without accounting for the angle relationship 
+
+(D) - Incorrectly believes that angles cannot exist or account for the situation in the context of a full turn 
+
+###
+Subject: Basic Angle Facts (angles around a point)
+###
+ConstructName: Find missing angles using angles around a point
+###
+CorrectAnswer: A

@@ -1,0 +1,30 @@
+###
+Question: A number rounds to \( 500 \) when rounded to the nearest hundred, ten and unit.
+Which number could this be? 
+
+###
+Answers:
+(A) - \( 449 \)
+
+(B) - \( 550 \)
+
+(C) - \( 543 \)
+
+(D) - \( 467 \)
+
+###
+Misconceptions:
+(A) - Rounds down instead of up 
+
+(B) - Rounds down instead of up 
+
+(C) - nan 
+
+(D) - Rounds up instead of down 
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round integers to the nearest 100
+###
+CorrectAnswer: C

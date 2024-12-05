@@ -1,0 +1,29 @@
+###
+Question: In the diagram below, what term describes the longest chord of the circle? ![A diagram of a circle with a line segment drawn through the center, touching both edges]() 
+
+###
+Answers:
+(A) - Radius 
+
+(B) - Chord 
+
+(C) - Diameter 
+
+(D) - Sector 
+
+###
+Misconceptions:
+(A) - Confuses radius and diameter 
+
+(B) - Confuses a general chord with the longest chord 
+
+(C) - nan 
+
+(D) - Confuses sector with diameter 
+
+###
+Subject: Parts of a Circle
+###
+ConstructName: Identify a diameter
+###
+CorrectAnswer: C

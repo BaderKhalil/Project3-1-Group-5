@@ -1,0 +1,34 @@
+###
+Question: Lisa and Mark are discussing the rounding of numbers.
+
+Lisa claims that \( \mathbf{7 4 . 2 5} \) rounded to \( 2 \) significant figures is \( \mathbf{7 4} \).
+
+Mark argues that \( \mathbf{7 4 . 2 5} \) rounded to \( 1 \) decimal place is \( \mathbf{7 4 . 3} \). 
+Who is correct?
+
+###
+Answers:
+(A) - Only Lisa 
+
+(B) - Only Mark 
+
+(C) - Both Lisa and Mark 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Rounding to significant figures is misunderstood; one must consider the digits following the significant figures.
+
+(B) - When rounding to decimal places, the correct rule is misapplied, mistakenly assuming that only the first digit after the decimal affects the rounding.
+
+(C) - Rounding logic varied for significant figures and decimal places can lead to misunderstandings in the results.
+
+(D) - nan 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers greater than 1 to one significant figure
+###
+CorrectAnswer: A

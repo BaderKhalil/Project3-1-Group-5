@@ -1,0 +1,29 @@
+###
+Question: \( 12 - 4 \div 2 + 3 = \) 
+
+###
+Answers:
+(A) - \( 11 \) 
+
+(B) - \( 9 \) 
+
+(C) - \( 7 \) 
+
+(D) - \( 15 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly adds \( 3 \) before completing the division 
+
+(B) - Correctly computes the operation 
+
+(C) - Performs subtraction before division 
+
+(D) - Ignores the order of operations and simply adds and subtracts 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division
+###
+CorrectAnswer: B

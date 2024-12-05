@@ -1,0 +1,29 @@
+###
+Question: Which of the following is the correct definition of a function?
+
+###
+Answers:
+(A) - A relationship that assigns exactly one output to each input
+
+(B) - A computation that simplifies an expression
+
+(C) - A set of ordered pairs with no repeated first elements
+
+(D) - A linear equation represented as a graph
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses a function with an operation or simplification process
+
+(C) - Confuses a function with a relation, not recognizing the uniqueness of outputs
+
+(D) - Confuses the concept of a function with a specific representation of some functions 
+
+###
+Subject: Functions
+###
+ConstructName: Understand the definition of a function
+###
+CorrectAnswer: A

@@ -1,0 +1,31 @@
+###
+Question: Which of these numbers is irrational?
+
+\( \frac{3}{4} \) and \( \sqrt{20} \)
+
+###
+Answers:
+(A) - \( \sqrt{20} \) 
+
+(B) - \( \frac{3}{4} \) 
+
+(C) - Both 
+
+(D) - Neither 
+
+###
+Misconceptions:
+(A) - Does not realize that a surd can be irrational if the number under the root is not a perfect square 
+
+(B) - Fails to understand that all fractions where the numerator and denominator are integers are rational 
+
+(C) - Misunderstands that irrational numbers cannot be represented as fractions 
+
+(D) - Incorrectly assumes that fractions can be both rational and irrational at the same time 
+
+###
+Subject: Recurring Decimals to Fractions
+###
+ConstructName: Identify rational and irrational numbers
+###
+CorrectAnswer: A

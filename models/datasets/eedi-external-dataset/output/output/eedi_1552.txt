@@ -1,0 +1,35 @@
+###
+Question: Jake and Lucy are comparing decimal numbers in scientific notation.
+
+Jake claims \( 4.5 \times 10^{3} < 1.2 \times 10^{4} \)
+
+Lucy insists \( 4.5 \times 10^{-3} < 1.2 \times 10^{-4} \)
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Jake 
+
+(B) - Only Lucy 
+
+(C) - Both Jake and Lucy 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Jake may have miscalculated or misunderstood how to compare numbers with different powers of 10 
+
+(B) - Lucy might think that since the decimals are less than 1, the comparison is straightforward without considering the negative exponents correctly 
+
+(C) - May incorrectly believe that both comparisons are valid without checking their accuracy 
+
+(D) - Could assume that neither of the comparisons makes sense without understanding scientific notation 
+
+###
+Subject: Scientific Notation
+###
+ConstructName: Compare decimal numbers in scientific notation
+###
+CorrectAnswer: A

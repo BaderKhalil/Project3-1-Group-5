@@ -1,0 +1,29 @@
+###
+Question: \( 2500 \mathrm{~g} \) is equivalent to \( k g \) 
+
+###
+Answers:
+(A) - \( 25 \) 
+
+(B) - \( 2.5 \) 
+
+(C) - \( 0.25 \) 
+
+(D) - \( 2500000 \) 
+
+###
+Misconceptions:
+(A) - Thinks there are 100g in a kilogram 
+
+(B) - Correctly divides but misunderstands decimal placement 
+
+(C) - Thinks to get kilograms, one must multiply by 100 
+
+(D) - Multiplies rather than divides 
+
+###
+Subject: Weight Units
+###
+ConstructName: Convert between g and kg
+###
+CorrectAnswer: B

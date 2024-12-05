@@ -1,0 +1,29 @@
+###
+Question: For the equation \( y = 2x + 4 \), a part of the table shows \( y \) as \( 12 \) and the corresponding \( x \) value is missing. What value should fill in the blank for \( x \)? 
+
+###
+Answers:
+(A) - \( 8 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( 16 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly adds the constant instead of solving for \( x \) 
+
+(B) - Misunderstands how to isolate \( x \) in terms of \( y \) 
+
+(C) - Fails to correctly calculate \( x \) by not accounting for the constant 
+
+(D) - Calculates \( x \) without properly reversing the function formula 
+
+###
+Subject: Plotting Lines from Tables of Values
+###
+ConstructName: Given a positive y value, find an x value in a table of values for lines in the form y = mx + c
+###
+CorrectAnswer: B

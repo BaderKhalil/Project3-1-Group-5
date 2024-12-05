@@ -1,0 +1,29 @@
+###
+Question: To find the circumference \( C \) of a circle, the formula is given by \( C = 2\pi r \). Rearrange this formula to solve for the radius \( r \). ![An image of a circle with the radius labelled r.]() 
+
+###
+Answers:
+(A) - \( r = \frac{C}{2\pi} \)
+
+(B) - \( r = \frac{C}{\pi} \) 
+
+(C) - \( r = \frac{C^2}{2\pi} \) 
+
+(D) - They are all incorrect 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses the division by \( 2\pi \) with just \( \pi \), therefore receives an incorrect value for r. 
+
+(C) - Incorrectly applies the formula by squaring the circumference instead of applying the inverse operation. 
+
+(D) - nan 
+
+###
+Subject: Rearranging Formula and Equations
+###
+ConstructName: Rearrange formulae to change the subject where the subject appears once and two steps are needed
+###
+CorrectAnswer: A

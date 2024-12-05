@@ -1,0 +1,29 @@
+###
+Question: Which of the following graphs represents a direct proportionality between \( y \) and \( x \)?
+
+###
+Answers:
+(A) - ![A graph with a straight line passing through the origin, sloping upwards from the bottom left to the top right.]() 
+
+(B) - ![A graph that starts from the origin and curves upwards, showing an exponential growth pattern.]() 
+
+(C) - ![A graph that is a horizontal line along the y-axis, indicating that \( y \) remains constant regardless of \( x \).]() 
+
+(D) - ![A graph with a straight line passing through the origin but decreasing from the top left to the bottom right.]() 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses direct proportionality with exponential growth 
+
+(C) - Confuses a constant function with direct proportionality 
+
+(D) - Confuses direct proportionality with a negative relationship 
+
+###
+Subject: Direct Proportion
+###
+ConstructName: Recognise graphical representations of direct proportion in the form y = kx
+###
+CorrectAnswer: A

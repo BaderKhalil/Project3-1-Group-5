@@ -1,0 +1,26 @@
+###
+Question: What is the total area of this composite shape made from rectangles? ![A composite shape made from two rectangles forming an L-shape. The vertical rectangle has a height of 10m and a width of 4m. The horizontal rectangle has a length of 8m and a height of 3m.]() 
+
+###
+Answers:
+(A) - \( 52 \, \mathrm{m}^2 \) 
+
+(B) - \( 42 \, \mathrm{m}^2 \) 
+
+(C) - \( 32 \, \mathrm{m}^2 \) 
+
+(D) - \( 46 \, \mathrm{m}^2 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands how to calculate area for combined shapes and adds areas incorrectly.
+(B) - Miscounts the dimensions of one of the rectangles resulting in an incorrect total area.
+(C) - nan 
+(D) - Only includes area of one rectangle and ignores the other, leading to an incorrect calculation. 
+
+###
+Subject: Compound Area
+###
+ConstructName: Calculate the area of a rectilinear shape by adding areas expressed in the same units
+###
+CorrectAnswer: A

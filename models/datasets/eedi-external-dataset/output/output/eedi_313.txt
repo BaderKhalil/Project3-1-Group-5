@@ -1,0 +1,29 @@
+###
+Question: \( 7 \times (-4) = \)
+
+###
+Answers:
+(A) \( -28 \) 
+
+(B) \( 28 \) 
+
+(C) \( -11 \) 
+
+(D) \( 11 \) 
+
+###
+Misconceptions:
+(A) - Correctly reflects the multiplication of positive and negative but may confuse signs leading to a misinterpretation of the multiplication process. 
+
+(B) - Incorrectly assumes that multiplying two integers always results in a positive outcome, ignoring the role of the negative sign.
+
+(C) - Suggests that \( 7 \) minus \( 4 \) equals \( -11 \), confusing multiplication with subtraction.
+
+(D) - Similar to (C), but incorrectly interprets the result as positive despite one multiplicand being negative. 
+
+###
+Subject: Multiplying and Dividing Negative Numbers
+###
+ConstructName: Carry out multiplication problems involving one negative integer
+###
+CorrectAnswer: A

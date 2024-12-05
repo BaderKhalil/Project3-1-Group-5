@@ -1,0 +1,31 @@
+###
+Question: A bar graph displays the number of fruits sold in a week.
+
+If \( \mathbf{5} \) more bananas were sold than oranges, how many fruits were sold in total? ![Bar graph showing different types of fruits with varying heights.]() 
+
+###
+Answers:
+(A) - \( 45 \) 
+
+(B) - \( 10 \) 
+
+(C) - \( 30 \) 
+
+(D) - \( 25 \) 
+
+###
+Misconceptions:
+(A) - Multiplies total incorrectly without considering the relationship between the quantities.
+
+(B) - Calculates the simple amount of oranges without adding the bananas total.
+
+(C) - Takes the value of one type of fruit and assumes it's the total without accounting for others.
+
+(D) - Calculates the total inaccurately due to misinterpretation of the graph.
+
+###
+Subject: Bar Graph
+###
+ConstructName: Interpret a bar graph
+###
+CorrectAnswer: A

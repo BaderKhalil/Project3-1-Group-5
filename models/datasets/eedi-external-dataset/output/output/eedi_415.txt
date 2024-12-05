@@ -1,0 +1,35 @@
+###
+Question: Sarah and Mike are analyzing the sequence \( \mathbf{5 n}+\mathbf{2} \)
+
+Sarah claims \( \mathbf{7} \) is a term in the sequence.
+
+Mike argues \( \mathbf{12} \) is a term in the sequence.
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only Mike 
+
+(C) - Both Sarah and Mike 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Incorrectly assumed that the input \( n \) starts from 0 instead of 1. 
+
+(B) - Believes that adding numbers can result in values that don't adhere to the sequence's formula.
+
+(C) - Thinks that if one term is in the sequence, then the other must also be.
+
+(D) - Correctly identifies that neither value can be produced by the given sequence rule. 
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Use the nth term rule of an ascending integer linear sequence to test whether a term belongs in the sequence or not
+###
+CorrectAnswer: D

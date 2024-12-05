@@ -1,0 +1,29 @@
+###
+Question: In a bag, there are \( 3 \) green marbles and \( 2 \) blue marbles. If Liam draws two marbles without replacement, what is the probability that both marbles are green?
+
+###
+Answers:
+(A) - \( \frac{3}{5} \)
+
+(B) - \( \frac{2}{5} \)
+
+(C) - \( \frac{3}{10} \)
+
+(D) - \( \frac{1}{10} \)
+
+###
+Misconceptions:
+(A) - Assumes the second marble has the same probability as the first without accounting for the first draw.
+
+(B) - Incorrectly calculates the probability of drawing one color only without considering the combination of events.
+
+(C) - nan
+
+(D) - Thinks probabilities are simply multiplied without adjusting for changing total outcomes after the first draw.
+
+###
+Subject: Tree Diagrams with Dependent Events
+###
+ConstructName: Calculate the probability of two dependent events occurring without drawing a tree diagram
+###
+CorrectAnswer: C

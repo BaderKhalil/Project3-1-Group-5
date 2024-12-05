@@ -1,0 +1,29 @@
+###
+Question: Which of the following is a unit of area?
+
+###
+Answers:
+(A) - Square kilometres 
+
+(B) - Gallons 
+
+(C) - Hectares 
+
+(D) - Litres 
+
+###
+Misconceptions:
+(A) - Does not understand that "square" indicates a measurement of two dimensions, essential for area calculations. 
+
+(B) - Confuses volume measurement with area measurement, not recognizing gallons as a volumetric unit. 
+
+(C) - Needs clarification that hectares, while applicable to land area, can sometimes be confused with other types of measurements.
+
+(D) - Mistakes litres as a measure of area rather than volume, showing confusion between these two categories.
+
+###
+Subject: Area of Shapes
+###
+ConstructName: Identify a unit of area or surface
+###
+CorrectAnswer: B

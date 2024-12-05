@@ -1,0 +1,29 @@
+###
+Question: \( 2x + 3y = 18 \) Which pair of numbers fits the equation? 
+
+###
+Answers:
+(A) - \( \begin{array}{c}x=3 \\ y=4\end{array} \) 
+
+(B) - \( \begin{array}{l}x=0 \\ y=6\end{array} \) 
+
+(C) - \( \begin{array}{c}x=6 \\ y=0\end{array} \) 
+
+(D) - \( \begin{array}{l}x=2 \\ y=5\end{array} \) 
+
+###
+Misconceptions:
+(A) - correct substitution, but calculates incorrectly after substitution 
+
+(B) - substitutes incorrectly, leading to the wrong values 
+
+(C) - nan 
+
+(D) - calculates incorrectly after substitution 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Identify pairs of numbers that satisfy an equation with two unknowns 
+###
+CorrectAnswer: C

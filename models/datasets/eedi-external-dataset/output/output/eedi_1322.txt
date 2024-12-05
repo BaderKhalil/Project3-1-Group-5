@@ -1,0 +1,31 @@
+###
+Question: A pie chart illustrates the distribution of weekly screen time for various activities.
+
+If \( 20 \) hours represent the segment for Gaming, how many hours represent the segment for Reading? ![A pie chart with four segments labeled Gaming, Social Media, Reading, and Video Streaming. The angle for Gaming is 90 degrees, Social Media is 30 degrees, Reading is 60 degrees, and Video Streaming is 180 degrees.]() 
+
+###
+Answers:
+(A) - \( 10 \) 
+
+(B) - \( 30 \) 
+
+(C) - \( 15 \) 
+
+(D) - \( 25 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the proportion of Reading based on incorrect total hours. 
+
+(B) - Assumes the angle in the pie chart directly translates to the number of hours spent. 
+
+(C) - Misinterprets the relationship between sector angle and total time to arrive at an arbitrary number. 
+
+(D) - Incorrectly adds or subtracts hours in relation to other activities instead of considering the full pie chart. 
+
+###
+Subject: Pie Chart
+###
+ConstructName: Given the sector angle on a pie chart, calculate the frequency of a group
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What is the next number in the sequence: 2, 4, 8, 16? 
+
+###
+Answers:
+(A) 10 - The next term is the result of incorrect addition of 2 to the previous term. 
+
+(B) 20 - This answer assumes the sequence is increasing by consistently adding a value rather than multiplying.
+
+(C) 32 - This answer correctly recognizes that the sequence is formed by multiplying the previous term by 2.
+
+(D) 64 - This answer suggests a misunderstanding of sequence progression by skipping multiplication steps.
+
+###
+Misconceptions:
+(A) - Misunderstanding that sequences can also involve multiplication and not just addition.
+
+(B) - Believing that the sequence follows a simple addition rule rather than recognizing the multiplicative pattern.
+
+(C) - nan 
+
+(D) - Overestimating the next term by misunderstanding the properties of exponential growth in the sequence.
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Identify patterns in numerical sequences
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: Liam is counting backwards in steps of \( 5 \). He starts at the number \( 50,000 \). What is the next number he will say? 
+
+###
+Answers:
+(A) - \( 49,995 \) 
+
+(B) - \( 50,005 \) 
+
+(C) - \( 49,998 \) 
+
+(D) - \( 49,995 \) 
+
+###
+Misconceptions:
+(A) - Counts incorrectly by subtracting the step incorrectly as \( 50,000 - 3 \) 
+
+(B) - Confuses counting backwards with counting forwards 
+
+(C) - Misunderstands that the next number should be less than the starting number when counting backwards 
+
+(D) - nan 
+
+###
+Subject: Counting
+###
+ConstructName: Count backwards in steps of something other than one
+###
+CorrectAnswer: A

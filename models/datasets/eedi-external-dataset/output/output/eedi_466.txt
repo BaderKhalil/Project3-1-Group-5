@@ -1,0 +1,29 @@
+###
+Question: If the slope of one line is \( 2 \), what is the slope of a line that is perpendicular to it? 
+
+###
+Answers:
+(A) - \( -\frac{1}{2} \) 
+
+(B) - \( \frac{1}{2} \) 
+
+(C) - \( 2 \) 
+
+(D) - \( -2 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Thinks that the slope of a perpendicular line is obtained by simply flipping the fraction of the original slope 
+
+(C) - Believes that a line with the same slope can also be perpendicular 
+
+(D) - Thinks that the negative sign doesn't apply to the reciprocal of a positive slope 
+
+###
+Subject: Perpendicular Lines
+###
+ConstructName: Find a negative reciprocal
+###
+CorrectAnswer: A

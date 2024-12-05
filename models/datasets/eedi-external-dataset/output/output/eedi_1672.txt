@@ -1,0 +1,29 @@
+###
+Question: What is \( \mathbf{3.6789} \) rounded to \( 1 \) decimal place? 
+
+###
+Answers:
+(A) - \( 3.6 \) 
+
+(B) - \( 3.7 \) 
+
+(C) - \( 3.8 \) 
+
+(D) - \( 3.9 \) 
+
+###
+Misconceptions:
+(A) - Rounds down by ignoring the second decimal place 
+
+(B) - nan 
+
+(C) - Rounds incorrectly by increasing the tenths place too much 
+
+(D) - Rounds incorrectly by assuming the tenths place rounds to a higher unit 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to one decimal place
+###
+CorrectAnswer: B

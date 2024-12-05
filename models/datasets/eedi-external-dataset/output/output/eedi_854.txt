@@ -1,0 +1,29 @@
+###
+Question: What is the smallest prime number greater than \( 20 ? \) 
+
+###
+Answers:
+(A) - \( 21 \) 
+
+(B) - \( 23 \) 
+
+(C) - \( 24 \) 
+
+(D) - \( 22 \) 
+
+###
+Misconceptions:
+(A) - Confuses composite numbers with prime numbers 
+
+(B) - nan 
+
+(C) - Believes any even number is prime 
+
+(D) - Mistakenly includes numbers divisible by 2 as primes 
+
+###
+Subject: Prime Numbers
+###
+ConstructName: Identify prime numbers
+###
+CorrectAnswer: B

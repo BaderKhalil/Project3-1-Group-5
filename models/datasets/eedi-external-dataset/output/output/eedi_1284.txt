@@ -1,0 +1,29 @@
+###
+Question: \( 0.6 \div 3= \)
+
+###
+Answers:
+(A) - \( 0.12 \) 
+
+(B) - \( 0.2 \) 
+
+(C) - \( 0.18 \) 
+
+(D) - \( 0.25 \) 
+
+###
+Misconceptions:
+(A) - Confuses division with multiplication, calculating \( 0.6 \times 0.2 \) instead of dividing. 
+
+(B) - Incorrectly scales the answer down without properly dividing, thinking \( 0.6 \div 3 \) reduces to \( 0.2 \).
+
+(C) - Incorrect estimation leads to an assumption \( 0.6 \) divided by \( 3 \) is approximately \( 0.18 \) based on rounding or miscalculating.
+
+(D) - Misunderstands that division of smaller decimals by whole numbers yields a larger decimal. 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Divide a decimal by an integer
+###
+CorrectAnswer: A

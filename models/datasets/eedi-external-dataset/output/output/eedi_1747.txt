@@ -1,0 +1,31 @@
+###
+Question: Liam turns counterclockwise from facing \( \mathrm{SE} \) to facing \( \mathrm{N} \).
+
+How many degrees has Liam turned? ![A image of a compass.]() 
+
+###
+Answers:
+(A) - \( 135^{\degree} \) 
+
+(B) - \( 270^{\degree} \) 
+
+(C) - \( 45^{\degree} \) 
+
+(D) - \( 90^{\degree} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses full rotations with only the necessary turn 
+
+(C) - Confuses the starting point and final point on the compass 
+
+(D) - Assumes a direct path without considering the correct direction 
+
+###
+Subject: Measuring Angles
+###
+ConstructName: Describe how many degrees you would turn, and in what direction, to move between North-West, North-East, South-West and South-East
+###
+CorrectAnswer: A

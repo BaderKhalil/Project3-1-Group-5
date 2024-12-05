@@ -1,0 +1,39 @@
+###
+        Question: ![Take a number, multiply it by \( 3 \), add \( 10 \), then subtract \( 2 \), and finally divide by \( 5 \).]() Sarah claims you can express this as:
+\[
+\frac{(3n + 10 - 2)}{5}
+\]
+Mark argues that it can be expressed as:
+\[
+\frac{3n + 10}{5} - 2
+\]
+Who is correct? 
+
+        ###
+        Answers:
+        (A) - Only
+Sarah 
+
+        (B) - Only
+Mark 
+
+        (C) - Both Sarah and Mark 
+
+        (D) - Neither is correct 
+
+        ###
+        Misconceptions:
+        (A) - Uses the correct order of operations to combine the terms before dividing 
+
+        (B) - Incorrectly applies the order of operations by misplacing the subtraction 
+
+        (C) - na 
+
+        (D) - Fails to apply correct operations leading to an incorrect equation 
+
+        ###
+        Subject: BIDMAS
+        ###
+        ConstructName: Solve problems that combine addition and subtraction
+        ###
+        CorrectAnswer: A

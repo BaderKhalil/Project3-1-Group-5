@@ -1,0 +1,39 @@
+###
+Question: Jamie is working on expanding the brackets:
+\(
+(2x+3)(x-5)(x+1)
+\)
+
+She decides to break down the first bracket, transforming her approach to:
+\(
+2x(x-5)(x+1) + 3(x-5)(x+1)
+\)
+
+As she continues with her expansion, what are the coefficients that will come with \( x^{2} \) after the expansion is complete? 
+
+###
+Answers:
+(A) - \( \begin{array}{l}+2 x^{2} \\ -10 x^{2} \\ +3 x^{2}\end{array} \) 
+
+(B) - \( \begin{array}{l}+2 x^{2} \\ +10 x^{2} \\ +3 x^{2}\end{array} \) 
+
+(C) - \( +2 x^{2} \) 
+
+(D) - \( \begin{array}{l}-10 x^{2} \\ +3 x^{2}\end{array} \) 
+
+###
+Misconceptions:
+(A) - Incorrectly adds coefficients without accounting for signs when expanding.
+
+(B) - Misunderstands how multiplication affects signs leading to incorrect coefficients.
+
+(C) - Overlooks multiple contributions to \( x^{2} \); considers only one source.
+
+(D) - Fails to recognize coefficients from both expanded parts of the equation. 
+
+###
+Subject: Expanding Triple Brackets and more
+###
+ConstructName: Expand products of three binomials in the form (ax + b)(x + c)(x + d)
+###
+CorrectAnswer: A

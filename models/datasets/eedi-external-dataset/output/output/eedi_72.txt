@@ -1,0 +1,29 @@
+###
+Question: What is the equation of a horizontal line that passes through the point (0, 5)?
+
+###
+Answers:
+(A) - \( y = 5 \)
+
+(B) - \( x = 5 \)
+
+(C) - \( y = x \)
+
+(D) - \( x = 0 \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Confuses the equations of vertical and horizontal lines 
+
+(C) - Thinks that a diagonal line is horizontal 
+
+(D) - Thinks x = 0 represents a horizontal line 
+
+###
+Subject: Horizontal and Vertical Lines
+###
+ConstructName: Know the equation of horizontal lines
+###
+CorrectAnswer: A

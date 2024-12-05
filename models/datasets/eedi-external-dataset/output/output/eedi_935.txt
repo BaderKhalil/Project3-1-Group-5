@@ -1,0 +1,35 @@
+###
+Question: Maria is solving a pair of simultaneous equations, one of which is provided below.
+
+\(
+3m + 2n = 12
+\)
+
+Maria found that \( n = 2 \). What does \( m \) equal? 
+
+###
+Answers:
+(A) - \( m = 0 \)
+
+(B) - \( m = 4 \)
+
+(C) - \( m = 6 \)
+
+(D) - \( m = -6 \)
+
+###
+Misconceptions:
+(A) - Assumes that if \( n \) is positive, \( m \) must also be positive. 
+
+(B) - Incorrectly assumes that all terms can be treated as independent when substituting. 
+
+(C) - Believes that substituting \( n \) into the equation doesn't change the balance of the equation. 
+
+(D) - Misapprehends the effect of negative values when calculating \( m \). 
+
+###
+Subject: Simultaneous Equations
+###
+ConstructName: Substitute a solution back into the remaining equation and find the second solution
+###
+CorrectAnswer: B

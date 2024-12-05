@@ -1,0 +1,32 @@
+###
+Question: Sarah and Jason are discussing \( 5^{3} \times 2^{3} \)
+Sarah claims \( 5^{3} \times 2^{3} = 7^{3} \)
+Jason argues \( 5^{3} \times 2^{3} = 10^{3} \)
+Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Jason 
+
+(C) - Both Sarah and Jason 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Misunderstands that different bases can be added together in exponent notation. 
+
+(B) - Incorrectly thinks that when multiplying bases, the bases must be multiplied first before applying the exponent. 
+
+(C) - Fails to recognize that both statements are incorrect and treats them as correct. 
+
+(D) - Does not realize the principles behind multiplication of powers with different bases. 
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Multiplication law of indices with positive integer powers and a different base number
+###
+CorrectAnswer: D

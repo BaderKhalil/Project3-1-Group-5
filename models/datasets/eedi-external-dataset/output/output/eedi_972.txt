@@ -1,0 +1,29 @@
+###
+Question: ![A function machine with 3 rectangles in a row, joined by arrows pointing from left to right. The first rectangle on the left is empty and says "input" above it. The middle rectangle has "double" written inside it and the final rectangle has "output" written above it and "24" written inside it.]() What is the input of this function machine? 
+
+###
+Answers:
+(A) - \( 12 \) 
+
+(B) - \( 48 \) 
+
+(C) - \( 36 \) 
+
+(D) - \( 16 \) 
+
+###
+Misconceptions:
+(A) - Correctly understands that the operation is doubling, leading to the correct answer.
+
+(B) - Mistakes the operation's output by thinking it is quadrupling rather than doubling.
+
+(C) - Believes that the function machine involves squaring rather than doubling, so they calculate based on the wrong operation.
+
+(D) - Confuses the input value and cannot relate it to the doubling operation correctly. 
+
+###
+Subject: Function Machines
+###
+ConstructName: Calculate the double of a number
+###
+CorrectAnswer: A

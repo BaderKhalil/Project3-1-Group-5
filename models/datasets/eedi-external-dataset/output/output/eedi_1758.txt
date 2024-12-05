@@ -1,0 +1,29 @@
+###
+Question: What function machine represents the equation \( y = 3x + 7 \)?
+
+###
+Answers:
+(A) - ![A function machine which has 3 parts joined by arrows pointing from left to right. "𝑥" is the first part, written on the left, followed by a horizontal arrow pointing to a rectangle that has "3" written inside it, followed by a horizontal arrow pointing to a rectangle that has "+ 7" written inside it, followed by a horizontal arrow pointing to "y".]() 
+
+(B) - ![A function machine which has 3 parts joined by arrows pointing from left to right. "𝑥" is the first part, written on the left, followed by a horizontal arrow pointing to a rectangle that has "+ 7" written inside it, followed by a horizontal arrow pointing to a rectangle that has "3" written inside it, followed by a horizontal arrow pointing to "y".]() 
+
+(C) - ![A function machine which has 3 parts joined by arrows pointing from left to right. "𝑥" is the first part, written on the left, followed by a horizontal arrow pointing to a rectangle that has "✕ 3" written inside it, followed by a horizontal arrow pointing to a rectangle that has "+ 7" written inside it, followed by a horizontal arrow pointing to "y".]() 
+
+(D) - ![A function machine which has 3 parts joined by arrows pointing from left to right. "y" is the first part, written on the left, followed by a horizontal arrow pointing to a rectangle that has "3" written inside it, followed by a horizontal arrow pointing to a rectangle that has "+ 7" written inside it, followed by a horizontal arrow pointing to "𝑥".]() 
+
+###
+Misconceptions:
+(A) - Correctly identifies the operations but may misunderstand the representation of the input and output. 
+
+(B) - Misplaces the order of operations by adding 7 before multiplying by 3, which reverses the required calculations.
+
+(C) - Correctly shows multiplying by 3 but does not explicitly denote it as an addition operation, leading to potential misinterpretation. 
+
+(D) - Confuses the roles of input and output in a function machine, mistakenly starting with the output instead of the input. 
+
+###
+Subject: Function Machines
+###
+ConstructName: Express a linear equation as a function machine
+###
+CorrectAnswer: C

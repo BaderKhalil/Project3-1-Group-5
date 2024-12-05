@@ -1,0 +1,29 @@
+###
+Question: Which number line represents \( 2 \leq y < 5 \) ?
+
+###
+Answers:
+(A) - ![A number line with a hollow circle above 5 and an arrow extending over the numbers 6, 7, 8 etc. and a filled circle above 2 with an arrow extending over the numbers 1, 0, -1 etc.]() 
+
+(B) - ![A number line with a hollow circle above 2 connected to a filled circle above 5.]() 
+
+(C) - ![A number line with a filled circle above 2 with an arrow extending over the numbers 3, 4, 5, 6 etc. and a hollow circle above 5 with an arrow extending over the numbers 6, 7, 8 etc.]() 
+
+(D) - ![A number line with a filled circle above 2 connected to a hollow circle above 5.]() 
+
+###
+Misconceptions:
+(A) - Mixes up the direction of the inequalities 
+
+(B) - Assumes the inequality allows for inclusion at the upper limit of 5 
+
+(C) - Incorrectly suggests that the interval ends at 5, including it rather than excluding it.
+
+(D) - Correctly shows the lower boundary but misunderstands the representation of the upper boundary by using a hollow circle.
+
+###
+Subject: Inequalities on Number Lines
+###
+ConstructName: Represent a linear inequality in the form a ≤ x < b (and other sign arrangements) on a number line
+###
+CorrectAnswer: D

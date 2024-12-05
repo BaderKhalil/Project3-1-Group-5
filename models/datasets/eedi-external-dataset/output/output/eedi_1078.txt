@@ -1,0 +1,29 @@
+###
+Question: \( 1500 \mathrm{~g} \) is equivalent to \( ___ \) kg 
+
+###
+Answers:
+(A) - \( 0.15 \)
+
+(B) - \( 1.5 \)
+
+(C) - \( 15 \)
+
+(D) - \( 15000 \)
+
+###
+Misconceptions:
+(A) - Miscalculates the conversion by dividing incorrectly 
+
+(B) - Understands the conversion but mistakenly thinks \( 1000 \mathrm{~g} \) is \( 1500 \mathrm{~g} \) 
+
+(C) - Confuses the number of grams in a kilogram, thinking there are 100g in a kg 
+
+(D) - Increases the scale improperly as if grams are in the thousands compared to kg 
+
+###
+Subject: Weight Units
+###
+ConstructName: Convert between g and kg
+###
+CorrectAnswer: A

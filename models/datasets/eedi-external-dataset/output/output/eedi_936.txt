@@ -1,0 +1,29 @@
+###
+Question: Emily and Jack are discussing simplifying quadratic expressions. Emily claims that \( x^{2} + 4x + 4 \equiv (x+2)(x+2) \) while Jack argues that \( x^{2} - 4x + 4 \equiv (x-2)(x-2) \). Who is correct?
+
+###
+Answers:
+(A) - Only Emily 
+
+(B) - Only Jack 
+
+(C) - Both Emily and Jack 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses the signs when factoring expressions 
+
+(C) - Incorrectly believes both expressions can be factored using the same method 
+
+(D) - nan 
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form x² + bx + c
+###
+CorrectAnswer: A

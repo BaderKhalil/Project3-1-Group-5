@@ -1,0 +1,29 @@
+###
+Question: Sarah and Mike are discussing triangles. Sarah argues that this shape is a triangle ![A three-sided shape with one angle greater than 90 degrees.]() Mike claims this shape is a triangle ![A three-sided shape with all angles less than 90 degrees.]() Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Mike 
+
+(C) - Both Sarah and Mike 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not understand that obtuse triangles exist 
+
+(B) - Does not realize that acute triangles are also valid 
+
+(C) - nan 
+
+(D) - Does not know that different types of triangles can coexist within the triangle family 
+
+###
+Subject: Properties of Polygons
+###
+ConstructName: Sort and class triangles into hierarchical families
+###
+CorrectAnswer: C

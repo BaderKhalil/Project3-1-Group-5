@@ -1,0 +1,29 @@
+###
+Question: \( 24 \div 3 + 5 \times 2 = \) 
+
+###
+Answers:
+(A) - \( 10 \) 
+
+(B) - \( 18 \) 
+
+(C) - \( 14 \) 
+
+(D) - \( 16 \) 
+
+###
+Misconceptions:
+(A) - Applies addition before division and multiplication, ignoring the order of operations 
+
+(B) - Assumes that multiplication is not prioritized over addition in the order of operations 
+
+(C) - Uses the left to right approach without considering the proper order of operations 
+
+(D) - Confuses the operations and miscalculates, resulting in a number that doesn't fit the process 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division
+###
+CorrectAnswer: D

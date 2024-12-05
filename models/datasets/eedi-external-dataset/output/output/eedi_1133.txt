@@ -1,0 +1,31 @@
+###
+Question: This bar graph shows the number of books read by Lisa in different genres over the year.
+
+How many more Mystery books did Lisa read compared to Fantasy books? ![A bar graph showing the number of books Lisa has read in various genres. Mystery has 8 books, Fantasy has 5 books, Science Fiction has 6 books, Biography has 3 books, and Historical Fiction has 4 books.]() 
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( 1 \) 
+
+###
+Misconceptions:
+(A) - When calculating the difference, mistakenly adds the counts instead of finding the difference 
+
+(B) - When subtracting numbers, forgets to account for all the values presented 
+
+(C) - Correctly identifies the difference but miscalculates the final number 
+
+(D) - When interpreting the graph, assumes fewer numbers represent smaller differences 
+
+###
+Subject: Bar Graph
+###
+ConstructName: Solve comparison, sum and difference problems using information presented in bar graphs
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: ![An image of 5 boxes, each box representing a number in a sequence. The first box contains the number 300, the second box is empty, the third contains the number 234 and the fourth and fifth boxes are also empty.]() A descending linear sequence has a constant difference of \( 22 \) and the \( 3^{\text{rd}} \) term is \( 234 \). What should replace the empty box in the second position?
+
+###
+Answers:
+(A) - \( 256 \)
+
+(B) - \( 212 \)
+
+(C) - \( 278 \)
+
+(D) - \( 272 \)
+
+###
+Misconceptions:
+(A) - Thinks you add rather than subtract when finding the previous term in a descending linear sequence.
+
+(B) - Thinks the difference is larger than it actually is, resulting in a further value down the sequence.
+
+(C) - Thinks the constant difference applies to the next term instead of the previous term.
+
+(D) - nan
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Write a missing term of a descending integer linear sequence
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Sarah and James are trying to compute \( 16 \times 7 \). Sarah simplifies this by calculating \( 16 \times 4 \times 2 \) while James uses \( 15 \times 7 + 1 \times 7 \). Who is correct?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only James 
+
+(C) - Both Sarah and James 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that \( 16 \times 4 \times 2 \) gives the same as \( 16 \times 7 \) 
+
+(B) - Misunderstands that \( 15 \times 7 \) does not equate the same result without correct adjustment 
+
+(C) - Correctly applies the distributive property in both methods 
+
+(D) - Fails to recognize that at least one method provides the correct product 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Recognise and use efficient methods for mental multiplication
+###
+CorrectAnswer: C

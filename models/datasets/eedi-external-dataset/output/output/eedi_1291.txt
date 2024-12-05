@@ -1,0 +1,29 @@
+###
+Question: What should replace the circle when this expression is fully factorised? \( 12x^2 + 8x \equiv \bigstar(\triangle x + \bigcirc) \) 
+
+###
+Answers:
+(A) - \( \bigcirc=2x \) 
+
+(B) - \( \bigcirc=4 \) 
+
+(C) - \( \bigcirc=3 \) 
+
+(D) - \( \bigcirc=2 \) 
+
+###
+Misconceptions:
+(A) - Forgets to factor out the greatest common factor completely and only factors out part of it. 
+
+(B) - Incorrectly assumes that a factor is a simple number rather than a combination of numerical and algebraic terms.
+
+(C) - Assumes that the remaining factor must always be a constant integer, not considering the variable part in factorisation.
+
+(D) - Confuses the procedure of factorisation with simple arithmetic, attempting to simplify instead of factor. 
+
+###
+Subject: Factorising into a Single Bracket
+###
+ConstructName: Factorise a single bracket containing a non-linear expression by taking out a single algebraic common factor (e.g. a)
+###
+CorrectAnswer: D

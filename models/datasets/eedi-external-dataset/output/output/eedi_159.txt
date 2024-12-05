@@ -1,0 +1,33 @@
+###
+Question: Solve the equation \( (x - 5)(x + 2) = 0 \).
+What values of \( x \) should be considered?
+\[
+x=\bigstar \text{ or } x=-2 
+\] 
+
+###
+Answers:
+(A) - \( 5 \)
+
+(B) - \( -5 \)
+
+(C) - \( -2 \)
+
+(D) - \( 0 \)
+
+###
+Misconceptions:
+(A) - Believes that the solutions of a quadratic equation are always one of the factors in their positive form. 
+
+(B) - Believes that solutions can only be negative, misapplying the factor signs.
+
+(C) - nan 
+
+(D) - Believes that every quadratic equation has zero as a root regardless of the factors. 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Solve quadratic equations using factorisation in the form (x + a)(x + b) 
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: What is the surface area of this cube with a side length of \( 4 \) units? 
+
+###
+Answers:
+(A) - \( 64 \) square units 
+
+(B) - \( 32 \) square units 
+
+(C) - \( 48 \) square units 
+
+(D) - \( 16 \) square units 
+
+###
+Misconceptions:
+(A) - Believes the surface area calculation uses the volume formula instead 
+
+(B) - Confuses the side length formula with the total surface area 
+
+(C) - Miscalculates by not accounting for all six faces properly 
+
+(D) - Incorrectly describes surface area as the area of one face only 
+
+###
+Subject: Surface Area and Volume of 3D Shapes
+###
+ConstructName: Calculate the surface area of 3D shapes
+###
+CorrectAnswer: C

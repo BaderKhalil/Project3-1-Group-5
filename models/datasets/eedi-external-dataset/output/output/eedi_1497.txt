@@ -1,0 +1,32 @@
+###
+Question: What is the correct way to express the solution to 
+\(
+x^{2} + 4x - 5 \geq 0
+\)? ![A quadratic parabola that opens upwards, crossing the x-axis at (-5,0) and (1,0) and the y-axis at (0, -5)]()
+
+###
+Answers:
+(A) - \( \{x \leq -5\} \cup \{x \geq 1\} \)
+
+(B) - \( \{-5 \leq x \leq 1\} \)
+
+(C) - \( \{-5 \geq x \leq 1\} \)
+
+(D) - \( \{x \geq -5\} \cup \{x \leq 1\} \)
+
+###
+Misconceptions:
+(A) - Confuses the direction of the inequality and selects the wrong intervals.
+
+(B) - Assumes that the inequality is strict and misinterprets the graph's intervals.
+
+(C) - Does not accurately interpret inequality symbols in the context of solutions.
+
+(D) - Incorrectly thinks that intervals can only be represented separately and not combined.
+
+###
+Subject: Solving Quadratic Inequalities
+###
+ConstructName: Solve quadratic inequalities from the graph of the quadratic
+###
+CorrectAnswer: A

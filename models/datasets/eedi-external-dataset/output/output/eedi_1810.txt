@@ -1,0 +1,31 @@
+###
+Question: A line graph depicts the temperature changes over a week. 
+
+On which day was the temperature 10 degrees higher than on Thursday? ![An image of a line graph plotting temperature (°C) against days of the week, showing data for Monday to Sunday with varying temperatures represented by points connected with a line.]
+
+###
+Answers:
+(A) - Saturday
+
+(B) - Tuesday
+
+(C) - Friday
+
+(D) - Sunday
+
+###
+Misconceptions:
+(A) - Confuses correlation with causation; assumes the highest point is always on the weekend. 
+
+(B) - Incorrectly identifies Tuesday's temperature as being on par with Thursday's.
+
+(C) - Correctly compares Friday's temperature but miscalculates, thinking it's different on other days.
+
+(D) - Misreads the graph and assumes the days increase linearly without evaluating specific temperatures.
+
+###
+Subject: Line Graphs
+###
+ConstructName: Analyze temperature data from a line graph
+###
+CorrectAnswer: C

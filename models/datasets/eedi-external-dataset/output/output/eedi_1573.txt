@@ -1,0 +1,34 @@
+###
+Question: What tools are necessary to construct a rectangle given two adjacent sides? ![A rectangle construction with two sides labelled]() 
+
+###
+Answers:
+(A) - Ruler 
+Protractor 
+
+(B) - Ruler 
+Compass 
+
+(C) - Ruler 
+Ruler 
+
+(D) - Ruler 
+Protractor 
+Compass 
+
+###
+Misconceptions:
+(A) - Forgets the need for a second ruler to ensure right angles 
+
+(B) - Forgets that a compass is not essential when only side lengths are given 
+
+(C) - Thinks using two rulers alone can define angles, ignoring the need for a protractor 
+
+(D) - Misunderstands that while a protractor and compass are useful, they might not be necessary for the sides given 
+
+###
+Subject: Construct Rectangle
+###
+ConstructName: Construct a rectangle using two adjacent sides
+###
+CorrectAnswer: D

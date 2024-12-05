@@ -1,0 +1,29 @@
+###
+Question: A number, \( m \), has been rounded to \( 2 \) decimal places to give \( \mathbf{5.26} \). What is the largest \( m \) can be?
+
+###
+Answers:
+(A) - \( 5.260 \)
+
+(B) - \( 5.265 \)
+
+(C) - \( 5.269 \)
+
+(D) - \( 5.270 \)
+
+###
+Misconceptions:
+(A) - Does not understand that trailing zeros do not affect rounding at this decimal place
+
+(B) - Misunderstands how rounding works, believing \( 5.265 \) would round to \( 5.26 \)
+
+(C) - nan
+
+(D) - Incorrectly thinks \( 5.270 \) rounds to \( 5.26 \)
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Find the upper bound of a number rounded to 2 decimal places
+###
+CorrectAnswer: C

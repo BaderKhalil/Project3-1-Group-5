@@ -1,0 +1,29 @@
+###
+Question: Which shape shows line symmetry with respect to the vertical line of symmetry? ![A figure depicting a line drawn down the center of an object. ]() 
+
+###
+Answers:
+(A) - ![An image showing a symmetrical shape that mirrors perfectly across the vertical line. ]()
+
+(B) - ![An image that does not mirror correctly and has an uneven shape. ]()
+
+(C) - ![An image that has random shapes on either side of the line. ]()
+
+(D) - ![An image where one side has more detail than the other, failing symmetry. ]()
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstanding the concept of symmetry, believing asymmetrical shapes could still be considered symmetric. 
+
+(C) - Confusion between symmetry and simply having shapes with no relation to the line. 
+
+(D) - Overlooking that details or excess on one side disrupts the possibility of achieving symmetry. 
+
+###
+Subject: Line Symmetry
+###
+ConstructName: Determine line symmetry in shapes concerning a specified line
+###
+CorrectAnswer: A

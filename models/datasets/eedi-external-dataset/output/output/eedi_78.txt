@@ -1,0 +1,31 @@
+###
+Question: The area of this trapezoid is \( 30 \mathrm{~cm}^{2} \)
+
+What measurement should replace the star in the height? ![Trapezoid with bases length 10cm and 5cm, and the height has a star symbol.]() 
+
+###
+Answers:
+(A) - \( 4 \mathrm{~cm} \) 
+
+(B) - \( 6 \mathrm{~cm} \) 
+
+(C) - \( 2 \mathrm{~cm} \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Correct calculation since area = \( \frac{1}{2} \times (b_1 + b_2) \times h \), substituting values correctly leads to height = \( 4 \mathrm{~cm} \). 
+
+(B) - Assumes height must be greater than one of the bases without proper calculations of the area formula. 
+
+(C) - When finding the height, incorrectly applies the formula by not including both bases in the addition step. 
+
+(D) - Does not realize that you can calculate the height of a trapezoid when area and base lengths are known. 
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Given the area of a trapezoid, calculate a missing dimension
+###
+CorrectAnswer: A

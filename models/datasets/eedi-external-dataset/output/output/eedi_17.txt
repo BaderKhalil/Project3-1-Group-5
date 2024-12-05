@@ -1,0 +1,29 @@
+###
+Question: Which of these is part of the proof that the product of two negative numbers is positive?
+
+###
+Answers:
+(A) - \( \begin{array}{l}(-a)(-b) \\ =-ab\end{array} \)
+
+(B) - \( \begin{array}{l}(-a)(b) \\ =-ab\end{array} \)
+
+(C) - \( \begin{array}{l}\text { Negative x Negative } \\ =\text { positive }\end{array} \)
+
+(D) - \( \begin{array}{l}(-a)(-b) \\ =ab\end{array} \)
+
+###
+Misconceptions:
+(A) - Confuses the signs and does not understand that multiplying two negatives yields a positive.
+
+(B) - Misunderstands the operation involving negatives; thinks that multiplying a negative by a positive retains negativity.
+
+(C) - Does not clearly articulate the proof and lacks understanding of the mechanics behind the signs.
+
+(D) - nan
+
+###
+Subject: Ordering Negative Numbers
+###
+ConstructName: Prove statements involving negative and positive numbers
+###
+CorrectAnswer: D

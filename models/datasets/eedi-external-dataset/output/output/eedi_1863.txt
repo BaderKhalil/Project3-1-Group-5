@@ -1,0 +1,29 @@
+###
+Question: \( -15 \div 3 = \)
+
+###
+Answers:
+(A) - \( -5 \)
+
+(B) - \( 5 \)
+
+(C) - \( -45 \)
+
+(D) - \( 45 \)
+
+###
+Misconceptions:
+(A) - Incorrectly believes that dividing a negative by a positive yields a negative answer but miscalculates the result. 
+
+(B) - Incorrectly assumes the result of dividing a negative by a positive is a positive value due to misunderstanding negative signs.
+
+(C) - Incorrectly multiplies instead of divides, leading to a vastly larger wrong answer. 
+
+(D) - Incorrectly assumes that dividing a negative by a positive reverses the sign, thus thinking the result is positive.
+
+###
+Subject: Multiplying and Dividing Negative Numbers
+###
+ConstructName: Carry out division problems involving one negative integer
+###
+CorrectAnswer: A

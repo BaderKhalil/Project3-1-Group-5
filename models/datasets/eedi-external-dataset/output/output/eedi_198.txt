@@ -1,0 +1,29 @@
+###
+Question: \( 5 \mathrm{~ha} \) is equivalent to _____ \( m^{2} \)
+
+###
+Answers:
+(A) - \( 50000 \) 
+
+(B) - \( 500000 \) 
+
+(C) - \( 5000000 \) 
+
+(D) - \( 5000 \) 
+
+###
+Misconceptions:
+(A) - Believes there are 10000 square meters in a hectare but does not multiply correctly. 
+
+(B) - Thinks a hectare is equivalent to 10000 square meters but incorrectly applies the conversion. 
+
+(C) - Confuses hectares with a larger area, mistakenly believing that \( 5 \mathrm{~ha} \) can be converted to a vastly larger number than it should be. 
+
+(D) - Confuses hectares with another metric unit, miscalculating the area entirely.
+
+###
+Subject: Area Units
+###
+ConstructName: Convert from ha to m²
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What is the value of the circled digits when calculating \( 962 \times 47 \) using the long multiplication method? ![962 times 47 written as a long multiplication question. The 6 in 962 and the 4 in 47 are circled.]() 
+
+###
+Answers:
+(A) - \( 240 \) 
+
+(B) - \( 24 \) 
+
+(C) - \( 2400 \) 
+
+(D) - \( 2.4 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the contribution of the place value of the circled digits to the total product
+
+(B) - Fails to recognize the importance of place value across entire numbers
+
+(C) - Incorrectly assumes the digits multiply together directly without considering their position 
+
+(D) - Miscalculates by treating numbers as decimals rather than integers 
+
+###
+Subject: Written Multiplication
+###
+ConstructName: Interpret the value of digits in multiplication calculations using long multiplication
+###
+CorrectAnswer: C

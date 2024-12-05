@@ -1,0 +1,29 @@
+###
+Question: Which polygon has rotational symmetry order \( 3 \)?
+
+###
+Answers:
+(A) - ![Triangle]()
+
+(B) - ![Pentagon]()
+
+(C) - ![Hexagon]()
+
+(D) - ![Octagon]()
+
+###
+Misconceptions:
+(A) - Does not know that a triangle has rotational symmetry order \( 3 \) when it is an equilateral triangle.
+
+(B) - Misunderstands that a pentagon's rotational symmetry order is greater than \( 3 \).
+
+(C) - Assumes that all hexagons have the same rotational symmetry order and does not connect it to the polygon's properties.
+
+(D) - Ignores the correlation between the number of vertices and the order of rotational symmetry.
+
+###
+Subject: Properties of Polygons
+###
+ConstructName: Identify the order of rotational symmetry of polygons
+###
+CorrectAnswer: A

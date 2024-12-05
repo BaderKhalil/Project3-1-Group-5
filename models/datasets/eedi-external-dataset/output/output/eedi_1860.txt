@@ -1,0 +1,36 @@
+###
+Question: Sarah and John are debating how to solve this equation:
+\(2x + 3 = 5x - 12\)
+
+Sarah claims you can simplify to: \(3 + 12 = 5x - 2x\)
+
+John argues that you can transform it to: \(2x - 5x = -12 - 3\)
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only John
+
+(C) - Both Sarah and John
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Does not recognize that moving terms can lead to incorrect interpretations of equalities.
+
+(B) - Fails to see that both sides must remain balanced when isolating variables.
+
+(C) - Believes both expressions are valid calculations, not recognizing errors in their logic.
+
+(D) - Does not understand proper steps in solving for variables in equations involving subtraction and addition equally.
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve linear equations with the variable appearing on both sides, involving negative integers
+###
+CorrectAnswer: D

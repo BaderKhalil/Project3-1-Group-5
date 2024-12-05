@@ -1,0 +1,29 @@
+###
+Question: What fraction should be indicated by the question mark? ![A number line marked with 1/3, 2/3, 1, and 4/3. The question mark is located one-third of the way between 2/3 and 1.]() 
+
+###
+Answers:
+(A) - \( \frac{5}{9} \) 
+
+(B) - \( \frac{7}{9} \) 
+
+(C) - \( \frac{3}{4} \) 
+
+(D) - None of these 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the distance between 2/3 and 1 can be divided into thirds but miscalculates the fraction placement. 
+
+(B) - Recognizes the need to divide the segment but calculates incorrectly, thinking it needs to go to the next whole number. 
+
+(C) - Misunderstands that 3/4 is the correct halfway mark instead of realizing the division is between 2/3 and 1. 
+
+(D) - Does not see that the fraction can be interpreted as a segment of 2/3 to 1 rather than considering it as an independent measure. 
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Read a fraction on a scale where the required number is marked by a dash between two numbers
+###
+CorrectAnswer: A

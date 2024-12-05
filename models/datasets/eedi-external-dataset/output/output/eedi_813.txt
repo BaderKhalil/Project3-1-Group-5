@@ -1,0 +1,29 @@
+###
+Question: A jar contains \( 5 \) green marbles and \( 4 \) blue marbles. If Alex draws a blue marble, replaces it, and then draws again, what is the probability that the second draw is also a blue marble?
+
+###
+Answers:
+(A) - \( \frac{4}{9} \)
+
+(B) - \( \frac{4}{8} \)
+
+(C) - \( \frac{3}{9} \)
+
+(D) - \( \frac{3}{8} \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Assumes the item has not been replaced in a probability question where it has actually been replaced 
+
+(C) - Assumes the number of blue marbles decreases after the first draw 
+
+(D) - Assumes the number of total marbles changes after the first draw when they have not been replaced 
+
+###
+Subject: Combined Events
+###
+ConstructName: Calculate the probability of two independent events occurring without drawing a tree diagram
+###
+CorrectAnswer: A

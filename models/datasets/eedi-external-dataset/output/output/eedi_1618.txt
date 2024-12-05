@@ -1,0 +1,29 @@
+###
+Question: Which of the following is a correct name for this 3D shape? ![A shape with two circular faces and a curved surface connecting them.]() 
+
+###
+Answers:
+(A) - Cylinder 
+
+(B) - Sphere 
+
+(C) - Cone 
+
+(D) - Cuboid 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses circular faces with the lack of faces in a sphere 
+
+(C) - Misunderstands the characteristics of a cone, which has a pointed top rather than two flat bases 
+
+(D) - Does not recognize the definition and characteristics of a cuboid as having rectangular faces only 
+
+###
+Subject: Names and Properties of 3D Shapes
+###
+ConstructName: Identify non-prisms from a diagram
+###
+CorrectAnswer: A

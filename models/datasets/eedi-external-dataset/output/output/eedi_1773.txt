@@ -1,0 +1,29 @@
+###
+Question: \( 0.6 \times 0.4 = \) 
+
+###
+Answers:
+(A) - \( 2.4 \) 
+
+(B) - \( 0.24 \) 
+
+(C) - \( 0.24 \) 
+
+(D) - \( 0.064 \) 
+
+###
+Misconceptions:
+(A) - When multiplying decimals, assumes the product should be larger than both decimals 
+
+(B) - Misplaces the decimal point by not adjusting for the number of decimal places correctly 
+
+(C) - nan 
+
+(D) - Divides the product by too large a power of 10 when trying to insert the decimal 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Multiply two decimals together with the same number of decimal places
+###
+CorrectAnswer: B

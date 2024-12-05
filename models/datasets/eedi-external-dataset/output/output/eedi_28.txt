@@ -1,0 +1,30 @@
+###
+Question: Lisa is counting backwards in steps of \( 4 \).
+She starts at the number \( 36 \), what is the next number she will say? 
+
+###
+Answers:
+(A) - \( 32 \) 
+
+(B) - \( 34 \) 
+
+(C) - \( 28 \) 
+
+(D) - \( 30 \) 
+
+###
+Misconceptions:
+(A) - Counts incorrectly by skipping numbers or counting too low. 
+
+(B) - Counts on by an even number instead of recognizing the backward step size. 
+
+(C) - nan 
+
+(D) - Counts down by a larger step size than indicated. 
+
+###
+Subject: Counting
+###
+ConstructName: Count backwards in steps of something other than one
+###
+CorrectAnswer: D

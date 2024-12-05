@@ -1,0 +1,29 @@
+###
+Question: The line graph shows the average rainfall in Milltown over a week. What was the rainfall on Wednesday? ![Line graph titled Average Rainfall. Vertical axis is labelled Millimeters, and horizontal axis is Days of the Week. Points plotted are (Monday, 5), (Tuesday, 10), (Wednesday, 15), (Thursday, 20), (Friday, 30) and (Saturday, 0)]()
+
+###
+Answers:
+(A) - \( 10 \, \text{mm} \)
+
+(B) - \( 12 \, \text{mm} \)
+
+(C) - \( 15 \, \text{mm} \)
+
+(D) - \( 20 \, \text{mm} \)
+
+###
+Misconceptions:
+(A) - Misreads graph data 
+
+(B) - Misreads graph data 
+
+(C) - nan 
+
+(D) - Misreads graph data 
+
+###
+Subject: Time Series and Line Graphs
+###
+ConstructName: Interpret continuous data using a line graph
+###
+CorrectAnswer: C

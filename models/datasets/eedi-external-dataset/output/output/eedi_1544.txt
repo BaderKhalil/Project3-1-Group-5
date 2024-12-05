@@ -1,0 +1,31 @@
+###
+Question: Emily and Noah have a collection of marbles that they share in the ratio \( 5: 3 \).
+
+If Noah has \( 24 \) marbles, how many marbles does Emily have?
+
+###
+Answers:
+(A) - \( 30 \) 
+
+(B) - \( 36 \) 
+
+(C) - \( 48 \) 
+
+(D) - \( 12 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the total number of marble parts without considering the correct ratio 
+
+(B) - Incorrectly adds ratio parts instead of applying them to the given amount for correct calculation 
+
+(C) - Treats Noah's marbles as if he should get more than his ratio portion 
+
+(D) - Thinks the ratio reference is about one part, not the total distribution 
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Given information about one part, work out other parts
+###
+CorrectAnswer: A

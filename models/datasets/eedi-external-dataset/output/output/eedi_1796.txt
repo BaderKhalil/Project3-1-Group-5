@@ -1,0 +1,29 @@
+###
+Question: What is the measure of angle \( x \) in the triangle? ![A triangle with two labelled interior angles. One angle is 70 degrees. One angle is x degrees. The third angle has no label.]() 
+
+###
+Answers:
+(A) - \( 70\degree \) 
+
+(B) - \( 40\degree \) 
+
+(C) - \( 120\degree \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that an angle must be the same value as another labeled angle in the triangle 
+
+(B) - Miscalculates the remaining angle based on an incorrect sum of angles in a triangle 
+
+(C) - Assumes that triangles can have angles larger than 90 degrees while still being scalene 
+
+(D) - nan 
+
+###
+Subject: Angles in Triangles
+###
+ConstructName: Find missing angles in a scalene triangle
+###
+CorrectAnswer: D

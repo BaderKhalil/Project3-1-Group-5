@@ -1,0 +1,33 @@
+###
+Question: Jamie is using the function machine shown below to solve this problem:
+
+I think of a number, add 5, divide it by 2, and the answer is \( 10 \).
+
+Which of the following should replace the star? ![A function machine with the input box blank. The first function box has a purple star in it and the second function box is blank, leading to an output box blank.]() 
+
+###
+Answers:
+(A) - \( + 5 \) 
+
+(B) - \( 10 \) 
+
+(C) - \( \div 2 \) 
+
+(D) - \( - 5 \) 
+
+###
+Misconceptions:
+(A) - Does not understand where to place inputs/ operations/ outputs when drawing a function machine 
+
+(B) - Confuses the output of the operation with the input required for the next step in the function machine. 
+
+(C) - nan 
+
+(D) - Misunderstands the operation needed to get from the input to the output, performing a subtraction instead of addition.
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given input find the output of a function machine
+###
+CorrectAnswer: C

@@ -1,0 +1,32 @@
+###
+Question: \( v = u + at \) What is the value of \( v \) when 
+u = 5 
+a = 2 
+t = 3 
+
+###
+Answers:
+(A) - \( 11 \) 
+
+(B) - \( 20 \) 
+
+(C) - \( 25 \) 
+
+(D) - \( 6 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Miscalculates by applying the multiplication incorrectly and adding extra terms. 
+
+(C) - Misunderstands the operation order, thinking that adding the velocity and acceleration gives a greater value. 
+
+(D) - Incorrectly assumes that \( v \) is simply \( u \) without considering the effects of acceleration and time. 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute numbers into a kinematics equation to work out final velocity
+###
+CorrectAnswer: A

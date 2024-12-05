@@ -1,0 +1,29 @@
+###
+Question: Simplify the fraction \( \frac{18}{24} \).
+
+###
+Answers:
+(A) - \( \frac{3}{4} \)
+
+(B) - \( \frac{9}{12} \)
+
+(C) - \( \frac{2}{3} \)
+
+(D) - \( \frac{6}{8} \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Thought \( \frac{9}{12} \) is simpler but it is not in its simplest form 
+
+(C) - Incorrectly simplifies by miscalculating the greatest common divisor 
+
+(D) - Reduction mistake, did not simplify to lowest terms 
+
+###
+Subject: Simplifying Fractions
+###
+ConstructName: Express one quantity as a fraction of another
+###
+CorrectAnswer: A

@@ -1,0 +1,38 @@
+###
+Question: ![A pie chart divided into different segments. The title is "Favorite Ice Cream Flavors". The segments are labeled with the following percentages: Vanilla, 25%; Chocolate, 35%; Strawberry, 20%; Mint, 10%; Cookie Dough, 10.]() \begin{tabular}{|c|c|}
+\hline
+Flavor & Percentage\\
+\hline Vanilla & \( 25\% \) \\
+\hline Chocolate & \(  \) \\
+\hline Strawberry & \( 20\% \) \\
+\hline Mint & \( 10\% \) \\
+\hline Cookie Dough & \(  \) \\
+\hline
+\end{tabular} Using the pie chart, what two percentages are missing from the table? 
+
+###
+Answers:
+(A) - \( 35\% \) and \( 15\% \) 
+
+(B) - \( 35\% \) and \( 10\% \) 
+
+(C) - Chocolate and Cookie Dough 
+
+(D) - \( 25\% \) and \( 20\% \) 
+
+###
+Misconceptions:
+(A) - Miscalculation of total percentages, misunderstanding of complement percentages. 
+
+(B) - When interpreting data, overlooks that percentages need to add up to 100%. 
+
+(C) - Confusing labels with numerical data, doesn't relate segments of pie chart to missing data. 
+
+(D) - Incorrectly identifies given percentages rather than finding missing ones. 
+
+###
+Subject: Pie Charts
+###
+ConstructName: Interpret a pie chart
+###
+CorrectAnswer: B

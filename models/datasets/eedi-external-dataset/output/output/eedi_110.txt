@@ -1,0 +1,31 @@
+###
+Question: This is a conversion graph between liters and gallons.
+
+Which of the following is the best estimate for the number of liters equivalent to \( 5 \) gallons? ![A graph on gridded paper with gallons (gal) on the y axis from 0 to 20 and liters (L) on the x axis from 0 to 80. Both axes are labeled in increments of 5, with each increment split by gridlines into another 4 squares. A straight line goes from the origin and slopes upwards going through (19, 5) (not labeled - just a coordinate that it goes through)]() 
+
+###
+Answers:
+(A) - \( 18.9 \) liters 
+
+(B) - \( 23 \) liters 
+
+(C) - \( 12 \) liters 
+
+(D) - \( 30 \) liters 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly assumes a larger amount corresponds to a smaller weight or volume. 
+
+(C) - Underestimates the conversion factor between gallons and liters.  
+
+(D) - Misreads the graph and assumes a linear increase without understanding the actual conversion scale. 
+
+###
+Subject: Direct Proportion
+###
+ConstructName: Read values off a real life graph
+###
+CorrectAnswer: A

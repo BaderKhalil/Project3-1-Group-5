@@ -1,0 +1,32 @@
+###
+Question: Solve the equation:
+\(
+3x + 4 = 19 
+\)
+
+###
+Answers:
+(A) - \( x=5 \) 
+
+(B) - \( x=7 \) 
+
+(C) - \( x=3 \) 
+
+(D) - \( x=2 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly assumes to add rather than subtract initial value from both sides. 
+
+(C) - Miscalculates by incorrectly solving for the variable without isolating it. 
+
+(D) - Misses the application of two-step solving process altogether. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve two-step linear equations
+###
+CorrectAnswer: A

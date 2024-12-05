@@ -1,0 +1,29 @@
+###
+Question: This graph illustrates the relationship between the temperature of a substance as heat is added over time. What does the horizontal section of the graph indicate? ![The image is a temperature-time graph. The graph shows a rising slope, then a horizontal line, and finally a rising slope again.]() 
+
+###
+Answers:
+(A) - The substance is freezing
+
+(B) - The substance is at a constant temperature
+
+(C) - The substance is cooling down
+
+(D) - The substance is boiling
+
+###
+Misconceptions:
+(A) - Misunderstands state changes and temperature during heating and cooling processes
+
+(B) - Correctly identifies a constant state, but may overlook the implications for phase changes
+
+(C) - Confuses the concept of cooling with the phase being examined during heating
+
+(D) - Misunderstands the relationship between temperature and state of matter during heating
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Interpret horizontal sections of a temperature-time graph
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: A rectangle must have ...
+
+###
+Answers:
+(A) - all sides of equal length.
+
+(B) - opposite sides of equal length and four right angles.
+
+(C) - two pairs of parallel sides.
+
+(D) - one pair of sides that are longer than the other.
+
+###
+Misconceptions:
+(A) - Confuses rectangle with square.
+
+(B) - nan
+
+(C) - Understands parallel sides but does not realize it also applies to rectangles.
+
+(D) - Thinks rectangles must have varying side lengths without recognizing the definition.
+
+###
+Subject: Properties of Quadrilaterals
+###
+ConstructName: Describe the properties of a rectangle
+###
+CorrectAnswer: B

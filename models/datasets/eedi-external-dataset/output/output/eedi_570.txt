@@ -1,0 +1,29 @@
+###
+Question: In the Venn diagram below, what number should be represented by \(\color{gold}\bigstar\)? ![A Venn diagram with two circles. The left hand circle is labeled 'factors of \(\star\)', the right hand circle is labeled 'factors of 24'. In the left hand circle, there is a 4 and a 6, in the overlap there is a 2, and in the right hand circle there is a 2, a 3, and a 4.]() 
+
+###
+Answers:
+(A) - \( 12 \) 
+
+(B) - \( 18 \) 
+
+(C) - \( 8 \) 
+
+(D) - \( 48 \) 
+
+###
+Misconceptions:
+(A) - Believes that the number in the left circle must only share the factors that directly overlap without considering other factors.  
+
+(B) - Believes that factors can be summed rather than multiplied to get a number in the Venn diagram.  
+
+(C) - Believes that the overlap in the Venn diagram influences the total factors incorrectly. 
+
+(D) - Believes that all factors in the Venn diagram must be multiplied together to find the represented number in one of the sets. 
+
+###
+Subject: Factors and Highest Common Factor
+###
+ConstructName: Use the prime factor decomposition of a number to calculate the number
+###
+CorrectAnswer: A

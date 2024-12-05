@@ -1,0 +1,32 @@
+### 
+Question: Calculate 
+\(
+\frac{3}{4} \div 2
+\) 
+
+### 
+Answers:
+(A) - \( \frac{3}{8} \) 
+
+(B) - \( \frac{12}{4} \) 
+
+(C) - \( \frac{3}{2} \) 
+
+(D) - \( \frac{3}{6} \) 
+
+### 
+Misconceptions:
+(A) - When dividing a fraction by an integer, multiplies the denominator by the integer. 
+
+(B) - When dividing fractions, assumes the result will be larger than either fraction involved. 
+
+(C) - When dividing a proper fraction by an integer, mistakenly treats the operation as finding a whole number. 
+
+(D) - When dividing a fraction by an integer, incorrectly simplifies the fraction without adjusting the denominator. 
+
+### 
+Subject: Dividing Fractions
+### 
+ConstructName: Divide proper fractions in the form: Fraction ÷ Integer
+### 
+CorrectAnswer: A

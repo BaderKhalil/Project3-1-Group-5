@@ -1,0 +1,29 @@
+###
+Question: Here is a number line: ![A horizontal number-line with 13 vertical, equally spaced, dashes representing the position of numbers. The 1st dash is labelled with "-10", the 3rd dash is labelled "-8", the 5th dash is labelled "-6", the 7th dash is labelled "-4", the 9th dash is labelled "-2", the 11th dash is labelled "0", and the 13th dash is labelled "2". A blue arrow, labelled with a question mark is pointing between the 6th and 7th dashes. ]() Which of the following numbers could be indicated by the arrow?
+
+###
+Answers:
+(A) - \( -3.5 \) 
+
+(B) - \( -4.25 \) 
+
+(C) - \( -5.5 \) 
+
+(D) - \( -4.75 \) 
+
+###
+Misconceptions:
+(A) - Assumes the number is greater than -4 when it is actually less than that. 
+
+(B) - Incorrectly estimates the position of the arrow by misassessing the gap between the dashes. 
+
+(C) - Misinterprets where on the number line the value lies, thinking it's further left than it actually is. 
+
+(D) - nan 
+
+###
+Subject: Ordering Negative Numbers
+###
+ConstructName: Identify where negative non-integers lie on a number line
+###
+CorrectAnswer: D

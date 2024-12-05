@@ -1,0 +1,29 @@
+###
+Question: Sarah and David are trying to find the product of \( 36 \times 5 \) using mental math strategies. Sarah decides to multiply \( 36 \) by \( 10 \) and then divides the result by \( 2 \). David uses \( 30 \times 5 \) and then adds \( 30 \) to his answer. Who achieves the correct result?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only David 
+
+(C) - Both Sarah and David 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Thinks that dividing after multiplying by 10 is always a valid method for arriving at the correct answer. 
+
+(B) - Incorrectly assumes that adding a number to the result of multiplication will give the correct product instead of adjusting the original value properly. 
+
+(C) - nan 
+
+(D) - Does not believe that these mental strategies can be valid approaches for solving multiplication problems. 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Recognise and use efficient methods for mental multiplication
+###
+CorrectAnswer: C

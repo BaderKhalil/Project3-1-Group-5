@@ -1,0 +1,31 @@
+###
+Question: During a school project, Jake uses \( 3 \) sheets of poster board for each of his \( 5 \) presentations. He also buys \( 2 \) markers for \( £ 1.50 \) each.
+
+What is the total cost of the materials Jake uses for his presentations?
+
+###
+Answers:
+(A) - \( £ 10.50 \) 
+
+(B) - \( £ 9.00 \) 
+
+(C) - \( £ 20.00 \) 
+
+(D) - \( £ 30.00 \) 
+
+###
+Misconceptions:
+(A) - Calculates the cost of the markers but forgets to include the cost of the poster boards. 
+
+(B) - Forgets to correctly multiply the number of markers with their individual price. 
+
+(C) - Overestimates the total cost by incorrectly multiplying and adding values. 
+
+(D) - nan 
+
+###
+Subject: Combining Operations
+###
+ConstructName: Solve problems that combine addition or subtraction with multiplication
+###
+CorrectAnswer: A

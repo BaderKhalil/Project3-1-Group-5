@@ -1,0 +1,38 @@
+###
+Question: Maria and John are trying to find the solutions to the equation:
+\(
+x^{2} + 5x + 6 = 0
+\)
+
+Maria claims that one of the solutions is \( x = -2 \)
+
+John insists that one of the solutions is \( x = -3 \)
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Maria 
+
+(B) - Only John 
+
+(C) - Both Maria and John 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Thinks the only solution from the factorization is valid when both factors are utilized 
+
+(B) - Believes that roots can be derived from incorrect factor pairing 
+
+(C) - Thinks both solutions can come from factoring incorrectly 
+
+(D) - Thinks no solutions are valid despite proper factoring 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Solve quadratic equations using factorisation in the form (x + a)(x + b) 
+###
+CorrectAnswer: B

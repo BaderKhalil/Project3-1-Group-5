@@ -1,0 +1,32 @@
+###
+Question: Simplify the following expression by collecting like terms.
+\[
+5y + 2y - 4y
+\]
+
+###
+Answers:
+(A) - \(3y\)
+
+(B) - \(7y - 4y\)
+
+(C) - \(4y\)
+
+(D) - \(y\)
+
+###
+Misconceptions:
+(A) - Treats the first two terms as non-related, not combining them correctly.
+
+(B) - Keeps one term intact while misapplying subtraction for the other terms, showing a misunderstanding of simplification rules.
+
+(C) - Misapplies the rule of combining coefficients, leading to an incorrect total.
+
+(D) - Incorrectly assumes that subtracting yields a constant instead of a variable, misunderstanding the concept completely.
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just one linear variable
+###
+CorrectAnswer: A

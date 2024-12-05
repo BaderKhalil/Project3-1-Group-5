@@ -1,0 +1,32 @@
+###
+Question: Maria and John are discussing how to round a number.
+Maria claims that \( \mathbf{3 4 5 . 6 2 8} \) rounded to the nearest hundred is \( \mathbf{3 5 0 0} \) 
+John says that \( \mathbf{3 4 5 . 6 2 8} \) rounded to the nearest ten is \( \mathbf{3 4 6 0} \) 
+Who is correct?
+
+###
+Answers:
+(A) - Only Maria
+
+(B) - Only John
+
+(C) - Both Maria and John
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Rounds up incorrectly due to misunderstanding place value 
+
+(B) - Incorrectly rounds down instead of up
+
+(C) - Misunderstands the proper rounding rules for both cases 
+
+(D) - Incorrect application of rounding principles 
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round non-integers to the nearest 10
+###
+CorrectAnswer: D

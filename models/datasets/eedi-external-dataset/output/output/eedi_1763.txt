@@ -1,0 +1,32 @@
+###
+Question: ![A line graph with title "Monthly Average Temperatures". 
+The x-axis scale is labelled: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sept, Oct, Nov, Dec. 
+The y-axis is titled "Temperature (°C)" and the scale is labelled from -10 to 40 in intervals of 5. The following points are plotted and joined together: (Jan, 0), (Feb, 2), (Mar, 5), (Apr, 10), (May, 15), (Jun, 20), (Jul, 25), (Aug, 30), (Sept, 20), (Oct, 15), (Nov, 5), (Dec, 0).
+]() What was the average temperature during the summer months (Jun, Jul, Aug)? 
+
+###
+Answers:
+(A) - \( 22 \)
+
+(B) - \( 25 \)
+
+(C) - \( 30 \)
+
+(D) - \( 27 \)
+
+###
+Misconceptions:
+(A) - Has averaged incorrectly by including the wrong months 
+
+(B) - Has confused maximum temperature with average 
+
+(C) - Has misunderstood how to calculate an average using multiple data points 
+
+(D) - Has calculated the average but included incorrect data points 
+
+###
+Subject: Time Series and Line Graphs
+###
+ConstructName: Interpret discrete data using a line graph
+###
+CorrectAnswer: D

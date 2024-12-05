@@ -1,0 +1,32 @@
+###
+Question: \[
+3.784
+\]
+What is this number rounded to the nearest integer? 
+
+###
+Answers:
+(A) - \( 3 \) 
+
+(B) - \( 4 \) 
+
+(C) - \( 3.8 \) 
+
+(D) - \( 4.0 \) 
+
+###
+Misconceptions:
+(A) - Rounds down incorrectly at the halfway point 
+
+(B) - Incorrectly assumes that values greater than .5 always lead to rounding up 
+
+(C) - Incorrectly indicates a rounding to one decimal place instead of an integer 
+
+(D) - Correct representation of the rounded integer 
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round decimals to the nearest whole number
+###
+CorrectAnswer: D

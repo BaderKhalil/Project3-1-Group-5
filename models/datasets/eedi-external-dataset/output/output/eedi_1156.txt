@@ -1,0 +1,29 @@
+###
+Question: What is \( 15 \) out of \( 25 \) as a percentage?
+
+###
+Answers:
+(A) - \( 60 \% \) 
+
+(B) - \( 45 \% \) 
+
+(C) - \( 75 \% \) 
+
+(D) - \( 25 \% \) 
+
+###
+Misconceptions:
+(A) - Thinks they can arrive at the percentage by multiplying the fraction by \( 3 \) 
+
+(B) - Incorrectly divides \( 15 \) by \( 25 \) and misinterprets the decimal 
+
+(C) -Incorrectly assumes that if the numerator is larger than half of the denominator, it must be \( 75 \% \) 
+
+(D) - Is confused about how to represent a proper fraction as a percentage 
+
+###
+Subject: Percentages of an Amount
+###
+ConstructName: Express one quantity as a percentage of another mentally
+###
+CorrectAnswer: A

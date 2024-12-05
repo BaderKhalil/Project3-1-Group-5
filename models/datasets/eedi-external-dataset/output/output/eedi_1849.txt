@@ -1,0 +1,33 @@
+###
+Question: This is a part of the table of values for the equation \( \boldsymbol{y}=\boldsymbol{x}^{\mathbf{3}} + \mathbf{1} \) ![\begin{tabular}{|c|c|}
+\hline\( x \) & \( 3 \) \\
+\hline\( y \) & V \\
+\hline
+\end{tabular}]() What should replace the star?
+
+###
+Answers:
+(A) - \( 26 \)
+
+(B) - \( 27 \)
+
+(C) - \( 28 \)
+
+(D) - \( 29 \)
+
+###
+Misconceptions:
+(A) - Calculates \( 3^3 \) and adds incorrectly 
+
+(B) - Uses the incorrect formula by missing added constant 
+
+(C) - Assumes \( x \) is just cubed without inclusion of constant 
+
+(D) - Mistakenly counts terms instead of evaluating function 
+
+###
+Subject: Cubics and Reciprocals
+###
+ConstructName: Given a positive x value, find the corresponding y value for the curve y = x³ + c
+###
+CorrectAnswer: B

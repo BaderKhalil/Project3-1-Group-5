@@ -1,0 +1,33 @@
+###
+Question: Aisha is tracking her bike ride starting from a park. The graph on the right shows Aisha's distance in kilometres \( (d) \) over time in hours \( (t) \).
+
+The gradient of the positive sloping section of the graph is \( 4 \).
+
+Which of the following does that \( 4 \) best represent? ![A sketch of a graph with d on the y-axis and t on the x-axis. A straight line slopes upwards from the origin, strong upwards slanting indicating a steep incline.]() 
+
+###
+Answers:
+(A) - Aisha is cycling towards the park at a speed of \( 4 \mathrm{~km/h} \) 
+
+(B) - Aisha is accelerating at a rate of \( 4 \mathrm{~km/h} \) 
+
+(C) - Aisha is travelling away from the park at a speed of \( 4 \mathrm{~km/h} \) 
+
+(D) - Aisha is biking towards the park at a speed of \( 4 \mathrm{~km/h} \) 
+
+###
+Misconceptions:
+(A) - Believes that a steep incline in a distance-time graph means travelling away 
+
+(B) - Misunderstands that the value given represents acceleration rather than speed 
+
+(C) - Confuses the direction of movement based on the character of the graph 
+
+(D) - nan 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Interpret the gradient on a linear section on a real life graph
+###
+CorrectAnswer: D

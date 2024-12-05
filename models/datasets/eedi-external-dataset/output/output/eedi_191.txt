@@ -1,0 +1,29 @@
+###
+Question: Which number is the least negative?
+
+###
+Answers:
+(A) - \( -1.5 \) 
+
+(B) - \( -1.9 \) 
+
+(C) - \( -2 \) 
+
+(D) - \( -0.5 \) 
+
+###
+Misconceptions:
+(A) - Does not understand that less negative means closer to zero 
+
+(B) - nan 
+
+(C) - Does not understand that less negative means closer to zero 
+
+(D) - Confuses positive and negative values 
+
+###
+Subject: Ordering Negative Numbers
+###
+ConstructName: Order negative decimals with a different number of digits
+###
+CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: Which function machine will solve the equation \( 3x - 7 = 8 ? \) 
+
+###
+Answers:
+(A) - ![A function machine showing x as the input then multiplying by 3, then -7 to yield 8 as the output. Then a reverse function machine showing 8 as the input, first adding 7 then dividing by 3]() 
+
+(B) - ![A function machine showing 8 as the input, first adding 7 then multiplying by 3 to give the output]() 
+
+(C) - ![A function machine showing x as the input, first adding 7 then dividing by 3 to yield 8 as the output. Then a reverse function machine underneath showing 8 as the output now as the input, multiplying by 3 then -7]() 
+
+(D) - ![A function machine showing x as the input then -7 then multiplying by 3 to give 8 as the output. Then a reverse function machine showing 8 as the output input, subtracting 3 before adding 7]() 
+
+###
+Misconceptions:
+(A) - Follows the correct operations, but the order of applying the inverse operations is incorrect. 
+
+(B) - Uses the same operations rather than the inverse when attempting to solve the equation. 
+
+(C) - nan 
+
+(D) - Mistakenly applies subtraction before addition, and does not accurately represent the operations needed to solve the equation.
+
+###
+Subject: Function Machines
+###
+ConstructName: Solve a linear equation using a function machine
+###
+CorrectAnswer: A

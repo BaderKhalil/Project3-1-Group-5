@@ -1,0 +1,36 @@
+###
+Question: Calculate the value of \(x\) in the equation:
+\(
+3(x + 4) = 21
+\)
+
+Sam claims a correct next step could be: \(x + 4 = 7\) 
+Alex claims a correct next step could be: \(3x + 4 = 21\) 
+Which statement is correct?
+
+###
+Answers:
+(A) - Only Sam 
+
+(B) - Only Alex 
+
+(C) - Both Sam and Alex 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes division only applies to the entire equation, without addressing distribution. 
+
+(B) - Misunderstands the distributive property and assumes the coefficient applies to \(x\) only. 
+
+(C) - Assumes both statements are valid when one misapplies the properties of equations. 
+
+(D) - Ignores that operations should apply equally across the equation when simplifying. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: A

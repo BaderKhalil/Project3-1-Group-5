@@ -1,0 +1,33 @@
+<EXAMPLE>: 
+        ###
+        Question: What is the value of the \( 7 \) in the number below?
+\(
+40757
+\) 
+
+        ###
+        Answers:
+        (A) - \( 70000 \) 
+
+        (B) - \( 7000 \) 
+
+        (C) - \( 700 \) 
+
+        (D) - \( 7 \) 
+
+        ###
+        Misconceptions:
+        (A) - When asked for the value of a digit, gives an answer 10 times too big 
+
+        (B) - nan 
+
+        (C) - When asked for the value of a digit, gives an answer 10 times too small 
+
+        (D) - When asked for the value of a digit, just gives the digit 
+
+        ###
+        Subject: Place Value
+        ###
+        ConstructName: Recognise the place value of each digit in integers
+        ###
+        CorrectAnswer: B

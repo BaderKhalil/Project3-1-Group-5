@@ -1,0 +1,31 @@
+###
+Question: The chart demonstrates the daily water intake of a plant over a week. 
+
+How much more water was consumed on Friday compared to Thursday? ![Chart of water intake in liters against day of week]() 
+
+###
+Answers:
+(A) - \( 4 \mathrm{~L} \) 
+
+(B) - \( 3 \mathrm{~L} \) 
+
+(C) - \( 1 \mathrm{~L} \) 
+
+(D) - \( 5 \mathrm{~L} \) 
+
+###
+Misconceptions:
+(A) - Only considers a single data point instead of the cumulative total for the day 
+
+(B) - Mistakenly reads the amount consumed from an incorrect graph point 
+
+(C) - Reads only the change from Thursday to Friday without considering the week's overall context 
+
+(D) - Could calculate correctly but misinterprets the values represented on the graph 
+
+###
+Subject: Time Series and Line Graphs
+###
+ConstructName: Interpret continuous data using a line graph
+###
+CorrectAnswer: B

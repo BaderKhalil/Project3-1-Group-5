@@ -1,0 +1,29 @@
+###
+Question: Which of the following sketches could represent \( y=3+5x \) ?
+
+###
+Answers:
+(A) - ![A straight line graph that crosses the y axis above the origin and has a positive slope.]() 
+
+(B) - ![A straight line graph that crosses the x axis to the right of the origin and has a negative slope.]() 
+
+(C) - ![A straight line graph that crosses the x axis to the left of the origin and has a positive slope.]() 
+
+(D) - ![A straight line graph that crosses the x axis to the left of the origin and has a negative slope.]() 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes that a positive slope means the line falls towards the right. 
+
+(C) - Believes that the y-intercept can be negative even if the slope is positive. 
+
+(D) - Believes that in y=mx+c, m is the intercept while c is the slope. 
+
+###
+Subject: Finding the Equation of a Line
+###
+ConstructName: Sketch, or identify a sketch, of a line given in the form y = mx + c, where m is positive
+###
+CorrectAnswer: A

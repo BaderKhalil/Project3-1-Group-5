@@ -1,0 +1,29 @@
+###
+Question: Which multiplication will help to factorise \( x^{2} + 12x + 35 \)?
+
+###
+Answers:
+(A) - \( 5 \times 7 \)
+
+(B) - \( 2 \times 17 \)
+
+(C) - \( 3 \times 11 \)
+
+(D) - none of these
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Believes that the product of any two numbers can be used, regardless of the sum needed for the coefficient of x.
+
+(C) - Thinks that the factors should just multiply to the constant without considering the sum for the linear term.
+
+(D) - nan
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form x² + bx + c
+###
+CorrectAnswer: A

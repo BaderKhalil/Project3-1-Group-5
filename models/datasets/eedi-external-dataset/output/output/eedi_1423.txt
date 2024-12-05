@@ -1,0 +1,32 @@
+###
+Question: Write the following number in standard form:
+\[
+0.00456
+\]
+
+###
+Answers:
+(A) - \( 4.56 \times 10^{3} \) 
+
+(B) - \( 4.56 \times 10^{-3} \) 
+
+(C) - \( 45.6 \times 10^{-4} \) 
+
+(D) - \( 0.456 \times 10^{1} \) 
+
+###
+Misconceptions:
+(A) - Does not understand that the power of ten must be negative for decimal numbers less than 1 
+
+(B) - Correctly interprets the standard form for the given number 
+
+(C) - Thinks multiplying by 10 increases the decimal point instead of adjusting the power 
+
+(D) - Misplaces the decimal point and does not recognize the need for a power of ten with a negative exponent 
+
+###
+Subject: Standard Form
+###
+ConstructName: Write numbers between 0 and 1 in standard form
+###
+CorrectAnswer: B

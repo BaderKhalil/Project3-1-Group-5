@@ -1,0 +1,31 @@
+###
+Question: A graph displays the relationship between the temperature in degrees Celsius \( T \) and the time in hours \( t \) after sunrise. 
+
+Which of the following represents the best estimate for the gradient of the curve at \( t = 5 \)? ![A graph with time on the x axis in hours and temperature in degrees Celsius on the y axis, showing a curve with a tangent at the point (5, 25)]() 
+
+###
+Answers:
+(A) - \( 5 \)
+
+(B) - \( 4 \)
+
+(C) - \( 1.5 \)
+
+(D) - \( 2.5 \)
+
+###
+Misconceptions:
+(A) - Misunderstands the concept of gradient and confuses it with the value of the function at that point. 
+
+(B) - Incorrectly assumes that the gradient can be derived through a direct ratio of values at points on the y-axis alone. 
+
+(C) - nan 
+
+(D) - Fails to use the correct measurement for the change in temperature relative to time, resulting in an underestimation of the slope. 
+
+###
+Subject: Gradient as change in y over change in x
+###
+ConstructName: Estimate the gradient at a point on a non-linear section of a real life graph
+###
+CorrectAnswer: D

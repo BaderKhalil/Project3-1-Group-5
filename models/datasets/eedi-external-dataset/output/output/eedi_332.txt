@@ -1,0 +1,37 @@
+###
+Question: Jason and Emily are trying to solve:
+\(
+2x + 4 = 16
+\)
+
+Jason claims that a correct next step could be: \( 2x = 12 \)
+
+Emily argues that a correct next step could be: \( x + 4 = 8 \)
+Who is correct? 
+
+###
+Answers:
+(A) - Only Jason 
+
+(B) - Only Emily 
+
+(C) - Both Jason and Emily 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not realize that the next step after subtracting from both sides is to isolate the variable. 
+
+(B) - Misunderstands that to isolate x, the entire term involving x must be divided by coefficients, not just one part of it. 
+
+(C) - Does not recognize that only specific operations should be applied to both sides of the equation to maintain equality.
+
+(D) - Believes that the original equation can be manipulated without adhering to proper algebraic principles regarding inverse operations. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: A

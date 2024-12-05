@@ -1,0 +1,31 @@
+###
+Question: \( 50 \) students were surveyed about their favorite fruits. The results are shown in the Venn Diagram.
+
+How many students like Apples? ![A Venn diagram with two circles labeled Likes Apples and Likes Bananas. The number 20 is in the Likes Apples only region, 10 is in the intersection, and 15 is in the Likes Bananas only region]() 
+
+###
+Answers:
+(A) - \( 20 \) 
+
+(B) - \( 10 \) 
+
+(C) - \( 15 \) 
+
+(D) - \( 30 \) 
+
+###
+Misconceptions:
+(A) - Forgets to include the intersection value when asked for the total value of a set in a Venn diagram 
+
+(B) - Believes the intersection on a Venn diagram represents the total of one set 
+
+(C) - Misunderstands that the value given is the count of students liking Bananas instead 
+
+(D) - Miscalculates by adding both circles together without considering overlaps 
+
+###
+Subject: Venn Diagrams
+###
+ConstructName: Identify the regions on a double Venn diagram given in words
+###
+CorrectAnswer: A

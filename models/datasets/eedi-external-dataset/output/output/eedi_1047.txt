@@ -1,0 +1,29 @@
+###
+Question: What is the area of this triangle? ![A triangle with vertices at (0, 0), (4, 0), and (0, 3)]() 
+
+###
+Answers:
+(A) - \( 6 \) 
+
+(B) - \( 12 \) 
+
+(C) - \( 3 \) 
+
+(D) - \( 10 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the area, not using the correct formula for a triangle. 
+
+(B) - Thinks the area is calculated by using the length of all sides without considering the height. 
+
+(C) - Believes the area is simply the height of the triangle without applying the area formula. 
+
+(D) - Assumes the area includes extra space by miscalculating dimensions. 
+
+###
+Subject: Area of geometric shapes
+###
+ConstructName: Calculate the area of a right triangle given its base and height
+###
+CorrectAnswer: A

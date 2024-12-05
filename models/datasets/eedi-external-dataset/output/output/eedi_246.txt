@@ -1,0 +1,29 @@
+###
+Question: Identify the next number in the series of square numbers: \( 121, 144, \ldots \) What is the following square number in the sequence? 
+
+###
+Answers:  
+(A) - \( 160 \)  
+
+(B) - \( 169 \)  
+
+(C) - \( 196 \)  
+
+(D) - \( 225 \)  
+
+###
+Misconceptions:  
+(A) - Believes the difference between square numbers is constant  
+
+(B) - Believes the difference between square numbers is decreasing  
+
+(C) - nan  
+
+(D) - Believes to find the next square number you simply multiply the last number by the next integer  
+
+###
+Subject: Other Sequences  
+###
+ConstructName: Continue a sequence involving square numbers  
+###
+CorrectAnswer: B

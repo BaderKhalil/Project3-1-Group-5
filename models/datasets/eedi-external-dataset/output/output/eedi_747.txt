@@ -1,0 +1,29 @@
+###
+Question: Which of the following equations represents a parabola that opens upwards and has its vertex at the point (-3, 2)? ![A Venn diagram with two overlapping sets. The set on the left is 'Opens upwards' and the set on the right is 'Vertex at (-3, 2)'. A is in only 'Opens upwards', B is in the intersection, C is in only 'Vertex at (-3, 2)' and D is outside both sets.]() 
+
+###
+Answers:
+(A) \( y = (x + 3)^2 + 2 \)
+
+(B) \( y = -(x + 3)^2 + 2 \)
+
+(C) \( y = (x - 3)^2 + 2 \)
+
+(D) \( y = (x + 3)^2 - 2 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes that a negative coefficient indicates the direction the parabola opens regardless of the vertex position 
+
+(C) - Believes the vertex is simply based on the x-coordinate regardless of the transformation on the y-coordinate 
+
+(D) - Believes that the vertex can be located simply by changing a sign in the equation 
+
+###
+Subject: Sketching Quadratics
+###
+ConstructName: Identify the direction and vertex of parabolas 
+###
+CorrectAnswer: A

@@ -1,0 +1,34 @@
+###
+Question: This is a part of the table of values for the equation \(y=x^{2}-3\) 
+\begin{tabular}{|l|l|}
+\hline\( x \) & \( 5 \) \\
+\hline\( y \) & \( \bigstar \) \\
+\hline
+\end{tabular} What should replace the star? 
+
+###
+Answers:
+(A) - \( 22 \) 
+
+(B) - \( -15 \) 
+
+(C) - \( 0 \) 
+
+(D) - \( -8 \) 
+
+###
+Misconceptions:
+(A) - Believes \(x^2\) operates independently of the constant adjustment in the equation. 
+
+(B) - Believes that subtracting from a positive result yields a negative outcome without considering the square. 
+
+(C) - Believes that the square of a positive number plus a negative constant can yield zero.
+
+(D) - Believes that subtracting a larger number from a smaller one results in a positive value.
+
+###
+Subject: Plotting Quadratics from Tables of Values
+###
+ConstructName: Given a positive x value, find the corresponding y value for curves in the form y = x² + c
+###
+CorrectAnswer: A

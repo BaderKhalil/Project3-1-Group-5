@@ -1,0 +1,31 @@
+###
+Question: ![Two triangular prisms. Prism A has a base width of 4cm, and prism B has a base width of 12cm.]() Prism A and Prism B are similar.
+
+What is the volume scale factor to get from Prism \( A \) to Prism \( B \) ? 
+
+###
+Answers:
+(A) - \( \times 3 \) 
+
+(B) - \( \times 6 \) 
+
+(C) - \( \times 9 \) 
+
+(D) - \( \times 27 \) 
+
+###
+Misconceptions:
+(A) - Does not realize that the volume of similar 3D shapes is scaled by the cube of the scale factor of their corresponding lengths. 
+
+(B) - Confuses the length scale factor with volume, failing to apply the cube correctly as the factor for volumes. 
+
+(C) - Incorrectly uses the linear scale factor instead of the volume scale factor, leading to misunderstanding the relationship between similar shapes' dimensions and their volumes. 
+
+(D) - nan 
+
+###
+Subject: Length, Area and Volume Scale Factors
+###
+ConstructName: Find the volume scale factor of similar shapes given the length scale factor
+###
+CorrectAnswer: D

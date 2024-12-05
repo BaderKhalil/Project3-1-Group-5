@@ -1,0 +1,29 @@
+###
+Question: \( 87.6543 \) to \( 2 \) decimal places is.
+
+###
+Answers:
+(A) - \( 87.65 \)
+
+(B) - \( 87.66 \)
+
+(C) - \( 88.00 \)
+
+(D) - \( 87.60 \)
+
+###
+Misconceptions:
+(A) - Rounds correctly but does not carry the additional decimal place semi-correctly 
+
+(B) - Rounds up incorrectly from the second decimal place confusion
+
+(C) - Rounds incorrectly by increasing the whole number instead of just the decimals
+
+(D) - Rounds down incorrectly without considering the second decimal place
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to two decimal places
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Simplify the expression: \( 3(x + 4) - 2(x - 1) \)
+
+###
+Answers:
+(A) \( x + 14 \)
+
+(B) \( x + 10 \)
+
+(C) \( x + 2 \)
+
+(D) \( x + 8 \)
+
+###
+Misconceptions:
+(A) - Believes that multiplying out the brackets applies incorrectly, resulting in incorrect addition of terms.
+
+(B) - Misunderstands how to combine like terms after distributing, leading to an incorrect total.
+
+(C) - nan 
+
+(D) - Miscalculates the result of combining the like terms after trying to simplify the expression.
+
+###
+Subject: Simplifying Algebraic Expressions
+###
+ConstructName: Combine like terms after distributing a single term across brackets
+###
+CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: What is the width of the rectangle as indicated by the arrow? ![A pair of axes with no labels. 4 points are marked and joined with straight lines to make a rectangle. The top left corner of the rectangle is labelled with co-ordinate (3,8). The bottom right corner of the rectangle is labelled with co-ordinate (10,1). A double-ended horizontal arrow spans the width of the rectangle, starting level with (3,8) and ending level with the corner of the rectangle directly to the right (10,8).]() 
+
+###
+Answers:
+(A) \( 5 \) 
+
+(B) \( 8 \) 
+
+(C) \( 7 \) 
+
+(D) \( 3 \) 
+
+###
+Misconceptions:
+(A) - Does not know how to find the length of a line segment from coordinates 
+
+(B) - Confuses the width with the height of the rectangle 
+
+(C) - Does not understand the relationship between the x-coordinates that determine the width 
+
+(D) - Miscalculates the x-coordinates to find the width between points 
+
+###
+Subject: Distance Between Two Co-ordinates
+###
+ConstructName: Solve coordinate geometry questions involving quadrilaterals
+###
+CorrectAnswer: C

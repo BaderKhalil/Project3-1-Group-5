@@ -1,0 +1,29 @@
+###
+Question: What is \( 1245 \) rounded to the nearest \( 100 \) ?
+
+###
+Answers:
+(A) - \( 1200 \)
+
+(B) - \( 1300 \)
+
+(C) - \( 1000 \)
+
+(D) - \( 1250 \)
+
+###
+Misconceptions:
+(A) - Rounds down incorrectly without considering the midpoint
+
+(B) - Rounds up incorrectly by misunderstanding how rounding works
+
+(C) - Rounds to a lower range instead of the nearest hundred
+
+(D) - Rounds to a number that isn't the nearest hundred, adding a digit instead of rounding properly
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round integers to the nearest 100
+###
+CorrectAnswer: B

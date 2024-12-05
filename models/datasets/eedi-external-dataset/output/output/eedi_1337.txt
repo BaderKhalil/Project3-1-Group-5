@@ -1,0 +1,29 @@
+###
+Question: Sarah and Jack are trying to compute \( 36 \times 12 \) in their heads. Sarah decides to calculate \( 36 \times 6 \) and then doubles her result. Jack chooses to do \( 30 \times 12 \) and then adds \( 6 \times 12 \) afterward. Who would arrive at the correct answer? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Jack 
+
+(C) - Both Sarah and Jack 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Underestimates the efficiency of breaking down multiplication into simpler parts. 
+
+(B) - Fails to recognize that his method neglects the multiplication of the exact numbers. 
+
+(C) - Is not aware that both methods can yield the correct result through effective breakdowns. 
+
+(D) - Does not understand that both methods can be valid approaches to find the product of the numbers. 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Recognise and use efficient methods for mental multiplication
+###
+CorrectAnswer: C

@@ -1,0 +1,35 @@
+###
+        Question: Sarah and Alex are discussing properties of a geometric sequence.
+
+Sarah states that the following sequence is geometric: \( 3, 6, 12, 24, 48, \ldots \)
+
+Alex claims that the following sequence is geometric: \( 2, 4, 8, 16, 32, \ldots \)
+
+Who is correct?
+
+        ###
+        Answers:
+        (A) - Only Sarah 
+
+        (B) - Only Alex 
+
+        (C) - Both Sarah and Alex 
+
+        (D) - Neither is correct 
+
+        ###
+        Misconceptions:
+        (A) - Does not recognize that for geometric sequences, each term must be multiplied by the same non-zero factor to get the next term. 
+
+        (B) - Does not recognize that for geometric sequences, each term must be multiplied by the same non-zero factor to get the next term.
+
+        (C) - Does not recognize that for geometric sequences, each term must be multiplied by the same non-zero factor to get the next term.
+
+        (D) - Does not recognize that for geometric sequences, each term must be multiplied by the same non-zero factor to get the next term.
+
+        ###
+        Subject: Geometric Sequences (nth term)
+        ###
+        ConstructName: Recognise a geometric sequence
+        ###
+        CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: What is the area of this triangle? ![A triangle with a base length of 6 cm and a height of 4 cm.]() 
+
+###
+Answers:
+(A) - \( 12 \mathrm{~cm}^{2} \) 
+
+(B) - \( 24 \mathrm{~cm}^{2} \) 
+
+(C) - \( 10 \mathrm{~cm}^{2} \) 
+
+(D) - Not enough information in the diagram 
+
+###
+Misconceptions:
+(A) - Confuses the formula for area by incorrectly calculating it as base times height 
+
+(B) - Calculates the area incorrectly by forgetting to divide by 2 
+
+(C) - Miscalculates area by using incorrect dimensions or misinterpreting the triangle's properties 
+
+(D) - Does not recognize that enough information is provided to calculate the area 
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Calculate the area of a triangle where the dimensions are given in the same units
+###
+CorrectAnswer: A

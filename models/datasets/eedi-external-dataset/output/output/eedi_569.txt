@@ -1,0 +1,29 @@
+###
+Question: What is the value of the missing angle if two parallel lines are cut by a transversal? The angle opposite to the missing angle measures \( 75^{\circ} \). 
+
+###
+Answers:
+(A) - \( 75^{\circ} \) 
+
+(B) - \( 105^{\circ} \) 
+
+(C) - \( 15^{\circ} \) 
+
+(D) - \( 165^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Thinks the opposite angle is equal to the angle on the same side of the transversal. 
+
+(B) - Thinks that opposite angles do not have to equal and confused the supplementary angles with corresponding angles. 
+
+(C) - Confuses the relationship between supplementary angles, mistakenly using subtraction incorrectly. 
+
+(D) - Thinks that angles on a straight line sum to something other than 180 degrees. 
+
+###
+Subject: Angle Facts with Parallel Lines
+###
+ConstructName: Find missing angles on parallel lines using corresponding angles
+###
+CorrectAnswer: A

@@ -1,0 +1,30 @@
+###
+        Question: A garden is shaped like a rectangle with a square plot inside. The perimeter of the garden is \( 50 \mathrm{~m} \). The area of the square plot is \( 25 \mathrm{~m}^{2} \).
+What is the area of the garden? 
+
+        ###
+        Answers:
+        (A) - \( 50 \mathrm{~m}^{2} \) 
+
+        (B) - \( 75 \mathrm{~m}^{2} \) 
+
+        (C) - \( 100 \mathrm{~m}^{2} \) 
+
+        (D) - \( 25 \mathrm{~m}^{2} \) 
+
+        ###
+        Misconceptions:
+        (A) - Misunderstands how to calculate the area of a rectangle versus a square 
+
+        (B) - Fails to account for the square plot correctly when calculating the total area 
+
+        (C) - nan 
+
+        (D) - Does not recognize that the area pertains to a composite shape rather than just the square 
+
+        ###
+        Subject: Area of Simple Shapes
+        ###
+        ConstructName: Given the perimeter, work out a missing length requiring knowledge of the geometrical properties of the shape
+        ###
+        CorrectAnswer: B

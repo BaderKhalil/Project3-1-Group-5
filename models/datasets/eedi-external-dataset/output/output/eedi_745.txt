@@ -1,0 +1,26 @@
+###
+Question: ![A function machine with 3 rectangles in a row, connected by arrows. The first rectangle on the left is labeled "input" with "10" inside it. The second rectangle has "−5" written inside it, and the third rectangle has "÷2" written inside it, with the last rectangle on the right labeled "output" above it.]() What is the output of this function machine?  
+
+###
+Answers:  
+(A) - \( 2.5 \)  
+
+(B) - \( 5 \)  
+
+(C) - \( 7.5 \)  
+
+(D) - \( 20 \)  
+
+###
+Misconceptions:  
+(A) - Correct answer.  
+(B) - Incorrectly applies the operation, possibly failing to account for the full sequence of operations.  
+(C) - Fails to follow the operations in the correct order through the function machine.  
+(D) - Confuses the operations and applies an incorrect sequence of operations, possibly reversing the steps.  
+
+###
+Subject: Function Machines  
+###
+ConstructName: For a given input find the output of a function machine  
+###
+CorrectAnswer: A

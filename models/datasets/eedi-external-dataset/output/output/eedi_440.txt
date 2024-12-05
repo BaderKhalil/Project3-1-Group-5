@@ -1,0 +1,29 @@
+###
+Question: What temperature does the thermometer indicate? ![A thermometer showing the temperature in degrees Fahrenheit. The scale displays markings with five intervals between 0 and -20 degrees. It clearly shows the level at -16 degrees Fahrenheit.]() 
+
+###
+Answers:
+(A) - \( -16^{\circ} \mathrm{F} \) 
+
+(B) - \( -18^{\circ} \mathrm{F} \) 
+
+(C) - \( -14^{\circ} \mathrm{F} \) 
+
+(D) - \( -15^{\circ} \mathrm{F} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misreads the markings, thinking the thermometer reads two dashes lower than it actually does.
+
+(C) - Misreads the markings, thinking the thermometer reads two dashes higher than it actually does.
+
+(D) - Misjudges the interval and assumes it falls just one dash lower than the correct temperature.
+
+###
+Subject: Temperature units
+###
+ConstructName: Read a negative integer temperature from a thermometer
+###
+CorrectAnswer: A

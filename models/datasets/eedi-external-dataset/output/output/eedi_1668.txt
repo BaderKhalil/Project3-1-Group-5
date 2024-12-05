@@ -1,0 +1,29 @@
+###
+Question: Which element(s) is/are in the complement of set Q, denoted as \( Q^{\prime} \)? ![A diagram showing a Venn diagram of 2 circles. The left circle is for Set P and contains rabbit in its left part, rabbit & turtle in the intersection. The right circle is for set Q and contains parrot in its right part, turtle in the intersection. Outside of the circles it says fish.]() 
+
+###
+Answers:
+(A) - rabbit 
+
+(B) - rabbit & turtle 
+
+(C) - \( \begin{array}{c}\text { parrot \& } \\ \text { fish }\end{array} \) 
+
+(D) - turtle, parrot & fish 
+
+###
+Misconceptions:
+(A) - Does not understand that elements outside both sets are included in the complement of one set. 
+
+(B) - Misinterprets the complement as including elements from the intersection or one specific set. 
+
+(C) - nan 
+
+(D) - Confuses the intersection of sets with the definition of a complement, including elements that are only in one set. 
+
+###
+Subject: Venn Diagrams
+###
+ConstructName: Identify the regions on a double Venn diagram given in set notation
+###
+CorrectAnswer: C

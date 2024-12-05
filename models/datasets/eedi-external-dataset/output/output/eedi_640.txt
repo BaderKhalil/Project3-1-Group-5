@@ -1,0 +1,29 @@
+###
+Question: What is the value of angle \( x \) in the right triangle shown below? ![A right triangle with one angle of 30 degrees and another angle of x. ]() 
+
+###
+Answers:
+(A) - \( 50\degree\) 
+
+(B) - \( 60\degree\) 
+
+(C) - \( 70\degree\) 
+
+(D) - \( 90\degree\) 
+
+###
+Misconceptions:
+(A) - Believes the sum of the angles in a triangle can exceed \( 180\degree\) 
+
+(B) - Confuses the relationships between the angles in a right triangle 
+
+(C) - Believes that the right angle contributes to the angle sum inappropriately 
+
+(D) - Misunderstands that in right triangles, one angle is always \( 90\degree\) and mistakenly thinks this can count as the angle \( x \) 
+
+###
+Subject: Angles in Triangles
+###
+ConstructName: Find missing angles in a right triangle
+###
+CorrectAnswer: B

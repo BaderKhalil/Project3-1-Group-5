@@ -1,0 +1,29 @@
+###
+Question: Simplify the following fraction: \( 4 \frac{4}{12} \)
+
+###
+Answers:
+(A) - \( 4 \frac{1}{3} \) 
+
+(B) - \( 2 \frac{2}{3} \) 
+
+(C) - \( 4 \frac{3}{6} \) 
+
+(D) - Cannot be simplified 
+
+###
+Misconceptions:
+(A) - Miscalculates the simplification process for the fractional part 
+
+(B) - Confuses simplifying a mixed number with reducing the entire fraction 
+
+(C) - Incorrectly believes that the fraction can remain with the same denominator without simplification 
+
+(D) - Does not recognize that the fraction can be simplified 
+
+###
+Subject: Converting Mixed Number and Improper Fractions
+###
+ConstructName: Simplify fractions that simplify to a unit fraction
+###
+CorrectAnswer: A

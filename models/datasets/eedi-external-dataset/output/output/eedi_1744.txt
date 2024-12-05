@@ -1,0 +1,29 @@
+###
+Question: Calculate the first \( 2 \) terms in the sequence defined by the \( n \)th term \( 3 n^{2} - n + 2 \).
+
+###
+Answers:
+(A) - \( 2, 11 \) 
+
+(B) - \( 5, 14 \) 
+
+(C) - \( 8, 23 \) 
+
+(D) - \( 2, 8 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly adds the terms instead of evaluating the function at the given \( n \) values.
+
+(B) - Miscalculates the quadratic term and fails to account for the linear and constant components correctly.
+
+(C) - Fails to correctly substitute values for \( n \) leading to incorrect numbers; could misinterpret the operations on quadratic terms.
+
+(D) - Correctly evaluates the function but misunderstands that the original question asks for the first two terms, resulting in confusion about the sequence generation.
+
+###
+Subject: Quadratic Sequences
+###
+ConstructName: Generate an ascending quadratic sequence from the nth term rule in the form ax² + bx + c
+###
+CorrectAnswer: A

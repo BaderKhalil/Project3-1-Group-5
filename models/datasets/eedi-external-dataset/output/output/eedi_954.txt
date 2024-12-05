@@ -1,0 +1,29 @@
+###
+Question: \( 7632 - 4859 = \) 
+
+###
+Answers:
+(A) - \( 2773 \) 
+
+(B) - \( 2763 \) 
+
+(C) - \( 2743 \) 
+
+(D) - \( 2774 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly adds instead of subtracting the two numbers 
+
+(B) - Fails to align digits correctly, leading to incorrect borrowing 
+
+(C) - Adjusts for borrowing incorrectly, causing an inaccurate result 
+
+(D) - nan 
+
+###
+Subject: Written Subtraction
+###
+ConstructName: Subtract integers up to 4 digits using a written method where carrying is needed
+###
+CorrectAnswer: A

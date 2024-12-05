@@ -1,0 +1,31 @@
+###
+Question: The area of this triangle is \( 48 \mathrm{~cm}^{2} \).
+
+What is the value of \( b \) ? ![A triangle with the base labelled with \( b \) and height labelled with 8cm]() 
+
+###
+Answers:
+(A) - \( 12 \mathrm{~cm} \) 
+
+(B) - \( 6 \mathrm{~cm} \) 
+
+(C) - \( 10 \mathrm{~cm} \) 
+
+(D) - \( 15 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - Calculates area incorrectly by multiplying base and height instead of dividing by 2 
+
+(B) - Miscalculates area by failing to use the correct height in the formula 
+
+(C) - Assumes the correct area without properly applying the formula for the area of a triangle 
+
+(D) - nan 
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Given the area of a triangle, calculate a missing dimension
+###
+CorrectAnswer: A

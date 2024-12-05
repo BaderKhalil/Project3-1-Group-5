@@ -1,0 +1,29 @@
+###
+Question: What is the area of this rectangle? ![A rectangle with length 4 units and width 3 units]() 
+
+###
+Answers:
+(A) 12 square units
+
+(B) 7 square units
+
+(C) 8 square units
+
+(D) 6 square units 
+
+###
+Misconceptions:
+(A) - Believes the area is calculated by multiplying the length and width correctly 
+
+(B) - Confuses area with perimeter, thinking it involves adding length and width 
+
+(C) - Incorrectly calculates area by considering only one dimension 
+
+(D) - Calculates area incorrectly, possibly by misapplying the formula 
+
+###
+Subject: Area of rectangular shapes
+###
+ConstructName: Calculate the area of a rectangle given its length and width
+###
+CorrectAnswer: D

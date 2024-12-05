@@ -1,0 +1,33 @@
+###
+Question: \(
+y(3y + 4) + 2(5y + 2) \equiv A y^{2} + B y + C
+\)
+
+What is the value of \( C \) ? 
+
+###
+Answers:
+(A) - \( 12 \) 
+
+(B) - \( 8 \) 
+
+(C) - \( 10 \) 
+
+(D) - \( 14 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates by not distributing correctly and forgetting to add some constants 
+
+(B) - Misinterprets the process of combining terms after expansion, leading to incorrect constant values 
+
+(C) - Incorrectly believes that constants do not need to be combined after the expansion of brackets 
+
+(D) - Possible to confuse during addition or not simplifying properly after expansion 
+
+###
+Subject: Expanding Single Brackets
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving non-linear variables
+###
+CorrectAnswer: D

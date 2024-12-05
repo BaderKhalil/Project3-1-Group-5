@@ -1,0 +1,29 @@
+###
+Question: \( \frac{2}{5} \) of \( 50 = \)
+
+###
+Answers:
+(A) - \( 20 \)
+
+(B) - \( 10 \)
+
+(C) - \( 25 \)
+
+(D) - \( 15 \)
+
+###
+Misconceptions:
+(A) - Divides the amount by the denominator without multiplying by the numerator 
+
+(B) - Thinks that to find a fraction, it's just half of the amount 
+
+(C) - Just takes the denominator as the result instead of actually calculating the fraction 
+
+(D) - Incorrectly adds a fraction of the amount rather than multiplying
+
+###
+Subject: Fractions of an Amount
+###
+ConstructName: Calculate unit fractions of an amount
+###
+CorrectAnswer: A

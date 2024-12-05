@@ -1,0 +1,29 @@
+###
+Question: \( 1.2 \times 0.5 = \) 
+
+###
+Answers:
+(A) - \( 0.06 \) 
+
+(B) - \( 6.0 \) 
+
+(C) - \( 0.6 \) 
+
+(D) - \( 2.4 \) 
+
+###
+Misconceptions:
+(A) - Confuses multiplication with placing the decimal point too far to the left 
+
+(B) - Mistakes the multiplication by treating it like addition, leading to an inflated result 
+
+(C) - nan 
+
+(D) - Assumes the multiplication of decimals will result in a number that is larger than both factors 
+
+###
+Subject: Multiplying Decimals
+###
+ConstructName: Multiply a decimal by another decimal
+###
+CorrectAnswer: C

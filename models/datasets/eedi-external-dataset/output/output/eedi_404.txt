@@ -1,0 +1,29 @@
+###
+Question: Alex and Jamie are talking about quadratic equations. Alex claims that the equation \( y = 2n^2 + 3n + 1 \) represents a linear function. Jamie argues that the equation \( y = -4n + 7 \) represents a linear function. Who is correct?
+
+###
+Answers:
+(A) - Only Alex
+
+(B) - Only Jamie
+
+(C) - Both Alex and Jamie
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Fails to understand the distinction between linear and quadratic functions, confusing higher degree terms with linearity.
+
+(B) - Correctly recognizes linear functions, but may overlook other forms of functions that also could be considered linear.
+
+(C) - Misunderstands the definition of linear functions, assuming that both equations can be linear.
+
+(D) - Incorrectly believes that all equations must fit the standard form of linear functions to be considered linear.
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Identify linear vs. non-linear functions
+###
+CorrectAnswer: B

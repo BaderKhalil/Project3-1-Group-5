@@ -1,0 +1,29 @@
+###
+Question: Which of the following quadrilaterals has the highest order of rotational symmetry?
+
+###
+Answers:
+(A) - ![Rectangle]() 
+
+(B) - ![Parallelogram]() 
+
+(C) - ![Rhombus]() 
+
+(D) - ![Square]() 
+
+###
+Misconceptions:
+(A) - Believes that rectangles have high symmetry, but underestimates that squares have a higher order. 
+
+(B) - Thinks parallelograms have comparable symmetry to squares, but they lack a crucial level of rotational symmetry.
+
+(C) - Assumes rhombuses have the same symmetry as squares without realizing the order is lower. 
+
+(D) - nan 
+
+###
+Subject: Properties of Quadrilaterals
+###
+ConstructName: Identify the order of rotational symmetry of a shape
+###
+CorrectAnswer: D

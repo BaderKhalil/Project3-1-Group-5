@@ -1,0 +1,29 @@
+###
+Question: Which fraction is the largest among the following?
+
+###
+Answers:
+(A) - \( \frac{3}{4} \)
+
+(B) - \( \frac{7}{8} \)
+
+(C) - \( \frac{5}{6} \)
+
+(D) - \( \frac{2}{3} \)
+
+###
+Misconceptions:
+(A) - Thinks that all fractions close to \( 1 \) are larger than those farther from \( 1 \) without proper comparison 
+
+(B) - nan 
+
+(C) - Believes that fractions with numerators closer to the denominator are always larger 
+
+(D) - Believes that fractions with smaller numerators are always lesser than fractions with larger denominators 
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Order fractions whose denominators are not multiples of the same number 
+###
+CorrectAnswer: B

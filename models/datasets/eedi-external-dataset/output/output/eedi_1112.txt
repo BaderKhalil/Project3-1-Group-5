@@ -1,0 +1,29 @@
+###
+Question: What is \( 150\% \) of \( 80 \) ?
+
+###
+Answers:
+(A) - \( 120 \)
+
+(B) - \( 100 \)
+
+(C) - \( 150 \)
+
+(D) - \( 90 \)
+
+###
+Misconceptions:
+(A) - Calculated \( 100\% \) of \( 80 \) and added \( 20\% \) incorrectly.
+
+(B) - Took \( 100\% \) of \( 80 \) thinking it needed to stay under \( 100\% \).
+
+(C) - Misunderstood and thought \( 150\% \) of \( 80 \) is equivalent to just \( 150 \).
+
+(D) - Incorrectly summed \( 80 \) and a random percentage, failing to calculate correctly.
+
+###
+Subject: Percentages of an Amount
+###
+ConstructName: Calculate percentage of an amount mentally where the percent is greater than 100
+###
+CorrectAnswer: A

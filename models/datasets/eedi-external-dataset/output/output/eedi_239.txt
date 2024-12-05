@@ -1,0 +1,29 @@
+###
+Question: Aiden and Mia examined two different functions. Aiden claims that the function represented by the graph ![A graph showing a linear line sloping upwards]() is a quadratic function, while Mia suggests that the function represented by the graph ![A graph showing a linear line sloping downwards]() is a quadratic function. Who is correct?
+
+###
+Answers:
+(A) - Only Aiden 
+
+(B) - Only Mia 
+
+(C) - Both Aiden and Mia 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Misidentifies linear functions as quadratic because of the slope 
+
+(B) - Misidentifies linear functions as quadratic thinking that slopes down could be represented as a curve 
+
+(C) - Does not understand that linear functions do not fit the definition of quadratic functions 
+
+(D) - Recognises both are linear functions but misunderstands the requirements for a quadratic function 
+
+###
+Subject: Quadratic Graphs-Others  
+###
+ConstructName: Recognise a quadratic graph from its shape  
+###
+CorrectAnswer: D

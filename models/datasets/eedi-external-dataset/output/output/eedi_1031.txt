@@ -1,0 +1,29 @@
+###
+Question: In this long-division problem, what digit should be placed in the circle to complete the division? ![Division sum demonstrated with dividend = 864, divisor = 4, the digits of the quotient represented by a green square, a blue circle, and a yellow star.]() 
+
+###
+Answers:
+(A) - \( 1 \) 
+
+(B) - \( 0 \) 
+
+(C) - \( 3 \) 
+
+(D) - \( 2 \) 
+
+###
+Misconceptions:
+(A) - Misinterprets the dividend, leading to an incorrect division step 
+
+(B) - Assumes the answer must start from zero, leading to an invalid conclusion 
+
+(C) - Mistakes the multiplication step, leading to an inaccurate digit placement 
+
+(D) - nan 
+
+###
+Subject: Written Division
+###
+ConstructName: Divide integers of 3 or more digits using long division
+###
+CorrectAnswer: D

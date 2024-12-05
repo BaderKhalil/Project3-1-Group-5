@@ -1,0 +1,32 @@
+###
+Question: What expression does the star replace when fully expanding and simplifying?
+\(
+x(x+3)(x-1) \equiv x^{3} \star x^{2} \diamond x
+\)
+
+###
+Answers:
+(A) - \( \star=-3 \) 
+
+(B) - \( \star=+3 \) 
+
+(C) - \( \star=+0 \) 
+     
+(D) - \( \star=+2 \) 
+
+###
+Misconceptions:
+(A) - Thinks the constant from the expanded form only reflects the sum of constants in the brackets.
+
+(B) - Considers that the multiplication of mixed signs only yields a positive value.
+
+(C) - Fails to account for all terms in the product and neglects the multiplication of each term with each other.
+
+(D) - Believes the constant term simplifies directly without considering the negative impacts of the expanded terms.
+
+###
+Subject: Expanding Double Brackets
+###
+ConstructName: Expand double brackets with an extra variable outside
+###
+CorrectAnswer: A

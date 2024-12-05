@@ -1,0 +1,38 @@
+###
+Question: Which operation is necessary to eliminate the \( r \)s in the following pairs of simultaneous equations?
+\begin{array}{cc}
+  Pair 1 & Pair 2 \\
+\( 3a + 5r = 12 \) & \( 3a + 5r = 12 \)\\
+\( 9a - 2r = 20 \) & \( 9a + 2r = 20 \)
+\end{array}
+
+###
+Answers:
+(A) - Subtract Pair \( 1 \)
+Add Pair \( 2 \) 
+
+(B) - Add Pair \( 1 \)
+Subtract Pair \( 2 \) 
+
+(C) - Subtract Pair \( 1 \)
+Subtract Pair \( 2 \) 
+
+(D) - Add Pair \( 1 \)
+Add Pair \( 2 \) 
+
+###
+Misconceptions:
+(A) - Believes that if the coefficients of \( r \) in one equation are the opposite of the other, the pairs can be subtracted to eliminate \( r \).
+
+(B) - Believes that when eliminating variables, if the signs of the terms with matching coefficients are the same, we add the equations.
+
+(C) - Believes that regardless of the signs of the terms with matching coefficients, both pairs need to be subtracted from each other to eliminate a variable.
+
+(D) - Thinks that simply adding the pairs will always result in variable elimination, regardless of existing coefficients.
+
+###
+Subject: Simultaneous Equations
+###
+ConstructName: Recognise whether you need to add or subtract linear equations in order to eliminate a variable
+###
+CorrectAnswer: A

@@ -1,0 +1,32 @@
+###
+Question: \[
+15 + 3 \times 4 - 2
+\]
+Where do the brackets need to go to make the answer equal \( 45 \) ? 
+
+###
+Answers:
+(A) - \( (15 + 3) \times 4 - 2 \) 
+
+(B) - \( 15 + (3 \times 4 - 2) \) 
+
+(C) - \( 15 + 3 \times (4 - 2) \) 
+
+(D) - Does not need brackets 
+
+###
+Misconceptions:
+(A) - Misunderstands the distribution of multiplication over addition 
+
+(B) - Incorrectly prioritizes addition before multiplication in the absence of brackets 
+
+(C) - Confuses the effect of brackets and the overall operations sequence 
+
+(D) - Assumes that order of operations does not affect the result 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Insert brackets to make a calculation correct
+###
+CorrectAnswer: A

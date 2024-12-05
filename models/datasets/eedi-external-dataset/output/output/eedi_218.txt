@@ -1,0 +1,29 @@
+###
+Question: Which of the following graphs best illustrates the relationship between the amount of work done and the time taken, assuming a constant power output?
+
+###
+Answers:
+(A) - ![A straight line graph starting at the origin and travelling right with a positive gradient.]()
+
+(B) - ![A downward-sloping straight line graph starting partway up the y-axis and traveling right toward the x-axis.]() 
+
+(C) - ![A curved graph that starts at the origin. As you move right, it travels steeply up and then gradually levels off.]() 
+
+(D) - ![An upward-curved graph that starts low and travels right, steeply rising and never leveling off.]() 
+
+###
+Misconceptions:
+(A) - Thinks more work always means less time taken without considering power output. 
+
+(B) - Assumes that as time increases, the amount of work done decreases due to constant power misunderstanding. 
+
+(C) - nan 
+
+(D) - Believes that increasing time will always lead to an infinite increase in work done without factoring in power limits. 
+
+###
+Subject: Direct (Proportional) Relationship
+###
+ConstructName: Given a situation sketch an appropriate non-linear real-life graph
+###
+CorrectAnswer: C

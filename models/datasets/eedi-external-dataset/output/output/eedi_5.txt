@@ -1,0 +1,37 @@
+###
+Question: Sarah calculated the area of a rectangle and came up with a result of \( 100 \).
+
+She wrote her answer like this:
+
+\(
+100 \, \bigstar 
+\)
+
+Which of the following units could be correct? 
+
+###
+Answers:
+(A) - \( m \) 
+
+(B) - \( \mathrm{cm}^{2} \) 
+
+(C) - \( \mathrm{ft} \) 
+
+(D) - \( \mathrm{km}^{2} \) 
+
+###
+Misconceptions:
+(A) - Does not know units of area should be squared 
+
+(B) - nan 
+
+(C) - Does not know units of area should be squared 
+
+(D) - Does not recognize that while \( \mathrm{km}^{2} \) is a unit of area, it is not appropriate for smaller areas like \( 100 \, \mathrm{cm}^{2} \) 
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Identify a unit of area
+###
+CorrectAnswer: B

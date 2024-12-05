@@ -1,0 +1,34 @@
+###
+Question: Emily is calculating the answer to:
+\[
+50 \div 6
+\]
+She reports the answer as \( 8 \) remainder \( 2 \).
+What is the exact value of that remainder?
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 0.33 \) 
+
+(C) - \( 0.2 \) 
+
+(D) - \( 0.67 \) 
+
+###
+Misconceptions:
+(A) - Does not understand that a remainder can be expressed as a decimal.
+
+(B) - Miscalculates the fractional value of the remainder based on division.
+
+(C) - Misinterprets the remainder as the digit after the decimal point rather than the actual value.
+
+(D) - Incorrectly calculates the decimal equivalent of the remainder from the division.
+
+###
+Subject: Written Division
+###
+ConstructName: Convert the reminders from written division problems into decimals
+###
+CorrectAnswer: A

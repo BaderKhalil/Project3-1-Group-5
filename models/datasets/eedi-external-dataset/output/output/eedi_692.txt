@@ -1,0 +1,29 @@
+###
+Question: What should replace the triangle? \( 0.06 \times \triangle = 0.00012 \)
+
+###
+Answers:
+(A) - \( 0.002 \)
+
+(B) - \( 0.06 \)
+
+(C) - \( 0.2 \)
+
+(D) - \( 0.0006 \)
+
+###
+Misconceptions:
+(A) - When multiplying decimals, misplaces the decimal point when calculating.
+
+(B) - Incorrectly thinks the original number remains unchanged when multiplying.
+
+(C) - Overestimates the product by misunderstanding decimal values, multiplying incorrectly.
+
+(D) - Incorrectly divides by the wrong power of 10 after performing the multiplication.
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Solve missing number mental multiplication problems with decimals
+###
+CorrectAnswer: A

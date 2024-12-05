@@ -1,0 +1,29 @@
+###
+Question: A rectangle is reflected over the line \( y = 2 \). What are the new coordinates of the point \( \mathrm{Q} \) located at \( (3, 1) \) after the reflection? 
+
+###
+Answers:
+(A) - \( (3, 3) \)
+
+(B) - \( (3, 5) \)
+
+(C) - \( (3, 0) \)
+
+(D) - \( (3, 2) \)
+
+###
+Misconceptions:
+(A) - Correct answer, point is reflected correctly over the line \( y = 2 \) (no misconception).
+
+(B) - Incorrect reflection resulting in the point being moved further away from the line of reflection instead of closer.
+
+(C) - Reflects in the wrong direction, leading to a position below the original point rather than the reflected position above the line.
+
+(D) - Misunderstands reflection by moving the point only a single unit without accounting for the actual distance needed to reflect across the line.
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a horizontal line where the line of reflection is drawn below the object
+###
+CorrectAnswer: A

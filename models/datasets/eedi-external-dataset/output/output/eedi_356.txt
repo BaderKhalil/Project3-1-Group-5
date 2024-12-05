@@ -1,0 +1,29 @@
+###
+Question: What number is indicated by the arrow on this number line? ![A number line from 50 to 150 with an arrow pointing to the value 97]() 
+
+###
+Answers:
+(A) - \( 95 \) 
+
+(B) - \( 100 \) 
+
+(C) - \( 90 \) 
+
+(D) - \( 97 \) 
+
+###
+Misconceptions:
+(A) - Misreads the position, thinking the arrow is one dash before the correct value 
+
+(B) - Mistakenly counts the second interval as the value 
+
+(C) - Assumes the arrow lands on the 90 mark instead of being close to 100 
+
+(D) - nan 
+
+###
+Subject: Place Value
+###
+ConstructName: Read an integer on a scale where the required measurement is marked by a dash between two numbers
+###
+CorrectAnswer: D

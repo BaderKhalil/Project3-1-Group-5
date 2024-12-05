@@ -1,0 +1,29 @@
+###
+Question: What is the correct point for \( F \) when reflected in the line \( y=2 \) ? ![A 4 quadrant, coordinate grid with a triangle drawn on it with the coordinates (2,4) (3,5) and (1,5). F is the point (3,5)]() 
+
+###
+Answers:
+(A) - A is the coordinate (3,-1) 
+
+(B) - B is the coordinate (3,0) 
+
+(C) - C is the coordinate (3,6) 
+
+(D) - None of these 
+
+###
+Misconceptions:
+(A) - Thinks reflection across the line shifts the point downwards along the y-axis. 
+
+(B) - Confuses reflecting above the line by moving it downward to the x-axis. 
+
+(C) - Incorrectly draws the point above the line instead of reflecting it accordingly. 
+
+(D) - nan 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a horizontal line with the line of reflection given as an equation, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: C

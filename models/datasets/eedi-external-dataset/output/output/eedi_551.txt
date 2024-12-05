@@ -1,0 +1,31 @@
+###
+Question: Lisa and Mark are debating about the size of a shadow cast by a stick at noon. Lisa claims it is \( 30^{\circ} \) while Mark insists it is \( 150^{\circ} \). Who is correct? ![Shadow with an angle measurement depicted]() 
+
+###
+Answers:
+(A) - Only 
+Lisa 
+
+(B) - Only 
+Mark 
+
+(C) - Both Lisa and Mark 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Incorrect understanding of how shadow angles behave, often confusing acute angles with shadow lengths. 
+
+(B) - Fails to realize that noon shadows are typically short and form angles less than 90°, not larger angles like 150°. 
+
+(C) - Assumes both can be correct when measurements conflict in reality. 
+
+(D) - Correctly identifies that neither angle reflects the nature of a shadow at noon. 
+
+###
+Subject: Measuring Angles
+###
+ConstructName: Use angle measurements to analyze shadow lengths at different times of day
+###
+CorrectAnswer: D

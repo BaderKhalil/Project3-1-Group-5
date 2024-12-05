@@ -1,0 +1,29 @@
+###
+Question: Simplify the following expression: \( \frac{x^{2} - 9}{x - 3} \) 
+
+###
+Answers:
+(A) - \( x + 3 \) 
+
+(B) - \( x^{2} + 9 \) 
+
+(C) - \( x - 3 \) 
+
+(D) - Does not simplify 
+
+###
+Misconceptions:
+(A) - Thinks the expression can be simplified by merely cancelling the common term 
+
+(B) - Confuses the difference of squares with an addition of squares 
+
+(C) - Thinks that the expression equals the denominator instead of applying the correct simplification 
+
+(D) - Fails to recognize that the numerator can be factored 
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising both the numerator and denominator
+###
+CorrectAnswer: A

@@ -1,0 +1,33 @@
+###
+Question: Given the polynomial equation 
+\(
+y = x^2 - 4
+\)
+What is the value of \( y \) when \( x = 3 \) ? 
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 8 \) 
+
+(C) - \( 1 \) 
+
+(D) - \( 3 \) 
+
+###
+Misconceptions:
+(A) - Believes that squaring a number and subtracting 4 gives a value less than or equal to the squared number 
+
+(B) - Miscalculates the effect of squaring before subtracting 
+
+(C) - Assumes the subtraction leads to a trivial solution, without carrying out the operations properly 
+
+(D) - Misunderstands how to evaluate the expression correctly 
+
+###
+Subject: Quadratics 
+###
+ConstructName: Given an x value, find the corresponding y value from a quadratic equation
+###
+CorrectAnswer: B

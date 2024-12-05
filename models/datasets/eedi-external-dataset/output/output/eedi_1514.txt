@@ -1,0 +1,35 @@
+###
+        Question: Sarah and James are discussing how to calculate discounts.
+
+Sarah claims that to find a \( 25\% \) discount on an item, you simply subtract \( 25 \) from the price.
+
+James believes that to find a \( 25\% \) discount, you should first divide the price by \( 4 \) and then subtract that amount from the original price.
+
+Who is correct? 
+
+        ###
+        Answers:
+        (A) - Only Sarah 
+
+        (B) - Only James 
+
+        (C) - Both Sarah and James 
+
+        (D) - Neither is correct 
+
+        ###
+        Misconceptions:
+        (A) - Misunderstands how percentages relate to the total price 
+
+        (B) - Correctly understands that \(\frac{1}{4}\) is \(25\%\) of a quantity, but miscalculates the process for applying a discount 
+
+        (C) - Misunderstands the calculation process for applying a discount properly 
+
+        (D) - nan 
+
+        ###
+        Subject: Percentages of an Amount
+        ###
+        ConstructName: Calculate percentage of an amount mentally where the percent is a multiple of 10
+        ###
+        CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: What is the perimeter of a composite shape formed by two rectangles with dimensions 10 cm, 4 cm, and 6 cm? ![Composite shape with dimensions labelled]()
+
+###
+Answers:
+(A) - \( 64 \mathrm{~cm} \)
+
+(B) - \( 46 \mathrm{~cm} \)
+
+(C) - \( 38 \mathrm{~cm} \)
+
+(D) - \( 48 \mathrm{~cm} \)
+
+###
+Misconceptions:
+(A) - Calculates all inner and outer sides appropriately for perimeter 
+
+(B) - Incorrectly omits lengths of some sides of the rectangles when calculating total perimeter 
+
+(C) - Calculates perimeter of individual rectangles but fails to consider the composite nature of the shape 
+
+(D) - Mistakes the dimensions as being additive instead of taking into account overlapping sides 
+
+###
+Subject: Compound Perimeter
+###
+ConstructName: Calculate compound perimeter involving just rectangles, where dimensions are given in the same units
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Sarah and Jake are examining a graph that tracks the temperature (T) of a cup of coffee over time (t). Sarah claims that the graph shows a temperature decrease at a constant rate ![A sketch of a graph with T on the y axis and t on the x axis. A line starts high on the y axis and slopes downwards straight across the graph. ]() Jake argues that the graph shows the temperature decreasing faster initially and then slowing down over time ![A sketch of a graph with T on the y axis and t on the x axis. A line that steeply declines at first and then levels off.]() Who is correct?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Jake 
+
+(C) - Both Sarah and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes a straight line represents a variable rate of change
+
+(B) - Believes a decreasing slope cannot represent a constant initial rapid decrease
+
+(C) - Misunderstands the distinct behaviors of lines on graphs 
+
+(D) - Believes that temperature cannot change in a predictable manner 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Compare real life graphs
+###
+CorrectAnswer: B

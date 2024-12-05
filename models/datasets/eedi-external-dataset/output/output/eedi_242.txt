@@ -1,0 +1,32 @@
+###
+Question: Jamie is at a bookstore.
+Each book costs \( £ 8.50 \).
+Jamie has \( £ 50 \) to spend.
+What is the maximum number of books he can buy?
+
+###
+Answers:
+(A) - \( 3 \)
+
+(B) - \( 5 \)
+
+(C) - \( 6 \)
+
+(D) - \( 4 \)
+
+###
+Misconceptions:
+(A) - Believes he does not have enough money to buy more than 3 books. 
+
+(B) - Incorrectly calculates the amount of money remaining after buying 5 books. 
+
+(C) - Misunderstands that he can buy more than he can actually afford due to miscalculating total costs. 
+
+(D) - Assumes he can buy exactly 4 without calculating the total cost properly.
+
+###
+Subject: Basic Money
+###
+ConstructName: Multiply amounts of money up to £50
+###
+CorrectAnswer: B

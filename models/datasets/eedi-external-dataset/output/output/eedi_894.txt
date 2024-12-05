@@ -1,0 +1,31 @@
+###
+Question: This rectangle has an area of \( 48 \mathrm{~cm}^{2} \).
+
+What is the length \( l \) if the width \( w \) is \( 4 \mathrm{~cm} \)? ![A rectangle with length labelled l and width labelled 4cm.]() 
+
+###
+Answers:
+(A) - \( 12 \mathrm{~cm} \) 
+
+(B) - \( 10 \mathrm{~cm} \) 
+
+(C) - \( 8 \mathrm{~cm} \) 
+
+(D) - \( 16 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Assumes that area is calculated incorrectly by adding length and width 
+
+(C) - Misunderstands how to apply the formula for area plus incorrect multiplication 
+
+(D) - Confuses the relationship between area and perimeter 
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Given the area of a rectangle, calculate a missing dimension
+###
+CorrectAnswer: A

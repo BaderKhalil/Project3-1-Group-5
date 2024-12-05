@@ -1,0 +1,29 @@
+###
+Question: Use the graph to approximate the solution to \( x^{2}+3x-4>0 \) ![A set of axes with the quadratic graph y=x^2+3x-4 drawn on.]() 
+
+###
+Answers:
+(A) - \( x<1, x>-4 \)
+
+(B) - \( -4<x<1 \)
+
+(C) - \( x<-4, x>1 \)
+
+(D) - \( x=1 \)
+
+###
+Misconceptions:
+(A) - Misinterprets the intervals where the function is positive
+
+(B) - Confuses positive and negative intervals when reading from the graph 
+
+(C) - Mixes the zeros of the function with the sign of the inequalities
+
+(D) - Assumes the inequality is true at the vertex rather than identifying the full range
+
+###
+Subject: Quadratic inequalities on Number Lines
+###
+ConstructName: Solve quadratic inequalities from the graph of the quadratic
+###
+CorrectAnswer: C

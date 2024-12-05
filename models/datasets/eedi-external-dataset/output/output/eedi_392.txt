@@ -1,0 +1,29 @@
+###
+Question: Which of the following configurations cannot form a triangle?
+
+###
+Answers:
+(A) - ![A shape with angles of 30 degrees, 60 degrees, and 90 degrees]()
+
+(B) - ![A shape with angles of 50 degrees, 70 degrees, and 70 degrees]()
+
+(C) - ![A shape with angles of 90 degrees, 30 degrees, and 70 degrees]()
+
+(D) - ![A shape with angles of 100 degrees, 40 degrees, and 60 degrees]()
+
+###
+Misconceptions:
+(A) - Does not know that the sum of angles in a triangle must equal 180 degrees 
+
+(B) - Does not know that the sum of angles in a triangle must equal 180 degrees 
+
+(C) - nan
+
+(D) - Misinterprets the requirement that angles in a triangle must sum to 180 degrees 
+
+###
+Subject: Triangle Properties (angles, sides, classifications, etc)
+###
+ConstructName: Understand the angle sum property of triangles
+###
+CorrectAnswer: D

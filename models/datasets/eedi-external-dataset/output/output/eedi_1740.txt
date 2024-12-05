@@ -1,0 +1,30 @@
+###
+Question: Consider the quadratic function given by 
+\(y=(x-2)(x+4)\) ![A set of axes with the graph y=(x-2)(x+4) drawn on.]() What is the equation of the line of symmetry? 
+
+###
+Answers:
+(A) - \( y=2 \) 
+
+(B) - \( x=1 \) 
+
+(C) - \( x=1 \) 
+
+(D) - \( y=-1 \) 
+
+###
+Misconceptions:
+(A) - Confuses the position of the vertex with the y-intercept 
+
+(B) - Miscalculates the midpoint between the roots 
+
+(C) - nan 
+
+(D) - Confuses the equations of vertical and horizontal lines 
+
+###
+Subject: Quadratic Graphs-Others
+###
+ConstructName: Identify the line of symmetry of curves in the form (x + a)(x + b)
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: \( 1 \mathrm{~m} \approx 39.37 \) inches \( 3 \mathrm{~m} \approx \square \) inches 
+
+###
+Answers:
+(A) - \( 118.11 \) 
+
+(B) - \( 100 \) 
+
+(C) - \( 78.74 \) 
+
+(D) - \( 36.6 \) 
+
+###
+Misconceptions:
+(A) - Added instead of multiplied by the conversion factor 
+
+(B) - Incorrectly assumes \( 3 \times 39.37 \) means just taking three times the meter value without proper conversion 
+
+(C) - Correctly applies the conversion factor 
+
+(D) - Misunderstood the conversion process leading to an incorrect smaller value 
+
+###
+Subject: Length Units
+###
+ConstructName: Convert from meters to inches
+###
+CorrectAnswer: C

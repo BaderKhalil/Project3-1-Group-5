@@ -1,0 +1,33 @@
+###
+Question: Jamie is using a function machine to solve the following problem:
+
+I think of a number, add 12, divide it by 3, and the result is \( 8 \).
+
+Which of the following should replace the star? ![A function machine with 4 rectangles in a row, joined by arrows pointing from left to right. The first rectangle on the left is empty and has "input" written above it. The next 2 rectangles are empty and the final rectangle on the right has a purple star inside it and has "output" written above it.]() 
+
+###
+Answers:
+(A) - \( \div 3 \) 
+
+(B) - \( +12 \) 
+
+(C) - \( 8 \) 
+
+(D) - \( n \) 
+
+###
+Misconceptions:
+(A) - Does not understand where to place inputs/ operations/ outputs when drawing a function machine 
+
+(B) - Confuses the sequence of operations, thinking addition comes after division instead of before 
+
+(C) - Misunderstands the function machine's representation, thinking the output can be an intermediate result rather than the final one 
+
+(D) - Does not recognize that 'n' is a placeholder for the input and not an operation 
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given input find the output of a function machine
+###
+CorrectAnswer: B

@@ -1,0 +1,32 @@
+###
+Question: \(
+\frac{3}{4}+\frac{1}{2}=\frac{\bigstar}{4}
+\)
+What should replace the star? 
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( 7 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly adds the fractions without converting to the same denominator 
+
+(B) - Believes that you add the whole denominators 
+
+(C) - nan 
+
+(D) - Overestimates the total when adding fractions 
+
+###
+Subject: Adding and Subtracting Fractions
+###
+ConstructName: Add proper fractions with different denominators where one is a multiple of the other
+###
+CorrectAnswer: A

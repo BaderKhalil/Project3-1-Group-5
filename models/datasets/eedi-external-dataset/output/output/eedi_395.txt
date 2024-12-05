@@ -1,0 +1,29 @@
+###
+Question: ![Diagram showing 5 arrows pointing to the left showing -25 and 5 arrows pointing to the left showing -25 in 5 equal parts]() Alex and Jamie are exploring calculations based on the diagram shown. Alex claims: \( 5 \times (-5) = -25 \) Jamie states: \( \frac{(-25)}{5} = -5 \) Who is correct? 
+
+###
+Answers:
+(A) - Only Alex 
+
+(B) - Only Jamie 
+
+(C) - Both Alex and Jamie 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes that dividing a negative number by a positive results in a positive outcome
+
+(B) - Believes that multiplying a positive number with a negative results in a positive outcome
+
+(C) - nan 
+
+(D) - nan 
+
+###
+Subject: Multiplying and Dividing Negative Numbers
+###
+ConstructName: Carry out division problems involving one negative integer
+###
+CorrectAnswer: C

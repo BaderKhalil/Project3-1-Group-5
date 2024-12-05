@@ -1,0 +1,29 @@
+###
+Question: Jamie claims that multiplying two numbers yields the same result regardless of the order in which you multiply them. Is Jamie correct?
+
+###
+Answers:
+(A) - Jamie is correct because multiplication is non-commutative  
+
+(B) - Jamie is incorrect because multiplication is non-commutative  
+
+(C) - Jamie is correct because multiplication is commutative  
+
+(D) - Jamie is incorrect because multiplication is commutative  
+
+###
+Misconceptions:
+(A) - Believes multiplication is non-commutative  
+
+(B) - Does not understand that multiplication is commutative  
+
+(C) - nan  
+
+(D) - Does not recognize basic properties of multiplication  
+
+###
+Subject: Mental Multiplication  
+###
+ConstructName: Understand the commutativity of multiplication  
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: A graph illustrates the relationship between temperature in degrees Celsius and the time it takes for ice to melt completely. How long will it take for the ice to melt at \( 0 \mathrm{°C} \)? ![A graph displaying temperature in degrees Celsius on the x axis and melting time in hours on the y axis. The curve has a steep positive gradient initially that levels off as temperature increases, passing through points (0, 6) and (10, 1)]()
+
+###
+Answers:
+(A) - \( 6 \) hours 
+
+(B) - \( 4 \) hours 
+
+(C) - \( 10 \) hours 
+
+(D) - \( 2 \) hours 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Interprets the graph but misreads the corresponding value due to misunderstanding of scale. 
+
+(C) - Assumes that greater temperature leads to longer melting time without recognizing the graph's trend. 
+
+(D) - Misunderstands that time decreases as temperature increases, leading to an incorrect value from the axes. 
+
+###
+Subject: Indirect (Inverse) Proportion
+###
+ConstructName: Read values off a real life graph
+###
+CorrectAnswer: A

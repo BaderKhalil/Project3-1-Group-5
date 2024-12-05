@@ -1,0 +1,29 @@
+###
+Question: \( \begin{array}{c} A=\{\text{prime numbers less than 20} \\ \text{ (2, 3, 5, 7, 11, 13, 17, 19)}\} \\ B=\{\text{factors of 36}\} \end{array} \) ![A Venn diagram with two circles labelled A and B. A without the intersection is labelled C, B without the intersection is labelled D, the intersection of the two sets is labelled E, and outside the circles is labelled F.]() In which region does \( \mathbf{7} \) belong?
+
+###
+Answers:
+(A) - C 
+
+(B) - D 
+
+(C) - E 
+
+(D) - F 
+
+###
+Misconceptions:
+(A) - Does not recognize that 7 is a prime number and belongs to set A 
+
+(B) - Misunderstands factors of 36 and thinks 7 is one of them 
+
+(C) - Recognizes that 7 is prime but incorrectly identifies it as belonging to both sets 
+
+(D) - Understands 7 is a prime number but mistakenly believes it belongs outside both sets 
+
+###
+Subject: Venn Diagrams
+###
+ConstructName: Fill in regions of a double Venn diagram with numbers from given information
+###
+CorrectAnswer: C

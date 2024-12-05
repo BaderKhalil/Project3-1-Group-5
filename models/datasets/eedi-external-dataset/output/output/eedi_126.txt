@@ -1,0 +1,29 @@
+###
+Question: A park is shaped like a rectangle with a semi-circle on one end. The rectangle measures 30m in length and 20m in width, while the semi-circle has a radius of 10m. What is the total area of the park? ![A rectangular park with a semi-circle on one end, labeled with its dimensions.]() 
+
+###
+Answers:
+(A) - \( 800 \mathrm{~m}^{2} \) 
+
+(B) - \( 600 \mathrm{~m}^{2} \) 
+
+(C) - \( 900 \mathrm{~m}^{2} \) 
+
+(D) - \( 750 \mathrm{~m}^{2} \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the area of the semi-circle or rectangles separately and adds incorrect results. 
+
+(B) - Incorrectly combines the areas of the rectangle and semi-circle. 
+
+(C) - nan 
+
+(D) - Miscalculates either or both areas and does not verify the total area correctly.
+
+###
+Subject: Compound Area
+###
+ConstructName: Calculate areas of compound shapes by breaking them into simpler components.
+###
+CorrectAnswer: C

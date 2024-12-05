@@ -1,0 +1,29 @@
+###
+Question: Sarah and Liam are analyzing two lines on a coordinate plane. Sarah claims these two lines are parallel ![Image of a grid with two lines drawn. One line extends with a slope of 3 (rise 3, run 1), while the second line goes with a slope of 3 as well.]() Liam argues that these two lines are parallel ![Image of a grid with two lines. One line has a steep slope of 2 (rise 2, run 1) and the other line has a negative slope of -2 (rise -2, run 1).]() Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Liam 
+
+(C) - Both Sarah and Liam 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes that lines can be parallel if they have the same length regardless of the slope 
+
+(C) - Believes that one line's steepness does not matter if another line has a different direction 
+
+(D) - nan 
+
+###
+Subject: Parallel Lines
+###
+ConstructName: Recognise the notation for parallel lines
+###
+CorrectAnswer: A

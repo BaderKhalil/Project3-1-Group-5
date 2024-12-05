@@ -1,0 +1,37 @@
+###
+Question: Given the equation
+\[
+y = 4 - 2x
+\] fill in the missing value in the table below:
+\begin{tabular}{|l|l|}
+\hline\( x \) & \( \bigstar \) \\
+\hline\( y \) & \( 0 \) \\
+\hline
+\end{tabular} What should replace the star? 
+
+###
+Answers:
+(A) - \( 2 \)
+
+(B) - \( -2 \)
+
+(C) - \( 4 \)
+
+(D) - \( 0 \)
+
+###
+Misconceptions:
+(A) - There is a correct relationship identified between the variables.
+
+(B) - Believes that substituting a negative value will result in a negative output for \( y \).
+
+(C) - Incorrectly assumes that substituting a number simply mirrors the equation's constants without performing the calculation.
+
+(D) - Thinks that if \( y \) equals \( 0 \), then \( x \) must also equal \( 0 \).
+
+###
+Subject: Plotting Lines from Tables of Values
+###
+ConstructName: Given a positive y value, find an x value in a table of values for lines in the form y = mx + c
+###
+CorrectAnswer: A

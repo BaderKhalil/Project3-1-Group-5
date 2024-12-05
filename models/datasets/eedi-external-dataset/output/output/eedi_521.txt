@@ -1,0 +1,32 @@
+###
+Question: ![\begin{tabular}{|lll|}
+\hline\( \bullet \) & \( 1 \) & \( 3 \) & \( 6 \) \\
+\hline
+\end{tabular}]() How many objects will the next term in this sequence have? 
+
+###
+Answers:
+(A) - \( 10 \) 
+
+(B) - \( 15 \) 
+
+(C) - \( 12 \) 
+
+(D) - \( 11 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes a simple addition of consecutive integers without following the triangular number pattern. 
+
+(B) - Misunderstands the accumulation of objects by not recognizing the pattern of triangular numbers. 
+
+(C) - Only considers the last two terms instead of the entire pattern sequence. 
+
+(D) - Believes the sum of the previous term is just added by 2 instead of following the triangular addition. 
+
+###
+Subject: Other Sequences
+###
+ConstructName: Identify triangular numbers
+###
+CorrectAnswer: A

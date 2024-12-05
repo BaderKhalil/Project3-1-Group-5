@@ -1,0 +1,33 @@
+###
+Question: What is the first step we should take when solving the quadratic equation?
+
+\(
+2x^{2} + 8x - 10 = 0
+\)
+
+###
+Answers:
+(A) - Multiply both sides by \( \frac{1}{2} \)
+
+(B) - Move \( -10 \) to the right side by adding \( 10 \)
+
+(C) - Add \( 10 \) to both sides of the equation
+
+(D) - Factor out \( 2 \) from the left side of the equation
+
+###
+Misconceptions:
+(A) - Thinks that scaling the equation will help without realising we need to rearrange it to the standard form first.
+
+(B) - Incorrectly assumes we can rearrange by only considering one term instead of bringing the equation to standard form.
+
+(C) - Thinks that simply adding \( 10 \) will correctly set up the equation for factoring without bringing all terms to one side.
+
+(D) - Assumes factoring out \( 2 \) is a valid first step, not recognizing the requirement to have \( 0 \) on one side for factorisation.
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Rearrange a quadratic equation so that it is in the correct form to be factorised
+###
+CorrectAnswer: B

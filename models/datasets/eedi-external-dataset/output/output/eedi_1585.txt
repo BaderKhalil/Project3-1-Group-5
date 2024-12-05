@@ -1,0 +1,32 @@
+###
+Question: Write the following number in standard form:
+\[
+0.00032
+\] 
+
+###
+Answers:
+(A) - \( 3.2 \times 10^{3} \) 
+
+(B) - \( 3.2 \times 10^{-4} \) 
+
+(C) - \( 32 \times 10^{-5} \)
+
+(D) - \( 0.32 \times 10^{-2} \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the placement of the decimal point when converting to standard form 
+
+(B) - Correctly converts but misplaces the exponent 
+
+(C) - Incorrectly represents the original number by changing its magnitude 
+
+(D) - Thinks the leading number can be less than one in standard form as long as it's multiplied by a negative exponent 
+
+###
+Subject: Standard Form
+###
+ConstructName: Write numbers between 0 and 1 in standard form
+###
+CorrectAnswer: B

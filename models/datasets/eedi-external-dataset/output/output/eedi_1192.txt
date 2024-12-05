@@ -1,0 +1,29 @@
+###
+Question: A recipe calls for 2 cups of flour for every 3 cups of sugar. What is the ratio of flour to the total amount of ingredients used (flour + sugar)? 
+
+###
+Answers:
+(A) - 2:5 
+
+(B) - 3:2 
+
+(C) - 5:3 
+
+(D) - 2:3 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses the parts of the ratio with the total ingredients. 
+
+(C) - Miscalculates the total by incorrectly adding parts of the ingredients. 
+
+(D) - Gets the order of the ratio wrong by not putting flour first. 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Convert fractions to ratios
+###
+CorrectAnswer: A

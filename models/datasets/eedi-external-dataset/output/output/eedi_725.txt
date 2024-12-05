@@ -1,0 +1,29 @@
+###
+Question: ![Image of a function machine. The function is multiply by 2 and the output is 18]() What is the input of this function machine? 
+
+###
+Answers:
+(A) - \( 9 \) 
+
+(B) - \( 36 \) 
+
+(C) - \( 12 \) 
+
+(D) - \( 24 \) 
+
+###
+Misconceptions:
+(A) - Thinks the inverse of multiplication is addition.
+
+(B) - Believes multiplication is commutative and mistakenly assumes the input is double the output.
+
+(C) - When finding the input of a function machine thinks of adding instead of applying the inverse operation of multiplication.
+
+(D) - Thinks that to find the input, one should simply guess a number larger than the output. 
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given output find the input of a function machine
+###
+CorrectAnswer: A

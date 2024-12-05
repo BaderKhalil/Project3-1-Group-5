@@ -1,0 +1,31 @@
+###
+Question: A line graph depicts the number of books read by a student over the course of a month. 
+
+How many books were read in the third week? ![Graph of books read over the weeks]() 
+
+###
+Answers:
+(A) - \( 2 \)
+
+(B) - \( 5 \)
+
+(C) - \( 8 \)
+
+(D) - \( 12 \)
+
+###
+Misconceptions:
+(A) - Misjudges the height of the line corresponding to the third week 
+
+(B) - Confuses the data for a different week with the one asked about
+
+(C) - nan
+
+(D) - Counts additional weeks' data as part of the third week 
+
+###
+Subject: Time Series and Line Graphs
+###
+ConstructName: Interpret discrete data using a line graph
+###
+CorrectAnswer: B

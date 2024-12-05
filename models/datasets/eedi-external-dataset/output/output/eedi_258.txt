@@ -1,0 +1,32 @@
+###
+Question: Sarah and Jake are trying to solve the same multiplication problem.
+Sarah claims \( 12 \times 35 = (12 \times 30) + (12 \times 5) \)
+Jake argues that \( 12 \times 35 = (12 \times 3) \times 10 \)
+Who is correct?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Jake 
+
+(C) - Both Sarah and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Correctly applies the distributive property of multiplication 
+
+(B) - Incorrectly applies the associative property of multiplication 
+
+(C) - nan 
+
+(D) - Both methods miscalculate the product 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Recognise and use efficient methods for mental multiplication
+###
+CorrectAnswer: A

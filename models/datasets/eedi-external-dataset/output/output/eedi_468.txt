@@ -1,0 +1,29 @@
+###
+Question: \( 12 \times 7 \times 10= \) 
+
+###
+Answers:
+(A) - \( 840 \) 
+
+(B) - \( 70 \) 
+
+(C) - \( 120 \) 
+
+(D) - \( 84 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Multiplies incorrectly by just considering the first two numbers without including the third 
+
+(C) - Multiplies one number incorrectly and ignores the multiplication chain 
+
+(D) - Only multiplies the first two numbers and does not account for the third 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Calculate a string of multiplications mentally
+###
+CorrectAnswer: A

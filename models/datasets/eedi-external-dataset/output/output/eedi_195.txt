@@ -1,0 +1,32 @@
+###
+Question: Solve the equation:
+\(
+\frac{x + 4}{3} = \frac{5}{12}
+\)
+
+###
+Answers:
+(A) - \( x = -\frac{7}{4} \)
+
+(B) - \( x = -\frac{1}{3} \)
+
+(C) - \( x = \frac{13}{4} \)
+
+(D) - \( x = -\frac{9}{4} \)
+
+###
+Misconceptions:
+(A) - Incorrectly combines fractions by thinking the denominators have to be summed directly 
+
+(B) - Confuses the process of isolating the variable with simplifying the fraction improperly
+
+(C) - Fails to use the proper inverse operations when isolating the variable
+
+(D) - Incorrectly subtracts constants without considering the fraction adjustment
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, involving positive fractions
+###
+CorrectAnswer: D

@@ -1,0 +1,26 @@
+###
+Question: \( 3 x^{3} \times 4 x^{2} y \equiv \)
+
+###
+Answers:
+(A) - \( 7 x^{5} y \) 
+
+(B) - \( 12 x^{5} y \) 
+
+(C) - \( 12 x^{6} y \) 
+
+(D) - \( 3 x^{5} y \) 
+
+###
+Misconceptions:
+(A) - Adds exponents incorrectly instead of multiplying the coefficients 
+(B) - Correctly multiplies coefficients but ignores the rules for adding exponents 
+(C) - Multiplies incorrectly by adding exponents instead of using the correct multiplication process 
+(D) - Fails to multiply the coefficients accurately 
+
+###
+Subject: Laws of Indices
+###
+ConstructName: Multiply algebraic terms, involving non-linear versions of different letters (e.g. 4a^{2} x 5ab)
+###
+CorrectAnswer: B

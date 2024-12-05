@@ -1,0 +1,29 @@
+###
+Question: \( 150 \) minutes is the same as _________ hours 
+
+###
+Answers:
+(A) - \( 2.5 \) 
+
+(B) - \( 1.25 \) 
+
+(C) - \( 3 \) 
+
+(D) - \( 2.0 \) 
+
+###
+Misconceptions:
+(A) - Correctly converts but miscalculates the fraction of hours 
+
+(B) - Thinks there are 120 minutes in an hour 
+
+(C) - Misunderstands the conversion rate and overshoots the total hours 
+
+(D) - Converts but does not account for the extra minutes correctly 
+
+###
+Subject: Time
+###
+ConstructName: Change minutes into decimals of hours (e.g. 150 minutes = 2.5 hours)
+###
+CorrectAnswer: A

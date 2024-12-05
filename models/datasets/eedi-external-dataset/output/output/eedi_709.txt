@@ -1,0 +1,29 @@
+###
+Question: What is the slope of the line that passes through the points (2, 3) and (4, 7)? 
+
+###
+Answers:
+(A) - 2
+
+(B) - 0
+
+(C) - 1
+
+(D) - 4
+
+###
+Misconceptions:
+(A) - Incorrectly calculates slope by using the wrong formula 
+
+(B) - Assumes a horizontal line due to misunderstanding of slope interpretation 
+
+(C) - Miscalculates the rise over run and confuses it with another line's slope 
+
+(D) - Misinterprets the change in y compared to the change in x leading to an overestimation of slope 
+
+###
+Subject: Slope of a Line
+###
+ConstructName: Calculate the slope from two points
+###
+CorrectAnswer: A

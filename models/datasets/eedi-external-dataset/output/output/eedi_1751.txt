@@ -1,0 +1,32 @@
+###
+Question: Without performing the calculations, use estimation to decide which of the following answers is the most likely to be correct
+\[
+648 \div 256
+\]
+
+###
+Answers:
+(A) - \( 2.531 \ldots \) 
+
+(B) - \( 1.910 \ldots \) 
+
+(C) - \( 2.420 \ldots \) 
+
+(D) - \( 3.203 \ldots \) 
+
+###
+Misconceptions:
+(A) - Miscalculates by not considering the relative sizes of the numbers properly 
+
+(B) - Assumes too low a result by wrongly estimating the divisor 
+
+(C) - Incorrectly overestimates the dividend while underestimating the divisor 
+
+(D) - nan 
+
+###
+Subject: Estimation
+###
+ConstructName: Round numbers to an appropriate degree to estimate the answer to a calculation
+###
+CorrectAnswer: B

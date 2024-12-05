@@ -1,0 +1,29 @@
+###
+Question: In the expression \( 4x + 5z - 2 \), which of the following best describes the component \( 5z \)?
+
+###
+Answers:
+(A) - Coefficient
+
+(B) - Constant
+
+(C) - Variable
+
+(D) - Term
+
+###
+Misconceptions:
+(A) - Confuses a term with a coefficient 
+
+(B) - Confuses a component with a constant 
+
+(C) - Confuses a term with a variable 
+
+(D) - nan 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Recognise and name a term
+###
+CorrectAnswer: D

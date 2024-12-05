@@ -1,0 +1,33 @@
+###
+Question: \[
+1, 8, 27, \ldots
+\]
+
+What is the next term in this sequence of numbers? 
+
+###
+Answers:
+(A) - 64 
+
+(B) - 50 
+
+(C) - 81 
+
+(D) - 100 
+
+###
+Misconceptions:
+(A) - Correctly identifies the pattern but doesn't know the next cube number 
+
+(B) - Incorrectly assumes the sequence follows a simple addition pattern 
+
+(C) - Mistakenly identifies the next term as a square number 
+
+(D) - Incorrectly applies a pattern for square numbers 
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Recognise cube numbers
+###
+CorrectAnswer: A

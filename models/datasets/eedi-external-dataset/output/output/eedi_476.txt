@@ -1,0 +1,29 @@
+###
+Question: What is \( 45 \% \) written as a fraction?
+
+###
+Answers:
+(A) - \( \frac{9}{20} \) 
+
+(B) - \( \frac{45}{100} \) 
+
+(C) - \( \frac{1}{45} \) 
+
+(D) - None of these options 
+
+###
+Misconceptions:
+(A) - Correct calculation but does not clearly express the simplification process 
+
+(B) - Fails to simplify the fraction when it's possible 
+
+(C) - Misunderstands the definition of a percentage as being equivalent to a fraction of 100
+
+(D) - Does not recognize that the fraction can often be reduced further 
+
+###
+Subject: Converting between Fractions and Percentages
+###
+ConstructName: Convert two digit integer percentages to fractions
+###
+CorrectAnswer: A

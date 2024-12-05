@@ -1,0 +1,29 @@
+###
+Question: Multiply out the brackets: \( x(x + 5) \)
+
+###
+Answers:
+(A) - \( x^{2} + 5 \)
+
+(B) - \( x^{2} + 5x \)
+
+(C) - \( 5x + x \)
+
+(D) - \( x^{2} + 10 \)
+
+###
+Misconceptions:
+(A) - Only combines the variable term with the constant, neglecting the multiplication of both terms.
+
+(B) - Correct, as it appropriately applies the distributive property.
+
+(C) - Incorrectly assumes the addition of \( x \) without properly applying the multiplication.
+
+(D) - Incorrectly adds the constant term when multiplying instead of following the appropriate multiplication rule.
+
+###
+Subject: Expanding Single Brackets
+###
+ConstructName: Multiply a single term over a bracket where the term on the outside contains a letter and the inside contains a linear expression
+###
+CorrectAnswer: B

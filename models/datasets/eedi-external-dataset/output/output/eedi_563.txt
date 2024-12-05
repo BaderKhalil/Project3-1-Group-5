@@ -1,0 +1,32 @@
+###
+Question: Rearrange the following equation to make \( x \) the subject
+\[
+5x - 2y = 10
+\] 
+
+###
+Answers:
+(A) - \( x = \frac{10 + 2y}{5} \) 
+
+(B) - \( x = \frac{10 - 2y}{5} \) 
+
+(C) - \( x = \frac{10y + 2}{5} \) 
+
+(D) - \( x = 10 - 2y \div 5 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the application of addition and subtraction when isolating variables in equations 
+
+(C) - Incorrectly interprets the equation as being multiplicative instead of additive 
+
+(D) - Misunderstands the order of operations in algebraic expressions 
+
+###
+Subject: Rearranging Formula and Equations
+###
+ConstructName: Rearrange formulae to change the subject where the subject appears once and two steps are needed
+###
+CorrectAnswer: A

@@ -1,0 +1,32 @@
+###
+Question: What is the value of the \( 5 \) in the number below?
+\(
+56248
+\) 
+
+###
+Answers:
+(A) - \( 5000 \) 
+
+(B) - \( 5 \) 
+
+(C) - \( 50 \) 
+
+(D) - \( 500 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - When asked for the value of a digit, just gives the digit 
+
+(C) - Does not equate the value of a number with the place value column it is in 
+
+(D) - Confuses the hundreds and tens place value columns 
+
+###
+Subject: Place Value
+###
+ConstructName: Recognise the place value of each digit in integers
+###
+CorrectAnswer: A

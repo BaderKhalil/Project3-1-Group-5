@@ -1,0 +1,36 @@
+###
+Question: The table below summarizes the scores of \( 30 \) students in a math test. Calculate the mean score. ![\begin{tabular}{|c|c|}
+Score & Frequency 
+\hline \( 50 \) & \( 5 \) \\
+\hline \( 60 \) & \( 10 \) \\
+\hline \( 70 \) & \( 8 \) \\
+\hline \( 80 \) & \( 7 \) \\
+\hline
+\end{tabular}]() 
+
+###
+Answers:
+(A) - \( 65 \)
+
+(B) - \( 67.33 \)
+
+(C) - \( 70.5 \)
+
+(D) - \( 72.25 \)
+
+###
+Misconceptions:
+(A) - Believes the mean is simply the average of the lowest and highest scores.
+
+(B) - Believes mean is calculated by adding scores and dividing by the number of scores without considering frequency.
+
+(C) - Believes that the mean is the result of miscalculating the total score due to incorrect frequency application.
+
+(D) - nan 
+
+###
+Subject: Averages and Range from Grouped Data
+###
+ConstructName: Calculate the mean from a frequency table
+###
+CorrectAnswer: D

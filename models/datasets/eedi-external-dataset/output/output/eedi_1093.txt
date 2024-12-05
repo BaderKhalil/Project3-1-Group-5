@@ -1,0 +1,38 @@
+###
+Question: This table shows the number of books read by a group of students in a month.
+
+What is the modal number of books read? \begin{tabular}{|c|c|l|}
+\hline Books Read & Frequency & \\
+\hline \( 0 \) & \( 2 \) & \\
+\hline \( 1 \) & \( 5 \) & \\
+\hline \( 2 \) & \( 3 \) & \\
+\hline \( 3 \) & \( 1 \) & \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( 1 \) 
+
+(B) - \( 2.5 \) 
+
+(C) - \( 5 \) 
+
+(D) - \( 3 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Calculates the mean instead of the mode 
+
+(C) - Thinks the mode refers to the highest frequency value rather than the number of books 
+
+(D) - Considers all values rather than looking at which value has the highest frequency 
+
+###
+Subject: Averages and Range from Frequency Table
+###
+ConstructName: Identify the mode from a frequency table
+###
+CorrectAnswer: A

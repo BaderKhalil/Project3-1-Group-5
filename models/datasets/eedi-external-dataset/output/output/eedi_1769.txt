@@ -1,0 +1,29 @@
+###
+Question: What is the measure of angle \( x \) in the given isosceles triangle? ![An isosceles triangle with base angles labelled as \( x \) and the vertex angle labelled as \( 40^{\degree} \)]()
+
+###
+Answers:
+(A) - \( 70^{\degree} \)
+
+(B) - \( 80^{\degree} \)
+
+(C) - \( 40^{\degree} \)
+
+(D) - \( 60^{\degree} \)
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the sum of the base angles can be equal to the vertex angle in an isosceles triangle.
+
+(B) - Does not apply the correct formula for the sum of the angles in a triangle.
+
+(C) - Confuses the vertex angle with base angles in an isosceles triangle.
+
+(D) - Correctly applies the properties of isosceles triangles to find the measure of the base angles.
+
+###
+Subject: Basic Angle Facts (straight line, opposite, around a point, etc)
+###
+ConstructName: Find missing angles in an isosceles triangle
+###
+CorrectAnswer: D

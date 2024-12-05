@@ -1,0 +1,29 @@
+###
+Question: In the expression \( 5x + 2 \), what is \( x \) referred to as?
+
+###
+Answers:
+(A) - Coefficient 
+
+(B) - Variable 
+
+(C) - Constant 
+
+(D) - Factor 
+
+###
+Misconceptions:
+(A) - Confuses the role of a coefficient with that of a variable 
+
+(B) - nan 
+
+(C) - Confuses a constant with a variable 
+
+(D) - Confuses a factor with a variable 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Recognise and name a variable
+###
+CorrectAnswer: B

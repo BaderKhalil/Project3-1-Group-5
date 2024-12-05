@@ -1,0 +1,29 @@
+###
+Question: Which of the following numbers remains the same when rounded to \( 1 \) decimal place and to \( 1 \) significant figure?
+
+###
+Answers:
+(A) - \( 0.085 \)
+
+(B) - \( 2.35 \)
+
+(C) - \( 0.120 \)
+
+(D) - \( 3.01 \)
+
+###
+Misconceptions:
+(A) - Misunderstands that rounding leading zeros does not change the value 
+
+(B) - Confuses decimal places with significant figures 
+
+(C) - Does not recognize that the first significant digit affects the rounding outcome 
+
+(D) - Does not account for the first significant digit being rounded correctly 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers below 1 to one significant figure
+###
+CorrectAnswer: D

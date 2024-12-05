@@ -1,0 +1,29 @@
+###
+Question: A square is reflected across the line \( y = x + 2 \). What are the new coordinates of the vertex at \( (1, 1) \) after the reflection? 
+
+###
+Answers:
+(A) - \( (0, 3) \)
+
+(B) - \( (3, 0) \) 
+
+(C) - \( (4, -1) \) 
+
+(D) - \( (-1, 5) \) 
+
+###
+Misconceptions:
+(A) - Computes the reflection incorrectly by misplacing the reference line 
+
+(B) - Does not take into account the position of the line of reflection 
+
+(C) - Miscalculates the distance from the line of reflection 
+
+(D) - Fails to reflect across the correct line of reflection 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a diagonal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: A

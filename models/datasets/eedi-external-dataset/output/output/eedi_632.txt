@@ -1,0 +1,29 @@
+###
+Question: Aisha pays a fixed charge for the first \( 50 \) units of water she uses. For every unit of water used beyond \( 50 \), there is an additional charge per unit. If Aisha uses a total of \( 300 \) units of water, how much does she pay in total? ![A graph showing the cost structures: the first 50 units cost £1 per unit, and then the cost changes to £0.50 per unit for additional units.]() 
+
+###
+Answers:
+(A) - \( £ 125 \) 
+
+(B) - \( £ 150 \) 
+
+(C) - \( £ 100 \) 
+
+(D) - \( £ 200 \) 
+
+###
+Misconceptions:
+(A) - Believes the cost per unit remains the same for all units consumed.
+
+(B) - Thinks that the total cost for the additional units is calculated incorrectly.
+
+(C) - Misunderstands the total cost as only the fixed initial charge with no additional units included.
+
+(D) - Assumes that the higher number of units leads to a simple multiplication without considering the rate changes.
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Read values off a real life graph
+###
+CorrectAnswer: A

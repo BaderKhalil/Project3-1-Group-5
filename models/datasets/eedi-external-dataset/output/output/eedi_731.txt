@@ -1,0 +1,29 @@
+###
+Question: Which of the following numbers is a prime number?
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 9 \) 
+
+(D) - \( 10 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses composite numbers with prime numbers 
+
+(C) - Misunderstands that an odd number is always prime 
+
+(D) - Believes that any even number is a prime number 
+
+###
+Subject: Prime Numbers
+###
+ConstructName: Recognise prime numbers
+###
+CorrectAnswer: A

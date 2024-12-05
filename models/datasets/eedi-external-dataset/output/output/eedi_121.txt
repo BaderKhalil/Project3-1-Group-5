@@ -1,0 +1,29 @@
+###
+Question: What is the slope of the line given by the equation \(2x - 4y = 8\)?
+
+###
+Answers:
+(A) \( \frac{1}{2} \)
+
+(B) \( -\frac{1}{2} \)
+
+(C) \( 2 \)
+
+(D) \( -2 \)
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the slope is derived from the coefficients of x when not in slope-intercept form. 
+
+(B) - Misunderstands the process of isolating y and incorrectly assumes that the negative sign reverses the slope. 
+
+(C) - Believes that the coefficient of x directly represents the slope without taking y into account. 
+
+(D) - Believes that once isolated, the slope from the standard form of the equation is simply the coefficients directly adjusted for the equation. 
+
+###
+Subject: Finding the Gradient and Intercept of a Line from the Equation
+###
+ConstructName: Find the gradient of a line written in the form ax + by = c
+###
+CorrectAnswer: B

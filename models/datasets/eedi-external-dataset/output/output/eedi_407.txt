@@ -1,0 +1,31 @@
+###
+Question: ![A speed-time graph. At 4 seconds, the car is travelling at a speed of 12 metres per second. After 6 seconds, the car is travelling at a speed of 16 metres per second. ]() Here is a speed-time graph for a car.
+
+Which of the following gives the best estimate for the distance travelled between \( 4 \) and \( 6 \) seconds? 
+
+###
+Answers:
+(A) - \( 26 m \) 
+
+(B) - \( 14 m \) 
+
+(C) - \( 22 m \) 
+
+(D) - \( 34 m \) 
+
+###
+Misconceptions:
+(A) - Believes the area calculation involves only the height at the higher point instead of considering the average speed.
+
+(B) - Underestimates the total distance by only considering the value at \( 4 \) seconds.
+
+(C) - nan 
+
+(D) - Overestimates the distance by incorrectly calculating the total area under the graph.
+
+###
+Subject: Speed, Distance, Time
+###
+ConstructName: Calculate the distance travelled using a speed-time graph
+###
+CorrectAnswer: C

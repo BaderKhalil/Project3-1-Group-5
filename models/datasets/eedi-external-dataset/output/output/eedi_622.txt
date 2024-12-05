@@ -1,0 +1,29 @@
+###
+Question: What is the result of the following calculation involving fractions?  ![A horizontal bar divided into 5 equal sections with vertical lines. The second section from the left is highlighted, and a curly bracket indicates this section represents the fraction being considered.]() 
+
+###
+Answers:
+(A) - \( \frac{2}{5} \times \frac{1}{2} \) 
+
+(B) - \( \frac{1}{5} \div \frac{2}{1} \) 
+
+(C) - \( \frac{2}{5} \div 2 \)
+
+(D) - \( \frac{1}{5} \times \frac{1}{2} \) 
+
+###
+Misconceptions:
+(A) - Fails to apply the correct operation for finding parts of a whole in a fraction context 
+
+(B) - Confuses division with the concept of multiplying by the opposite 
+
+(C) - Misunderstands that dividing by a whole number does not yield a fraction correctly 
+
+(D) - nan 
+
+###
+Subject: Multiplying Fractions
+###
+ConstructName: Multiply proper fractions in the form: Fraction × Fraction
+###
+CorrectAnswer: D

@@ -1,0 +1,35 @@
+###
+Question: \(
+2, 5, 10, 17, 26, \ldots
+\)
+
+When calculating the nth-term rule of this sequence, what should replace the star?
+
+nth-term rule: \( n^{2} \)\( \color{red}\star \)  \(n\) \( \color{purple}\square \)
+
+###
+Answers:
+(A) - \( +1 \)
+
+(B) - \( +2 \) 
+
+(C) - \( -1 \) 
+
+(D) - \( +3 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands that constant addition is not needed for each term in a quadratic sequence 
+
+(B) - Assumes that the second difference does not influence the constant addition in the nth-term rule for quadratic sequences 
+
+(C) - Believes applying a negative sign will always yield correct results regardless of the context of the sequence 
+
+(D) - Thinks that an arbitrary positive number can be added without considering the established pattern of increments 
+
+###
+Subject: Quadratic Sequences
+###
+ConstructName: Find the nth term rule for ascending quadratic sequences in the form ax² + bx + c
+###
+CorrectAnswer: B

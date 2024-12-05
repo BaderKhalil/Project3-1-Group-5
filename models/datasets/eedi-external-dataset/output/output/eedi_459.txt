@@ -1,0 +1,31 @@
+###
+Question: What was the temperature at 2:00 PM according to the graph? ![A line graph with title "Temperature changes throughout the day." 
+The x-axis is titled "Time" and is labelled with times from 0800 to 2000 in steps of 2 hours. The y-axis is titled "Temperature (°C)" and the scale runs from 0 to 40°C. The following points are plotted and joined together: (0800, 10), (1000, 15), (1200, 25), (1400, 30), (1600, 35), (1800, 28), (2000, 20).       
+]() 
+
+###
+Answers:
+(A) - \( 25 \mathrm{~°C} \) 
+
+(B) - \( 30 \mathrm{~°F} \) 
+
+(C) - \( 35 \mathrm{~K} \) 
+
+(D) - \( 28 \mathrm{~°C} \) 
+
+###
+Misconceptions:
+(A) - Misreads the temperature value for the wrong time. 
+
+(B) - Mistakes Celsius for Fahrenheit when interpreting temperature graphs.  
+
+(C) - Confuses the Kelvin scale with Celsius and fails to convert appropriately. 
+
+(D) - nan 
+
+###
+Subject: Time Series and Line Graphs
+###
+ConstructName: Read values off a temperature-time graph
+###
+CorrectAnswer: D

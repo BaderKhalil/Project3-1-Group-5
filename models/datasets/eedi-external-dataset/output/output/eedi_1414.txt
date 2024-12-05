@@ -1,0 +1,30 @@
+###
+Question: Sarah and Mark are debating about triangles.
+Sarah claims that if a triangle has three equal sides, it must also have three equal angles. Mark argues that if a triangle has three equal angles, it automatically has three equal sides. Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only Mark
+
+(C) - Both Sarah and Mark
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Thinks that having three equal sides guarantees three equal angles but doesn’t consider the converse 
+
+(B) - Believes that having three equal angles guarantees three equal sides without recognizing that this is true only for specific types of triangles 
+
+(C) - Does not understand that both properties hold but are not interchangeable
+
+(D) - nan 
+
+###
+Subject: 2D Names and Properties of Shapes-Others
+###
+ConstructName: Understand the properties of triangles and their classifications
+###
+CorrectAnswer: C

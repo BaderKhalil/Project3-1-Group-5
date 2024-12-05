@@ -1,0 +1,32 @@
+###
+Question: Identify the missing blank as a percentage:
+\(
+0.75 = \frac{3}{4} < \_\_\_\_
+\) 
+
+###
+Answers:
+(A) - \( 70 \% \) 
+
+(B) - \( 80 \% \) 
+
+(C) - \( 75 \% \) 
+
+(D) - \( 90 \% \) 
+
+###
+Misconceptions:
+(A) - Mistakenly assumes that values below 1.0 cannot exceed 100% 
+
+(B) - Incorrectly interprets \( 0.75 \) and thinks it should be less than \( 80 \% \) 
+
+(C) - nan 
+
+(D) - Overestimates the corresponding percentage value 
+
+###
+Subject: Converting between Fractions and Percentages
+###
+ConstructName: Convert fractions to two digit integer percentages
+###
+CorrectAnswer: B

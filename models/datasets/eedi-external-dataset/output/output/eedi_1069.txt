@@ -1,0 +1,35 @@
+###
+Question: A two-step function machine takes an input \( x \) and first doubles it, then adds 3. What is the output when the input is \( 4 \)? 
+
+Andy says the output is \( \mathbf{2} \boldsymbol{x} + \mathbf{3} \)
+
+Sara says the output is \( \mathbf{3} + \mathbf{2} \boldsymbol{x} \)
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Andy 
+
+(B) - Only Sara 
+
+(C) - Both Andy and Sara 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Has mistaken how to apply the operations in the correct order. 
+
+(B) - Confuses the order of operations and assumes addition can be performed before multiplication. 
+
+(C) - Both have an incorrect understanding of function application order. 
+
+(D) - Recognizes both answers are incorrect but miscalculates correctly what the output should be. 
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given algebraic input, find the output of a function machine
+###
+CorrectAnswer: A

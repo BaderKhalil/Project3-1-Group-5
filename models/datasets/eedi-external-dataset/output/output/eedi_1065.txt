@@ -1,0 +1,29 @@
+###
+Question: What is the equation of the vertical line shown in the diagram? ![The diagram depicts a vertical line passing through the x-axis at 3 and ranging vertically from -4 to 5.]() 
+
+###
+Answers:
+(A) - \( y=3 \) 
+
+(B) - \( x=3 \) 
+
+(C) - \( y=x+3 \) 
+
+(D) - \( x+y=3 \) 
+
+###
+Misconceptions:
+(A) - Confuses the equations of vertical and horizontal lines 
+
+(B) - nan 
+
+(C) - Believes the equation for a vertical line can be expressed with a slope-intercept form 
+
+(D) - Thinks the equation of a vertical line is a linear equation involving both x and y 
+
+###
+Subject: Horizontal and Vertical Lines
+###
+ConstructName: Recognise the equations of vertical lines from a diagram
+###
+CorrectAnswer: B

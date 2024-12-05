@@ -1,0 +1,35 @@
+###
+Question: Convert the following times to seconds and order them from shortest to longest.
+A:  10 minutes
+B:  9 minutes 30 seconds
+C:  8 \(
+\frac{1}{4}
+\) minutes
+D:  600 seconds  
+
+###
+Answers:
+(A) - \( C, B, A, D \)
+
+(B) - \( D, A, B, C \)
+
+(C) - \( B, C, A, D \)
+
+(D) - \( A, D, C, B \)
+
+###
+Misconceptions:
+(A) - Miscalculates the conversion from minutes to seconds for one or more times.
+
+(B) - Uses the incorrect logic to compare times by ignoring units or conversion.
+
+(C) - Confuses the order of times by not properly converting all times to seconds before comparing.
+
+(D) - Mixes up shortest and longest when ordering times.
+
+###
+Subject: Time
+###
+ConstructName: Convert from minutes to seconds
+###
+CorrectAnswer: D

@@ -1,0 +1,35 @@
+###
+Question: What is the value of \( y \) when \( x = 2 \) for the quadratic equation \( y = x^{2} - 4x + 3 \)?
+
+\begin{tabular}{|c|c|}
+\hline\( x \) & \( 2 \) \\
+\hline\( y \) & \(\bigstar\) \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( 1 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 0 \) 
+
+(D) - \( -1 \) 
+
+###
+Misconceptions:
+(A) - Thinks the equation simplifies to \( y = x - 3 \) 
+
+(B) - nan 
+
+(C) - Assumes all quadratic equations yield a zero y value at some point 
+
+(D) - Believes that the vertex of the parabola is below the axis, thus yielding a negative value 
+
+###
+Subject: Plotting Quadratics from Tables of Values
+###
+ConstructName: Given a specific x value, calculate the y value in the form y = x² + bx + c
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What is the total perimeter of this composite shape made from rectangles? ![A composite shape that resembles a letter "T" formed by two rectangles. The vertical rectangle has a height of 10cm and a width of 3cm. The horizontal rectangle has a width of 7cm and is positioned on top of the vertical rectangle.]() 
+
+###
+Answers:
+(A) - \( 34 \mathrm{~cm} \) 
+
+(B) - \( 26 \mathrm{~cm} \) 
+
+(C) - \( 44 \mathrm{~cm} \) 
+
+(D) - \( 30 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Miscalculates the perimeter by not considering all sides of both rectangles 
+
+(C) - Incorrectly adds lengths, possibly doubling some side measurements 
+
+(D) - Fails to properly account for overlapping sections of the rectangles when calculating total perimeter 
+
+###
+Subject: Compound Perimeter
+###
+ConstructName: Calculate compound perimeter involving just rectangles and squares, where the dimensions are given in the same units
+###
+CorrectAnswer: A

@@ -1,0 +1,35 @@
+###
+Question: Rachel and Jake are talking about how to represent the expression \( 3y + 2 \) using a bar model. Rachel claims that the model below represents \( 3y + 2 \) \begin{tabular}{l|l|l|}
+\( y \) & \( y \) & \( y \) \\
+\hline
+\end{tabular} Jake argues that this bar model below represents \( 3y + 2 \) \begin{tabular}{l|l|l|l|l|}
+\( y \) & \( y \) & \( y \) & 1 & 1 \\
+\hline
+\end{tabular} Who do you agree with? 
+
+###
+Answers:
+(A) - Only Rachel 
+
+(B) - Only Jake 
+
+(C) - Both Rachel and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not understand how to incorporate constants in a bar model 
+
+(B) - Misunderstands the representation of the expression as it lacks clarity on interpreting constants 
+
+(C) - Confuses the way expressions are represented involving constants 
+
+(D) - Does not grasp the significance of combining variables and constants in a bar model 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Represent an equation using a bar model
+###
+CorrectAnswer: B

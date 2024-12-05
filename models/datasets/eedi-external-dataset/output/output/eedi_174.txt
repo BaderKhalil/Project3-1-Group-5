@@ -1,0 +1,29 @@
+###
+Question: Which of the following equations does not represent a line parallel to \(y = -\frac{2}{3}x + 4\) ?
+
+###
+Answers:
+(A) - \(y + 2 = -\frac{2}{3}(x - 6)\)
+
+(B) - \(y = -\frac{2}{3}x + 1\)
+
+(C) - \(3y - 9 = 2x\)
+
+(D) - \(y = -\frac{2}{3}(x + 5) + 4\)
+
+###
+Misconceptions:
+(A) - Believes that the equation can be rewritten in slope-intercept form correctly preserves the slope.
+
+(B) - Understands that lines need to have the same slope to be parallel, but fails to see that changing the y-intercept does not affect parallelism.
+
+(C) - Thinks all equations can represent parallel lines regardless of the slope, miscalculating the slope when rewriting the equation.
+
+(D) - Believes that using the point-slope form accurately gives the correct slope even if it is not compared correctly.
+
+###
+Subject: Parallel Lines
+###
+ConstructName: Identify parallel lines with at least one equation written in another form
+###
+CorrectAnswer: C

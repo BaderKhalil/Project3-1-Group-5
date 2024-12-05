@@ -1,0 +1,29 @@
+###
+Question: \( \frac{3}{5} \times 4=4 \div M \times N \)
+
+###
+Answers:
+(A) - \( \begin{array}{l}M=5 \\ N=3\end{array} \) 
+
+(B) - \( \begin{array}{l}M=4 \\ N=5\end{array} \) 
+
+(C) - \( \begin{array}{l}M=3 \\ N=4\end{array} \) 
+
+(D) - Not possible 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands how to set up the equation properly, thinking the divisor should always match the multiplicative factor 
+
+(C) - Incorrectly assumes a direct relationship between the integers and fails to maintain balance in the equation 
+
+(D) - Does not realize we can express division as a multiplication of a reciprocal 
+
+###
+Subject: Multiplying Fractions
+###
+ConstructName: Multiply proper fractions in the form: Fraction × Integer
+###
+CorrectAnswer: A

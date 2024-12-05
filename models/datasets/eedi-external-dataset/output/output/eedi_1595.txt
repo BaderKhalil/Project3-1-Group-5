@@ -1,0 +1,31 @@
+###
+Question: This graph depicts the height of a plant over several weeks.
+
+What is the height of the plant after \( 6 \) weeks? ![A graph showing time (weeks) on the horizontal axis and height (cm) on the vertical axis. The graph starts at (0,5), rises linearly to (6,20), then continues to rise towards (12,30).]() 
+
+###
+Answers:
+(A) - \( 10 \mathrm{~cm} \) 
+
+(B) - \( 20 \mathrm{~cm} \) 
+
+(C) - \( 15 \mathrm{~cm} \) 
+
+(D) - \( 25 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - Calculates incorrectly by averaging growth over the whole period instead of interval at 6 weeks.
+
+(B) - nan
+
+(C) - Misunderstands linear growth and averages values instead of taking direct measurement.
+
+(D) - Assumes an exponential growth pattern rather than the linear trend shown in the graph.
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Read values off a height-time graph
+###
+CorrectAnswer: B

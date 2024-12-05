@@ -1,0 +1,30 @@
+###
+Question: A regular hexagon has a total perimeter of \( 30 \mathrm{~cm} \).
+What is the length of each of its sides?
+
+###
+Answers:
+(A) - \( 5 \mathrm{~cm} \)
+
+(B) - \( 10 \mathrm{~cm} \)
+
+(C) - \( 15 \mathrm{~cm} \)
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Incorrectly believes that each side length is equal to half the total perimeter
+
+(C) - Misunderstands the relationship between perimeter and side length, thinking that each side is a fraction of the perimeter instead of dividing by the number of sides
+
+(D) - Does not understand the properties of a regular hexagon and how to calculate individual side lengths from its perimeter 
+
+###
+Subject: Volume and Capacity Units
+###
+ConstructName: Given the perimeter, work out a missing length requiring knowledge of the geometrical properties of the shape
+###
+CorrectAnswer: A

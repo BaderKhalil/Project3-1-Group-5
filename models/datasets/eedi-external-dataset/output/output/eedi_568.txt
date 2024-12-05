@@ -1,0 +1,26 @@
+###
+Question: \( \frac{3}{4} \) of \( 32 = \) 
+
+###
+Answers:
+(A) - \( 24 \) 
+
+(B) - \( 20 \) 
+
+(C) - \( 16 \) 
+
+(D) - \( 12 \) 
+
+###
+Misconceptions:
+(A) - Mistakenly believes that multiplying the whole number by the numerator only gives the answer 
+(B) - Thinks that calculating a fraction means finding the complement of that number
+(C) - Incorrectly assumes that dividing the amount by 4 and keeping the quotient is correct 
+(D) - Confuses finding a fraction with a percentage calculation 
+
+###
+Subject: Fractions of an Amount
+###
+ConstructName: Calculate unit fractions of an amount
+###
+CorrectAnswer: A

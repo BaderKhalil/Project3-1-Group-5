@@ -1,0 +1,29 @@
+###
+Question: If two parallel lines are cut by a transversal and one of the alternate interior angles is \( 65^{\circ} \), what is the measure of the angle on the opposite side of the transversal? ![Two parallel horizontal lines with a transversal. The alternate interior angle corresponding to the upper parallel line is marked '65'. ]() 
+
+###
+Answers:
+(A) - \( 25^{\circ} \) 
+
+(B) - \( 65^{\circ} \) 
+
+(C) - \( 115^{\circ} \) 
+
+(D) - \( 180^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Assumes that alternate interior angles supplement to 90 degrees 
+
+(B) - nan 
+
+(C) - Believes that alternate interior angles add up to 180 degrees 
+
+(D) - Thinks all angles in a straight line must add up to 180 degrees, misapplying it to this situation 
+
+###
+Subject: Angle Facts with Parallel Lines
+###
+ConstructName: Find missing angles on parallel lines using alternate interior angles
+###
+CorrectAnswer: B

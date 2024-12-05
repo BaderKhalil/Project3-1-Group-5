@@ -1,0 +1,29 @@
+###
+Question: \( 2.5 + 3.6 = \)
+
+###
+Answers:
+(A) - \( 6.1 \)
+
+(B) - \( 5.9 \)
+
+(C) - \( 8.0 \)
+
+(D) - \( 7.1 \)
+
+###
+Misconceptions:
+(A) - Incorrectly adds the whole number parts first and then the decimal parts separately, overlooking the proper decimal placement. 
+
+(B) - Combines the digits incorrectly, perhaps perceiving the decimals and their place values as irrelevant or combining the parts without a proper understanding of decimals. 
+
+(C) - Ignores the sum exceeding ten, leading to incorrect placements of digits due to misunderstanding how to carry over in decimal addition.
+
+(D) - nan
+
+###
+Subject: Adding and Subtracting with Decimals
+###
+ConstructName: Add decimals with the same number of decimal places
+###
+CorrectAnswer: D

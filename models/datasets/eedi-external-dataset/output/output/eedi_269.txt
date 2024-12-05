@@ -1,0 +1,29 @@
+###
+Question: How do you write \( 0.375 \) as a percentage? 
+
+###
+Answers:
+(A) - \( 3.75 \% \) 
+
+(B) - \( 37.5 \% \) 
+
+(C) - \( 375 \% \) 
+
+(D) - \( 0.375 \% \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the role of the decimal point when converting to a percentage and incorrectly shifts it too far 
+
+(B) - nan 
+
+(C) - Assumes multiplying by 100 includes an additional decimal place leading to an excessively high value 
+
+(D) - Misinterprets the conversion process and applies the percentage sign without shifting the decimal appropriately 
+
+###
+Subject: Converting between Decimals and Percentages
+###
+ConstructName: Convert decimals less than 1 with 3 or more decimal places to percentages
+###
+CorrectAnswer: B

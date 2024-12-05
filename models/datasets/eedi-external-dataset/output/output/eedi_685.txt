@@ -1,0 +1,29 @@
+###
+Question: What is a common factor of \( 12 \) and \( 18 \)?
+
+###
+Answers:
+(A) - \( 6 \)
+
+(B) - \( 12 \)
+
+(C) - \( 18 \)
+
+(D) - \( 36 \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Confuses factors with divisible numbers
+
+(C) - Mistakenly thinks all the numbers in the range are common factors
+
+(D) - Confuses factors and multiples
+
+###
+Subject: Factors and Highest Common Factor
+###
+ConstructName: Identify common factors of two numbers
+###
+CorrectAnswer: A

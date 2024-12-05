@@ -1,0 +1,29 @@
+###
+        Question: Sarah claims that \( \frac{3}{4} \times 8 \) equals \( 6 \). Meanwhile, James says that \( \frac{3}{4} \times 8 \) equals \( \frac{24}{4} \). Who is correct? 
+
+        ###
+        Answers:
+        (A) - Only Sarah 
+
+        (B) - Only James 
+
+        (C) - Both Sarah and James 
+
+        (D) - Neither is correct 
+
+        ###
+        Misconceptions:
+        (A) - When multiplying a fraction by an integer, you simply multiply the numerator with the integer without simplifying. 
+
+        (B) - When converting back from a fraction, assumes the output is always in fractional form instead of calculating the product. 
+
+        (C) - nan 
+
+        (D) - nan 
+
+        ###
+        Subject: Multiplying Fractions
+        ###
+        ConstructName: Multiply proper fractions in the form: Fraction × Integer
+        ###
+        CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: Consider the quadratic function \( y=(x-3)(x+5) \)![\( W \)]() What is the equation of the line of symmetry? 
+
+###
+Answers:
+(A) - \( y=4 \) 
+
+(B) - \( x=1 \) 
+
+(C) - \( y=1 \) 
+
+(D) - \( x=1 \) 
+
+###
+Misconceptions:
+(A) - Confuses the concept of line of symmetry with the vertex's y-coordinate 
+
+(B) - Incorrectly calculates the average of the x-intercepts 
+
+(C) - Confuses the equations of vertical and horizontal lines 
+
+(D) - nan 
+
+###
+Subject: Quadratic Graphs-Others
+###
+ConstructName: Identify the line of symmetry of curves in the form (x + a)(x + b)
+###
+CorrectAnswer: B

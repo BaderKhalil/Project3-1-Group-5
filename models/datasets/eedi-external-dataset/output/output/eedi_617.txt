@@ -1,0 +1,29 @@
+###
+Question: What is the value of the shaded portion? ![A bar split into 10 equal parts. 4 of the parts are shaded, and the total length of these 4 parts is labelled 2/5. The total length of 8 parts is labelled with a question mark.]() 
+
+###
+Answers:
+(A) - \( \frac{8}{10} \) 
+
+(B) - \( \frac{4}{5} \) 
+
+(C) - \( \frac{8}{5} \) 
+
+(D) - \( \frac{8}{10} \) 
+
+###
+Misconceptions:
+(A) - Assumes adding fractions by just combining numerators while ignoring denominators 
+
+(B) - Believes that the total can be simplified without proper consideration of the fractions involved 
+
+(C) - Misunderstands the relationship between the shaded parts and total parts, thinking the whole must be more than one 
+
+(D) - Correctly identifies the need to keep the same denominator but fails to simplify correctly 
+
+###
+Subject: Dividing Fractions
+###
+ConstructName: Identify non-unit fractions when part of a shape
+###
+CorrectAnswer: D

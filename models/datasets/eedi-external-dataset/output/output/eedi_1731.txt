@@ -1,0 +1,38 @@
+###
+Question: Alex and Jamie are solving the equation:
+\(
+2y + 5 = 15 
+\)
+
+Alex claims a valid next step would be: \( 2y = 10 \)
+
+Jamie argues that a valid next step would be: \( 2y + 5 = 20 \)
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Alex 
+
+(B) - Only Jamie 
+
+(C) - Both Alex and Jamie 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the properties of equality when adding a constant to both sides of an equation 
+
+(C) - Misunderstands the properties of equality when adding a constant to both sides of an equation 
+
+(D) - nan 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve three or more step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: A

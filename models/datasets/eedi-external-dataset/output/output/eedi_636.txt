@@ -1,0 +1,35 @@
+###
+Question: Jamie and Alex are discussing the rules of rounding decimals.
+
+Jamie claims that \( \mathbf{4.387} \) rounded to \( 1 \) significant figure is \( \mathbf{4} \).
+
+Alex argues that \( \mathbf{4.387} \) rounded to \( 2 \) significant figures is \( \mathbf{4.4} \).
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Jamie 
+
+(B) - Only Alex 
+
+(C) - Both Jamie and Alex 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Incorrectly believes that only the first digit matters for rounding to one significant figure. 
+
+(B) - Misunderstands the process of rounding and ignores how the number affects the digit in the place value. 
+
+(C) - Incorrectly thinks both rounding processes can be simultaneously correct despite a conflict in values. 
+
+(D) - Assumes both statements about rounding are false without justifying why. 
+
+###
+Subject: Rounding to Significant Figures
+###
+ConstructName: Round numbers greater than 1 to two significant figures
+###
+CorrectAnswer: A

@@ -1,0 +1,32 @@
+###
+Question: What is the value of:
+\(
+\frac{72 + 48}{3}
+\)
+
+###
+Answers:
+(A) - \( 40 \) 
+
+(B) - \( 24 \) 
+
+(C) - \( 20 \) 
+
+(D) - \( 15 \) 
+
+###
+Misconceptions:
+(A) - Interprets the numerator incorrectly and miscalculates the overall value. 
+
+(B) - Incorrectly divides the numerator by the single term 3 without evaluating it first. 
+
+(C) - Incorrectly adds the numerator before dividing, leading to miscalculation. 
+
+(D) - Incorrectly assumes each term can be adjusted individually rather than performing the operations correctly. 
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Complete multi-step mental calculations
+###
+CorrectAnswer: A

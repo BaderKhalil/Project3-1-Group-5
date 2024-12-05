@@ -1,0 +1,32 @@
+###
+Question: ![A number line going from -5 up to 6]() Liam's classroom is on level \( 6 \).
+His locker is located in the basement on level \( -4 \).
+
+How many levels does Liam need to descend to reach his locker from his classroom?
+
+###
+Answers:
+(A) - \( 8 \) 
+
+(B) - \( 10 \) 
+
+(C) - \( 2 \) 
+
+(D) - \( 5 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the difference in level as counting in the wrong direction altogether 
+
+(B) - Calculates incorrectly by adding both the positive and negative levels together 
+
+(C) - Thinks the distance to descend is simply the absolute value of the bottom level without accounting for the upper level 
+
+(D) - Considers the levels but subtracts incorrectly by not fully accounting for the drop from \( 6 \) to \( -4 \) 
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Count backwards through zero starting from a positive integer
+###
+CorrectAnswer: A

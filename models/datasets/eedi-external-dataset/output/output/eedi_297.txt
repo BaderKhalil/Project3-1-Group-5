@@ -1,0 +1,29 @@
+###
+Question: In a triangle labeled with vertices \( A \), \( B \), and \( C \), which of the following represents the side between vertices \( A \) and \( B \)? 
+
+###
+Answers:
+(A) - \( AC \)
+
+(B) - \( AB \)
+
+(C) - \( BC \)
+
+(D) - \( A \)
+
+###
+Misconceptions:
+(A) - Confuses side notation with non-adjacent vertices 
+
+(B) - nan 
+
+(C) - Confuses the correct side between two vertices with a different side 
+
+(D) - Does not understand that a side is represented by the two endpoints 
+
+###
+Subject: Properties of Triangles
+###
+ConstructName: Use common conventions for labelling the sides of shapes
+###
+CorrectAnswer: B

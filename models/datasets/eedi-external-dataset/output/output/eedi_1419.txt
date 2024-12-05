@@ -1,0 +1,29 @@
+###
+Question: What is the 10th pattern in this sequence? ![Three consecutive patterns in a sequence. The first pattern is 2 blue triangles. The second pattern is 4 blue triangles arranged with one triangle missing. The third pattern is 6 blue triangles arranged with one triangle missing.]() 
+
+###
+Answers:
+(A) - ![8 blue triangles arranged with one triangle missing.]() 
+
+(B) - ![10 blue triangles arranged with one triangle missing.]() 
+
+(C) - ![12 blue triangles arranged with one triangle missing.]() 
+
+(D) - ![14 blue triangles arranged with one triangle missing.]() 
+
+###
+Misconceptions:
+(A) - When asked for a specific term in a sequence just gives the next term 
+
+(B) - When asked for a specific term in a sequence gives a different term, which is not the next 
+
+(C) - When asked for a specific term in a sequence gives a different term, which is not the next 
+
+(D) - nan 
+
+###
+Subject: Sequences-Others
+###
+ConstructName: Use a linear sequence expressed as a pattern to make a prediction about another term in the sequence other than the next one
+###
+CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: What should replace the question mark? \( 52 + ? = 100 \)
+
+###
+Answers:
+(A) - \( 48 \)
+
+(B) - \( 42 \)
+
+(C) - \( 62 \)
+
+(D) - \( 50 \)
+
+###
+Misconceptions:
+(A) - Correct calculation of the missing number. 
+
+(B) - Errors in subtraction; miscalculating by subtracting \( 52 \) from \( 100 \).
+
+(C) - Confusion between addition and subtracting the numbers incorrectly.
+
+(D) - Incorrectly assuming that the addends need to be equal to \( 100 \).
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Complete missing number mental addition problems up to 100
+###
+CorrectAnswer: A

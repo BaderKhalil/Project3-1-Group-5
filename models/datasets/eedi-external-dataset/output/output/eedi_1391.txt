@@ -1,0 +1,34 @@
+###
+Question: Factor and solve the equation:
+\(
+x^{2} - 5x = 0
+\)
+
+###
+Answers:
+(A) - \( x=5 \)
+
+(B) - \( x=0 \)
+
+(C) - \( x=-5 \)
+
+(D) - \( 
+\begin{array}{c}x=0 \\ \text{ or } \\ x=5\end{array} 
+\)
+
+###
+Misconceptions:
+(A) - Thinks they can find a root of the equation without factoring correctly. 
+
+(B) - nan 
+
+(C) - Confuses the value of x with the constant term in the equation. 
+
+(D) - nan 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Solve quadratic equations using factorisation in the form x(x + b) 
+###
+CorrectAnswer: D

@@ -1,0 +1,31 @@
+###
+Question: This is a graph of
+\(y=2x+1\) ![A set of axes with the graph y=2x+1 drawn on.]() Use the graph to solve
+\(2x+1=5\) 
+
+###
+Answers:
+(A) - \(x=1\) 
+
+(B) - \(x=2\) 
+
+(C) - \(x=0\) 
+
+(D) - \(x=3\) 
+
+###
+Misconceptions:
+(A) - Believes the solution to the equation is simply obtained by setting \(y=1\).
+
+(B) - Miscalculates the equation by incorrectly simplifying \(2x=5-1\) to \(2x=6\).
+
+(C) - Incorrectly thinks that if \(2x + 1 = 5\), then \(x\) must be \(0\) because the constant term is \(1\).
+
+(D) - Believes to reach the solution, one can overestimate the number of additions or multiplications necessary.
+
+###
+Subject: Graphical Solution of Simultaneous Equations
+###
+ConstructName: Given a sketch of a linear graph solve f(x) = n
+###
+CorrectAnswer: B

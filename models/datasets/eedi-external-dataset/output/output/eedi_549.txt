@@ -1,0 +1,29 @@
+###
+Question: ![A set of 12 apples and 3 bananas]() What is the ratio of apples to bananas? 
+
+###
+Answers:
+(A) - \( 4: 1 \) 
+
+(B) - \( 12: 3 \) 
+
+(C) - \( 12: 15 \) 
+
+(D) - \( 3: 12 \) 
+
+###
+Misconceptions:
+(A) - Simplifies the ratio incorrectly without maintaining the correct relationship 
+
+(B) - nan 
+
+(C) - Incorrectly adds another quantity to the ratio, resulting in a wrong total 
+
+(D) - Reverses the order of the items in the ratio 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Express pictorial representations of objects as a ratio
+###
+CorrectAnswer: B

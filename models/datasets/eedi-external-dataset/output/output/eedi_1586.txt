@@ -1,0 +1,29 @@
+###
+Question: Factorise \( 4x^{2} - 12x + 9 \) 
+
+###
+Answers:
+(A) - \( (2x - 3)^{2} \) 
+
+(B) - \( (2x + 3)^{2} \) 
+
+(C) - \( (4x - 9)^{2} \) 
+
+(D) - \( (2x - 9)^{2} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly assumes the signs can be switched without affecting the factorisation 
+
+(C) - Incorrectly thinks that the coefficients in the expanded form can be mismatched when factoring 
+
+(D) - When factorising, confuses the square in the factor form leading to an incorrect constant term 
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form ax² + bx + c
+###
+CorrectAnswer: A

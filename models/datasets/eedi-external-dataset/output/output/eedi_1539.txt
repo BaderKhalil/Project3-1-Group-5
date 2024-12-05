@@ -1,0 +1,30 @@
+<EXAMPLE>: 
+        ###
+        Question: A survey was conducted to find the favorite fruits among a group of students. The results were represented in a pie chart, and \( 120 \) degrees was allocated to apples. What does this indicate?
+
+        ###
+        Answers:
+        (A) - Apples are the least popular fruit among the students 
+
+        (B) - \( 30 \% \) of the students chose apples as their favorite fruit 
+
+        (C) - Apples are the most popular fruit among the students 
+
+        (D) - \( 120 \% \) of the students prefer apples 
+
+        ###
+        Misconceptions:
+        (A) - Assumes that a smaller angle in a pie chart automatically means less popularity 
+
+        (B) - nan 
+
+        (C) - Assumes that a larger angle invariably indicates the top choice without comparison of other angles 
+
+        (D) - Misunderstands the relationship between degrees in a pie chart and the percentage representation of survey responses 
+
+        ###
+        Subject: Pie Chart
+        ###
+        ConstructName: Interpret a pie chart
+        ###
+        CorrectAnswer: B

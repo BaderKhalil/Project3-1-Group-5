@@ -1,0 +1,29 @@
+###
+Question: Which of the following could be the equation of this curve? ![A graph of a cubic curve that has roots at (2,0), (3,0), and (4,0) and crosses the y-axis at (0,-6).]() 
+
+###
+Answers:
+(A) - \( y=(x-2)(x-3)(x-4) \) 
+
+(B) - \( y=(x-2)(x-3)(x+4) \) 
+
+(C) - \( y=(x+2)(x-3)(x-4) \) 
+
+(D) - \( y=(x-2)(x+3)(x-4) \) 
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Misunderstands that the root at \( (4,0) \) should be negative in the equation
+
+(C) - Does not recognize that the signs of roots must match the positions on the x-axis 
+
+(D) - Does not realize the correct signs for the roots; misplaces one root in the equation 
+
+###
+Subject: Sketching from Factorised Form
+###
+ConstructName: Given the sketch of a curve in the form (x - a)(x - b)(x - c), work out its factorised form
+###
+CorrectAnswer: A

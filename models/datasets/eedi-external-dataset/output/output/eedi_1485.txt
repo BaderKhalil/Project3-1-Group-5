@@ -1,0 +1,29 @@
+###
+Question: Sarah wants to calculate the distance between the points \( (4, -3) \) and \( (2, 5) \). She identifies them as: \( \begin{array}{rrrr}x_{1} & y_{1} & x_{2} & y_{2} \\ (4, & -3) & (2, & 5)\end{array} \) She intends to apply the formula: \( \sqrt{\left(x_{2}-x_{1}\right)^{2}+\left(y_{2}-y_{1}\right)^{2}} \) What does the first bracket evaluate to?
+
+###
+Answers:
+(A) - \( (-2)^{2} \) 
+
+(B) - \( (2)^{2} \) 
+
+(C) - \( (6)^{2} \) 
+
+(D) - \( (-6)^{2} \) 
+
+###
+Misconceptions:
+(A) - Misunderstands how subtraction affects the sign of the result, thinking that it remains negative.
+
+(B) - Incorrectly believes that subtracting a smaller positive number from a larger one will yield a negative result.
+
+(C) - Assumes the distance calculation leads to a larger number than actually occurs, possibly confusing the coordinates.
+
+(D) - Misapplies subtraction, not realizing that this does not directly represent the required operation in this situation.
+
+###
+Subject: Distance Between Two Co-ordinates
+###
+ConstructName: Substitute negative integer values into expressions involving no powers or roots
+###
+CorrectAnswer: A

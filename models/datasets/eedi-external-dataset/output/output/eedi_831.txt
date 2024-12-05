@@ -1,0 +1,29 @@
+###
+Question: Which of the following is a common factor of: \( 12x^3 + 16x^2 \)?
+
+###
+Answers:
+(A) - \( 4 \)
+
+(B) - \( 12x \)
+
+(C) - \( 8x^2 \)
+
+(D) - \( 2x^2 \)
+
+###
+Misconceptions:
+(A) - Thinks any number that divides the coefficients can be considered a common factor without checking the variable part.
+
+(B) - Overlooks that while \( 12x \) is part of one term, it is not a common factor of both terms.
+
+(C) - Assumes a term from one part of the expression can be a common factor without considering its presence in both terms.
+
+(D) - nan 
+
+###
+Subject: Factorising into a Single Bracket
+###
+ConstructName: Identify factors of algebraic expressions
+###
+CorrectAnswer: D

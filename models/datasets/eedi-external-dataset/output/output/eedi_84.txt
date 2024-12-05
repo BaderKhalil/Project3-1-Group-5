@@ -1,0 +1,29 @@
+###
+Question: What is the equation of this line? ![A graph of a vertical line going through 2 on the x axis.]() 
+
+###
+Answers:
+(A) - \( y=2 \) 
+
+(B) - \( x=2 \) 
+
+(C) - \( x=2 y \) 
+
+(D) - \( y=2 x \) 
+
+###
+Misconceptions:
+(A) - Confuses the equation of a vertical line with that of a horizontal line by incorrectly using the y-variable. 
+
+(B) - nan 
+
+(C) - Incorrectly assumes that the equation of a vertical line must involve multiplication by y. 
+
+(D) - Believes the equation of a vertical line is expressed in the same form as a line with a slope through the origin. 
+
+###
+Subject: Horizontal and Vertical Lines
+###
+ConstructName: Recognise the equations of vertical lines from a diagram
+###
+CorrectAnswer: B

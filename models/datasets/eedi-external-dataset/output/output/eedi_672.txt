@@ -1,0 +1,29 @@
+###
+Question: What is the result of multiplying three-fourths by eight? 
+
+###
+Answers:
+(A) - 4 
+
+(B) - 6 
+
+(C) - 8 
+
+(D) - 12 
+
+###
+Misconceptions:
+(A) - Thinks that multiplying simply halves the fraction without considering the whole number 
+
+(B) - Misunderstands how to multiply a fraction by a whole number, possibly adding instead of multiplying 
+
+(C) - Assumes that multiplying any fraction by a whole number results in the whole number itself 
+
+(D) - nan 
+
+###
+Subject: Types, Naming and Estimating
+###
+ConstructName: Multiply fractions by whole numbers
+###
+CorrectAnswer: D

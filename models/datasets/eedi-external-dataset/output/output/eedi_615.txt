@@ -1,0 +1,31 @@
+###
+Question: The ratio of apples to oranges in a fruit basket is \( 7: 5 \)
+
+If there are \( 35 \) apples, how many fruits (apples and oranges) are there in total? 
+
+###
+Answers:
+(A) - \( 60 \) 
+
+(B) - \( 50 \) 
+
+(C) - \( 42 \) 
+
+(D) - \( 70 \) 
+
+###
+Misconceptions:
+(A) - Thinks the total number is obtained by just adding apples to a misconceived quantity of extra fruits 
+
+(B) - Thinks the ratio can be applied incorrectly by estimating the total without proper scaling 
+
+(C) - nan 
+
+(D) - Thinks the total is calculated by multiplying the apples by the ratio 
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Given information about one part, work out the whole
+###
+CorrectAnswer: D

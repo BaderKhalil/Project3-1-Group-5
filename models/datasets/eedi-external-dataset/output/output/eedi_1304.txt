@@ -1,0 +1,29 @@
+###
+Question: A rectangle is reflected across the line \( x = 3 \). If one vertex of the rectangle is at point \( A(5, 2) \), what are the new coordinates of point \( A' \) after the reflection? 
+
+###
+Answers:
+(A) - \( (1, 2) \)
+
+(B) - \( (3, 2) \)
+
+(C) - \( (7, 2) \)
+
+(D) - \( (9, 2) \)
+
+###
+Misconceptions:
+(A) - Misunderstands the concept of reflection; incorrectly calculates the distance from the line to the point. 
+
+(B) - Refers to the reflected point being on the line of reflection rather than understanding the concept of mirroring past the line.
+
+(C) - Incorrectly believes that reflecting a point means adding twice the distance from the line to the point instead of mirroring it.
+
+(D) - Misapplies the concept of reflection, thinking that the x-coordinate should always increase without regard to actual distance from the line of reflection.
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a vertical line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: C

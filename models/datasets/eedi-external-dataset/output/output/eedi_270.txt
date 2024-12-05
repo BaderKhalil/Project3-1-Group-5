@@ -1,0 +1,33 @@
+###
+Question: What is the solution set for the inequality?
+
+\(
+2x-5 > 3
+\)
+
+###
+Answers:
+(A) - \( \{x > 4\} \) 
+
+(B) - \( \{x < 4\} \) 
+
+(C) - \( \{x > 1\} \) 
+
+(D) - \( \{x \leq 1\} \) 
+
+###
+Misconceptions:
+(A) - Incorrectly solved the inequality by adding instead of isolating the variable 
+
+(B) - Misunderstands the direction of the inequality sign after isolating \(x\)
+
+(C) - Correctly solves up to a certain point, but miscalculates the final value 
+
+(D) - Confuses the inequality sign, thinking it is less than or equal to instead of just greater than 
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve linear inequalities and determine solution sets
+###
+CorrectAnswer: C

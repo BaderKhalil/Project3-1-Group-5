@@ -1,0 +1,29 @@
+###
+Question: Which expression correctly represents the following calculation using proper order of operations? \( 3 + 2 \times (x - 1) \)
+
+###
+Answers:
+(A) - \( 3 + 2x - 2 \)
+
+(B) - \( (3 + 2)x - 1 \)
+
+(C) - \( 3 + (2 \times x) - 1 \)
+
+(D) - \( 5x - 1 \)
+
+###
+Misconceptions:
+(A) - Misunderstands the distributive property, simplifying \(2(x-1)\) incorrectly 
+
+(B) - Incorrectly believes addition can be distributed across multiplication
+
+(C) - Incorrectly adds \(3\) before multiplying by \(2\) (disregarding order of operations)
+
+(D) - Assumes that adding \(3\) and multiplying by \(2\) results in a multiplication of \(x\) 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Write algebraic expressions with correct order of operations
+###
+CorrectAnswer: A

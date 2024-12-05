@@ -1,0 +1,29 @@
+### 
+Question: The product of two numbers is \( 15 \). What could the two numbers be?
+
+### 
+Answers:  
+(A) - \( -3 \) and \( -5 \)  
+
+(B) - \( 3 \) and \( 5 \)  
+
+(C) - \( -1 \) and \( 15 \)  
+
+(D) - \( 1 \) and \( -15 \)  
+
+### 
+Misconceptions:  
+(A) - Believes that multiplying two negatives gives a positive answer but doesn’t realize the numbers must be positive to yield a positive product  
+
+(B) - nan  
+
+(C) - Believes that a negative times a positive can yield a positive product  
+
+(D) - Believes that one negative and one positive can yield a positive product but gets the signs mixed up  
+
+### 
+Subject: Multiplying and Dividing Negative Numbers  
+### 
+ConstructName: Carry out multiplication problems involving one negative integer  
+### 
+CorrectAnswer: B

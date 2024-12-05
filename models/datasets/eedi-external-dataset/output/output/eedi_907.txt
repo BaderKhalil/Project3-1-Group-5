@@ -1,0 +1,29 @@
+###
+Question: ![A function machine with 3 rectangles in a row, joined by arrows pointing from left to right. The first rectangle on the left is empty and says "input" above it. The middle rectangle has "+6" written inside it and the final rectangle has "output" written above it and "2" written inside it.]() What is the input of this function machine? 
+
+###
+Answers:
+(A) - \( -4 \) 
+
+(B) - \( -8 \) 
+
+(C) - \( 8 \) 
+
+(D) - \( -2 \) 
+
+###
+Misconceptions:
+(A) - Believes adding a positive number results in a negative input  
+
+(B) - Thinks that to find the input, you must subtract the output from a smaller number  
+
+(C) - Assumes that the input and the output are directly the same after the addition  
+
+(D) - Is confused about the sign and believes adding 6 leads to a negative result  
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given output find the input of a function machine
+###
+CorrectAnswer: A

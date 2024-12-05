@@ -1,0 +1,29 @@
+###
+Question: What number is \( 5,000 \) less than \( 117,245 \) ? 
+
+###
+Answers:
+(A) - \( 122,245 \) 
+
+(B) - \( 112,245 \) 
+
+(C) - \( 120,245 \) 
+
+(D) - \( 111,245 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the concept of 'less than' by adding instead of subtracting 
+
+(B) - Correctly subtracts but fails to align numbers properly in place value 
+
+(C) - Adds 5,000 instead of subtracting it when altering a number 
+
+(D) - Subtracts but miscalculates the final value due to misplaced digits 
+
+###
+Subject: Place Value
+###
+ConstructName: Find another value less than a given number
+###
+CorrectAnswer: B

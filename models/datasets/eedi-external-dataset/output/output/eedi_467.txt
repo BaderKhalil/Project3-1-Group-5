@@ -1,0 +1,29 @@
+###
+Question: Ayan and Priya share their earnings in a ratio of \( 4: 3 \). Ayan earns \( £ 28 \) more than Priya. What is their total earnings together?
+
+###
+Answers:
+(A) - \( £ 112 \) 
+
+(B) - \( £ 224 \) 
+
+(C) - \( £ 196 \) 
+
+(D) - £154 
+
+###
+Misconceptions:
+(A) - In ratio question where the difference between the sides is given, mistakenly assumes that the total is just the difference times one side of the ratio.
+
+(B) - In ratio calculation, overlooks the need to divide the total earnings properly according to the parts of the ratio after finding the total based on differences.
+
+(C) - nan 
+
+(D) - Miscalculates the total by not properly translating the ratio and the given difference into total amounts.
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Given information about the relationship between two parts (e.g. one part is worth 5 more than another), work out the whole
+###
+CorrectAnswer: C

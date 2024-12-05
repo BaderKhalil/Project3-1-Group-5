@@ -1,0 +1,29 @@
+###
+Question: \( n^{2} - 8n + 16 \equiv (n \bigstar )^{2} + \triangle \)
+
+###
+Answers:
+(A) - \(\bigstar =-4 \) 
+
+(B) - \(\bigstar =-8 \) 
+
+(C) - \(\bigstar =-2 \) 
+
+(D) - \(\bigstar =-6 \) 
+
+###
+Misconceptions:
+(A) - When completing the square, believes the constant in the bracket is the opposite of half the coefficient of n 
+
+(B) - When completing the square, believes the constant in the bracket is already simplified and doesn't require adjustments 
+
+(C) - nan 
+
+(D) - When completing the square, believes the constant in the bracket is half of the coefficient of n without considering its correct sign 
+
+###
+Subject: Completing the Square
+###
+ConstructName: Complete the square for expressions that end up in the form (x + a)² + b
+###
+CorrectAnswer: A

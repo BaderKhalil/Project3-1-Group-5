@@ -1,0 +1,29 @@
+###
+Question: What is \( 472 \) rounded to the nearest \( 100 \) ? 
+
+###
+Answers:
+(A) - \( 400 \) 
+
+(B) - \( 500 \) 
+
+(C) - \( 450 \) 
+
+(D) - \( 600 \) 
+
+###
+Misconceptions:
+(A) - Rounds to the wrong degree of accuracy (rounds too little) 
+
+(B) - Correct rounding but assumes the midpoint rounds up always 
+
+(C) - Rounds to the wrong range (incorrect nearest base) 
+
+(D) - Rounds to the wrong degree of accuracy (rounds too much) 
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round integers to the nearest other integer value (e.g. 20, 100 etc)
+###
+CorrectAnswer: B

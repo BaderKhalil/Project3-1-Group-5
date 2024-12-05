@@ -1,0 +1,29 @@
+###
+        Question: Triangle \( XYZ \) is an isosceles triangle with \( XY = XZ \). What type of triangle is triangle \( YXZ \) ? 
+
+        ###
+        Answers:
+        (A) - Scalene 
+
+        (B) - Isosceles 
+
+        (C) - Right-angled 
+
+        (D) - Obtuse 
+
+        ###
+        Misconceptions:
+        (A) - Confuses scalene and isosceles triangles 
+
+        (B) - Misunderstands that isosceles triangles can also be right-angled 
+
+        (C) - nan 
+
+        (D) - Thinks that an obtuse triangle can still be isosceles without realizing the angle conditions 
+
+        ###
+        Subject: Properties of Triangles
+        ###
+        ConstructName: Identify the properties of isosceles triangles
+        ###
+        CorrectAnswer: C

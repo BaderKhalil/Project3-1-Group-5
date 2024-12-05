@@ -1,0 +1,37 @@
+###
+Question: Which of the following best describes how to construct a triangle with side length \( 5 \mathrm{~cm} \) and angles of \( 30^{\degree} \) and \( 70^{\degree} \) adjacent to that side? 
+
+###
+Answers:
+(A) - - Draw a line \( 5 \mathrm{~cm} \) long
+- Use a protractor at one end to measure \( 30^{\degree} \) and place a dot
+- From the other end of the line, use a protractor to measure \( 70^{\degree} \), then draw a line through both dots to complete the triangle.
+
+(B) - - Draw a line \( 5 \mathrm{~cm} \) long
+- Measure \( 30^{\degree} \) at one end of the line with a protractor and mark a point
+- From that point, measure \( 70^{\degree} \) in the opposite direction, then extend that angle to form a triangle.
+
+(C) - - Draw a line \( 5 \mathrm{~cm} \) long
+- Set the compass to \( 5 \mathrm{~cm} \) and draw arcs from each end to complete the triangle
+- Measure \( 30^{\degree} \) from one end and \( 70^{\degree} \) from the other to ensure angles are correct.
+
+(D) - - Draw a line \( 5 \mathrm{~cm} \) long
+- Measure \( 30^{\degree} \) from one end and place a dot
+- Use the protractor to measure \( 70^{\degree} \) from the same end, then draw straight lines through both dots to find where they meet, completing the triangle.
+
+###
+Misconceptions:
+(A) - Places both angles at the ends of the same side instead of adjacent to the side. 
+
+(B) - Assumes angles measured clockwise from the first angle will give the correct location of the triangle’s vertex.
+
+(C) - Incorrectly suggests using arcs instead of measuring the specific angles needed for the triangle.
+
+(D) - Draws both angles at the same end of the line instead of placing them adjacent to the side.
+
+###
+Subject: Construct Triangle
+###
+ConstructName: Construct a triangle using Angle-Side-Angle
+###
+CorrectAnswer: A

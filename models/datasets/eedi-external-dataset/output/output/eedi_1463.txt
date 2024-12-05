@@ -1,0 +1,34 @@
+###
+Question: Sara needs to find the roots of the equation using the quadratic formula.
+\(
+3x^{2}+7x-6=0
+\)
+
+What should replace the triangle? \( ?\pm \sqrt{\triangle-?} \) 
+
+###
+Answers:
+(A) - \( 81 \) 
+
+(B) - \( -81 \) 
+
+(C) - \( 54 \) 
+
+(D) - \( -54 \) 
+
+###
+Misconceptions:
+(A) - Believes the discriminant is found by squaring the linear coefficient directly 
+
+(B) - Incorrectly assumes that the discriminant will always be negative if the linear coefficient is negative 
+
+(C) - nan 
+
+(D) - Confuses the calculation by mistakenly applying the properties of negatives in operations 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Solve quadratic equations using the quadratic formula where the coefficient of x² is not 1 
+###
+CorrectAnswer: A

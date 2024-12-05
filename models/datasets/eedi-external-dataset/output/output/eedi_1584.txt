@@ -1,0 +1,32 @@
+###
+Question: Simplify the expression 
+\(
+\frac{3}{4} \div \frac{1}{2}
+\)
+
+###
+Answers:
+(A) - \( \frac{3}{2} \) 
+
+(B) - \( \frac{3}{8} \) 
+
+(C) - \( \frac{1}{6} \) 
+
+(D) - \( \frac{6}{4} \) 
+
+###
+Misconceptions:
+(A) - Correct understanding of dividing fractions, but mistakes the reciprocal application. 
+
+(B) - Thinks that dividing by a fraction results in a smaller fraction instead of a larger one.
+
+(C) - May apply addition or improper fraction conversion instead of division rules.
+
+(D) - Incorrectly believes that the result of the division remains a fraction with the same denominator.
+
+###
+Subject: Dividing Fractions
+###
+ConstructName: Divide proper fractions in the form: Proper Fraction ÷ Proper Fraction
+###
+CorrectAnswer: A

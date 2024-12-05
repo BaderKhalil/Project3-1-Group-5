@@ -1,0 +1,29 @@
+###
+Question: Alex and Jordan are discussing how to evaluate the expression \( \frac{-15}{-5} \) and \( -6 \div (-2) \). Alex says the result is \( 3 \) while Jordan claims it's \( -3 \). Who is correct? 
+
+###
+Answers:
+(A) - Only Alex
+
+(B) - Only Jordan
+
+(C) - Both Alex and Jordan
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes that dividing two negatives yields a negative answer
+
+(B) - Believes that dividing a negative number by a negative number results in a negative answer
+
+(C) - nan 
+
+(D) - nan 
+
+###
+Subject: Multiplying and Dividing Negative Numbers
+###
+ConstructName: Carry out division problems involving one negative integer
+###
+CorrectAnswer: A

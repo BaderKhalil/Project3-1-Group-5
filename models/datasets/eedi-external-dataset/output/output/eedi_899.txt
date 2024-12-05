@@ -1,0 +1,33 @@
+###
+Question: \[
+6 + 4 \div 2 - 3 =
+\]
+
+Which calculation should you perform first?
+
+###
+Answers:
+(A) - \( 4 \div 2 \)
+
+(B) - \( 6 + 4 \)
+
+(C) - \( 6 - 3 \)
+
+(D) - It doesn't matter: all calculations will give the same result
+
+###
+Misconceptions:
+(A) - Understands the necessity of division but overlooks that it must be done before addition and subtraction.
+
+(B) - Performs addition before division, not adhering to the correct order of operations.
+
+(C) - Calculates subtraction first without recognizing the order of operations, mistakenly thinking subtraction is prioritized.
+
+(D) - Believes the outcome is the same regardless of the sequence of operations, ignoring the importance of following the order of operations.
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division
+###
+CorrectAnswer: A

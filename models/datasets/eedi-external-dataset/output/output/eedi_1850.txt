@@ -1,0 +1,33 @@
+###
+Question: Sarah's journey on a distance-time graph shows her travel from point A to point B over a period of \( 5 \) minutes. 
+
+If she maintains a speed of \( 12 \mathrm{~m} / \mathrm{s} \) during this time, what distance should be represented on the graph at the end of the \( 5 \) minutes? 
+
+(Note: The graph has the vertical axis labelled Distance (m) with a star above the \( 0 \) mark and the horizontal axis is labelled Time (mins) going from \( 0 \) to \( 5 \) in even intervals.)
+
+### 
+Answers:
+(A) - \( 3600 \mathrm{~m} \) 
+
+(B) - \( 600 \mathrm{~m} \) 
+
+(C) - \( 60 \mathrm{~m} \) 
+
+(D) - \( 720 \mathrm{~m} \) 
+
+### 
+Misconceptions:
+(A) - Incorrectly multiplies speed by the full duration in seconds without converting minutes. 
+
+(B) - Correctly calculates distance but fails to account for the total travel time in seconds. 
+
+(C) - Misunderstands the relationship between distance, speed, and time leading to an incorrect formula. 
+
+(D) - nan 
+
+### 
+Subject: Real Life Graphs
+### 
+ConstructName: Calculate distance where speed and time are in the appropriate units
+### 
+CorrectAnswer: D

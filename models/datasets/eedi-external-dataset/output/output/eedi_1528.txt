@@ -1,0 +1,32 @@
+###
+Question: Simplify the following by collecting like terms.
+\[
+8x + 3y - 5x + 2y
+\]
+
+###
+Answers:
+(A) - \(3x + 5y\)
+
+(B) - \(3x + 1y\)
+
+(C) - \(3y + 5x\)
+
+(D) - \(8y - 5x\)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands how to combine the coefficients of like terms involving \(y\).
+
+(C) - Incorrectly assumes that only the \(y\) terms can be combined and misapplies the operation.
+
+(D) - Confuses the operation and signs, thinks the terms involving \(x\) and \(y\) are connected through subtraction that leads to a wrong total.
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just two linear variables
+###
+CorrectAnswer: A

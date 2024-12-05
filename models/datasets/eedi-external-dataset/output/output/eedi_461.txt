@@ -1,0 +1,29 @@
+###
+Question: In a bag, there are \( 5 \) blue marbles and \( 3 \) green marbles. After drawing one blue marble, it is not put back into the bag. What is the probability of drawing a green marble next? 
+
+###
+Answers:
+(A) - \( \frac{3}{8} \) 
+
+(B) - \( \frac{2}{7} \) 
+
+(C) - \( \frac{3}{7} \) 
+
+(D) - \( \frac{5}{8} \) 
+
+###
+Misconceptions:
+(A) - Assumes the total number of marbles remains the same after one is drawn. 
+
+(B) - Incorrectly calculates the remaining marbles without considering that one blue marble was removed. 
+
+(C) - Correctly reduces the numerator but fails to account for the actual total number of marbles left. 
+
+(D) - Assumes that there are still \( 8 \) marbles in total after one draw. 
+
+###
+Subject: Tree Diagrams with Dependent Events
+###
+ConstructName: Calculate the probability of two dependent events occurring without drawing a tree diagram
+###
+CorrectAnswer: C

@@ -1,0 +1,35 @@
+###
+Question: Sarah and Jim are evaluating the expression \( 8 + 2 \times 5 \)
+Sarah claims: \( 8 + 2 \times 5 \equiv (8 + 2) \times 5 \)
+Jim states: \( 8 + 2 \times 5 \equiv 10 + 5 \)
+
+Who is correct?
+
+###
+Answers:
+(A) - Only
+Sarah 
+
+(B) - Only
+Jim 
+
+(C) - Both Sarah and Jim 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Doesn't recognize that multiplication must be performed before addition according to the order of operations 
+
+(B) - Incorrectly assumes that the standard operation order does not apply and adds before multiplying 
+
+(C) - Misunderstands that only the correct order of operations should yield the right answer 
+
+(D) - Fails to apply the order of operations and doesn’t realize that both interpretations are incorrect 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division
+###
+CorrectAnswer: D

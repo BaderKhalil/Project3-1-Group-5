@@ -1,0 +1,29 @@
+###
+Question: ![A group of eight apples and four oranges]() What is the ratio of apples to oranges?
+
+###
+Answers:
+(A) - \( 4: 2 \)
+
+(B) - \( 8: 4 \)
+
+(C) - \( 2: 1 \)
+
+(D) - \( 1: 2 \)
+
+###
+Misconceptions:
+(A) - Reduces the ratio incorrectly by not simplifying properly 
+
+(B) - Gives the total count instead of the correct ratio 
+
+(C) - nan 
+
+(D) - Mixes up the order of the ratio 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Express pictorial representations of objects as a ratio
+###
+CorrectAnswer: B

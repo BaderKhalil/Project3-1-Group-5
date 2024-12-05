@@ -1,0 +1,29 @@
+###
+Question: Identify the \( n \)th term of the following linear sequence: ![\( \begin{array}{llllll}2 & 4 & 6 & 8 & 10 & \ldots\end{array} \)]() 
+
+###
+Answers:
+(A) - \( n + 1 \)
+
+(B) - \( 2n \)
+
+(C) - \( 3n - 1 \)
+
+(D) - \( 2n + 2 \)
+
+###
+Misconceptions:
+(A) - Underestimates the impact of multiplying by a constant factor
+
+(B) - nan 
+
+(C) - Misinterprets the pattern as increasing by 3 instead of 2
+
+(D) - Adds an incorrect constant to the term without recognizing the proper sequence
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Find the nth term rule for an ascending integer linear sequence
+###
+CorrectAnswer: B

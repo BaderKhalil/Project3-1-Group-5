@@ -1,0 +1,29 @@
+###
+Question: Emily and Jack are analyzing this function machine ![A function machine with an input of 2x, no function labelled and an output of x+5]() Emily claims the function is \( -1 \) and Jack thinks the function is \( +5 \). Who do you agree with?
+
+###
+Answers:
+(A) - Only Emily
+
+(B) - Only Jack 
+
+(C) - Both Emily and Jack 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Misunderstands the transformation of the input in relation to the output. 
+
+(B) - Assumes that the function only applies the addition, ignoring any possible transformations of the input. 
+
+(C) - Incorrectly believes both given functions can be applied simultaneously in this context. 
+
+(D) - Misinterprets the relationship between input and output in the function machine. 
+
+###
+Subject: Function Machines
+###
+ConstructName: Determine the function of a single function machine used to create an algebraic expression
+###
+CorrectAnswer: D

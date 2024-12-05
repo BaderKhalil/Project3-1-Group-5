@@ -1,0 +1,29 @@
+###
+Question: A rectangle is reflected over the line \( y = -x \). What are the new coordinates of point \( Q \) after the reflection, if \( Q \) has the coordinates (1, -2)? ![A coordinate grid with a rectangle and the reflection line drawn. The rectangle's corners are at (1, -2), (4, -2), (1, 1), and (4, 1). Q is the coordinate (1, -2).]()
+
+###
+Answers:
+(A) - \( (-2, -1) \) 
+
+(B) - \( (-2, 4) \) 
+
+(C) - \( (2, 1) \) 
+
+(D) - \( (1, -1) \) 
+
+###
+Misconceptions:
+(A) - Incorrectly applies the reflection formula. 
+
+(B) - Fails to understand how the coordinates change sign when reflecting over \( y = -x \). 
+
+(C) - Fails to reflect across mirror line by incorrectly switching x and y values without negating them.
+
+(D) - Fails to account for the diagonal nature of the reflection and does not reverse the signs.
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a diagonal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: A

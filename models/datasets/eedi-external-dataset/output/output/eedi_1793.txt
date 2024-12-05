@@ -1,0 +1,33 @@
+###
+Question: \[
+5, 11, 17, 23, \ldots
+\]
+
+When calculating the nth-term rule of this sequence, what should replace the star? nth-term rule: \(\color{gold}\bigstar\)n  \(\square\) 
+
+###
+Answers:
+(A) - \( 6 \) 
+
+(B) - \( 5 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( 5 \) 
+
+###
+Misconceptions:
+(A) - Confuses the addition in the sequence with subtraction when identifying the rule.
+
+(B) - Incorrectly assumes that the first term is used directly as the coefficient, without recognizing the correct pattern.
+
+(C) - Misunderstands that the difference between terms is constant and applies an incorrect difference.
+
+(D) - nan 
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Find the nth term rule for an ascending integer linear sequence
+###
+CorrectAnswer: A

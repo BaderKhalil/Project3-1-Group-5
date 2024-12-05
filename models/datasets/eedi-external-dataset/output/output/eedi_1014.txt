@@ -1,0 +1,29 @@
+###
+Question: ![Image of a function machine. The function is multiply by 4, and the output is 32]() What is the input of this function machine? 
+
+###
+Answers:
+(A) - 8
+
+(B) - 12
+
+(C) - 6
+
+(D) - 128
+
+###
+Misconceptions:
+(A) - Thinks the input is found by applying the operation directly instead of using the inverse operation.
+
+(B) - Miscalculates the relationship between the output and the input, thinking the numbers can be mixed with addition instead of focusing on multiplication.
+
+(C) - Thinks the output can be achieved through other operations like addition.
+
+(D) - Makes an error by thinking that multiplying by 4 would reverse to dividing by 4 incorrectly overestimates the input.
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given output find the input of a function machine
+###
+CorrectAnswer: A

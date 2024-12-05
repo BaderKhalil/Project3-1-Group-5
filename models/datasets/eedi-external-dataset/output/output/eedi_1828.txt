@@ -1,0 +1,29 @@
+###
+Question: In a triangle, one angle measures \( 50^{\circ} \) and another angle measures \( 70^{\circ} \). What is the measure of the third angle? 
+
+###
+Answers:
+(A) - \( 60^{\circ} \) 
+
+(B) - \( 90^{\circ} \) 
+
+(C) - \( 40^{\circ} \) 
+
+(D) - \( 80^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Incorrectly calculates by assuming the angles should complement each other rather than sum to \( 180^{\circ} \). 
+
+(B) - Misunderstands the properties of triangle angles and thinks that there is often a right angle involved. 
+
+(C) - Incorrectly adds the two given angles and subtracts the result from \( 360^{\circ} \) instead of \( 180^{\circ} \). 
+
+(D) - Believes that the largest angle must be equal to the sum of the two smaller angles without recognizing the triangle angle sum property. 
+
+###
+Subject: Basic Angle Facts (triangles, angle sum properties, etc) 
+###
+ConstructName: Find missing angles in triangles 
+###
+CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: Which of the following is a power of \( 3 \) ? 
+
+###
+Answers:
+(A) - \( 27 \) 
+
+(B) - \( 9 \) 
+
+(C) - \( 18 \) 
+
+(D) - \( 15 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses powers and multiples 
+
+(C) - Confuses powers and multiples 
+
+(D) - Confuses powers and multiples 
+
+###
+Subject: Laws of Indices
+###
+ConstructName: Raise a positive integer to a positive integer power
+###
+CorrectAnswer: A

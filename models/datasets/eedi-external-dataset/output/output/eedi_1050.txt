@@ -1,0 +1,29 @@
+###
+Question: Factorise fully \( 24b - 16 \)
+
+###
+Answers:
+(A) - \( 8(3b - 2) \)
+
+(B) - \( 16(1.5b - 1) \)
+
+(C) - \( 4(6b - 4) \)
+
+(D) - \( 12(2b - 1) \)
+
+###
+Misconceptions:
+(A) - Is correct, but believes that the factorisation is complete when it is actually possible to simplify further.
+
+(B) - Misunderstands that multiplying numbers can lead to decimals, leading to an incorrect conversion.
+
+(C) - Uses a common factor that is not the highest common factor (HCF) which means it doesn’t fully factorise the expression.
+
+(D) - Incorrectly assumes that the expression can be factored by taking out a number without finding the actual common factor, leading to incorrect terms in the bracket.
+
+###
+Subject: Factorising into a Single Bracket
+###
+ConstructName: Factorise a single bracket containing a linear expression by taking out a single numeric common factor (e.g. 4)
+###
+CorrectAnswer: A

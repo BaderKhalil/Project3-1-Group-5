@@ -1,0 +1,34 @@
+<NEW_QUESTION>: 
+        ###
+        Question: A cyclist travels every \( 10 \) minutes for a break
+A runner takes a break every \( 15 \) minutes
+They both take a break at exactly the same time
+After how many minutes will they next take a break at the same time?
+To solve this problem you need to work out the  \( _____ \) of \( 10 \) and \( 15 \) 
+
+        ###
+        Answers:
+        (A) - Lowest Common Multiple 
+
+        (B) - Highest Common Factor 
+
+        (C) - Difference 
+
+        (D) - Average 
+
+        ###
+        Misconceptions:
+        (A) - nan 
+
+        (B) - Confuses factors and multiples 
+
+        (C) - Incorrectly believes that finding the difference will give the time they coincide again 
+
+        (D) - Thinks that finding the average time will show when they next take a break 
+
+        ###
+        Subject: Multiples and Lowest Common Multiple
+        ###
+        ConstructName: Recognise when to find the Lowest Common Multiple to solve a problem
+        ###
+        CorrectAnswer: A

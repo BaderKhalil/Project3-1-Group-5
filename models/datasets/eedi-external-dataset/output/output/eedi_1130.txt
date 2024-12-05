@@ -1,0 +1,29 @@
+###
+Question: Determine the value of \( y \) in the triangle where the angles are \( 3y, 2y + 30 \), and \( y - 24 \). 
+
+###
+Answers:
+(A) - \( y=20^{\circ} \) 
+
+(B) - \( y=18^{\circ} \) 
+
+(C) - \( y=12^{\circ} \) 
+
+(D) - \( y=44^{\circ} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly assumes that the sum of the angles is 180 degrees but miscalculates the value of \( y \). 
+
+(C) - Forgetting to account for the constraints of angle measures resulting in a negative value for one angle. 
+
+(D) - Uses the wrong total for the sum of the angles in the triangle, calculating beyond 180 degrees. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Use facts about interior angles in triangles with algebra to solve equations
+###
+CorrectAnswer: A

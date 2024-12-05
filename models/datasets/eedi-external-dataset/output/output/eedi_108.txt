@@ -1,0 +1,31 @@
+###
+Question: Sarah is simplifying the expression resulting from these two brackets.
+
+What is the product of the two terms indicated by the arrows? ![The two brackets are (2x + 4)(x - 5). The arrows are pointing at the 4 in the first bracket and the -5 in the second bracket.]
+
+###
+Answers:
+(A) - \( -20 \)
+
+(B) - \( +20 \)
+
+(C) - \( -8 \)
+
+(D) - \( +8 \)
+
+###
+Misconceptions:
+(A) - Ignores the coefficient when multiplying terms
+
+(B) - Incorrectly adds instead of multiplying the terms
+
+(C) - Multiplies incorrectly, thinks it should be 4 × -2
+
+(D) - Adds instead of multiplying the positive and negative integer correctly 
+
+###
+Subject: Expanding Double Brackets
+###
+ConstructName: Carry out multiplication problems involving one negative integer
+###
+CorrectAnswer: A

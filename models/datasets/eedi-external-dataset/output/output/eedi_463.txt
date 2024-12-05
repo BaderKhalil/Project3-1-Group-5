@@ -1,0 +1,32 @@
+###
+Question: Sarah and Mark are talking about parallel lines.
+Sarah claims that \( y=4x+2 \) and \( y=4x-3 \) are parallel.
+Mark states that \( y=4x+2 \) and \( y=-4x+2 \) are parallel.
+Who is accurate?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Mark 
+
+(C) - Both Sarah and Mark 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes lines are parallel simply because they have the same slope, regardless of y-intercepts. 
+
+(B) - Thinks that lines can be parallel even if they have different slopes, as long as their y-intercepts are the same. 
+
+(C) - Incorrectly believes that both pairs of lines can be parallel by having the same or negative slopes. 
+
+(D) - Misunderstands the properties of parallel lines and concludes that none are parallel. 
+
+###
+Subject: Parallel Lines
+###
+ConstructName: Identify parallel lines written in the form y = mx + c
+###
+CorrectAnswer: A

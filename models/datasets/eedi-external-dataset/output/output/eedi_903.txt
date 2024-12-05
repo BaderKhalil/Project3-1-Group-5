@@ -1,0 +1,29 @@
+###
+Question: Which of the following shapes has at least one line of symmetry? ![A rectangle above the label "A"; A scalene triangle above the label "B"; An equilateral triangle above the label "C"; A trapezium above the label "D".]() 
+
+###
+Answers:
+(A) - A 
+
+(B) - B 
+
+(C) - C 
+
+(D) - D 
+
+###
+Misconceptions:
+(A) - Believes that only rectangles can have lines of symmetry 
+
+(B) - Thinks all triangles have symmetry, but doesn't realize that scalene triangles do not 
+
+(C) - n/a 
+
+(D) - n/a 
+
+###
+Subject: Line Symmetry
+###
+ConstructName: Identify or mark lines of symmetry on a shape
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: What is the volume of this rectangular prism? ![A rectangular prism with dimensions 4cm, 3cm, and 2cm]()
+
+###
+Answers:
+(A) - \( 24 \mathrm{~cm}^{3} \) 
+
+(B) - \( 14 \mathrm{~cm}^{3} \) 
+
+(C) - \( 9 \mathrm{~cm}^{3} \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly adds the dimensions instead of multiplying 
+
+(C) - Calculates the area of one face instead of the volume 
+
+(D) - Fails to see that the dimensions are provided and sufficient for calculation 
+
+###
+Subject: Volume of Prisms
+###
+ConstructName: Calculate the volume of a rectangular prism
+###
+CorrectAnswer: A

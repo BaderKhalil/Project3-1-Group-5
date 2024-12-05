@@ -1,0 +1,31 @@
+###
+Question: A jar contains red marbles, blue marbles, and green marbles. 
+
+If the probability of selecting a red marble is \( 0.6 \), what is the probability of selecting a blue marble?
+
+###
+Answers:
+(A) - \( 0.3 \)
+
+(B) - \( 0.4 \)
+
+(C) - \( 0.5 \)
+
+(D) - Impossible to know
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the remaining probability can be divided equally among the remaining colors.
+
+(B) - Miscalculates by adding probabilities instead of considering the total must equal 1.
+
+(C) - Thinks that there can be more than one probability above 1 for the events since it adds to incorrect totals.
+
+(D) - Understands that the total probability must sum to 1 but fails to account for the already known probabilities.
+
+###
+Subject: Probability of Single Events
+###
+ConstructName: Know that the probabilities of exhaustive events must sum to 1
+###
+CorrectAnswer: D

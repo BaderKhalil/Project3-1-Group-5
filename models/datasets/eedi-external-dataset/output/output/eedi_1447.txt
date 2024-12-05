@@ -1,0 +1,32 @@
+###
+Question: Solve the following equation for \( x \) :
+\[
+5 = 7 - 2x
+\]
+
+###
+Answers:
+(A) - \( x = 1 \)
+
+(B) - \( x = -1 \)
+
+(C) - \( x = 6 \)
+
+(D) - \( x = 2 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Mistakenly thinks that crossing the equals sign changes the sign of 2 when isolating \( x \)
+
+(C) - Incorrectly interprets the operations, mistakenly adds instead of subtracting
+
+(D) - Incorrectly solving for \( x \) by misapplying addition and multiplication
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: A

@@ -1,0 +1,32 @@
+###
+Question: Calculate the value of the expression:
+\[
+8 + 2 \times (3 - 1)
+\]
+
+###
+Answers:
+(A) - \( 10 \) 
+
+(B) - \( 12 \) 
+
+(C) - \( 16 \) 
+
+(D) - \( 20 \) 
+
+###
+Misconceptions:
+(A) - Correct, properly applies the order of operations
+
+(B) - Adds 8 to 2 before multiplying, misapplying order of operations 
+
+(C) - Multiplies 2 by the final result of the parentheses and adds incorrectly 
+
+(D) - Does not follow the operations correctly and miscalculates the addition 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division
+###
+CorrectAnswer: A

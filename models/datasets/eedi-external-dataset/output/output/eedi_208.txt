@@ -1,0 +1,29 @@
+###
+Question: If 15 oranges cost \( 120 p \), how much do 9 oranges cost? 
+
+###
+Answers:
+(A) - \( 72 p \) 
+
+(B) - \( 60 p \) 
+
+(C) - \( 108 p \) 
+
+(D) - \( £ 5.40 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly calculates total cost by a simple ratio without adjusting for the exact number of items 
+
+(B) - Finds the correct unit price and multiplies it by the number of oranges 
+
+(C) - Thinks that the total cost is proportional to the number of oranges without dividing for unit price 
+
+(D) - Converts price incorrectly into another currency without proportionate calculation 
+
+###
+Subject: Direct Proportion
+###
+ConstructName: Use direct proportion to solve non-unitary missing amounts in problems (e.g. recipes)
+###
+CorrectAnswer: B

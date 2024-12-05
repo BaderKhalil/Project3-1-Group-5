@@ -1,0 +1,29 @@
+###
+Question: Use the graph to find the solution to \( x^{2} > 9 \) ![A set of axes with the quadratic graph y=x^2 drawn on.]() 
+
+###
+Answers:
+(A) - \( x < -3 \) 
+
+(B) - \( x > 3 \) 
+
+(C) - \( -3<x<3 \) 
+
+(D) - \( x < -3 \) or \( x > 3 \) 
+
+###
+Misconceptions:
+(A) - Only considers one side of the inequality and misses values greater than 3. 
+
+(B) - Only accounts for positive solutions and ignores negative values. 
+
+(C) - Misunderstands the inequality direction, suggesting values between -3 and 3 instead of outside that range. 
+
+(D) - nan 
+
+###
+Subject: Quadratic inequalities on Number Lines
+###
+ConstructName: Solve quadratic inequalities from the graph of the quadratic
+###
+CorrectAnswer: D

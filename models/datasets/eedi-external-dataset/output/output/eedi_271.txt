@@ -1,0 +1,31 @@
+###
+Question: Sarah and Liam are discussing shapes again.
+
+Sarah claims that this shape is a prism. ![A triangular based pyramid for Sarah.]() Liam argues that this shape is also a prism. ![A sphere for Liam.]() Who is correct?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Liam 
+
+(C) - Both Sarah and Liam 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not know that a pyramid is not a prism due to its apex. 
+
+(B) - Mistakenly believes a sphere can be classified as a prism. 
+
+(C) - Confuses the definitions of prism and other three-dimensional shapes. 
+
+(D) - nan 
+
+###
+Subject: Volume of Prisms
+###
+ConstructName: Identify a prism from a diagram
+###
+CorrectAnswer: D

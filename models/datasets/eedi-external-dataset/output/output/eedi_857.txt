@@ -1,0 +1,32 @@
+###
+Question: What is the next term of this linear sequence?
+\[
+5, 11, 17, 23, \ldots
+\]
+
+###
+Answers:
+(A) - \( 29 \)
+
+(B) - \( 30 \)
+
+(C) - \( 31 \)
+
+(D) - \( 36 \)
+
+###
+Misconceptions:
+(A) - Incorrectly assumes the pattern continues by adding \( 6 \) instead of evaluating the correct step. 
+
+(B) - Misunderstands the pattern and adds one inappropriately to the last term. 
+
+(C) - Thinks the pattern might involve multiplying the last term or some other non-linear operation. 
+
+(D) - Incorrectly presumes some larger increase or skips terms, forgetting the consistent pattern. 
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Write the next term of an ascending integer linear sequence
+###
+CorrectAnswer: A

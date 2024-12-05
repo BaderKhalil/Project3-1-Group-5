@@ -1,0 +1,33 @@
+###
+Question: Maria is riding her bicycle. The graph on the right shows Maria's speed in kilometres per hour \( (s) \) over time in minutes \( (t) \).
+
+The gradient of the increasing sloping section of the graph is \( 1.5 \).
+
+Which of the following does that \( 1.5 \) best represent? ![A sketch of a graph with s on the y axis and t on the x axis. A straight line slopes upwards from the origin for the entirety of the graph, showing a steady increase in speed.]() 
+
+###
+Answers:
+(A) - Maria is travelling at a speed of \( 1.5 \mathrm{~km/h} \) 
+
+(B) - Maria is accelerating at a rate of \( 1.5 \mathrm{~km/h}^2 \) 
+
+(C) - Maria is resting for \( 1.5 \) minutes 
+
+(D) - Maria is decelerating at a rate of \( 1.5 \mathrm{~km/h}^2 \) 
+
+###
+Misconceptions:
+(A) - Believes the gradient of a speed-time graph is the speed at a particular time
+
+(B) - Believes that an increase in speed over time indicates acceleration rate rather than speed change
+
+(C) - Assumes a flat line implies resting, not realizing that only acceleration or constant speed is depicted
+
+(D) - Misunderstands that a positive slope indicates acceleration rather than deceleration 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Interpret the gradient on a linear section on a real life graph
+###
+CorrectAnswer: B

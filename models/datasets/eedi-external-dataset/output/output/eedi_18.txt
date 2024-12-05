@@ -1,0 +1,29 @@
+###
+Question: ![Number line with 3 and 8 marked. Starting at 3, there is an arrow pointing right labelled +5. Then there is an arrow labelled c pointing left, which ends at 8 on the number line.]() What is the value of \( c \) ?
+
+###
+Answers:
+(A)  - 2 
+
+(B)  - 5 
+
+(C)  - 3 
+
+(D)  - 4 
+
+###
+Misconceptions:
+(A) - Misinterprets the direction of the arrow, mistaking right movement for left 
+
+(B) - Does not properly account for the distance moved on the number line 
+
+(C) - Assumes the sum rather than the subtraction of distances 
+
+(D) - Incorrectly calculates the total distance instead of the ending position 
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Carry out missing number subtraction problems involving negative integers
+###
+CorrectAnswer: D

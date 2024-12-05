@@ -1,0 +1,29 @@
+###
+Question: Convert \( \frac{9}{4} \) to a mixed number.
+
+###
+Answers:
+(A) - \( 2 \frac{5}{4} \)
+
+(B) - \( \frac{36}{16} \)
+
+(C) - \( 2 \) remainder \( 1 \)
+
+(D) - \( 2 \frac{1}{4} \)
+
+###
+Misconceptions:
+(A) - Incorrectly uses an improper fraction where the fraction part exceeds 1.
+
+(B) - Finds an equivalent improper fraction instead of converting to a mixed number.
+
+(C) - Does not recognize that remainders must be converted to fractions for mixed number representation.
+
+(D) - nan
+
+###
+Subject: Converting Mixed Number and Improper Fractions
+###
+ConstructName: Convert from improper fractions to mixed number fractions
+###
+CorrectAnswer: D

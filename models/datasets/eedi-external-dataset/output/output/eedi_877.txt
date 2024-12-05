@@ -1,0 +1,34 @@
+###
+Question: Sarah and John are discussing types of angular measurements.  
+Sarah claims that degrees are a measure of angles.  
+John argues that radians are not a measure of angles.  
+Who is correct?  
+
+###
+Answers:  
+(A) - Only  
+Sarah  
+
+(B) - Only  
+John  
+
+(C) - Both Sarah and John  
+
+(D) - Neither is correct  
+
+###
+Misconceptions:  
+(A) - nan  
+
+(B) - Does not recognize radians as a measure of angles  
+
+(C) - Does not recognize radians as a measure of angles  
+
+(D) - Does not recognize degrees as a measure of angles  
+
+###
+Subject: Angular Measurements  
+###
+ConstructName: Identify a measure of angles  
+###
+CorrectAnswer: A

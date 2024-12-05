@@ -1,0 +1,33 @@
+###
+Question: What is the correct way to calculate the measure of the unknown angle marked [?] in the triangle?
+A
+\( 180 - (45 + 55) \)
+B
+\( 45 + 55 \)
+
+###
+Answers:
+(A) - A 
+
+(B) - B 
+
+(C) - Both \( A \) and \( B \) 
+
+(D) - Neither A nor B 
+
+###
+Misconceptions:
+(A) - Misunderstands that angles in a triangle sum to 180 degrees and incorrectly adds the known angles instead of subtracting from 180 degrees. 
+
+(B) - Incorrectly believes that simply adding the known angles demonstrates they are already the total angle measure. 
+
+(C) - Incorrectly assumes both interpretations of the angles' relationships are valid when only one is correct.
+
+(D) - Does not understand that the sum of angles in a triangle is always 180 degrees. 
+
+###
+Subject: Basic Angle Facts (triangle sum, complementary, supplementary, etc)
+###
+ConstructName: Find missing angles in a triangle
+###
+CorrectAnswer: A

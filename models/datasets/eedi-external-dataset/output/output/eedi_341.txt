@@ -1,0 +1,34 @@
+###
+Question: ![A grid of 6 squares across and 8 squares up. A blue vertical line runs from the bottom to the top of the grid, located 2 squares from the left edge of the grid. Next to the blue line, there is a green triangle with a base of 4 squares and a height of 3 squares. The tip of the triangle is positioned 6 squares up from the bottom of the grid, vertically aligned with the blue line where the triangle touches the line. The base of the triangle sits on a row 5 squares from the bottom. ]() Mia and Jake are discussing reflections.
+
+Mia claims that if the triangle is reflected across the vertical line, the tip of the triangle will remain at the same position.
+
+Jake argues that if the triangle is reflected across the vertical line, the midpoint of the base of the triangle will remain in the same position.
+Who is correct? 
+
+###
+Answers:
+(A) - Only Mia 
+
+(B) - Only Jake 
+
+(C) - Both Mia and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not understand that a point on the line of reflection remains unchanged during reflection.
+
+(B) - Confuses the concept of midpoint with the behavior of points during reflection.
+
+(C) - Believes that both points remain unchanged when one of them actually does change position.
+
+(D) - Misunderstands that the midpoint of the base of the triangle is not on the line of reflection, resulting in it changing position during the reflection.
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a vertical line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: D

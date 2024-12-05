@@ -1,0 +1,39 @@
+###
+        Question: \begin{tabular}{|c|c|c|}
+\hline Books & Frequency & Books \( \times \) Frequency \\
+\hline \( 0 \) & \( 5 \) & \( 0 \) \\
+\hline \( 1 \) & \( 6 \) & \( 6 \) \\
+\hline \( 2 \) & \( 7 \) & \( 14 \) \\
+\hline \( 3 \) & \( 3 \) & \( 9 \) \\
+\hline \( 4 \) & \( 1 \) & \( 4 \) \\
+\hline
+\end{tabular} The table shows the number of books owned by students in a class.
+
+What does the "14" represent?
+
+        ###
+        Answers:
+        (A) - The total number of books owned by the \( 3 \) students 
+
+        (B) - The mean number of books owned by the \( 7 \) students 
+
+        (C) - The total number of books owned by the \( 7 \) students 
+
+        (D) - How many students own \( 2 \) books 
+
+        ###
+        Misconceptions:
+        (A) - Confuses the total with the frequency of students owning a specific number of books 
+
+        (B) - Does not understand how to calculate the mean based on the data provided 
+
+        (C) - nan 
+
+        (D) - Misinterprets the meaning of the frequency column 
+
+        ###
+        Subject: Averages and Range from Frequency Table
+        ###
+        ConstructName: Interpret numbers in a frequency table
+        ###
+        CorrectAnswer: C

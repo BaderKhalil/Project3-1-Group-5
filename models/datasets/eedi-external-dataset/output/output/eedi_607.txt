@@ -1,0 +1,33 @@
+###
+Question: Sarah and John are discussing how to calculate the discount on an item.
+
+Sarah claims that to find a \( 25\% \) discount on a price, you can simply divide the price by \( 4 \). 
+John insists that to calculate a \( 25\% \) discount, you should subtract \( 25 \) from the original price and then divide by \( 4 \). 
+Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only John 
+
+(C) - Both Sarah and John 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Assumes that \( 25\% \) is equivalent to simply dividing by \( 4 \) without understanding the context of subtraction.
+
+(B) - Misunderstands the process by believing subtraction from the original price is necessary before calculating the percentage. 
+
+(C) - Incorrectly believes that both methods will yield the correct discount.
+
+(D) - Fails to recognize how to appropriately apply percentage calculations. 
+
+###
+Subject: Percentages of an Amount
+###
+ConstructName: Calculate percentage of an amount mentally where the percent is a simple fraction
+###
+CorrectAnswer: A

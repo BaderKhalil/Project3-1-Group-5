@@ -1,0 +1,33 @@
+###
+        Question: \[
+2, 4, 8, 14, \ldots \text { ? }
+\]
+
+What is the next number in the pattern above? 
+
+        ###
+        Answers:
+        (A) - 22 
+
+        (B) - 20 
+
+        (C) - 18 
+
+        (D) - 16 
+
+        ###
+        Misconceptions:
+        (A) - Assumes a linear growth pattern rather than recognizing the increasing differences between terms. 
+
+        (B) - Mistakes the pattern as one decreasing instead of increasing based on miscalculating the next interval. 
+
+        (C) - Incorrectly identifies the correct difference but follows a misguided sequence reasoning leading to a miscalculation. 
+
+        (D) - Misses the correct method for finding the next number by simply following the previous term rather than understanding the underlying pattern. 
+
+        ###
+        Subject: Quadratic Sequences
+        ###
+        ConstructName: Count a number of objects
+        ###
+        CorrectAnswer: A

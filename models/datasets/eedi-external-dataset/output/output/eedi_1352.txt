@@ -1,0 +1,29 @@
+###
+Question: \( \begin{array}{r}\quad28 \\ \times 57 \\ \hline\end{array} \) What number will be in the tens column of the final answer? 
+
+###
+Answers:
+(A) - \( 1 \) 
+
+(B) - \( 0 \) 
+
+(C) - \( 6 \) 
+
+(D) - \( 14 \) 
+
+###
+Misconceptions:
+(A) - Believes that the tens digit must be a lower single-digit value due to misunderstanding the carry rules in multiplication. 
+
+(B) - Thinks that multiplication does not affect the tens column and omits it entirely. 
+
+(C) - Misunderstands that the multiplication can yield multiple digits and mistakenly assesses the product. 
+
+(D) - Incorrectly believes that you simply add the numbers in the tens place without considering the multiplication process. 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Multiply 2 digit integers by 2 digit integers using long multiplication
+###
+CorrectAnswer: C

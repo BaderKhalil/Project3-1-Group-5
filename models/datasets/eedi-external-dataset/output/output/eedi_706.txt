@@ -1,0 +1,29 @@
+###
+Question: In the given diagram, two parallel lines are intersected by a transversal, creating several angles. The angles that are on the same side of the transversal and in corresponding positions relative to the parallel lines are marked. What type of angles are these? 
+
+###
+Answers:
+(A) - Alternate Interior
+
+(B) - Corresponding
+
+(C) - Alternate Exterior
+
+(D) - Same-Side Interior
+
+###
+Misconceptions:
+(A) - Confuses alternate interior and corresponding angles
+
+(B) - nan
+
+(C) - Confuses alternate exterior and corresponding angles
+
+(D) - Confuses same-side interior with co-interior angles
+
+###
+Subject: Angle Facts with Parallel Lines
+###
+ConstructName: Identify corresponding angles
+###
+CorrectAnswer: B

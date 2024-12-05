@@ -1,0 +1,32 @@
+###
+Question: What is the average of the following numbers?
+\[
+3, \quad 7, \quad 5, \quad 9
+\] 
+
+###
+Answers:
+(A) - \( 6 \) 
+
+(B) - \( 8 \) 
+
+(C) - \( 5 \) 
+
+(D) - \( 7.5 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly sums numbers or miscalculates the total before dividing. 
+
+(B) - Misunderstands the averaging process, incorrectly adds values or uses the wrong count of numbers. 
+
+(C) - Sums the numbers incorrectly, assuming only the smallest number contributes to the average. 
+
+(D) - Correctly identifies the addition method but miscalculates by not considering all numbers. 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Calculate the average as a mean from a list of data
+###
+CorrectAnswer: A

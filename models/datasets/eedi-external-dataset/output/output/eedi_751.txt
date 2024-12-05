@@ -1,0 +1,29 @@
+###
+Question: A restaurant finds that \( 70 \% \) of their customers prefer pizza over other dishes. Which pie chart accurately represents their customers' preferences? 
+
+###
+Answers:
+(A) - ![Pie chart showing pizza preferences with 210 degrees of the chart and other dishes with 150 degrees.]() 
+
+(B) - ![Pie chart showing pizza with 7/10 of the chart and other dishes, highlighted in green, with 3/10]() 
+
+(C) - ![Pie chart showing pizza, in white, with 70 degrees of the chart and other dishes, highlighted in green, with 310 degrees.]() 
+
+(D) - ![Pie chart showing pizza with just under 3/4 of the chart, highlighted in green and other dishes, in white, with just over 1/4]() 
+
+###
+Misconceptions:
+(A) - Misunderstands the proportion of preferences in relation to the total 360 degrees in a pie chart.
+
+(B) - Correctly identifies the fractions but has the values switched or misread.
+
+(C) - Misinterprets the degree representation, confusing the correct angle for pizza preferences.
+
+(D) - nan 
+
+###
+Subject: Pie Chart
+###
+ConstructName: Interpret a pie chart
+###
+CorrectAnswer: D

@@ -1,0 +1,33 @@
+###
+Question: What tools are required to bisect an angle using geometry? ![Image of an angle with the vertex and arms labelled]()
+
+###
+Answers:
+(A) - Ruler 
+Protractor 
+
+(B) - Compass 
+Ruler 
+
+(C) - Compass 
+Protractor 
+
+(D) - Protractor 
+Compass 
+
+###
+Misconceptions:
+(A) - Forgets that a compass is needed to create the bisector accurately 
+
+(B) - Believes that a ruler alone can bisect an angle without measuring arcs 
+
+(C) - Thinks a protractor is sufficient for the task, neglecting the role of the compass 
+
+(D) - nan 
+
+###
+Subject: Angle Bisector
+###
+ConstructName: Bisecting an Angle 
+###
+CorrectAnswer: C

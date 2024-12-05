@@ -1,0 +1,29 @@
+###
+Question: \( 3.6 \div 0.9= \) 
+
+###
+Answers:
+(A) - \( 4.0 \) 
+
+(B) - \( 3.2 \) 
+
+(C) - \( 0.4 \) 
+
+(D) - \( 0.4 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the division and misapplies the concept of decimal division resulting in an incorrect whole number answer.
+
+(B) - Misunderstands the relationship between the decimals leading to a miscalculated quotient.
+
+(C) - Confuses division with multiplication, incorrectly applying the operations to the numbers and producing an answer that's too small.
+
+(D) - nan 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Divide a decimal by another decimal
+###
+CorrectAnswer: A

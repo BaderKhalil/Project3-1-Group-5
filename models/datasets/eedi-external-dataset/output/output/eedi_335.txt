@@ -1,0 +1,37 @@
+###
+Question: Lucy and Mark are having a conversation about efficient strategies for multiplying and dividing numbers.
+
+Lucy claims that a reliable method to multiply \( 24 \) is to multiply \( 20 \) by \( 1.2 \).
+
+Mark argues that a solid way to divide \( 24 \) is to divide by \( 6 \), and then multiply by \( 4 \).
+
+Who is correct?
+
+###
+Answers:
+(A) - Only
+Lucy
+
+(B) - Only
+Mark
+
+(C) - Both Lucy and Mark
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Misunderstands the scaling effect of multiplying by a decimal 
+
+(B) - Misunderstands the operational order and effects of multiplication and division 
+
+(C) - nan 
+
+(D) - Misunderstands the operational order and effects of multiplication and division 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Recognise and use efficient strategies for mental multiplication
+###
+CorrectAnswer: D

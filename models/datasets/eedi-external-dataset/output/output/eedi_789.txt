@@ -1,0 +1,33 @@
+###
+Question: Calculate:
+\(
+\frac{2}{5} + \frac{1}{5}
+\)
+Express your answer in its simplest form.
+
+###
+Answers:
+(A) - \( \frac{3}{10} \)
+
+(B) - \( \frac{3}{5} \)
+
+(C) - \( \frac{1}{5} \)
+
+(D) - \( \frac{1}{10} \)
+
+###
+Misconceptions:
+(A) - Incorrectly adds the fractions while different denominators are assumed. 
+
+(B) - Correctly adds the fractions but forgets to change the numerator appropriately or misinterprets the sum.
+
+(C) - Misunderstands that the sum of two fractions can be the same as one of the original fractions.
+
+(D) - Mistakenly thinks that adding fractions requires halving or other incorrect operations.
+
+###
+Subject: Adding and Subtracting Fractions
+###
+ConstructName: Add proper fractions with the same denominator
+###
+CorrectAnswer: B

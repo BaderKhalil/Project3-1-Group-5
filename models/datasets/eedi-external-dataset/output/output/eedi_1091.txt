@@ -1,0 +1,29 @@
+###
+Question: Simplify the following expression by collecting like terms: \( \frac{3}{4} m^{3} + \frac{1}{2} m^{3} - \frac{5}{4} m^{3} + m^{3} \)
+
+###
+Answers:
+(A) - \( 0 m^{3} \) 
+
+(B) - \( \frac{5}{4} m^{3} \) 
+
+(C) - \( 2 m^{3} \) 
+
+(D) - \( \frac{1}{2} m^{3} + 2 m^{3} \) 
+
+###
+Misconceptions:
+(A) - Misinterprets the total as zero without properly adding the coefficients. 
+
+(B) - Fails to combine all terms properly and only takes the positive terms into account.
+
+(C) - nan 
+
+(D) - Incorrectly assumes that the sum of coefficients includes an extra variable term instead of simplifying the expression correctly.
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving non-linear variables
+###
+CorrectAnswer: C

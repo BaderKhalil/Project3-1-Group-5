@@ -1,0 +1,29 @@
+###
+Question: What is the \( 4^{\text{th}} \) multiple of \( 12 \)?
+
+###
+Answers:
+(A) - \( 36 \)
+
+(B) - \( 24 \)
+
+(C) - \( 60 \)
+
+(D) - \( 48 \)
+
+###
+Misconceptions:
+(A) - Believes multiples are calculated by skipping ahead too far in the sequence.
+
+(B) - Correctly identifies a lower multiple but misunderstands the sequence.
+
+(C) - Incorrectly assumes that the multiples grow by adding too much to the previous value.
+
+(D) - nan 
+
+###
+Subject: Multiples and Lowest Common Multiple
+###
+ConstructName: Identify multiples of a number
+###
+CorrectAnswer: D

@@ -1,0 +1,32 @@
+###
+Question: Simplify, if possible: 
+\(
+x^{3} \div x^{2}
+\) 
+
+###
+Answers:
+(A) - \( x \) 
+
+(B) - \( 5x \) 
+
+(C) - \( x^{5} \) 
+
+(D) - Does not simplify 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Adds the exponents incorrectly while dividing 
+
+(C) - Multiplies exponents instead of subtracting them 
+
+(D) - nan 
+
+###
+Subject: Dividing Terms
+###
+ConstructName: Write algebraic expressions with correct algebraic convention involving powers
+###
+CorrectAnswer: A

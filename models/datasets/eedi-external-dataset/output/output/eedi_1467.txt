@@ -1,0 +1,29 @@
+###
+Question: Which diagram depicts an angle of \( 30^{\circ} \) ? 
+
+###
+Answers:
+(A) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an angle being measured by the protractor. The angle is between the red line that is at 0 (inner scale) and 180 (outer scale) on the right of the protractor, anti-clockwise to the red line that is slightly above the 20 mark on the inner scale and between the 160 and 170 on the outer scale.]() 
+
+(B) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an angle being measured by the protractor. The angle is between the red line that is at 0 (inner scale) and 180 (outer scale) on the right of the protractor, anti-clockwise to the red line that is slightly below the 40 mark on the inner scale and slightly above the 140 on the outer scale.]() 
+
+(C) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an angle being measured by the protractor. The angle is between the red line that is at 0 (inner scale) and 180 (outer scale) on the right of the protractor, anti-clockwise to the red line that is at the 30 mark on the inner scale and slightly above the 150 mark on the outer scale.]() 
+
+(D) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an angle being measured by the protractor. The angle is between the red line that is at 0 (inner scale) and 180 (outer scale) on the right of the protractor, anti-clockwise to the red line that is at the 30 mark on the inner scale and slightly below the 150 mark on the outer scale.]() 
+
+###
+Misconceptions:
+(A) - Reads the wrong scale and identifies an angle smaller than intended when measuring acute angles.
+
+(B) - Misreads the protractor by perceiving an angle as acute but measuring it as obtuse instead.
+
+(C) - Correctly identifies the number for the angle on the protractor but fails to realize that the other scale should not be confused with the angle.
+
+(D) - nan 
+
+###
+Subject: Measuring Angles
+###
+ConstructName: Use a protractor to draw angles between 0° and 90° 
+###
+CorrectAnswer: C

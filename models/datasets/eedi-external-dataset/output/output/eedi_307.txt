@@ -1,0 +1,33 @@
+###
+Question: Jasmine wants to determine whether \( 45 \) is a term in the sequence \( 5n + 2 \).
+
+Here is her working out. What conclusion should Jasmine draw?
+
+ \( \begin{aligned} 5n + 2 & = 45 \\ 5n & = 43 \\ n & = \frac{43}{5} = 8.6 \end{aligned} \)
+
+###
+Answers:
+(A) - \( 45 \) is not in the sequence because \( n \) is not an integer 
+
+(B) - \( n \) cannot be a decimal in a sequence 
+
+(C) - \( 45 \) is in the sequence at the \( 8^{\text{th}} \) position 
+
+(D) - Jasmine made an error in her calculations 
+
+###
+Misconceptions:
+(A) - Correctly identifies that \( n \) must be an integer but doesn't recognize that this means \( 45 \) is not a term 
+
+(B) - Misunderstands that position can be a decimal or that the position must always be an integer 
+
+(C) - Incorrectly interprets the results, assuming \( 45 \) belongs to the sequence 
+
+(D) - Confuses the types of errors in sequence calculations and ignores the relevance of \( n \) being a decimal 
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Use the nth term rule of an ascending integer linear sequence to test whether a term belongs in the sequence or not
+###
+CorrectAnswer: A

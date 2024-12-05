@@ -1,0 +1,31 @@
+###
+Question: Sarah and Jake are discussing the properties of triangles.
+
+Sarah claims that some triangles can have an angle sum greater than \( 180^\circ \). Jake insists that all triangles always have an angle sum of exactly \( 180^\circ \). Who is correct?
+
+###
+Answers:
+(A) - Only Jake 
+
+(B) - Only Sarah 
+
+(C) - Both Sarah and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not recognize that the angle sum property of triangles is a fundamental rule 
+
+(B) - Misunderstands the definition of a triangle and its angle properties 
+
+(C) - Fails to understand the strict definition of triangle angle sums 
+
+(D) - Incorrectly thinks both statements can be true 
+
+###
+Subject: Angle Properties
+###
+ConstructName: Understand the properties of triangles
+###
+CorrectAnswer: A

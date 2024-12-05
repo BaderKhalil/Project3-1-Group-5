@@ -1,0 +1,29 @@
+###
+Question: \( 1.75 + 0.45 = \)
+
+###
+Answers:
+(A) - \( 2.20 \) 
+
+(B) - \( 1.30 \) 
+
+(C) - \( 2.00 \) 
+
+(D) - \( 1.85 \) 
+
+###
+Misconceptions:
+(A) - When adding decimals, fails to correctly sum the tenths and hundredths place 
+
+(B) - Mistakenly subtracts instead of adds when combining the values 
+
+(C) - Incorrectly rounds the sum down instead of adding accurately 
+
+(D) - Fails to carry over when the sum exceeds ten in the decimal places
+
+###
+Subject: Adding and Subtracting with Decimals
+###
+ConstructName: Add decimals where the numbers involved have a different number of decimal places
+###
+CorrectAnswer: A

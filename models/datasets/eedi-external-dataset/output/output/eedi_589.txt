@@ -1,0 +1,29 @@
+###
+Question: In a triangle, the angles are represented as \( x \), \( 2x + 10 \), and \( 3x - 10 \). What is the value of angle \( x \) ? 
+
+###
+Answers:
+(A) - \( 30^{\circ} \)
+
+(B) - \( 20^{\circ} \)
+
+(C) - \( 40^{\circ} \)
+
+(D) - \( 50^{\circ} \)
+
+###
+Misconceptions:
+(A) - Nan 
+
+(B) - Incorrectly assumes that the sum of the angles equals 90 degrees instead of 180 degrees. 
+
+(C) - Fails to properly solve the equation when combining terms. 
+
+(D) - Misunderstands how to set up the equation using the provided angle expressions. 
+
+###
+Subject: Angles in Triangles
+###
+ConstructName: Use the properties of triangle angle sums and algebra to solve for unknown angles
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: The volume of a cylinder, \( V \), is given by the formula \( V = \pi r^2 h \). Rearrange this to make the radius, \( r \), the subject.
+
+###
+Answers:
+(A) - \( r = \sqrt{\frac{V}{\pi h}} \)
+
+(B) - \( r = \frac{V}{\pi h^2} \)
+
+(C) - \( r = \sqrt{\frac{h}{\pi V}} \)
+
+(D) - They are all incorrect 
+
+###
+Misconceptions:
+(A) - Correctly understands the square root operation and the rearrangement, leading to the correct answer.
+
+(B) - Misunderstands the placement of \( h \) in the denominator; thinks all terms should be divided equally.
+
+(C) - Incorrectly assumes \( h \) should be inside the square root; confuses the relationship in the formula.
+
+(D) - Believes that none of the answers are valid, indicating a misunderstanding of the formula rearrangement.
+
+###
+Subject: Rearranging Formula and Equations
+###
+ConstructName: Rearrange formulae to change the subject where the subject appears once and two steps are needed
+###
+CorrectAnswer: A

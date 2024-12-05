@@ -1,0 +1,30 @@
+###
+Question: Solve the equation:  
+\(15x + 3 = 48\) 
+
+###
+Answers:  
+(A) - \( x = 3 \)  
+
+(B) - \( x = 2 \)  
+
+(C) - \( x = 4 \)  
+
+(D) - \( x = 5 \)  
+
+###
+Misconceptions:  
+(A) - nan  
+
+(B) - Incorrectly subtracts instead of dividing after isolating the variable.  
+
+(C) - Miscalculates by eliminating the constant incorrectly in the solution process.  
+
+(D) - Assumes a wrong operation method during the simplification of the equation.  
+
+###
+Subject: Linear Equations  
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, involving positive integers  
+###
+CorrectAnswer: A

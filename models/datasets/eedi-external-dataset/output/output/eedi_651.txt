@@ -1,0 +1,32 @@
+###
+Question: Lucy and Mark are discussing the output of this Function Machine:
+Lucy claims the output is: \( 5(n + 2) \)
+Mark claims the output is: \( 5n + 10 \)
+Who is correct? ![A function machine with input n and operations add 2, multiply by 5]() 
+
+###
+Answers:
+(A) - Only Lucy 
+
+(B) - Only Mark 
+
+(C) - Both Lucy and Mark 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not realize that distributing the 5 gives the same result as evaluating the expression. 
+
+(B) - Does not recognize that a factorized expression is equivalent to its expanded form. 
+
+(C) - nan 
+
+(D) - nan 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Use brackets to write function machines as calculations
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: What is \( 75\% \) expressed as a fraction? 
+
+###
+Answers:
+(A) - \( \frac{3}{4} \) 
+
+(B) - \( \frac{15}{20} \) 
+
+(C) - \( \frac{75}{25} \) 
+
+(D) - \( \frac{7}{10} \) 
+
+###
+Misconceptions:
+(A) - Correct answer, but may not be seen as obvious to some 
+
+(B) - Incorrect simplification, thinking \( 15 \div 20 = 75 \) 
+
+(C) - Incorrect use of a larger number divided, misunderstanding the conversion 
+
+(D) - Divided incorrectly based on a misunderstanding of percentage values 
+
+###
+Subject: Converting between Fractions and Percentages
+###
+ConstructName: Convert double digit integer percentages to fractions
+###
+CorrectAnswer: A

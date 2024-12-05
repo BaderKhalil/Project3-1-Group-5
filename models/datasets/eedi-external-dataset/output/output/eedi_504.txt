@@ -1,0 +1,29 @@
+###
+Question: Which of the following could be the equation of this quadratic curve? ![A quadratic curve with a maximum turning point at (1, 4). The curve crosses the x-axis at the points (0,0) and (2,0). It crosses the y-axis at (0,2).]() 
+
+###
+Answers:
+(A) - \( y = -(x-2)(x) \)
+
+(B) - \( y = (x-1)(x-2) \)
+
+(C) - \( y = -(x+1)(x-2) \)
+
+(D) - \( y = -(x)(x-2) \)
+
+###
+Misconceptions:
+(A) - Correctly identifies the roots but forgets to consider the maximum turning point, leading to a negative leading coefficient.
+
+(B) - Incorrectly finds the roots and does not account for the direction of the curve.
+
+(C) - Confuses the sign of the roots, leading to potential misunderstanding of the parabola’s behavior.
+
+(D) - Uses the correct roots but incorrectly assumes the leading coefficient should be negative without analyzing the vertex.
+
+###
+Subject: Sketching from Factorised Form
+###
+ConstructName: Given the sketch of a curve in the form (x + a)(x + b), work out its factorised form
+###
+CorrectAnswer: A

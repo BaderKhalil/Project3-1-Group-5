@@ -1,0 +1,34 @@
+###
+Question: Jamie needs to find the roots of the equation using the quadratic formula.
+\(
+2x^{2} + 4x - 6 = 0
+\)
+
+What should replace the circle? \( \frac{-b \pm \sqrt{?}}{\bigcirc} \) 
+
+###
+Answers:
+(A) - \( 16 \) 
+
+(B) - \( 36 \) 
+
+(C) - \( 24 \) 
+
+(D) - \( 40 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the discriminant and confuses square roots 
+
+(B) - Thinks the discriminant is calculated incorrectly by using the constant term mistakenly 
+
+(C) - Incorrectly incorporates coefficients from the quadratic formula 
+
+(D) - Confuses the values in the formula, not remembering the operations correctly 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Solve quadratic equations using the quadratic formula where the coefficient of x² is not 1 
+###
+CorrectAnswer: D

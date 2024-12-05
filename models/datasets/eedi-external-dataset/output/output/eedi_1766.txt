@@ -1,0 +1,32 @@
+###
+Question: Solve
+\[
+12n - 3 < 27 - 2n
+\]
+
+###
+Answers:
+(A) - \( n < \frac{15}{14} \)
+
+(B) - \( n < 3 \)
+
+(C) - \( n > \frac{15}{14} \)
+
+(D) - \( n \leq 3 \)
+
+###
+Misconceptions:
+(A) - Believes the inequality is correctly manipulated and solved 
+
+(B) - Underestimates the solution by failing to isolate the variable properly 
+
+(C) - Misinterprets the direction of the inequality after rearranging the equation 
+
+(D) - Incorrectly assumes that the solution can include equal values when it cannot 
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve linear inequalities in one variable that require three or more steps where the variable appears on one side of the equation 
+###
+CorrectAnswer: A

@@ -1,0 +1,38 @@
+###
+Question: A survey of students in a classroom revealed their scores on a recent math test. What is the most appropriate title for the second column in the following table? 
+
+\begin{tabular}{|c|c|l|}
+\hline Score & Frequency & \\
+\hline \( 70 \) & \( 5 \) & \\
+\hline \( 75 \) & \( 8 \) & \\
+\hline \( 80 \) & \( 3 \) & \\
+\hline \( 85 \) & \( 4 \) & \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - Score + Frequency 
+
+(B) - Score - Frequency 
+
+(C) - Number of Students 
+
+(D) - Score \( \div \) Frequency 
+
+###
+Misconceptions:
+(A) - Adds instead of counts 
+
+(B) - Subtracts rather than counts the occurrences 
+
+(C) - Incorrectly identifies total instead of individual 
+
+(D) - Divides rather than counts 
+
+###
+Subject: Averages and Range from Frequency Table
+###
+ConstructName: Calculate the mean from a frequency table
+###
+CorrectAnswer: C

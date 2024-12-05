@@ -1,0 +1,29 @@
+###
+Question: A rectangle is reflected in the dashed vertical line. What are the new coordinates of point Q? ![A set of axes: x-axis from -2 to 6, y-axis from -2 to 4. A rectangle is plotted with vertices at (1, 1), (4, 1), (4, 3), and (1, 3). Point (1, 1) is labeled with the letter "Q". The line x=2 is shown with a purple dashed line.]() 
+
+###
+Answers:
+(A) - \( (3,1) \) 
+
+(B) - \( (1,1) \) 
+
+(C) - \( (0,1) \) 
+
+(D) - \( (2,1) \) 
+
+###
+Misconceptions:
+(A) - Misunderstands how to calculate new coordinates after reflection across a vertical line.  
+
+(B) - Does not understand that a point on the line of reflection will stay the same when reflected  
+
+(C) - Does not recognize that the x-coordinate must change symmetrically relative to the line of reflection.  
+
+(D) - Incorrectly assumes that the point will be located directly on the line of reflection.  
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a vertical line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: A

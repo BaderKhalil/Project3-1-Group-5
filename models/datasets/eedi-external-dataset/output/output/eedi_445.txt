@@ -1,0 +1,32 @@
+###
+Question: What should replace the square when these two brackets are expanded and simplified?
+\(
+(x+4)(x-3) \equiv x^{2} \triangle x \square
+\) 
+
+###
+Answers:
+(A) - \( \square=+12 \) 
+
+(B) - \( \square=+1 \) 
+
+(C) - \( \square=-12 \) 
+
+(D) - \( \square=-7 \) 
+
+###
+Misconceptions:
+(A) - Believes the constant in an expanded quadratic comes from multiplying the two numbers in the brackets. 
+
+(B) - Misunderstands that the constant term is found by doing additive operations between the numbers in the brackets instead of multiplication. 
+
+(C) - nan 
+
+(D) - Believes to subtract numbers correctly without considering their signs during constant term calculation. 
+
+###
+Subject: Expanding Double Brackets
+###
+ConstructName: Expand two brackets with linear terms in the form (x + a)(x + b)
+###
+CorrectAnswer: D

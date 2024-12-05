@@ -1,0 +1,33 @@
+###
+Question: \(
+V = 2^{n}
+\)
+
+What is the value of \( V \) when \( n=-3 \) ? 
+
+###
+Answers:
+(A) - \( -\frac{1}{8} \) 
+
+(B) - \( \frac{1}{8} \) 
+
+(C) - \( 8 \) 
+
+(D) - \( -2 \) 
+
+###
+Misconceptions:
+(A) - Believes that a negative exponent results in a negative value 
+
+(B) - Correctly understands the calculation for a negative exponent but has miscalculated 
+
+(C) - Incorrectly thinks that raising a base number to a negative power means the result is the base raised to the positive power 
+
+(D) - Believes multiplying the base by the negative power gives the value 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute negative integer values into formulae involving powers or roots
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: What is \( 15 \) out of \( 60 \) as a percentage?
+
+###
+Answers:
+(A) - \( 25 \% \) 
+
+(B) - \( 40 \% \) 
+
+(C) - \( 60 \% \) 
+
+(D) - \( 10 \% \) 
+
+###
+Misconceptions:
+(A) - Thinks they calculated the percentage by incorrectly dividing the numerator by the denominator and misplacing the decimal. 
+
+(B) - nan 
+
+(C) - Confuses the concept by believing that if the numerator is larger than a quarter of the denominator, it must be more than 50%. 
+
+(D) - Thinks that to find a percentage, you just take a small fraction of the total without doing any proper division. 
+
+###
+Subject: Percentages of an Amount
+###
+ConstructName: Express one quantity as a percentage of another mentally
+###
+CorrectAnswer: B

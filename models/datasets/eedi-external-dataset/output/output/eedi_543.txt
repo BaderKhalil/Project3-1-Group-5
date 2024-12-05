@@ -1,0 +1,29 @@
+###
+Question: ![Squared paper with a vertical line of reflection and a square. The square is positioned to the left of the line of reflection.]() Alex and Jamie are discussing how to reflect the square in the line of reflection. Who reflects it correctly? ![Alex does this: his reflected square is aligned perfectly with the original square on the left side of the line of reflection.]() ![Jamie does this: her reflected square is positioned to the right of the line of reflection, identical in size but incorrect in placement.]() 
+
+###
+Answers:
+(A) - Only Alex 
+
+(B) - Only Jamie 
+
+(C) - Both Alex and Jamie 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Thinks mirroring creates a copy that appears opposite but aligns incorrectly 
+
+(C) - nan 
+
+(D) - Does not understand the requirements for proper reflection 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a vertical line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: D

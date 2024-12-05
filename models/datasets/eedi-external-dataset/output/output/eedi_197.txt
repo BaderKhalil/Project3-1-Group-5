@@ -1,0 +1,29 @@
+###
+Question: What is the sum of the angles in a triangle? ![A triangle with labeled angles A, B, and C]()
+
+###
+Answers:
+(A) - 90 degrees 
+
+(B) - 180 degrees 
+
+(C) - 360 degrees 
+
+(D) - 120 degrees 
+
+###
+Misconceptions:
+(A) - Believes all triangles are right triangles, and thus only considers the right angle 
+
+(B) - nan 
+
+(C) - Believes that the angles in any polygon, including a triangle, always sum up to the total degrees in a circle 
+
+(D) - Believes that the angles in an equilateral triangle are 120 degrees each, mistakenly thinking they are not summed together 
+
+###
+Subject: Triangle Properties
+###
+ConstructName: Understand the sum of angles in a triangle
+###
+CorrectAnswer: B

@@ -1,0 +1,35 @@
+###
+Question: This is a part of the table of values for the equation 
+\[y = 2x + 1\] 
+\begin{tabular}{|l|l|}
+\hline \( x \) & \( 2 \) \\
+\hline \( y \) & \( \bigstar \) \\
+\hline
+\end{tabular} What should replace the star?
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 5 \) 
+
+(C) - \( 8 \) 
+
+(D) - \( 7 \)
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the output is simply the input value without applying the function 
+
+(B) - Correct calculation; this is the right answer. 
+
+(C) - Misunderstands the function as quadratic instead of linear and mistakenly applies squaring 
+
+(D) - Misapplies the function, possibly adding or doubling values incorrectly 
+
+###
+Subject: Evaluating Linear Functions
+###
+ConstructName: Given a specific x value, find the corresponding y value for linear functions in the form y = mx + b
+###
+CorrectAnswer: B

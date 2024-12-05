@@ -1,0 +1,29 @@
+###
+Question: \( 47 + 35 = \)
+
+###
+Answers:
+(A) - \( 82 \) 
+
+(B) - \( 72 \) 
+
+(C) - \( 84 \) 
+
+(D) - \( 92 \) 
+
+###
+Misconceptions:
+(A) - Correctly adds the ones place but forgets to add the carry to the tens place. 
+
+(B) - Miscalculates the tens place, either by adding incorrectly or misaligning the numbers. 
+
+(C) - Incorrectly assumes both numbers add up to a higher total due to misremembering the base values. 
+
+(D) - Correctly combines digits but mistakenly adds an extra ten instead of carrying over. 
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Complete mental addition problems up to 1000
+###
+CorrectAnswer: A

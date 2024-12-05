@@ -1,0 +1,29 @@
+###
+Question: What is the volume of a cube with side length \( 4 \) units? 
+
+###
+Answers:
+(A) - \( 12 \) cubic units
+
+(B) - \( 64 \) cubic units
+
+(C) - \( 16 \) cubic units
+
+(D) - \( 8 \) cubic units
+
+###
+Misconceptions:
+(A) - Miscalculates volume by incorrectly adding dimensions instead of multiplying
+
+(B) - Correctly calculates volume using the formula \( \text{side}^3 \)
+
+(C) - Mistakes the formula for the volume of a cube and uses the area formula instead
+
+(D) - Believes that the volume of a cube is half the cube's side length multiplied by itself
+
+###
+Subject: Volume of 3D Shapes
+###
+ConstructName: Calculate the volume of a cube
+###
+CorrectAnswer: B

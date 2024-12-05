@@ -1,0 +1,29 @@
+###
+Question: A pattern of squares is evolving. The first term has \( 4 \) squares, the second term has \( 8 \), and the third term has \( 12 \). How many squares will be in the \( 6 \) th term of this sequence? 
+
+###
+Answers:
+(A) - \( 20 \) 
+
+(B) - \( 24 \) 
+
+(C) - \( 22 \) 
+
+(D) - \( 18 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the pattern's progression and calculates incorrectly 
+
+(B) - Predicts based on the last term instead of observing the sequence's incremental change 
+
+(C) - Incorrectly assumes a varying increment rather than a consistent one 
+
+(D) - When asked for a term several steps ahead incorrectly reduces the sequence 
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Use a linear sequence expressed as a pattern to make a prediction about another term in the sequence other than the next one
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: Which of the following statements about triangles is false?
+
+###
+Answers:
+(A) - "All right triangles are similar"
+
+(B) - "All isosceles triangles are similar"
+
+(C) - "All equilateral triangles are similar"
+
+(D) - "All triangles with the same area are similar"
+
+###
+Misconceptions:
+(A) - Does not realize that right triangles can have different side lengths and angles which affect similarity.
+
+(B) - Does not understand that isosceles triangles can vary in their angles.
+
+(C) - nan 
+
+(D) - Does not recognize that triangles with the same area can have different shapes and are not necessarily similar.
+
+###
+Subject: Length Scale Factors in Similar Shapes
+###
+ConstructName: Identify whether two shapes are similar or not
+###
+CorrectAnswer: D

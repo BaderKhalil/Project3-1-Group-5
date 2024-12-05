@@ -1,0 +1,29 @@
+###
+Question: What is the perimeter of the rectangle? ![An image of a rectangle. The length is marked 10cm and the width is marked 5cm.]() 
+
+###
+Answers:
+(A) - \( 30 \mathrm{~cm} \) 
+
+(B) - \( 25 \mathrm{~cm} \) 
+
+(C) - \( 50 \mathrm{~cm} \) 
+
+(D) - \( 15 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - Incorrectly sums dimensions without multiplying by 2 for both length and width 
+
+(B) - Misunderstands perimeter as just the sum of the width and length 
+
+(C) - Exceeds the correct calculation, perhaps mistakenly doubling the result unnecessarily 
+
+(D) - Does not recognize that the perimeter of a rectangle involves both dimensions 
+
+###
+Subject: Perimeter of Simple Shapes
+###
+ConstructName: Calculate the perimeter of a rectangle where the dimensions are given in the same units
+###
+CorrectAnswer: A

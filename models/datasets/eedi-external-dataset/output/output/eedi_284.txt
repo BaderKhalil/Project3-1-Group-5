@@ -1,0 +1,31 @@
+###
+Question: How do you write this number in words?
+
+\( 90815 \) 
+
+###
+Answers:
+(A) - Ninety thousand eight hundred and fifteen 
+
+(B) - Nine thousand eighty-one and five 
+
+(C) - Ninety thousand eight hundred and five 
+
+(D) - Ninety-eight thousand one hundred and fifteen 
+
+###
+Misconceptions:
+(A) - Confuses the thousands and tens place value columns 
+
+(B) - Misunderstands the composition of the number, treating '81' as a separate number instead of '815' 
+
+(C) - Misplaces the values leading to an incorrect representation of the remainder 
+
+(D) - Confuses the number as having a higher place value than it actually does 
+
+###
+Subject: Place Value
+###
+ConstructName: Write 5 digit numbers and above as words
+###
+CorrectAnswer: A

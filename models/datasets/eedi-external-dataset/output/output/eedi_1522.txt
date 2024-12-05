@@ -1,0 +1,29 @@
+###
+Question: ![A bar chart displaying the favorite sports among students. The x-axis contains sports categories: Soccer, Basketball, Tennis, Baseball, and Swimming. The y-axis shows the "Number of Students" ranging from 0 to 60 in increments of 10. The values are as follows: Soccer, 50; Basketball, 35; Tennis, 25; Baseball, 15; Swimming, 30.]() Which of the following statements is true? 
+
+###
+Answers:
+(A) - Soccer is the least favorite sport among students 
+
+(B) - Only swimming is liked more than tennis 
+
+(C) - Basketball is the second most popular sport 
+
+(D) - Baseball is the most popular sport 
+
+###
+Misconceptions:
+(A) - Thinks the shortest bar in a bar chart represents the most popular option 
+
+(B) - Misinterprets the comparison between bars and overlooks the number of students 
+
+(C) - nan 
+
+(D) - nan 
+
+###
+Subject: Block Graphs and Bar Charts
+###
+ConstructName: Interpret a bar chart
+###
+CorrectAnswer: C

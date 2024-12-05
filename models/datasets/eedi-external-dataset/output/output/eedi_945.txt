@@ -1,0 +1,32 @@
+###
+Question: Sarah and Mike are estimating results from division.
+Sarah says \( 75 \div 3<25 \)
+Mike says \( 24 \div 8>3 \)
+Without calculating the exact answers, who is correct?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Mike 
+
+(C) - Both Sarah and Mike 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes that rounding down the dividend will result in a smaller quotient. 
+
+(B) - Assumes that dividing a small number (24) by another number (8) should yield a high estimate. 
+
+(C) - Misunderstands how both estimates can be incorrect at the same time. 
+
+(D) - nan 
+
+###
+Subject: Estimation
+###
+ConstructName: Round numbers to an appropriate degree to estimate the answer to a calculation
+###
+CorrectAnswer: B

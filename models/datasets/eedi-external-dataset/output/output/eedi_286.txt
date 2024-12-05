@@ -1,0 +1,32 @@
+###
+Question: \(
+3 \frac{1}{4} \div 3
+\)
+Which of the following is a correct way to write the answer to this calculation?
+
+###
+Answers:
+(A) - \( 1 \frac{1}{12} \) 
+
+(B) - \( 1 \frac{3}{4} \) 
+
+(C) - \( \frac{13}{4} \) 
+
+(D) - \( \frac{1}{4} \) 
+
+###
+Misconceptions:
+(A) - When converting the mixed number to an improper fraction and dividing, fails to correctly simplify the final fraction. 
+
+(B) - Believes that division by an integer effectively decreases the total without considering how to treat the fractional part properly. 
+
+(C) - Thinks only the whole number part of the mixed number is being used for division, disregarding the fraction entirely. 
+
+(D) - Assumes that when dividing by a number, the fraction will remain the same and not be reduced. 
+
+###
+Subject: Dividing Fractions
+###
+ConstructName: Divide mixed number fractions in the form: Fraction ÷ Integer
+###
+CorrectAnswer: A

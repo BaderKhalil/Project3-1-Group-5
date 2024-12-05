@@ -1,0 +1,37 @@
+###
+Question: The table below shows the number of books read by \( 20 \) students. Find the mean number of books read per student. ![\begin{tabular}{|c|c|}
+
+Number of Books & Frequency \\
+\hline \( 1 \) & \( 5 \) \\
+\hline \( 2 \) & \( 7 \) \\
+\hline \( 3 \) & \( 6 \) \\
+\hline \( 4 \) & \( 2 \) \\
+\hline
+\end{tabular}]() 
+
+###
+Answers:
+(A) - \( 2.3(1 \mathrm{dp}) \) 
+
+(B) - \( 2.75 \) 
+
+(C) - \( 3.0(1 \mathrm{dp}) \) 
+
+(D) - \( 2.0(1 \mathrm{dp}) \) 
+
+###
+Misconceptions:
+(A) - Miscalculates total by mixing frequencies with categories 
+
+(B) - Calculates mean incorrectly by dividing total count by an incorrect number, such as total students in the frequency 
+
+(C) - nan 
+
+(D) - Ignores the contribution of higher frequencies in the calculation 
+
+###
+Subject: Averages and Range from Frequency Table
+###
+ConstructName: Calculate the mean from a frequency table
+###
+CorrectAnswer: B

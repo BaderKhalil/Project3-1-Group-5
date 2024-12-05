@@ -1,0 +1,29 @@
+###
+Question: Sarah is analyzing the function machine! ![A function machine with an input of 2b, the function is not labeled and then an output of 6b + 8]() Sarah thinks the function could be \( \times 3 \), while Mike believes the function could be \( +4b \). Whose interpretation do you find correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only Mike
+
+(C) - Both Sarah and Mike
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that multiplying the input by 3 gives the output directly.
+
+(B) - Incorrectly assumes that just adding 4b to the input results in the output.
+
+(C) - Misunderstands that functions can only operate by addition or multiplication separately.
+
+(D) - Misjudges that both interpretations are entirely incorrect despite being partially valid.
+
+###
+Subject: Function Machines
+###
+ConstructName: Determine the function of a single function machine used to create an algebraic expression
+###
+CorrectAnswer: D

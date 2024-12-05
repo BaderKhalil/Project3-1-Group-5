@@ -1,0 +1,29 @@
+###
+Question: ![An equation represented with arrows: the first arrow has ' + 4' in it, and the second arrow has ' ÷ 2' in it.]() The rule above is used to create a term-to-term sequence. If the fifth term is \( 36 \), what is the first term?
+
+###
+Answers:
+(A) - \( 8 \) 
+
+(B) - \( 10 \) 
+
+(C) - \( 14 \) 
+
+(D) - \( 18 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the effect of operations and assumes a lower term will yield a higher first term
+
+(B) - Confuses the sequence operations and adds instead of applying both rules correctly
+
+(C) - Correct answer, understands the operations of the sequence clearly 
+
+(D) - Thinks that term sequences must always end in an even number 
+
+###
+Subject: Other Sequences
+###
+ConstructName: For a given output find the input of a function machine
+###
+CorrectAnswer: C

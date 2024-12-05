@@ -1,0 +1,32 @@
+###
+Question: How do you express this fraction?
+\(
+\frac{7}{9}
+\)
+
+###
+Answers:
+(A) - Seven point nine 
+
+(B) - Seven nines 
+
+(C) - Seven ninths 
+
+(D) - Seven over nine 
+
+###
+Misconceptions:
+(A) - Has mistakenly used the decimal point to separate numerator and denominator 
+
+(B) - Misunderstands how to express a fraction in words 
+
+(C) - nan 
+
+(D) - Confuses stating the fraction with saying the numbers separately 
+
+###
+Subject: Fractions of an Amount
+###
+ConstructName: Read fractions
+###
+CorrectAnswer: C

@@ -1,0 +1,30 @@
+###
+Question: How do you write this number in digits?  
+Eighty-seven thousand and four hundred
+
+###
+Answers:  
+(A) - \( 87400 \)  
+
+(B) - \( 87004 \)  
+
+(C) - \( 870400 \)  
+
+(D) - \( 840700 \)  
+
+###
+Misconceptions:  
+(A) - Confuses the placement of digits in the thousands and hundreds, omitting decimals or zeroes.  
+
+(B) - Misunderstands how to separate the thousands and units correctly, mistakenly placing digits.  
+
+(C) - Overestimates the number of digits by adding an extra zero in the hundreds place.  
+
+(D) - Misapplies place values by mixing up the order of thousands and hundreds altogether.  
+
+###
+Subject: Place Value  
+###
+ConstructName: Express words as 5 digit numbers and above  
+###
+CorrectAnswer: A

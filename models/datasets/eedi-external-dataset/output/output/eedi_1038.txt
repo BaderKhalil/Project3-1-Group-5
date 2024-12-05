@@ -1,0 +1,29 @@
+###
+Question: How many minutes are there in \( 3 \) hours?
+
+###
+Answers:
+(A) - \( 3 \times 60 \times 60 \) 
+
+(B) - \( 3 \times 60 \) 
+
+(C) - \( 3 \times 30 \) 
+
+(D) - \( 3 \times 120 \) 
+
+###
+Misconceptions:
+(A) - Overestimates by multiplying hours by both 60 and 60, mistakenly calculating seconds instead of minutes
+
+(B) - nan
+
+(C) - Confuses the number of minutes in an hour and mistakenly thinks there are 30 minutes 
+
+(D) - Believes there are 120 minutes in an hour instead of the correct amount
+
+###
+Subject: Time
+###
+ConstructName: Convert from hours to minutes
+###
+CorrectAnswer: B

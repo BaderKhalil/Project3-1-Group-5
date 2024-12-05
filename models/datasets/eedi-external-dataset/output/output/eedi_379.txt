@@ -1,0 +1,29 @@
+###
+Question: Sarah and Tom are discussing the inequality related to the expression on the right. \( 3x + 2 < 8 \) Sarah claims this means \( x < 2 \) is always true. Tom contends that \( x > 1 \) is correct. Who is accurate?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Tom 
+
+(C) - Both Sarah and Tom 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Incorrectly believes the solution only involves the upper limit and ignores other potential values for \( x \).
+
+(B) - Misunderstands the transformation of the inequality and believes there's a lower bound without justification. 
+
+(C) - Thinks that solving inequalities yields multiple valid ranges without verifying the conditions.
+
+(D) - Misinterprets the inequality and claims both interpretations are wrong without a proper evaluation of each statement. 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Given an equation, form or identify related equations
+###
+CorrectAnswer: A

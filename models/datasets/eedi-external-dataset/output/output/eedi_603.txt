@@ -1,0 +1,37 @@
+###
+Question: Sarah recorded the types of fruits she sold at the market last weekend. How many pieces of fruit did she sell altogether? \begin{tabular}{|c|c|}
+\hline Type & Frequency \\
+\hline Apples & \( 6 \) \\
+\hline Bananas & \( 4 \) \\
+\hline Oranges & \( 5 \) \\
+\hline Grapes & \( 3 \) \\
+\hline Berries & \( 2 \) \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( 18 \) 
+
+(B) - \( 20 \) 
+
+(C) - \( 14 \) 
+
+(D) - \( 15 \) 
+
+###
+Misconceptions:
+(A) - Thinks that the total frequency is found by multiplying the number of types by the average sold 
+
+(B) - Believes that all items must be accounted for some categories are not included 
+
+(C) - Believes the total does not need to include smaller categories like berries 
+
+(D) - nan 
+
+###
+Subject: Averages and Range from Frequency Table
+###
+ConstructName: Interpret numbers in a frequency table
+###
+CorrectAnswer: D

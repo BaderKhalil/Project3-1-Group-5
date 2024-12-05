@@ -1,0 +1,34 @@
+###
+        Question: Sarah and Brian are learning about similar triangles.
+Sarah claims that if two triangles have the same angles, they are similar regardless of their side lengths.
+Brian argues that if two triangles have proportional side lengths, then they must be similar.
+Who is correct?
+
+        ###
+        Answers:
+        (A) - Only
+Sarah 
+
+        (B) - Only
+Brian 
+
+        (C) - Both Sarah and Brian 
+
+        (D) - Neither is correct 
+
+        ###
+        Misconceptions:
+        (A) - Does not understand that similarity in triangles requires both angle congruence and proportionality of side lengths 
+       
+        (B) - nan
+
+        (C) - Does not understand that similarity in triangles requires both angle congruence and proportionality of side lengths
+
+        (D) - Does not understand that similarity in triangles requires both angle congruence and proportionality of side lengths 
+
+        ###
+        Subject: Similarity in Triangles
+        ###
+        ConstructName: Understand the conditions for similarity
+        ###
+        CorrectAnswer: B

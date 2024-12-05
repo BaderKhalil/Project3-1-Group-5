@@ -1,0 +1,29 @@
+###
+Question: A function machine takes an input \(x\) and follows the operations \( \times 2 \) then \( + 5 \). What is the output? Alex claims it's \( 2x + 5 \), while Jamie insists it's \( 5 + 2x \). Who is correct?
+
+###
+Answers:
+(A) - Only Alex
+
+(B) - Only Jamie
+
+(C) - Both Alex and Jamie
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Ignores the correct representation of output by not realizing the order of addition.
+
+(C) - Fails to recognize the output can be represented in two equivalent ways but incorrectly addresses the input-output process.
+
+(D) - nan 
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given algebraic input, find the output of a function machine
+###
+CorrectAnswer: C

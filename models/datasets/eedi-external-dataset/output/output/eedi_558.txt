@@ -1,0 +1,29 @@
+###
+Question: Simplify the following expression, if possible: \( \frac{x^{2}-4}{x+2} \)
+
+###
+Answers:
+(A) - \( x-2 \) 
+
+(B) - \( x+2 \) 
+
+(C) - \( x^2 + 2 \) 
+
+(D) - Does not simplify 
+
+###
+Misconceptions:
+(A) - Recognizes the difference of squares but applies it incorrectly. 
+
+(B) - Incorrectly assumes the expression can be simplified without factoring. 
+
+(C) - Misunderstands how to add polynomials or incorrectly simplifies the expression. 
+
+(D) - Fails to attempt factorization and assumes the fraction cannot be reduced. 
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising the numerator
+###
+CorrectAnswer: A

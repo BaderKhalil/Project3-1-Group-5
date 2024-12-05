@@ -1,0 +1,29 @@
+###
+Question: A quadrilateral has the following properties: It has two pairs of equal opposite sides and opposite angles are equal. Statement 1. It must be a parallelogram. Statement 2. It must be a rectangle. Which is true? 
+
+###
+Answers:
+(A) - Statement \( 1 \) 
+
+(B) - Statement \( 2 \) 
+
+(C) - Both statements 
+
+(D) - Neither statement 
+
+###
+Misconceptions:
+(A) - Does not recognize that a shape with equal opposite sides and angles must be at least a parallelogram.
+
+(B) - Confuses rectangles with parallelograms, thinking all parallelograms are rectangles.
+
+(C) - nan 
+
+(D) - nan 
+
+###
+Subject: Properties of Quadrilaterals
+###
+ConstructName: Identify a parallelogram based on properties of the sides and angles
+###
+CorrectAnswer: A

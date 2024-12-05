@@ -1,0 +1,29 @@
+###
+        Question: ![Line drawing of a cube]() How many edges does this cube have? 
+
+        ###
+        Answers:
+        (A) - \( 12 \) 
+
+        (B) - \( 8 \) 
+
+        (C) - \( 6 \) 
+
+        (D) - \( 4 \) 
+
+        ###
+        Misconceptions:
+        (A) - nan 
+
+        (B) - Confuses the terms edges and vertices 
+
+        (C) - Confuses the terms edges and faces 
+
+        (D) - Does not know the definition of a cube 
+
+        ###
+        Subject: Names and Properties of 3D Shapes
+        ###
+        ConstructName: Identify and count the faces, vertices and edges of a 3D shape
+        ###
+        CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Factor the expression: \( 4x + 12 \)
+
+###
+Answers:
+(A) \( 4(x + 3) \)
+
+(B) \( 4(x - 3) \)
+
+(C) \( 4(x + 4) \)
+
+(D) \( 12(x + 1) \)
+
+###
+Misconceptions:
+(A) - Correct application of factoring out the greatest common factor
+
+(B) - Believes that subtracting a number when factoring is appropriate
+
+(C) - Incorrectly identifies the constant term that is being factored out
+
+(D) - Misunderstands that factoring requires taking the constant factor but miscalculates the terms involved 
+
+###
+Subject: Factoring Expressions
+###
+ConstructName: Factoring out the greatest common factor from a linear expression
+###
+CorrectAnswer: A

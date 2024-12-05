@@ -1,0 +1,31 @@
+###
+        Question: Jamie is expanding these two brackets.
+
+What should she get when she multiplies the two terms indicated by the arrows? ![The two brackets are (3x+7)(4x-2). The arrows are pointing at the 3x in the first bracket and the -2 in the second bracket.]()
+
+        ###
+        Answers:
+        (A) - \( -6x \) 
+
+        (B) - \( +6x \) 
+
+        (C) - \( +12x \) 
+
+        (D) - \( -12x \) 
+
+        ###
+        Misconceptions:
+        (A) - nan 
+
+        (B) - Believes multiplying a positive by a negative gives a positive answer 
+
+        (C) - Multiplies the coefficients incorrectly by summing instead of multiplying 
+
+        (D) - Misinterprets the sign in final result, fails to account for positive and negative rule properly 
+
+        ###
+        Subject: Expanding Double Brackets
+        ###
+        ConstructName: Expand two brackets with linear terms in the form (ax + b)(cx + d)
+        ###
+        CorrectAnswer: A

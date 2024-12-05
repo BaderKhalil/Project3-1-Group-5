@@ -1,0 +1,35 @@
+###
+Question: Sarah and Jake are trying to determine the measure of each interior angle in a regular hexagon.
+
+Sarah thinks you can find it by using the formula \( \frac{(6-2) \times 180}{6} \).
+
+Jake believes the formula should be \( \frac{540}{6} \).
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only Jake
+
+(C) - Both Sarah and Jake
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Misunderstands that the formula correctly accounts for the triangular nature of polygons but confuses steps in calculations.
+
+(B) - Is correct in knowing how to divide the total interior angles but doesn't recognize the derivation of the total angle measure for a polygon.
+
+(C) - Misinterprets that both formulas lead to the same derived answer without understanding the basis of each.
+
+(D) - Believes neither formula leads to a valid calculation for the interior angles of a regular hexagon.
+
+###
+Subject: Angles in Polygons
+###
+ConstructName: Work out the size of each interior angle in a regular polygon
+###
+CorrectAnswer: C

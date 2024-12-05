@@ -1,0 +1,29 @@
+###
+Question: A common factor of \( 12 \) and \( 18 \) is...
+
+###
+Answers:
+(A) - \( 6 \) 
+
+(B) - \( 12 \) 
+
+(C) - \( 3 \) 
+
+(D) - \( 36 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Does not understand that \( 12 \) is not a factor of \( 18 \) 
+
+(C) - Does not recognize that \( 3 \) is a common factor but is not the largest 
+
+(D) - Confuses factors with multiples 
+
+###
+Subject: Factors and Highest Common Factor
+###
+ConstructName: Identify common factors of two numbers
+###
+CorrectAnswer: A

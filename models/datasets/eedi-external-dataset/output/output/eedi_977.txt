@@ -1,0 +1,29 @@
+###
+Question: Which of the following numbers has the same value when rounded to \( 3 \) decimal places and to \( 3 \) significant figures? 
+
+###
+Answers:
+(A) - \( 0.00456 \) 
+
+(B) - \( 12.459 \) 
+
+(C) - \( 0.0701 \) 
+
+(D) - \( 6.800 \) 
+
+###
+Misconceptions:
+(A) - Does not understand the placement of decimal points in relation to significant figures 
+
+(B) - Rounding errors from misunderstanding of significant figures and decimal places 
+
+(C) - Incorrectly calculates significant figures due to zeros in leading position 
+
+(D) - nan 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers between 0 and 10 to three significant figures
+###
+CorrectAnswer: D

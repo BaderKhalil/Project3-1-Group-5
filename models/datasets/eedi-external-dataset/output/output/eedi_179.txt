@@ -1,0 +1,29 @@
+###
+Question: Sarah is trying to solve this multiplication problem using Napier's bones. What number does the highlighted digit represent? \( 472 \times 58 \) ![A Napier's bones grid, with 472 along the top and 58 down the side. From left to right on the top row, with / representing a diagonal line through the box, the boxes read 3/8, 2/9, 3/3. From left to right on the bottom row, the boxes read 3/4, 3/5, 4/6. The digit 3 is highlighted in the first box of the top row, which is in the column under the 4 of 472 and the row along from the 5 of 58.]()
+
+###
+Answers:
+(A) - \( 3 \) 
+
+(B) - \( 30 \) 
+
+(C) - \( 300 \) 
+
+(D) - \( 3000 \) 
+
+###
+Misconceptions:
+(A) - Does not understand the place value of answers from a Napier's bones calculation 
+
+(B) - Does not recognize the value of the highlighted digit within the overall multiplication context 
+
+(C) - nan 
+
+(D) - Does not understand the role of place value in the Napier's bones calculation 
+
+###
+Subject: Written Multiplication
+###
+ConstructName: Multiply 3 digit integers by 2 digit integers using Napier’s bones
+###
+CorrectAnswer: C

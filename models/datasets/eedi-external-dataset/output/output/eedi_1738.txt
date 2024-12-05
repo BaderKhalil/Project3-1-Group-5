@@ -1,0 +1,29 @@
+###
+Question: An angle measures \( 75^{\degree} \). This means it is...
+
+###
+Answers:
+(A) - Acute 
+
+(B) - Reflex 
+
+(C) - Obtuse 
+
+(D) - A right angle 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Does not understand that a reflex angle is greater than 180 degrees 
+
+(C) - Does not know that an obtuse angle is between 90 and 180 degrees 
+
+(D) - Does not realize that a right angle is exactly 90 degrees 
+
+###
+Subject: Types, Naming and Estimating
+###
+ConstructName: Identify acute angles
+###
+CorrectAnswer: A

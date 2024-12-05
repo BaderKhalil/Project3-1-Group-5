@@ -1,0 +1,29 @@
+### 
+Question: If a train leaves the station at \( 2:45 \) pm and travels for \( 1 \) hour and \( 20 \) minutes, what time does it arrive at its destination? 
+
+### 
+Answers:
+(A) - \( 3:05 \) pm 
+
+(B) - \( 4:05 \) pm 
+
+(C) - \( 4:25 \) pm 
+
+(D) - None of these answers is correct 
+
+### 
+Misconceptions:
+(A) - Miscalculates adding minutes to the hour by not carrying over correctly. 
+
+(B) - Misunderstands the addition of time and believes the travel time is less than it is. 
+
+(C) - nan 
+
+(D) - nan 
+
+### 
+Subject: Time 
+### 
+ConstructName: Solve problems involving adding a period of time to a given start time 
+### 
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: What inequality is represented by the graph? ![A number line with a filled-in circle above -3 and an arrow coming out of it over the numbers to the left (-4, -5, -6, etc.)]() 
+
+###
+Answers:
+(A) - \( x < -3 \) 
+
+(B) - \( x \leq -3 \) 
+
+(C) - \( x > -3 \) 
+
+(D) - \( x \geq -3 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly interprets the filled circle; represents that -3 is not included in the solution set. 
+
+(B) - nan 
+
+(C) - Mixes up the direction of the inequality, thinking the arrow points to the right.
+
+(D) - Confuses the filled circle meaning and assumes -3 is part of the solution but the direction is incorrect.
+
+###
+Subject: Inequalities on Number Lines
+###
+ConstructName: Represent a linear inequality with a single tail on a numberline
+###
+CorrectAnswer: B

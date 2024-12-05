@@ -1,0 +1,31 @@
+###
+Question: Triangle \( \mathrm{R} \) has been reduced by a scale factor of \( 0.75 \) to give triangle \( \mathrm{S} \).
+
+What length should replace the star? ![Two triangles, the larger labelled R and the smaller labelled S. S has a base of 6cm and height of 9cm. The height of R is marked with a star.]()
+
+###
+Answers:
+(A) - \( 12 \mathrm{~cm} \)
+
+(B) - \( 8 \mathrm{~cm} \)
+
+(C) - \( 7.5 \mathrm{~cm} \)
+
+(D) - \( 9 \mathrm{~cm} \)
+
+###
+Misconceptions:
+(A) - Incorrectly applies the scale factor by mixing up multiplication instead of division 
+
+(B) - Not recognizing the correct relationship of dimensions in similar triangles 
+
+(C) - Correct identification of corresponding dimensions but incorrect calculation with the scale factor 
+
+(D) - Fails to recognize that the height of the larger triangle would be more than that of the smaller triangle 
+
+###
+Subject: Length Scale Factors in Similar Shapes
+###
+ConstructName: Solve length problems involving similar shapes where the missing length is the longer one
+###
+CorrectAnswer: A

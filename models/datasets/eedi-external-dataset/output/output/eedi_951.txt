@@ -1,0 +1,33 @@
+###
+Question: What does the following equal?
+
+\(
+8 + 2 \times 4 - 6
+\) 
+
+###
+Answers:
+(A) - \( 10 \) 
+
+(B) - \( 20 \) 
+
+(C) - \( 8 \) 
+
+(D) - \( 4 \) 
+
+###
+Misconceptions:
+(A) - Believes that the operations are all executed from left to right without adhering to the order of operations. 
+
+(B) - Incorrectly performs multiplication after addition and subtraction. 
+
+(C) - Incorrectly performs addition before multiplication, leading to an erroneous calculation. 
+
+(D) - Assumes that subtraction can be done before multiplication, disregarding the rules of order of operations. 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division
+###
+CorrectAnswer: A

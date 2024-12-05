@@ -1,0 +1,33 @@
+###
+Question: ![A rectangular prism]() Sarah has learned that:
+
+Volume of a prism = Cross-sectional area \( \times \) height
+
+In this case, what is the "height" of the prism? 
+
+###
+Answers:
+(A) - \( 8 \mathrm{~cm} \) 
+
+(B) - \( 12 \mathrm{~cm} \) 
+
+(C) - \( 20 \mathrm{~cm} \) 
+
+(D) - \( 25 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - Thinks height refers to the length of one of the sides rather than the vertical measurement 
+
+(B) - Thinks height is the largest dimension of the prism, without considering orientation 
+
+(C) - Can't differentiate between height and the overall size of the prism 
+
+(D) - nan 
+
+###
+Subject: Volume of Prisms
+###
+ConstructName: Calculate the volume of other prisms when the dimensions are given in the same units
+###
+CorrectAnswer: B

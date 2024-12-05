@@ -1,0 +1,29 @@
+###
+Question: Simplify the following expression to a single fraction: \( \frac{2x}{5} + \frac{3y}{10} \)
+
+###
+Answers:
+(A) - \( \frac{4x + 3y}{10} \)
+
+(B) - \( \frac{2x + 3y}{5} \)
+
+(C) - \( \frac{4x + 3y}{10} \)
+
+(D) - \( \frac{2x + 6y}{10} \)
+
+###
+Misconceptions:
+(A) - Underestimates the need to find a common denominator 
+
+(B) - Incorrectly adds the numerators while ignoring the denominators' contribution 
+
+(C) - Correctly combines the fractions but mistakes the numerators
+
+(D) - Miscalculates the numerator by multiplying the second fraction's numerator incorrectly 
+
+###
+Subject: Adding and Subtracting Algebraic Fractions
+###
+ConstructName: Add algebraic fractions with different denominators
+###
+CorrectAnswer: C

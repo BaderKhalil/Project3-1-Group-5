@@ -1,0 +1,29 @@
+###
+Question: ![Double and then subtract \( 2 \)]() The first three terms of which sequence below is produced by this term-to-term rule? 
+
+###
+Answers:
+(A) - \( -2,-4,-6 \) 
+
+(B) - \( -2,0,2 \) 
+
+(C) - \( -2,2,6 \) 
+
+(D) - \( -2,-8,-14 \) 
+
+###
+Misconceptions:
+(A) - Misinterprets the rule by adding instead of subtracting  
+
+(B) - Misapplies the adjustment of \( 2 \) to produce the wrong sequence 
+
+(C) - Applies the rule correctly for the first two terms but miscalculates the third 
+
+(D) - Applies a different transformation instead of doubling the previous term 
+
+###
+Subject: Linear Sequences
+###
+ConstructName: Given a description of an ascending sequence using linear transformations in words, write some terms of that sequence
+###
+CorrectAnswer: B

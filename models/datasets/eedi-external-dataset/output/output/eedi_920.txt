@@ -1,0 +1,30 @@
+###
+Question: Round this number to \( 3 \) significant figures:
+\( 123456 \)
+
+###
+Answers:
+(A) - \( 123000 \) 
+
+(B) - \( 123500 \) 
+
+(C) - \( 124000 \) 
+
+(D) - \( 123456 \) 
+
+###
+Misconceptions:
+(A) - Ignores the importance of the last significant digit to determine rounding 
+
+(B) - Rounds to the nearest thousand instead of maintaining three significant figures 
+
+(C) - Mistakenly rounds up to the next significant figure without considering the digits after the third 
+
+(D) - Fails to recognize that the number needs to be simplified and rounded 
+
+###
+Subject: Rounding to Significant Figures
+###
+ConstructName: Round numbers greater than 1 to three significant figures
+###
+CorrectAnswer: A

@@ -1,0 +1,32 @@
+###
+Question: Factorise the following expression, if possible:
+\(
+x^{2}-25
+\) 
+
+###
+Answers:
+(A) - \( (x-5)(x-5) \) 
+
+(B) - \( (x+5)(x-5) \) 
+
+(C) - \( x(x-25) \) 
+
+(D) - Does not factorise 
+
+###
+Misconceptions:
+(A) - Factorises difference of two squares with the same sign in both brackets 
+
+(B) - nan 
+
+(C) - Believes only the first term needs to be divided when factorising an expression 
+
+(D) - Does not recognise difference of two squares 
+
+###
+Subject: Difference of Two Squares
+###
+ConstructName: Factorise a quadratic expression in the form x² - c
+###
+CorrectAnswer: B

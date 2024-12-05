@@ -1,0 +1,32 @@
+###
+Question: What is the range of the following set of data?
+\[
+10 \mathrm{~m}, \quad 15 \mathrm{~m}, \quad 12 \mathrm{~m}, \quad 5 \mathrm{~m}
+\] 
+
+###
+Answers:
+(A) - \( 10 \mathrm{~m} \) 
+
+(B) - \( 15 \mathrm{~m} \) 
+
+(C) - \( 5 \mathrm{~m} \) 
+
+(D) - \( 20 \mathrm{~m} \) 
+
+###
+Misconceptions:
+(A) - Thinks that the range is simply the standard deviation or average of the values 
+
+(B) - Incorrectly identifies the largest number in the set as the range 
+
+(C) - Believes the range is just the smallest number in the set 
+
+(D) - Thinks that calculating the range requires adding the largest and smallest values 
+
+###
+Subject: Range and Interquartile Range from a List of Data
+###
+ConstructName: Calculate the range from a list of data
+###
+CorrectAnswer: D

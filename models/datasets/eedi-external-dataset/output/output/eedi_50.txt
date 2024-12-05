@@ -1,0 +1,32 @@
+###
+Question: What is the value of:
+\[
+45.75 \div 10
+\]
+
+###
+Answers:
+(A) - \( 4.575 \) 
+
+(B) - \( 45.075 \) 
+
+(C) - \( 0.4575 \) 
+
+(D) - \( 4.075 \) 
+
+###
+Misconceptions:
+(A) - Misunderstanding the division of decimals, incorrectly placing the decimal point further left 
+
+(B) - Incorrectly believing that dividing by 10 keeps the number the same, only modifying the decimal point 
+
+(C) - When dividing involves moving the decimal point too far left, losing significant digits 
+
+(D) - Misplacing the decimal point and misunderstanding how many places to move it 
+
+###
+Subject: Place Value
+###
+ConstructName: Divide decimals by 10
+###
+CorrectAnswer: A

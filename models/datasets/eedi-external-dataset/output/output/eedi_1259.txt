@@ -1,0 +1,29 @@
+###
+Question: \( input \Rightarrow(\times3) \Rightarrow(-5) \Rightarrow10\) What is the input of this function machine? 
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 15 \) 
+
+(C) - \( 25 \) 
+
+(D) - \( 5 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly calculates the inverse of the last operation while not considering the correct order of operations 
+
+(B) - Incorrectly assumes the multiplication step is only relevant to the number \( 10 \) and does not work backward accurately 
+
+(C) - Adds extra operations or variables instead of correctly reversing the operations involved in the function machine 
+
+(D) - Incorrectly assumes the same answer as (A) without proper reasoning  
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given output find the input of a function machine
+###
+CorrectAnswer: A

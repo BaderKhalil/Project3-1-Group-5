@@ -1,0 +1,37 @@
+###
+Question: ![A bar chart with green vertical bars. The x-axis is titled "Sports" and the y-axis is titled "Number of Players" and its scale is from 0 to 60 in steps of 10. The bars represent the following numbers of players: Soccer, 50; Basketball, 40; Tennis, 30; Badminton, 20; Volleyball, 10.]() \begin{tabular}{|c|c|}
+\hline Type of Sport & Number of Players\\
+\hline Soccer & \( 50 \) \\
+\hline Basketball & \\
+\hline Tennis & \( 30 \) \\
+\hline Badminton & \\
+\hline Volleyball & \( 10 \) \\
+\hline
+\end{tabular} Using the bar chart, what two numbers are missing from the table? 
+
+###
+Answers:
+(A) - \( 40 \) and \( 20 \) 
+
+(B) - \( 50 \) and \( 10 \) 
+
+(C) - Badminton, Soccer 
+
+(D) - \( 40 \) and \( 10 \) 
+
+###
+Misconceptions:
+(A) - When reading graph, chooses nearest marked value on axis instead of reading accurately 
+
+(B) - Assumes the numbers correspond to the sports mentioned rather than interpreting the chart accurately 
+
+(C) - Confuses the number of players with the types of sports 
+
+(D) - When reading graph, chooses values not aligned with the actual heights of the bars 
+
+###
+Subject: Block Graphs and Bar Charts
+###
+ConstructName: Interpret a bar chart
+###
+CorrectAnswer: A

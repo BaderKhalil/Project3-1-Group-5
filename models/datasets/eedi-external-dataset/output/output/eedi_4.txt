@@ -1,0 +1,34 @@
+###
+Question: The equation \( g = 2h^2 + 4 \) is used to find values in the table below. What is the value covered by the star? 
+\begin{tabular}{|c|c|c|c|c|}
+\hline\( h \) & \( 1 \) & \( 2 \) & \( 3 \) & \( 4 \) \\
+\hline\( g \) & \( 6 \) & \( 12 \) & \( \color{gold}\bigstar \) & \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( 26 \) 
+
+(B) - \( 24 \) 
+
+(C) - \( 20 \) 
+
+(D) - \( 34 \) 
+
+###
+Misconceptions:
+(A) - Thinks that the formula produces a value based only on the highest power and disregards the constant term. 
+
+(B) - Thinks that by doubling the second value, you can find the next value in a non-linear relationship.
+
+(C) - Believes the function has a consistent additive pattern instead of applying the formula correctly.
+
+(D) - Miscalculates by misapplying the formula, assuming it produces too high an output for larger integers.
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive integer values into formulae involving powers or roots
+###
+CorrectAnswer: A

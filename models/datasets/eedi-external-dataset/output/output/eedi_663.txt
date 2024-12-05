@@ -1,0 +1,37 @@
+###
+Question: Natalie calculates \( 480 \div 40 \) using her mental math skills by thinking "There are \( 12 \) lots of \( 40 \) in \( 480 \). So the answer is \( 12 \)." Now she applies the same strategy to \( 640 \div 40 \). Which of the following represents how she would approach this calculation?
+
+###
+Answers:
+(A) - There are \( 12 \) lots of \( 40 \) in \( 480 \)  
+Then I keep \( 12 \) the same  
+So the answer is \( 12 \)  
+
+(B) - There are \( 16 \) lots of \( 40 \) in \( 480 \)  
+Then I multiplied \( 16 \) by \( 1 \)  
+So the answer is \( 16 \)  
+
+(C) - There are \( 8 \) lots of \( 40 \) in \( 100 \)  
+Then I multiplied \( 8 \) by \( 6 \)  
+So the answer is \( 48 \)  
+
+(D) - There are \( 16 \) lots of \( 40 \) in \( 640 \)  
+Then I multiplied \( 16 \) by \( 1 \)  
+So the answer is \( 16 \)  
+
+###
+Misconceptions:
+(A) - Does not apply the correct reasoning based on the method given  
+
+(B) - Incorrectly calculates the number of lots  
+
+(C) - Does not relate to the calculation being performed  
+
+(D) - Miscalculates initially but follows an arithmetic operation, which is not relevant  
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Recognise and use efficient methods for mental division
+###
+CorrectAnswer: D

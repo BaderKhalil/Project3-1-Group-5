@@ -1,0 +1,33 @@
+###
+        Question: \(
+\frac{n-5}{3} \leq 2
+\)
+
+If \( n \) can represent any number, is the statement above... 
+
+        ###
+        Answers:
+        (A) - always true 
+
+        (B) - sometimes true 
+
+        (C) - never true 
+
+        (D) - Need more information 
+
+        ###
+        Misconceptions:
+        (A) - Assumes the inequality holds for all values without checking specific scenarios 
+
+        (B) - Correctly understands that the inequality can hold for some values of \( n \) but not others 
+
+        (C) - Assumes the inequality is invalid after deciding on a few values without thorough verification 
+
+        (D) - Believes more data is needed instead of analyzing the inequality provided 
+
+        ###
+        Subject: Adding and Subtracting Negative Numbers
+        ###
+        ConstructName: Carry out division problems involving one negative integer
+        ###
+        CorrectAnswer: B

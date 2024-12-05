@@ -1,0 +1,29 @@
+###
+Question: If a pizza is cut into \( 10 \) equal slices, how many slices need to be eaten to consume \( 70\% \) of the pizza?
+
+###
+Answers:
+(A) - \( 5 \)
+
+(B) - \( 7 \)
+
+(C) - \( 3 \)
+
+(D) - \( 10 \)
+
+###
+Misconceptions:
+(A) - Misunderstands that eating 5 slices is sufficient without calculating the percentage.
+
+(B) - Correctly calculates 70% of the total slices, which is \( 7 \) slices.
+
+(C) - Confuses the percentage with a smaller fraction, not realizing \( 3 \) slices only accounts for \( 30\% \).
+
+(D) - Incorrectly assumes that eating all the slices would be required for a percentage that is less than \( 100\% \).
+
+###
+Subject: Percentages of an Amount
+###
+ConstructName: Determine the number of parts needed from a total considering percentages
+###
+CorrectAnswer: B

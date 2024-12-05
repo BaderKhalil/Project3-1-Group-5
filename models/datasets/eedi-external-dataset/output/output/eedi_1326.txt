@@ -1,0 +1,29 @@
+###
+Question: In a bag, there are \( 7 \) green marbles and \( 3 \) blue marbles. If Sam takes out one green marble and does not replace it, what is the probability that his next pick is a blue marble? 
+
+###
+Answers:
+(A) - \( \frac{3}{9} \) 
+
+(B) - \( \frac{3}{8} \) 
+
+(C) - \( \frac{7}{9} \) 
+
+(D) - \( \frac{7}{8} \) 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes the total number of marbles remains unchanged after the first pick. 
+
+(B) - nan 
+
+(C) - Incorrectly believes that the probability of picking the second marble does not depend on the first pick. 
+
+(D) - Incorrectly assumes the probability of the second pick by failing to adjust the total after removing one marble. 
+
+###
+Subject: Tree Diagrams with Dependent Events
+###
+ConstructName: Calculate the probability of two dependent events occurring without drawing a tree diagram
+###
+CorrectAnswer: B

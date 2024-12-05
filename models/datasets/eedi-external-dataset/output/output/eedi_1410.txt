@@ -1,0 +1,35 @@
+###
+Question: The median of these five numbers is \( 10 \).
+\(
+\begin{array}{ccccc}
+8 & 14 & 12 & ? & 6
+\end{array}
+\)
+Find the value of the missing number.
+
+###
+Answers:
+(A) - \( 9 \)
+
+(B) - \( 10 \)
+
+(C) - \( 11 \)
+
+(D) - \( 5 \)
+
+###
+Misconceptions:
+(A) - Assumes the median already includes the missing number as part of the set 
+
+(B) - Misunderstands the definition of median, thinking it's the average 
+
+(C) - Incorrectly assumes that the missing number must be one of the existing numbers to achieve the median 
+
+(D) - Fails to consider that placing \( 5 \) in the set would not yield \( 10 \) as a median
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Solve missing number problems involving the median
+###
+CorrectAnswer: A

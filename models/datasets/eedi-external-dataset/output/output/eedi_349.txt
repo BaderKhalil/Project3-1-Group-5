@@ -1,0 +1,29 @@
+###
+Question: Which of the following multiplication problems has an error?
+
+###
+Answers:
+(A) - \( (-5) \times 3 = -15 \)
+
+(B) - \( (-5) \times (-3) = 15 \)
+
+(C) - \( 5 \times 3 = 15 \)
+
+(D) - \( 5 \times (-3) = 15 \)
+
+###
+Misconceptions:
+(A) - Believes multiplying a negative by a positive gives a positive answer
+
+(B) - nan
+
+(C) - nan
+
+(D) - Believes multiplying a positive by a negative gives a positive answer
+
+###
+Subject: Multiplying and Dividing Negative Numbers
+###
+ConstructName: Carry out multiplication problems involving two negative integers
+###
+CorrectAnswer: D

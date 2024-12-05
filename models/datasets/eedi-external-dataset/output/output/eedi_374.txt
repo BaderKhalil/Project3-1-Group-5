@@ -1,0 +1,29 @@
+###
+Question: Sarah reflects triangle \( \mathrm{XYZ} \) across the line \( y = 3 \) and ends up with triangle \( \mathrm{X'Y'Z'} \) having the coordinates of \( X'(3,7) \), \( Y'(5,7) \), and \( Z'(4,5) \). What mistake has she made? 
+
+###
+Answers:
+(A) - She has reflected across the wrong line.
+
+(B) - She has added the coordinates instead of reflecting.
+
+(C) - She has reflected the triangle too far.
+
+(D) - She hasn't, this is correct.
+
+###
+Misconceptions:
+(A) - Confuses the line of reflection with a different line.
+
+(B) - Misunderstands the operation of reflection as a translation or addition.
+
+(C) - Incorrectly thinks reflection changes the distance from the line more than intended.
+
+(D) - nan
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or point across a specified line
+###
+CorrectAnswer: A

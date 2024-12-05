@@ -1,0 +1,32 @@
+###
+Question: What is the solution to the following inequality?
+\(
+3 < -2x + 7 < 11
+\) 
+
+###
+Answers:
+(A) - \( -2 < x < -4 \) 
+
+(B) - \( -1 < x < 2 \) 
+
+(C) - \( 1 < x < 4 \) 
+
+(D) - \( 1 < x < -2 \) 
+
+###
+Misconceptions:
+(A) - Confuses the sign of \(x\) due to incorrect direction of inequality when isolating \(x\).
+
+(B) - Incorrectly believes that the algebraic manipulation does not affect the inequality's direction.
+
+(C) - Miscalculates the result for \(x\) by not properly isolating it before evaluating the inequality.
+
+(D) - Mistakenly assumes that \(x\) can be greater than 1 and less than -2 simultaneously, leading to an impossible solution.
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve linear inequalities involving two inequality signs
+###
+CorrectAnswer: C

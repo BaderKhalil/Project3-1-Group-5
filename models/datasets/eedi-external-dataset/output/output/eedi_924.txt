@@ -1,0 +1,33 @@
+###
+Question: Which of the following sets of shapes can be used to create the net of a square pyramid? 
+
+###
+Answers:
+(A) - \( 1 \) square 
+\( 4 \) triangles 
+
+(B) - \( 1 \) square 
+\( 4 \) rectangles 
+
+(C) - \( 2 \) squares 
+\( 4 \) triangles 
+
+(D) - \( 1 \) rectangle 
+\( 4 \) triangles 
+
+###
+Misconceptions:
+(A) - Correctly identifies shapes needed, but may struggle with dimensions. 
+
+(B) - Confuses the types of shapes that form a pyramid’s net, thinking rectangles can replace triangles. 
+
+(C) - Misunderstands that a square pyramid cannot have two squares in its net. 
+
+(D) - Fails to recognize that a pyramid requires a square base, not a rectangle, as the base. 
+
+###
+Subject: Nets
+###
+ConstructName: Draw the net of a pyramid
+###
+CorrectAnswer: A

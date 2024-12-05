@@ -1,0 +1,30 @@
+###
+Question: Here are two points and their midpoint.
+What should replace the square? ![The image is a set of axes with two points marked. One point is (4, -2). The midpoint is (1, square), so the square is the y value of the point.]()
+
+###
+Answers:
+(A) - \( \square=1 \)
+
+(B) - \( \square=-3 \)
+
+(C) - \( \square=2 \)
+
+(D) - \( \square=-4 \)
+
+###
+Misconceptions:
+(A) - Assumes the midpoint is simply one of the endpoint y-values rather than using the correct midpoint formula 
+ 
+(B) - Correctly uses midpoint, but misplaces the signs of the values 
+
+(C) - Calculates an average incorrectly by adding the y-values and not dividing by two 
+
+(D) - Incorrectly assumes both endpoint y-values would have to sum to zero for their average 
+
+###
+Subject: Midpoint Between Two Co-ordinates
+###
+ConstructName: Given a midpoint and a coordinate work out the position of the other coordinate, where at least one value is negative 
+###
+CorrectAnswer: B

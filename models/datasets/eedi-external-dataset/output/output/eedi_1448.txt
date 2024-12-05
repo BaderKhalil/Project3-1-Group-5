@@ -1,0 +1,31 @@
+###
+Question: A company's monthly profit over a year is represented in the graph below. 
+
+What does the slope of the segment where the profit is increasing represent? ![A graph showing months on the horizontal axis and profit ($) on the vertical axis, with a line increasing steeply, followed by a flat section and then a decrease.]() 
+
+###
+Answers:
+(A) - The total profit made by the company 
+
+(B) - The rate at which the profit is staying the same 
+
+(C) - The rate at which the profit is increasing 
+
+(D) - The total expenses of the company 
+
+###
+Misconceptions:
+(A) - Does not understand that slope represents change rather than total amounts 
+
+(B) - Thinking that a flat line indicates a rate of change when it actually indicates stability 
+
+(C) - nan 
+
+(D) - Confusing expenses with profit measurement, not recognizing it as a separate metric 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Interpret linear sections of real life graphs
+###
+CorrectAnswer: C

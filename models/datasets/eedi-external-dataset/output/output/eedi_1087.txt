@@ -1,0 +1,29 @@
+###
+Question: If angles A and B are supplementary and angle A is \( 110^{\circ} \), what is the measure of angle B? ![A straight line formed by angles A and B, one labeled 110 degrees and the other B]()
+
+###
+Answers:
+(A) - \( 70^{\circ} \) 
+
+(B) - \( 90^{\circ} \) 
+
+(C) - \( 100^{\circ} \) 
+
+(D) - \( 180^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Misunderstands supplementary angles as needing to be complementary instead 
+
+(B) - Incorrectly believes that 90 degrees is the complement without considering supplementary constraints 
+
+(C) - Does not recognize that supplementary angles sum to 180 degrees 
+
+(D) - Confuses the definition of supplementary angle as being equal to \( 180^{\circ} \) rather than understanding it as the total of two angles 
+
+###
+Subject: Basic Angle Facts (straight line, opposite, around a point, etc)
+###
+ConstructName: Find missing angles using supplementary angles
+###
+CorrectAnswer: A

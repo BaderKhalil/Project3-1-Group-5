@@ -1,0 +1,30 @@
+###
+Question: Which of the following represents a valid first step to simplify the expression: 
+\( 4x + 2(3 - x) = 10 \)
+
+###
+Answers:
+(A) - \( 4x + 6 - 2x = 10 \)
+
+(B) - \( 2(3 - x) = 10 - 4x \)
+
+(C) - \( 4x + 6 - 2x = 4 \)
+
+(D) - \( 4x + 6 - 3 = 10 \)
+
+###
+Misconceptions:
+(A) - Incorrectly distributes the constant over the expression, miscalculating the operation.
+
+(B) - Does not keep both sides of the equation balanced when isolating terms.
+
+(C) - Misinterprets the equation, leading to an incorrect simplification step.
+
+(D) - Misunderstands basic arithmetic operations, misapplying the subtraction.
+
+###
+Subject: Linear Equations
+###
+ConstructName: Simplify and solve linear equations
+###
+CorrectAnswer: A

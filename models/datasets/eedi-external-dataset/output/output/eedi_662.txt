@@ -1,0 +1,31 @@
+###
+Question: The area of this square is \( 36 \mathrm{~cm}^2 \).
+
+What is the length of one side of the square? ![Square with side length labelled with a gold star]()
+
+###
+Answers:
+(A) - \( 12 \mathrm{~cm} \) 
+
+(B) - \( 6 \mathrm{~cm} \) 
+
+(C) - \( 9 \mathrm{~cm} \) 
+
+(D) - \( 18 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - Confuses area with perimeter and wrongly assumes the side length can be obtained by merely adding dimensions.
+
+(B) - Doesn’t realize that to find the side length from the area of a square, you need to apply the square root operation.
+
+(C) - nan 
+
+(D) - Inappropriately multiplies dimensions rather than understanding that the area relates to the square of the side length.
+
+###
+Subject: Area and Volume
+###
+ConstructName: Given the area, work out a missing length requiring knowledge of the properties of squares
+###
+CorrectAnswer: B

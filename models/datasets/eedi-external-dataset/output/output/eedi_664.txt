@@ -1,0 +1,37 @@
+###
+Question: Which of the following pairs of numbers are equal to \( 3.56 \) when rounded to two decimal places? 
+
+###
+Answers:
+(A) - \( 3.5604 \) 
+and 
+\( 3.5599 \) 
+
+(B) - \( 3.5610 \) 
+and 
+\( 3.5580 \) 
+
+(C) - \( 3.570 \) 
+and 
+\( 3.560 \) 
+
+(D) - \( 3.5649 \) 
+and 
+\( 3.5561 \) 
+
+###
+Misconceptions:
+(A) - Rounds down instead of up 
+
+(B) - Rounds up instead of down 
+
+(C) - Rounds to a higher decimal place 
+
+(D) - Rounds to a lower decimal place instead of two 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to two decimal places
+###
+CorrectAnswer: A

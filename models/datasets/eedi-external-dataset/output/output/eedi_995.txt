@@ -1,0 +1,29 @@
+###
+Question: What is the size of each interior angle in a regular octagon? 
+
+###
+Answers:
+(A) - \( 108^{\degree} \) 
+
+(B) - \( 135^{\degree} \) 
+
+(C) - \( 140^{\degree} \) 
+
+(D) - \( 150^{\degree} \) 
+
+###
+Misconceptions:
+(A) - Miscalculates by assuming the formula for total interior angles without considering the right number of sides. 
+
+(B) - Thinks the number of sides is related to the interior angle instead of using \( (n-2) \times 180^{\degree} \) for the total interior angles. 
+
+(C) - nan 
+
+(D) - Believes the interior angles increase with more sides based on incorrect patterns. 
+
+###
+Subject: Angles in Polygons
+###
+ConstructName: Work out the size of each interior angle in a regular polygon
+###
+CorrectAnswer: C

@@ -1,0 +1,32 @@
+###
+Question: Solve the equation:
+\(
+x + 3 = \frac{1}{4}
+\)
+
+###
+Answers:
+(A) - \( x = \frac{1}{4} - 3 \)
+
+(B) - \( x = \frac{1}{4} + 3 \)
+
+(C) - \( x = \frac{1}{4} - \frac{12}{4} \)
+
+(D) - \( x = -\frac{11}{4} \)
+
+###
+Misconceptions:
+(A) - Miscalculates by thinking that just subtracting leads directly to the answer without converting or simplifying.
+
+(B) - Incorrectly applies addition instead of subtraction when solving for \(x\).
+
+(C) - Correctly identifies the application of subtraction but struggles with negative fractions and simplification.
+
+(D) - Correct answer that remains true to the original equation but may confuse the process of simplifying with converting.
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve one-step linear equations requiring addition or subtraction, involving positive fractions
+###
+CorrectAnswer: D

@@ -1,0 +1,48 @@
+###
+Question: What transformation maps the graph of 
+\(y=f(x)\) 
+to the graph of 
+\(y=f(x-3)\)?
+
+###
+Answers:
+(A) - Translation by vector 
+\(\left[\begin{array}{l}
+3 \\
+0
+\end{array}\right]\)
+
+(B) - Translation by vector 
+\(\left[\begin{array}{l}
+-3 \\
+0
+\end{array}\right]\)
+
+(C) - Translation by vector 
+\(\left[\begin{array}{l}
+0 \\
+3
+\end{array}\right]\)
+
+(D) - Translation by vector 
+\(\left[\begin{array}{l}
+0 \\
+-3
+\end{array}\right]\)
+
+###
+Misconceptions:
+(A) - Believes that f(x - a) translates the function left a units 
+
+(B) - nan 
+
+(C) - Believes f(x) + a translates the function up a units 
+
+(D) - Believes f(x) - a translates the function down a units 
+
+###
+Subject: Transformations of functions in the form f(x)
+###
+ConstructName: Identify horizontal translations in the form f(x) = for non-trigonometric functions
+###
+CorrectAnswer: B

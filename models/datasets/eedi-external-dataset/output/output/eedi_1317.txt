@@ -1,0 +1,33 @@
+###
+Question: \(
+y_{n+1}=5+\frac{2}{y_{n}}
+\)
+
+Using a starting value of \( y_{1}=3 \), what is the solution to \( y=5+\frac{2}{y} \) to \( 2 \) decimal places? 
+
+###
+Answers:
+(A) - \( 6.33 \) 
+
+(B) - \( 6.25 \) 
+
+(C) - \( 6.32 \) 
+
+(D) - \( 6.3 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the iteration, resulting in an overestimate.
+
+(B) - Incorrectly assumes that the first iteration yields the final answer without further refinement.
+
+(C) - nan 
+
+(D) - Rounds to the wrong degree of accuracy (oversimplified decimal representation). 
+
+###
+Subject: Trial and Improvement and Iterative Methods
+###
+ConstructName: Select the correct answer to an iteration question to the required degree of accuracy
+###
+CorrectAnswer: C

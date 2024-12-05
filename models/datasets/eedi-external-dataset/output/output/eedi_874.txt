@@ -1,0 +1,29 @@
+###
+Question: In a right-angled triangle, if the length of the opposite side is 5 cm and the length of the adjacent side is 12 cm, what ratio would you use to find the angle \( \phi \) opposite the 5 cm side? ![A right-angled triangle with the opposite side marked as 5cm and the adjacent side marked as 12cm. The angle opposite the 5 cm side is labelled with φ. The longest side of the triangle has no label.]() 
+
+###
+Answers:
+(A) - Sin 
+
+(B) - Cos 
+
+(C) - Tan 
+
+(D) - None of these 
+
+###
+Misconceptions:
+(A) - Uses sin instead of tan for finding \( φ \)
+
+(B) - Uses cos when tan is required 
+
+(C) - nan 
+
+(D) - Cannot identify the appropriate trigonometric ratio for right-angled triangles 
+
+###
+Subject: Right-angled Triangles (SOHCAHTOA)
+###
+ConstructName: Identify questions involving a 2D right-angled triangle that require the use of the Tangent (tan) ratio
+###
+CorrectAnswer: C

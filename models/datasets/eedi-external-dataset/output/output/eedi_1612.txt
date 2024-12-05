@@ -1,0 +1,29 @@
+###
+Question: \( 2.75 - 1.46 = \)
+
+###
+Answers:
+(A) - \( 1.29 \)
+
+(B) - \( 1.25 \)
+
+(C) - \( 1.31 \)
+
+(D) - \( 1.19 \)
+
+###
+Misconceptions:
+(A) - Incorrectly adds the numbers instead of subtracting them.
+
+(B) - Misplaces the decimal point while performing subtraction.
+
+(C) - Forgets to carry over when subtracting from the tenths place, resulting in a higher value.
+
+(D) - Assumes the smaller number (1.46) should be subtracted from the larger whole number (2) rather than the proper decimal.
+
+###
+Subject: Adding and Subtracting with Decimals
+###
+ConstructName: Subtract decimals where the numbers involved have a different number of decimal places
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: What inequality is depicted by the number line? ![A number line with a filled circle above 3 and an arrow extending to the right over the numbers 4, 5, 6, 7 etc]()
+
+###
+Answers:
+(A) - \( x \geq 3 \) 
+
+(B) - \( x < 3 \) 
+
+(C) - \( x \leq 3 \) 
+
+(D) - \( x > 3 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses the direction of the arrow indicating an incorrect interpretation of the inequality. 
+
+(C) - Incorrectly assumes the filled circle indicates a strict inequality rather than an inclusive one. 
+
+(D) - Mixes up greater than and less than symbols leading to incorrect interpretation of the number line.
+
+###
+Subject: Inequalities on Number Lines
+###
+ConstructName: Represent a linear inequality with a single tail on a numberline
+###
+CorrectAnswer: A

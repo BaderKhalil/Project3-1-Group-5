@@ -1,0 +1,29 @@
+###
+Question: If you reflect the triangle in the vertical line, where does the marked vertex end up? ![A grid of 9 squares across and 7 squares up. A purple vertical line goes across the whole grid, it is 4 squares from the left edge of the grid. A green triangle (3 squares base and 4 squares height) is drawn to the right of the purple line. Vertically, the triangle is aligned with the grid, with its base sitting 3 squares above the bottom of the grid. The top vertex of the triangle is marked with a tiny red circle. A letter "A" is marking a point directly to the left of the tiny red circle, 2 squares aligned with the base of the triangle. A letter "B" is marking a point directly to the left of the tiny red circle, aligned with the apex of the triangle. A letter "C" is marking a point directly to the left of the tiny red circle, 1 square lower than the apex of the triangle. A letter "D" is marking a point that is 4 squares along from the tiny red circle, touching the base of the triangle. ]() 
+
+###
+Answers:
+(A) - A 
+
+(B) - B 
+
+(C) - C 
+
+(D) - D 
+
+###
+Misconceptions:
+(A) - Fails to reflect across the vertical line correctly. 
+
+(B) - Moves in a straight line instead of reflecting 
+
+(C) - Miscalculates distance from the reflection line 
+
+(D) - Fails to properly align with the reflected position 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a vertical line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: Distribute \( £450 \) in the ratio \( 3: 5 \) 
+
+###
+Answers:
+(A) - \( £ 270: £ 180 \) 
+
+(B) - \( £ 150: £ 300 \) 
+
+(C) - \( £ 200: £ 250 \) 
+
+(D) - \( £ 150: £ 300 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates shares by not properly interpreting the ratio proportions 
+
+(B) - Incorrectly reverses the proportions of the ratio 
+
+(C) - Mistakenly adds parts of the ratio instead of dividing based on the total parts 
+
+(D) - nan 
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Divide a quantity into two parts for a given a ratio, where each part is an integer
+###
+CorrectAnswer: C

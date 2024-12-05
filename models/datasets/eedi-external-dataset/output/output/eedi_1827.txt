@@ -1,0 +1,31 @@
+###
+Question: \( \begin{array}{llll}10.2, & 9.5, & 8.8, & ?\end{array} \)
+
+What is the next term in this linear sequence? 
+
+###
+Answers:
+(A) - \( 7.9 \) 
+
+(B) - \( 8.1 \) 
+
+(C) - \( 8.0 \) 
+
+(D) - \( 8.2 \) 
+
+###
+Misconceptions:
+(A) - Assumes the pattern continues going down further than necessary, missing the consistent decrease.
+
+(B) - Incorrectly adds to the last term rather than recognized the sequence is strictly decreasing.
+
+(C) - Thinks the next term must round or be a whole number without realizing it should maintain the decimal format of the sequence.
+
+(D) - Assumes the sequence increments by a value smaller than the previous gap, misinterpreting the uniform decrease.
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Write the next term of a descending decimal linear sequence
+###
+CorrectAnswer: A

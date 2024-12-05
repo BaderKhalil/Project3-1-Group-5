@@ -1,0 +1,35 @@
+###
+Question: Sarah and John are discussing the distributive property of multiplication over addition.
+
+Sarah claims \( 3 \times (4 + 5) = 27 \)
+
+John asserts \( 3 \times 4 + 5 = 35 \)
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only John
+
+(C) - Both Sarah and John
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Misapplies the distributive property, adding the numbers incorrectly before multiplying.
+
+(B) - Fails to apply the distributive property correctly; adds instead of multiplying first.
+
+(C) - Thinks both operations lead to valid results through addition without following the proper order.
+
+(D) - Lacks understanding of the distributive property.
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving multiplication and addition
+###
+CorrectAnswer: D

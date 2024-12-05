@@ -1,0 +1,29 @@
+###
+Question: \( 356 \times 4= \)
+
+###
+Answers:
+(A) - \( 300+50+6 \) 
+
+(B) - \( 1200+40+6 \) 
+
+(C) - \( 1400+80+24 \) 
+
+(D) - \( 1200+200+24 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands how to regroup and multiply multiple digits correctly when using the grid method.
+
+(B) - Incorrectly calculates the hundreds place, adding zeros rather than multiplying.
+
+(C) - Miscalculates by combining incorrect breakdowns of the digits and failing to follow the multiplication process.
+
+(D) - Incorrectly sums the values of the components in the grid method, failing to multiply correctly.
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Multiply 3 digit integers by 1 digit integers using the grid method
+###
+CorrectAnswer: B

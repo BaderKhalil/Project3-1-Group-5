@@ -1,0 +1,29 @@
+###
+Question: What number is \( 50 \) more than \( 15240 ? \) 
+
+###
+Answers:
+(A) - \( 15,290 \) 
+
+(B) - \( 15,790 \) 
+
+(C) - \( 15,240 \) 
+
+(D) - \( 14,790 \) 
+
+###
+Misconceptions:
+(A) - When adding, mistakenly assumes incrementing the last digit causes a rollover to the next place value. 
+
+(B) - Incorrectly adds \( 50 \) by mistakenly treating \( 50 \) as \( 500 \) instead of \( 50 \). 
+
+(C) - Fails to recognize the addition of \( 50 \) and remains with the original number. 
+
+(D) - Misunderstands the operation and subtracts instead of adds. 
+
+###
+Subject: Place Value
+###
+ConstructName: Find 50 more than a given number
+###
+CorrectAnswer: A

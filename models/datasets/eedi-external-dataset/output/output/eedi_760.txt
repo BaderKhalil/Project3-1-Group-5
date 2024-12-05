@@ -1,0 +1,39 @@
+###
+Question: Sarah and Liam are using a bar model to solve the problem \( 120 \). ![\begin{tabular}{|l|l|l|l|l|l|l|l|}
+\hline \multicolumn{8}{|c|}{\( 120 \)} \\
+\hline \( 30 \) & \( 30 \) & \( 30 \) & \( 30 \) & \( 30 \) & \( 30 \) & \( 30 \) & \( 30 \) \\
+\hline 
+\end{tabular}]() Sarah writes:
+\[
+120 \div 4 = 30
+\] Liam writes:
+\[
+120 \div 30 = 4
+\] 
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only Liam
+
+(C) - Both Sarah and Liam
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Does not recognize how to apply division using the bar model effectively
+
+(B) - Does not understand how to apply division using the bar model correctly
+
+(C) - nan 
+
+(D) - Does not recognize the functions of the bar model for division
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Interpret and carry out mental division using a bar model
+###
+CorrectAnswer: C

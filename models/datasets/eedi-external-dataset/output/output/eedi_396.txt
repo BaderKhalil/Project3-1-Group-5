@@ -1,0 +1,33 @@
+###
+Question: James is working on the following pair of simultaneous equations:
+
+\( \begin{aligned} 3x + 4y & = 12 \\ 2x - y & = 3 \\ \end{aligned} \)
+
+He decides to add them together. What result will he get?
+
+###
+Answers:
+(A) - \( 5x + 3y = 15 \)
+
+(B) - \( 6x + 4y = 15 \)
+
+(C) - \( 5x + 5y = 15 \)
+
+(D) - \( 5x + 3y = 9 \)
+
+###
+Misconceptions:
+(A) - Believes that he should only add like terms but doesn't combine the equations correctly.
+
+(B) - Incorrectly thinks that both equations should maintain their original coefficients when added.
+
+(C) - Assumes the coefficients from the two equations combine directly without consideration for matching terms.
+
+(D) - nan 
+
+###
+Subject: Simultaneous Equations
+###
+ConstructName: Add two equations together to remove a variable 
+###
+CorrectAnswer: A

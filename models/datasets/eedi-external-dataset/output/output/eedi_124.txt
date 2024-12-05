@@ -1,0 +1,32 @@
+###
+Question: What number belongs in the box?
+\(
+(-4) - ( -10) = 
+\square\) 
+
+###
+Answers:
+(A) - \( -6 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( -14 \) 
+
+(D) - \( 14 \) 
+
+###
+Misconceptions:
+(A) - When subtracting a negative, they miscount the subtraction and think it retains the negative sign. 
+
+(B) - When subtracting from a negative, they believe the answer must be positive but forget to consider the negation of subtraction.
+
+(C) - When subtracting from a negative, they misinterpret the problem and mix the signs leading to an incorrect total.
+
+(D) - When subtracting a negative from a negative, they incorrectly believe the end result is always positive.
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Carry out subtraction problems involving two negative integers 
+###
+CorrectAnswer: B

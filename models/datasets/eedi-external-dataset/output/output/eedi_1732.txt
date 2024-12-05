@@ -1,0 +1,29 @@
+###
+Question: \( 250 \) books need to be distributed among \( 8 \) students. If each student should receive an equal number of books, how many books will be left over after distribution?
+
+###
+Answers:
+(A) - \( 32 \) 
+
+(B) - \( 31 \) 
+
+(C) - \( 30 \) 
+
+(D) - \( 29 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly dividing the total number of books by the number of students without considering the remainder.
+
+(B) - Correct understanding of division but mistakenly calculating the remainder.
+
+(C) - Assuming that books distributed can be divided perfectly without leftovers.
+
+(D) - Underestimating the remainder by incorrectly calculating the total books after division. 
+
+###
+Subject: Written Division
+###
+ConstructName: Interpret remainders from written division problems
+###
+CorrectAnswer: B

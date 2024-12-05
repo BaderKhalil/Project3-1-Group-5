@@ -1,0 +1,29 @@
+###
+Question: Sarah claims that \( 2^{6} = 4^{3} \) because \( 4 = 2^{2} \). Mark disagrees and says \( 2^{6} \) simplifies to \( 64 \) which cannot be equal to \( 4^{3} \).
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only Mark
+
+(C) - Both Sarah and Mark 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Thinks that \( 4^{3} \) can be correctly rewritten using the base \( 2 \) without calculating the actual value.
+
+(B) - Incorrectly assumes the two values must be treated as completely different without recognizing that they can be expressed using the same base.
+
+(C) - Believes that equalities must be evaluated exclusively by numeric values rather than understanding base representations. 
+
+(D) - Thinks both representations were mistakenly calculated and cannot be equal for any value.
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Change an integer base number to another integer base number with a positive integer power
+###
+CorrectAnswer: A

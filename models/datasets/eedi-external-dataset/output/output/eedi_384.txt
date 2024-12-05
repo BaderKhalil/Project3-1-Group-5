@@ -1,0 +1,32 @@
+###
+Question: Which of the following equations is not parallel to
+\[
+y=3x-5 \text{ ? }
+\]
+
+###
+Answers:
+(A) - \( 9y=27x-45 \)
+
+(B) - \( y=3(2-x) \)
+
+(C) - \( y=\frac{1}{3}x+2 \)
+
+(D) - \( y=3x+10 \)
+
+###
+Misconceptions:
+(A) - Believes that scaling the equation of a line does not change its slope, even though it does not change its parallelism with other lines.
+
+(B) - Misinterprets that the coefficient of x indicates the slope, but does not realize the expression is actually in a form that reveals the negative effect on the gradient.
+
+(C) - Cannot identify that a fraction (1/3) indicates a different slope compared to the original line (3) and incorrectly assumes it parallel.
+
+(D) - Correctly identifies the slope as 3 but fails to recognize that it leads to a different y-intercept, thus making the lines parallel.
+
+###
+Subject: Parallel Lines
+###
+ConstructName: Identify parallel lines with at least one equation written in another form
+###
+CorrectAnswer: C

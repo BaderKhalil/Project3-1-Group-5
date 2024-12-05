@@ -1,0 +1,29 @@
+###
+Question: What is \( 25 \mathrm{~m} \) as a percentage of \( 2 \mathrm{~km} \) ? 
+
+###
+Answers:
+(A) - \( 0.5 \% \) 
+
+(B) - \( 2.5 \% \) 
+
+(C) - \( 1250 \% \) 
+
+(D) - \( 1 \% \) 
+
+###
+Misconceptions:
+(A) - Miscalculating the conversion from kilometers to meters leading to a too low percentage. 
+
+(B) - Correctly calculates but misunderstands the percentage's relation to the original amount compared to the whole.
+
+(C) - Thinks that because there are a lot of meters in a kilometer, it can somehow result in a larger than 100% value. 
+
+(D) - Miscalculates the conversion and believes the resulting proportion is larger than it really is. 
+
+###
+Subject: Percentages of an Amount
+###
+ConstructName: Express one quantity as a percentage of another mentally
+###
+CorrectAnswer: A

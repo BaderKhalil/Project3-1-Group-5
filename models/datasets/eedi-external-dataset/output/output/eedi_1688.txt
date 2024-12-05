@@ -1,0 +1,26 @@
+###
+Question: The \( 1^{\text {st }} \) term in a linear sequence is \( 5 \). The \( 3^{\text {rd }} \) term of the sequence is \( 11 \). What is the \( 7^{\text {th }} \) term of the sequence?
+
+###
+Answers:
+(A) - \( 25 \)
+
+(B) - \( 23 \)
+
+(C) - \( 19 \)
+
+(D) - \( 21 \)
+
+###
+Misconceptions:
+(A) - Believes the pattern is exponential instead of linear, leading to an incorrect multiplication of terms.
+(B) - nan
+(C) - Assumes the constant difference is incorrectly calculated or applied.
+(D) - Misinterprets how to find the term by incorrectly applying the term position in the linear sequence.
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Write a missing term of an ascending integer linear sequence
+###
+CorrectAnswer: D

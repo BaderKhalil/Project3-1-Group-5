@@ -1,0 +1,29 @@
+###
+Question: Sarah needs to subtract \( 45 \) from a larger number. Which of the following methods will help her find the correct result? 
+
+###
+Answers:
+(A) - \( +50 \) then \( -5 \) 
+
+(B) - \( -50 \) then \( +5 \) 
+
+(C) - \( -50 \) then \( -5 \) 
+
+(D) - \( +50 \) then \( +5 \) 
+
+###
+Misconceptions:
+(A) - Adds instead of subtracts when dealing with calculations involving verbal descriptions 
+
+(B) - Misunderstands the principles of additive and subtractive relationships 
+
+(C) - Confuses the process of adding and subtracting consecutive values 
+
+(D) - Incorrectly adds values instead of subtracting them in a word problem context 
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Recognise and use efficient strategies for mental subtraction
+###
+CorrectAnswer: A

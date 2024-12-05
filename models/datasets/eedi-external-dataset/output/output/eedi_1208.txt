@@ -1,0 +1,29 @@
+###
+Question: The graph below depicts the temperature changes throughout the day. What does the downward sloping section represent? ![A temperature-time graph where the temperature line peaks at midday and then shows a decline towards the evening.]() 
+
+###
+Answers:
+(A) - The temperature is increasing 
+
+(B) - The sun is setting 
+
+(C) - It is raining 
+
+(D) - The air conditioning is broken 
+
+###
+Misconceptions:
+(A) - Believes that a downward slope indicates temperature is increasing instead of decreasing. 
+
+(B) - nan 
+
+(C) - Assumes that the temperature decline is directly due to rain rather than other factors. 
+
+(D) - Thinks that a decrease in temperature always signifies an equipment failure is the cause. 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Interpret sloping linear sections of a temperature-time graph
+###
+CorrectAnswer: B

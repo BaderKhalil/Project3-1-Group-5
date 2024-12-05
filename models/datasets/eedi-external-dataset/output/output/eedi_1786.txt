@@ -1,0 +1,29 @@
+###
+Question: A line graph illustrates the temperature changes over a week in Springfield. What was the highest temperature recorded on Wednesday? ![Line graph showing temperature readings from Monday to Sunday, with each day marked along the horizontal axis and temperature in degrees Celsius marked along the vertical axis. The line peaks at a certain point on Wednesday.]() 
+
+###
+Answers:
+(A) - \( 28 \)
+
+(B) - \( 30 \)
+
+(C) - \( 26 \)
+
+(D) - \( 32 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misreads the peak on the graph, interpreting a nearby point instead of the correct highest temperature. 
+
+(C) - Considers the average temperature for the day rather than the recorded maximum. 
+
+(D) - Misinterprets the vertical scale leading to an overestimation of temperature.
+
+###
+Subject: Line Graphs
+###
+ConstructName: Interpret a line graph
+###
+CorrectAnswer: A

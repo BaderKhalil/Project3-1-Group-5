@@ -1,0 +1,29 @@
+###
+Question: Add brackets to this calculation to make the answer \( 10 \). \( 20 - 8 + 6 \div 2 \)
+
+###
+Answers:
+(A) - \( 20 - (8 + 6) \div 2 \)
+
+(B) - \( (20 - 8) + 6 \div 2 \)
+
+(C) - \( 20 - 8 + (6 \div 2) \)
+
+(D) - \( (20 - 8 + 6) \div 2 \)
+
+###
+Misconceptions:
+(A) - Performs addition before division, ignoring order of operations 
+
+(B) - Misapplies the order of operations by adding before dividing 
+
+(C) - Misapplies the order of operations by interpreting division incorrectly 
+
+(D) - nan 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Insert brackets to make a calculation correct
+###
+CorrectAnswer: C

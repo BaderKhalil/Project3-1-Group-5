@@ -1,0 +1,29 @@
+###
+Question: What is the decimal value represented by B? ![A horizontal number-line with 10 vertical, equally spaced, dashes representing the position of numbers. "-2" below the 1st dash and "8" below the last dash are the only numbers marked on the line. An arrow, labelled "B" is pointing at the 4th dash from the left.]() 
+
+###
+Answers:
+(A) - \( 1 \)
+
+(B) - \( 2 \)
+
+(C) - \( 4 \) 
+
+(D) - \( 6 \)
+
+###
+Misconceptions:
+(A) - When reading a number on a number line, mistakenly believes that the first dash is placed at the value of the first counted number. 
+
+(B) - Assumes the point marked by the arrow is higher than it actually is due to underestimating the spacing between numbers.
+
+(C) - nan 
+
+(D) - Incorrectly assumes that the distance between the marked numbers is equal without considering the gaps on the number line. 
+
+###
+Subject: Ordering Positive Numbers
+###
+ConstructName: Read a decimal on a scale where the required measurement is marked by a dash between two numbers
+###
+CorrectAnswer: D

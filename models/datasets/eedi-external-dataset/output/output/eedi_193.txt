@@ -1,0 +1,29 @@
+###
+Question: \( (64)^{\frac{5}{2}}=? \) 
+
+###
+Answers:
+(A) - \( 512 \) 
+
+(B) - \( 576 \) 
+
+(C) - \( 256 \) 
+
+(D) - \( 1024 \) 
+
+###
+Misconceptions:
+(A) - Assumes incorrect calculation by raising to the integer power only 
+
+(B) - Incorrectly combines multiple steps, resulting in excess calculations 
+
+(C) - Uses only the numerator for scaling without applying the root 
+
+(D) - nan 
+
+###
+Subject: Laws of Indices
+###
+ConstructName: Raise an integer to a positive non-unit fraction power
+###
+CorrectAnswer: D

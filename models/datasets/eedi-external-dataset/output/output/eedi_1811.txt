@@ -1,0 +1,29 @@
+###
+Question: What is the perimeter of the triangle formed by connecting points A, B, and C? ![A triangle with vertices labeled A, B, and C, and sides of lengths 3 cm, 4 cm, and 5 cm]() 
+
+###
+Answers:
+(A) - \( 12 \mathrm{~cm} \) 
+
+(B) - \( 11 \mathrm{~cm} \) 
+
+(C) - \( 10 \mathrm{~cm} \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Adds one side length incorrectly due to miscalculation 
+
+(C) - Miscounts the lengths of the sides or misapplies the formula 
+
+(D) - Confuses the concept of perimeter with the need for additional information 
+
+###
+Subject: Construct Triangle
+###
+ConstructName: Calculate the perimeter of a triangle
+###
+CorrectAnswer: A

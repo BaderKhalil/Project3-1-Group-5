@@ -1,0 +1,29 @@
+###
+Question: If the length of segment CD is 15 units and the ratio of C D: D E is 2:3, what is the length of segment D E?
+
+###
+Answers:
+(A) - 10 units
+
+(B) - 20 units
+
+(C) - 12 units
+
+(D) - 22.5 units
+
+###
+Misconceptions:
+(A) - Misunderstands the ratio and assumes D E is equal to CD divided by 2. 
+
+(B) - Incorrectly adds the segments instead of using the ratio to find the length of D E.
+
+(C) - Thinks the length of D E should be a simple fraction of CD without taking the full ratio into account.
+
+(D) - nan
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Solve coordinate geometry questions involving ratio
+###
+CorrectAnswer: B

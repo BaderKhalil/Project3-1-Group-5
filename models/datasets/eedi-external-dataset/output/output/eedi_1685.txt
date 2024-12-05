@@ -1,0 +1,29 @@
+###
+Question: Jamie has \( 15 \) apples to distribute among \( 3 \) friends. What fraction of an apple does each friend receive?
+
+###
+Answers:
+(A) - \( \frac{15}{3} \)
+
+(B) - \( \frac{3}{15} \)
+
+(C) - \( \frac{1}{3} \)
+
+(D) - \( \frac{1}{15} \)
+
+###
+Misconceptions:
+(A) - Thinks the total amount receives the fraction rather than dividing it among friends.
+
+(B) - Confuses the placement of numerator and denominator while converting division into a fraction.
+
+(C) - Assumes that the fraction 1/n is always applicable for dividing items equally without acknowledging the total amount.
+
+(D) - Fails to accurately grasp how to express the division of a total quantity across multiple recipients.
+
+###
+Subject: Converting Mixed Number and Improper Fractions
+###
+ConstructName: Express a division as a fraction
+###
+CorrectAnswer: A

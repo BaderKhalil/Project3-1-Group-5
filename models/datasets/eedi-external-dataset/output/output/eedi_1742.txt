@@ -1,0 +1,30 @@
+###
+Question: Simplify the following expression by collecting like terms  
+\(4 a + 3 b - 2 a + 5 b - c\)  
+
+###
+Answers:  
+(A) - \(2 a + 8 b - c\)  
+
+(B) - \(7 a + 8 b - c\)  
+
+(C) - \(1 a + 8 b - c\)  
+
+(D) - Does not simplify  
+
+###
+Misconceptions:  
+(A) - Incorrectly adds the coefficients of like terms, not grouping correctly.  
+
+(B) - Miscalculates the coefficients when combining like terms.  
+
+(C) - Fails to combine coefficients of like terms correctly.  
+
+(D) - Does not understand that like terms can be combined to simplify the expression.  
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms  
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving three or more linear variables  
+###
+CorrectAnswer: A

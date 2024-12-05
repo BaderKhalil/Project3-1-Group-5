@@ -1,0 +1,32 @@
+###
+Question: Liam buys a bicycle for \( £ 245 \) and a helmet for \( £ 30 \). 
+He uses a \( £ 100 \) voucher and pays the rest in cash.
+
+How much cash does he pay? 
+
+###
+Answers:
+(A) - £175 
+
+(B) - £100 
+
+(C) - £295 
+
+(D) - £135 
+
+###
+Misconceptions:
+(A) - Calculates the total correctly but forgets to account for the voucher amount when determining cash paid. 
+
+(B) - Incorrectly assumes the total cost is just the voucher amount. 
+
+(C) - Miscalculates by adding the voucher to the total cost instead of subtracting it. 
+
+(D) - Misunderstands the need to add the costs of both items first before applying the voucher. 
+
+###
+Subject: Combining Operations
+###
+ConstructName: Solve problems that combine addition and subtraction
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: If \( N \) represents the total number of apples and there are 6 baskets equally filled with \( N \) apples, what is the value of \( N \) if together they hold 180 apples? 
+
+###
+Answers:
+(A) - \( 30 \) 
+
+(B) - \( 36 \) 
+
+(C) - \( 15 \) 
+
+(D) - \( 1080 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Miscalculated the number of apples per basket and added instead of dividing. 
+
+(C) - Confused the total number of baskets with the total number of apples. 
+
+(D) - Confusion over the relation between total and per basket leading to incorrect multiplication. 
+
+###
+Subject: Written Division
+###
+ConstructName: Interpret and carry out mental division using a bar model
+###
+CorrectAnswer: A

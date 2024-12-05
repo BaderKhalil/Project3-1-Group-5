@@ -1,0 +1,29 @@
+###
+Question: \( 5.23 + 3.6 \) What is the result of this addition?
+
+###
+Answers:
+(A) - \( 8.83 \) 
+
+(B) - \( 7.83 \) 
+
+(C) - \( 8.63 \) 
+
+(D) - \( 9.83 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly adds both numbers without aligning the decimal places 
+
+(B) - Incorrectly calculates by forgetting to add the decimals correctly 
+
+(C) - nan 
+
+(D) - Adds instead of subtracts 
+
+###
+Subject: Adding and Subtracting with Decimals
+###
+ConstructName: Add decimals where the numbers involved have a different number of decimal places
+###
+CorrectAnswer: C

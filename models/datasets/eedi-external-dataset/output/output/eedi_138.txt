@@ -1,0 +1,29 @@
+###
+Question: This is the net of a... ![An image showing a square with four triangles attached to each side, forming a 3D object when folded.]() 
+
+###
+Answers:
+(A) - Square pyramid 
+
+(B) - Cube 
+
+(C) - Rectangular prism 
+
+(D) - Hexagonal prism 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses the shape with a solid that has all square faces rather than triangular faces 
+
+(C) - Misunderstands the shape as having rectangular faces rather than triangular 
+
+(D) - Misidentifies the base shape and confuses the number of faces 
+
+###
+Subject: Nets
+###
+ConstructName: Identify the net of a non-prism
+###
+CorrectAnswer: A

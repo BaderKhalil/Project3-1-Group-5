@@ -1,0 +1,29 @@
+###
+Question: A line has a gradient of \( -3 \) and passes through the point \( (2,5) \). The equation of this line could be...
+
+###
+Answers:
+(A) - \( y=-3x+11 \)
+
+(B) - \( y=3x-1 \)
+
+(C) - \( y=-3x+11 \)
+
+(D) - \( y=-3x+5 \)
+
+###
+Misconceptions:
+(A) - Believes the y-intercept was calculated incorrectly by adding rather than subtracting values from the coordinate point.
+
+(B) - Believes the sign of the gradient is irrelevant when calculating the equation of the line.
+
+(C) - nan
+
+(D) - Misunderstands that the y-intercept should change when moving from the point given with a negative gradient.
+
+###
+Subject: Finding the Equation of a Line
+###
+ConstructName: Work out the equation of a line when given a negative gradient and a point on the line
+###
+CorrectAnswer: C

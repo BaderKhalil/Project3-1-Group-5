@@ -1,0 +1,29 @@
+###
+Question: Find the measure of angle \( y \) in the right triangle. ![\( A \)]() 
+
+###
+Answers:
+(A) - \( 34^{\circ} \) 
+
+(B) - \( 56^{\circ} \) 
+
+(C) - \( 90^{\circ} \) 
+
+(D) - \( 46^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Underestimates the sum of angles in a triangle and calculates based on one angle alone.
+
+(B) - Incorrectly assumes that the angle \( y \) must be complementary to the given angle but doesn't account for the right angle.
+
+(C) - Misunderstands that a right triangle cannot have an angle equal to 90° other than the right angle itself.
+
+(D) - Confuses the definition of acute angles believing any angle can fit without checking the existing angles in the triangle.
+
+###
+Subject: Angles in Polygons
+###
+ConstructName: Find missing angles in a right-angled triangle
+###
+CorrectAnswer: D

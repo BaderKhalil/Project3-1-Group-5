@@ -1,0 +1,29 @@
+###
+Question: What is \( \mathbf{47.3} \) rounded to the nearest integer? 
+
+###
+Answers:
+(A) - \( 47 \) 
+
+(B) - \( 47.3 \) 
+
+(C) - \( 48 \) 
+
+(D) - \( 49 \) 
+
+###
+Misconceptions:
+(A) - Rounds down instead of up 
+
+(B) - Does not understand rounding rules; believes decimals cannot be approximated to integers 
+
+(C) - nan 
+
+(D) - Rounds incorrectly by assuming the next higher integer without considering the decimal 
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round decimals to the nearest whole number
+###
+CorrectAnswer: C

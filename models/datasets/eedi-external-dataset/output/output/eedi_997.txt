@@ -1,0 +1,29 @@
+###
+Question: Sarah and James are discussing the inequality derived from the equation on the right. \( a + b = 10 \) Sarah claims the inequality \( a > 5 \) is always true, while James asserts the inequality \( b < 5 \) is always true. Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only James
+
+(C) - Both Sarah and James
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Assumes specific values without acknowledging other possibilities 
+
+(B) - Misinterprets the relationship between \( a \) and \( b \)
+
+(C) - Confuses sufficient conditions with necessary limits
+
+(D) - Claims that no inequalities can be derived from the equation 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Given an equation, form or identify related equations
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Which diagram shows an angle of \( 110^{\circ} \)?
+
+###
+Answers:
+(A) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an angle being measured by the protractor. The angle is between the red line that is at 0 (inner scale) and 180 (outer scale) on the right of the protractor, anti-clockwise, to the red line at the \(110^{\circ}\) mark on the inner scale and opposite to \(70^{\circ}\) on the outer scale.]()
+
+(B) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an angle being measured by the protractor. The angle is between the red line that is at 0 (inner scale) and 180 (outer scale) on the right of the protractor, anti-clockwise, to the red line at \(100^{\circ}\) on the inner scale and opposite to \(80^{\circ}\) on the outer scale.]()
+
+(C) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an angle being measured by the protractor. The angle is between the red line that is at 0 (inner scale) and 180 (outer scale) on the protractor, to the red line at \(90^{\circ}\) on the inner scale and opposite to \(90^{\circ}\) on the outer scale.]()
+
+(D) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an angle being measured by the protractor. The angle is between the red line that is at 0 (inner scale) and 180 (outer scale) on the right of the protractor, anti-clockwise, to the red line at \(120^{\circ}\) on the inner scale and opposite to \(60^{\circ}\) on the outer scale.]()
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Misreads the protractor scale and identifies the angle as \(100^{\circ}\) instead of \(110^{\circ}\).
+
+(C) - Attempts to read the angle incorrectly as a right angle and therefore indicates an angle of \(90^{\circ}\).
+
+(D) - Confuses the measurement and selects \(120^{\circ}\) as it appears larger without properly verifying the corresponding angle on the protractor.
+
+###
+Subject: Measuring Angles
+###
+ConstructName: Use a protractor to measure angles between 90° and 180°
+###
+CorrectAnswer: A

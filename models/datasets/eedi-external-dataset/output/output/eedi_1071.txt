@@ -1,0 +1,29 @@
+###
+Question: What is \( \mathbf{2 3 9 4 . 8 1} \) rounded to the nearest ten? 
+
+###
+Answers:
+(A) - \( 2390 \) 
+
+(B) - \( 2400 \) 
+
+(C) - \( 2395 \) 
+
+(D) - \( 2380 \) 
+
+###
+Misconceptions:
+(A) - Rounds to the wrong degree of accuracy (rounds too much) 
+
+(B) - Rounds up instead of applying the correct rounding rule 
+
+(C) - Applies the rounding rule incorrectly by not considering the correct digit 
+
+(D) - Rounds down instead of up 
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round non-integers to the nearest 10
+###
+CorrectAnswer: B

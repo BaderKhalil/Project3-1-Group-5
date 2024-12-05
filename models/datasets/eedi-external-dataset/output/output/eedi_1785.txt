@@ -1,0 +1,29 @@
+###
+Question: What is \( 292,345 \) rounded to the nearest \( 1,000 \) ? 
+
+###
+Answers:
+(A) - \( 292,000 \) 
+
+(B) - \( 293,000 \) 
+
+(C) - \( 290,000 \) 
+
+(D) - \( 292,500 \) 
+
+###
+Misconceptions:
+(A) - Rounds down incorrectly, missing the halfway point. 
+
+(B) - Rounds up incorrectly without considering the correct digit. 
+
+(C) - Rounds to the wrong degree of accuracy (forces the number down). 
+
+(D) - Incorrectly identifies the halfway point, rounding to a non-integer. 
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round integers to the nearest other power of 10
+###
+CorrectAnswer: B

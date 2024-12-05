@@ -1,0 +1,29 @@
+###
+Question: Which triangle has the least amount of rotational symmetry? 
+
+###
+Answers:
+(A) - ![Equilateral triangle]() 
+
+(B) - ![Isosceles triangle]() 
+
+(C) - ![Scalene triangle]() 
+
+(D) - ![Right triangle]() 
+
+###
+Misconceptions:
+(A) - Believes all sides and angles result in high rotational symmetry 
+
+(B) - Thinks that having two equal sides gives it high rotational symmetry 
+
+(C) - nan 
+
+(D) - May confuse the right angle with increased rotational symmetry 
+
+###
+Subject: Rotational Symmetry
+###
+ConstructName: Identify the order of rotational symmetry of a shape
+###
+CorrectAnswer: C

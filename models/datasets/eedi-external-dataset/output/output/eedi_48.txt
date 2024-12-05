@@ -1,0 +1,29 @@
+###
+Question: input \(\Rightarrow 4 \Rightarrow \div 2 \Rightarrow 5x + 3 \) What is the input of this function machine? 
+
+###
+Answers:
+(A) - \( 10x + 6 \) 
+
+(B) - \( 10x + 4 \) 
+
+(C) - \( 10x + 0 \) 
+
+(D) - \( 10x + 2 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly scales the output by using the wrong operations. 
+
+(B) - Incorrectly adds a constant instead of adjusting for the operations applied. 
+
+(C) - Ignores the required operations completely, resulting in a constant discrepancy. 
+
+(D) - Misapplies the addition operation without correctly addressing the function sequence. 
+
+###
+Subject: Function Machines
+###
+ConstructName: Determine the input of a double function machine used to create an algebraic expression
+###
+CorrectAnswer: D

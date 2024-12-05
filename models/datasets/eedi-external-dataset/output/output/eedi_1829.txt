@@ -1,0 +1,32 @@
+###
+Question: Estimate the value of
+\(
+\frac{7.56 \times 12.4}{0.184}
+\)
+
+###
+Answers:
+(A) - \( 32 \)
+
+(B) - \( 40 \)
+
+(C) - \( 410 \)
+
+(D) - \( 380 \)
+
+###
+Misconceptions:
+(A) - Assumes the result should be a smaller value based on incorrect rounding of the numerator 
+
+(B) - Thinks that the division by a decimal doesn't affect the size of the result
+
+(C) - Nan 
+
+(D) - Believes that the rounding should only apply to the final result instead of intermediate steps 
+
+###
+Subject: Estimation
+###
+ConstructName: Round the elements of a calculation to one significant figure to perform an estimation
+###
+CorrectAnswer: C

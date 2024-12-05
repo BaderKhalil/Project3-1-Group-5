@@ -1,0 +1,29 @@
+###
+Question: Solve the following pair of simultaneous equations: \( \begin{array}{l}2x + 3y = 12 \\ 5x - y = 1\end{array} \)
+
+###
+Answers:
+(A) - \( \begin{array}{l}x=3 \\ y=2\end{array} \)
+
+(B) - \( \begin{array}{l}x=2 \\ y=3\end{array} \)
+
+(C) - \( \begin{array}{l}x=1 \\ y=3.33\end{array} \)
+
+(D) - \( \begin{array}{l}x=4 \\ y=0\end{array} \)
+
+###
+Misconceptions:
+(A) - The solution is miscalculated due to incorrect substitution or addition.
+
+(B) - Incorrectly assumed the values of \(x\) and \(y\) satisfy both equations when they do not.
+
+(C) - Made errors in calculation leading to non-integer and incorrect values.
+
+(D) - Misconstrues the second equation and overlooks the need for both conditions to be satisfied simultaneously.
+
+###
+Subject: Simultaneous Equations
+###
+ConstructName: Solve linear simultaneous equations requiring no scaling of expressions
+###
+CorrectAnswer: A

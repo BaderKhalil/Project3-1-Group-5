@@ -1,0 +1,26 @@
+###
+Question: Which diagram represents the graphical solution to: \( \begin{array}{c} 2x + y = 10 \\ y = -\frac{1}{2}x + 4 \end{array} \)
+
+###
+Answers:
+(A) - ![A four quadrant plane. Y axis -2 to 10 and x axis -5 to 5. A blue line goes from bottom left to top right sloping upwards. It goes through (-4, 0) and (0, 4). A red line goes from bottom left to top right sloping upwards. It goes through (0, -3) and (8, 0)]()
+
+(B) - ![A four quadrant plane. Y axis -5 to 10 and x axis -5 to 5. A blue line goes from top left to bottom right sloping downwards. It goes through (0, 10) and (5, 0). A red line goes from bottom left to top right sloping upwards. It goes through (0, 4) and (8, 0)]()
+
+(C) - ![A four quadrant plane. Y axis -1 to 6 and x axis -2 to 8. A blue line goes from top left to bottom right sloping downwards. It goes through (0, 6) and (6, 0). A red line goes from top left to bottom right sloping downwards. It goes through (4, 0) and (0, 4)]()
+
+(D) - ![A four quadrant plane. Y axis -1 to 5 and x axis -3 to 8. A blue line goes from bottom left to top right sloping upwards. It goes through (0, 10) and (5, 0). A red line goes from top left to bottom right sloping downwards. It goes through (0, 4) and (8, 0)]()
+
+###
+Misconceptions:
+(A) - Believes the first equation has a positive slope instead of a negative slope for the second line.
+(B) - Misinterprets the y-intercept of the first line to be higher than it actually is.
+(C) - Confuses the direction of line slopes, thinking both lines should be downward sloping.
+(D) - nan
+
+###
+Subject: Graphical Solution of Simultaneous Equations
+###
+ConstructName: Plot two straight lines to find the solution to a pair of simultaneous equations
+###
+CorrectAnswer: D

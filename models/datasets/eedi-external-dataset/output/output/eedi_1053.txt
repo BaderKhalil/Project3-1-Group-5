@@ -1,0 +1,32 @@
+###
+Question: Which answer shows the correct factorisation of:
+\(
+x^{2} + 5x + 6
+\) 
+
+###
+Answers:
+(A) - \( (x+2)(x+3) \)
+
+(B) - \( (x+1)(x+6) \)
+
+(C) - \( (x+3)(x+2) \)
+
+(D) - \( (x+3)(x+1) \)
+
+###
+Misconceptions:
+(A) - Believes that commutativity in multiplication affects the outcome of addition 
+
+(B) - Thinks that the factors must always be less than the constant term 
+
+(C) - nan 
+
+(D) - Confuses the constant term factors, choosing one that doesn't add up to the linear coefficient 
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form x² + bx + c
+###
+CorrectAnswer: A

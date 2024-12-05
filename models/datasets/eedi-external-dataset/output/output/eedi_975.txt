@@ -1,0 +1,29 @@
+###
+Question: In a class, \( \frac{2}{7} \) of the students are girls, \( \frac{3}{7} \) are boys, and \( \frac{2}{7} \) are non-binary students. What is the ratio of girls : boys : non-binary students? 
+
+###
+Answers:
+(A) - \( 2: 3: 2 \) 
+
+(B) - \( 2: 5: 2 \) 
+
+(C) - \( 7: 3: 7 \) 
+
+(D) - \( 1: 1: 1 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly adds the fractions before converting to a ratio, leading to wrong proportions. 
+
+(C) - Uses the total denominator instead of the numerators to form the ratio, resulting in incorrect ratios. 
+
+(D) - Assumes equal distribution among groups without considering the given fractions. 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Convert fractions to ratios
+###
+CorrectAnswer: A

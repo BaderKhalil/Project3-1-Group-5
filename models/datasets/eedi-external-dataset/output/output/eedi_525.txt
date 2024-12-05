@@ -1,0 +1,29 @@
+###
+Question: \( 3 \frac{1}{3} - 1 \frac{1}{2}= \) Leave your answer as a mixed number 
+
+###
+Answers:
+(A) - \( 1 \frac{5}{6} \) 
+
+(B) - \( 2 \frac{1}{6} \) 
+
+(C) - \( 1 \frac{1}{6} \) 
+
+(D) - \( 1 \frac{7}{12} \) 
+
+###
+Misconceptions:
+(A) - Does not properly convert the fractions to a common denominator before subtracting 
+
+(B) - nan 
+
+(C) - Subtracts incorrectly by mixing up numerators and denominators 
+
+(D) - Fails to convert mixed numbers to improper fractions before performing the operation 
+
+###
+Subject: Adding and Subtracting Fractions
+###
+ConstructName: Subtract fractions involving mixed number fractions with different denominators
+###
+CorrectAnswer: B

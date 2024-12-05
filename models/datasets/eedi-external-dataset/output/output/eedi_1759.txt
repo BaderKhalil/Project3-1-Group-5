@@ -1,0 +1,31 @@
+###
+Question: This bar graph represents the number of books read by students in different grades during a month.
+
+Which of the following cannot be determined from this bar graph? ![A bar graph showing different bars for each grade with corresponding numbers of books read]()
+
+###
+Answers:
+(A) - The total number of books read across all grades
+
+(B) - The average number of books read per student
+
+(C) - The highest number of books read in a single grade
+
+(D) - The grade with the fewest books read
+
+###
+Misconceptions:
+(A) - Believes that sums cannot be calculated from individual values in a bar graph
+
+(B) - Does not understand how to calculate averages from the graph data
+
+(C) - nan
+
+(D) - Does not know how to identify the lowest value from the bars
+
+###
+Subject: Bar Graph
+###
+ConstructName: Interpret a bar graph
+###
+CorrectAnswer: B

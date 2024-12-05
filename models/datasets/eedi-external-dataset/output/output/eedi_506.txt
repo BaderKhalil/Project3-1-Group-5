@@ -1,0 +1,33 @@
+###
+Question: Solve the equation:
+
+\(
+5q=\frac{1}{20}
+\)
+
+###
+Answers:
+(A) - \( q=\frac{1}{4} \)
+
+(B) - \( q=\frac{1}{100} \)
+
+(C) - \( q=4 \)
+
+(D) - \( q=\frac{1}{5} \)
+
+###
+Misconceptions:
+(A) - Assumes that multiplying both sides by the same number gives the original equation a different solution.
+
+(B) - Incorrectly divides the fraction without properly applying the inverse of multiplication.
+
+(C) - Believes that increasing the multiplier causes a proportionate increase in the solution.
+
+(D) - Misunderstands the division and incorrectly calculates the inverse operation.
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve one-step linear equations requiring multiplication or division, involving positive fractions
+###
+CorrectAnswer: B

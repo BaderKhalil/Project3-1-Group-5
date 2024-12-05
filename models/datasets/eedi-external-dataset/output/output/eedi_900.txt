@@ -1,0 +1,29 @@
+###
+        Question: \( 250 \mathrm{~l} \) is equivalent to how many cubic centimeters?
+
+        ###
+        Answers:
+        (A) - \( 25000 \mathrm{~cm}^{3} \)
+
+        (B) - \( 250000 \mathrm{~cm}^{3} \)
+
+        (C) - \( 2500000 \mathrm{~cm}^{3} \)
+
+        (D) - \( 2.5 \mathrm{~cm}^{3} \)
+
+        ###
+        Misconceptions:
+        (A) - Thinks 1l = 1000 cubic centimeters but mistakenly scales down the conversion.
+        
+        (B) - Thinks 1l = 1000 cubic centimeters, correctly identifies the conversion but fails to account for the quantity.
+
+        (C) - Correctly understands the conversion rate but mistakenly multiplies by the wrong factor.
+
+        (D) - Thinks liters convert to a smaller unit like milliliters and confuses volume conversion.
+
+        ###
+        Subject: Volume and Capacity Units
+        ###
+        ConstructName: Convert between l and cm³
+        ###
+        CorrectAnswer: B

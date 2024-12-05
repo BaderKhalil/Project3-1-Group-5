@@ -1,0 +1,29 @@
+###
+        Question: What is the sum of the angles in a triangle? 
+
+        ###
+        Answers:
+        (A) - 90° 
+
+        (B) - 180° 
+
+        (C) - 270° 
+
+        (D) - 360° 
+
+        ###
+        Misconceptions:
+        (A) - Student confuses the sum of angles in right angles with triangles 
+
+        (B) - nan 
+
+        (C) - Believes angles combine in a triangle to make more than 180° 
+
+        (D) - Thinks that all angles in a closed shape, like a triangle, must add up to 360° 
+
+        ###
+        Subject: Basic Angle Facts (triangle, sum of angles, etc)
+        ###
+        ConstructName: Recognise the angle sum property of triangles
+        ###
+        CorrectAnswer: B

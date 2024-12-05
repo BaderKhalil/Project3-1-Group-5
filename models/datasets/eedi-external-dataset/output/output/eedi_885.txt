@@ -1,0 +1,29 @@
+###
+Question: Which of the following shapes has rotational symmetry order \( 3 \) ?
+
+###
+Answers:
+(A) - ![Equilateral Triangle]() 
+
+(B) - ![Parallelogram]() 
+
+(C) - ![Pentagon]() 
+
+(D) - ![Rectangle]() 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly assumes parallelogram has order of rotational symmetry greater than 2 
+
+(C) - Misunderstands that pentagons do not have rotational symmetry of 3 
+
+(D) - Thinks rectangles have rotational symmetry order higher than 2 
+
+###
+Subject: Properties of Polygons
+###
+ConstructName: Identify the order of rotational symmetry of a shape
+###
+CorrectAnswer: A

@@ -1,0 +1,31 @@
+###
+Question: The diagram shows the uniform cross-section of a solid \( P \).
+
+Which of the following could shape \( P \) be? ![A triangle.]() 
+
+###
+Answers:
+(A) - Triangle 
+
+(B) - Pyramid 
+
+(C) - Cone 
+
+(D) - Prismoid 
+
+###
+Misconceptions:
+(A) - Does not understand that solids can have various base shapes 
+
+(B) - Confuses the properties of pyramids with prisms 
+
+(C) - Assumes that a cone has a flat base 
+
+(D) - Misunderstands the definition of a prismoid and its characteristics 
+
+###
+Subject: Volume of Prisms
+###
+ConstructName: Identify cross sections of 3D shapes
+###
+CorrectAnswer: A

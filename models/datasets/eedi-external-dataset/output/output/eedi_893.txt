@@ -1,0 +1,29 @@
+###
+Question: Convert \( 3 \) meters and \( 75 \) centimeters to kilometers. 
+
+###
+Answers:
+(A) - \( 0.0375 km \)
+
+(B) - \( 0.00375 km \)
+
+(C) - \( 0.375 km \)
+
+(D) - \( 0.075 km \)
+
+###
+Misconceptions:
+(A) - Thinks that centimeters convert directly to kilometers without considering the meter conversion.
+
+(B) - Thinks that \( 75 \) cm equals \( 0.75 \) meters instead of \( 0.75 \) meters to add to \( 3 \) meters.
+
+(C) - nan 
+
+(D) - Thinks 1 meter equals 0.025 km without the proper conversion steps.
+
+###
+Subject: Length Units
+###
+ConstructName: Complete multi-step conversions of distance that use addition and division
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: A geometric sequence starts with the first term \( 48 \), and each term is multiplied by \( 2 \). What is the \( 5^{\text{th}} \) term in this sequence?
+
+###
+Answers:
+(A) \( 384 \)
+
+(B) \( 192 \)
+
+(C) \( 48 \)
+
+(D) \( 96 \)
+
+###
+Misconceptions:
+(A) - Believes that the last term indicates the total multiplied result of the first term and ignores the sequential multiplying.
+
+(B) - Correctly applies the multiplication but fails to calculate how many times to repeat it for the \( 5^{\text{th}} \) term.
+
+(C) - Thinks the first term remains constant without considering the multiplication by \( 2 \).
+
+(D) - Applies the multiplication incorrectly assumes the \( 5^{\text{th}} \) term is just the first term multiplied by \( 2 \) once.
+
+###
+Subject: Sequences-Others
+###
+ConstructName: Given a description of a geometric sequence in words, write some terms of that sequence
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: A triangle has angles measuring \( 45^{\circ} \) and \( 85^{\circ} \). What is the measure of the third angle? 
+
+###
+Answers:
+(A) - \( 50^{\circ} \) 
+
+(B) - \( 40^{\circ} \) 
+
+(C) - \( 55^{\circ} \) 
+
+(D) - \( 60^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that angles can be added without considering the 180-degree total of a triangle. 
+
+(B) - Miscalculates by subtracting from an incorrect angle sum. 
+
+(C) - nan 
+
+(D) - Assumes the triangle's angles could exceed the total of \( 180^{\circ} \). 
+
+###
+Subject: Basic Angle Facts (triangle angle sum property) 
+###
+ConstructName: Calculate the third angle in a triangle given two angles 
+###
+CorrectAnswer: C

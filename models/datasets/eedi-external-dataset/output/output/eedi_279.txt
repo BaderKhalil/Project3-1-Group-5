@@ -1,0 +1,29 @@
+###
+Question: Which diagram shows an angle of \( 45^{\circ} \)?
+
+###
+Answers:
+(A) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an acute angle. The angle is between the red line that is at 0 (inner scale) and the red line that is at 45 (inner scale) on the left of the protractor.]() 
+
+(B) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an acute angle. The angle is between the red line that is at 0 (inner scale) and the red line that is at 90 (inner scale) on the right of the protractor.]() 
+
+(C) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an acute angle. The angle is between the red line that is at 0 (inner scale) and the red line that is at 50 (inner scale) on the left of the protractor.]() 
+
+(D) - ![A 180 degree protractor (straight edge at the bottom) with 2 red lines and a blue sector marking out an acute angle. The angle is between the red line that is at 0 (inner scale) and the red line that is at 45 (inner scale) on the right of the protractor.]() 
+
+###
+Misconceptions:
+(A) - Chooses the correct angle but misinterprets its location on the protractor by thinking it is measured from the wrong reference line.
+
+(B) - Identifies an angle that is too large while misreading the protractor scale without recognizing that the angle sought is much smaller.
+
+(C) - Misreads the angle by incorrectly estimating the measure as being closer to 50 degrees instead of 45.
+
+(D) - nan
+
+###
+Subject: Measuring Angles
+###
+ConstructName: Use a protractor to measure angles between 0° and 90°
+###
+CorrectAnswer: D

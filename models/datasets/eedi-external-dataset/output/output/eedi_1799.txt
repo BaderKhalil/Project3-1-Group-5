@@ -1,0 +1,30 @@
+###
+Question: \( 3.2465 \)  
+What is this number rounded to \( 3 \) decimal places?  
+
+###
+Answers:  
+(A) - \( 3.247 \)  
+
+(B) - \( 3.246 \)  
+
+(C) - \( 3.25 \)  
+
+(D) - \( 3.24 \)  
+
+###
+Misconceptions:  
+(A) - Correctly rounds but may misinterpret rounding rules involving halfway cases.  
+
+(B) - Incorrectly believes that you do not round the last digit that is considered.  
+
+(C) - Misunderstands rounding and prefers to round up incorrectly.  
+
+(D) - Rounds incorrectly by not accounting for the value of the next decimal place.  
+
+###
+Subject: Rounding to Decimal Places  
+###
+ConstructName: Round numbers to three decimal places  
+###
+CorrectAnswer: A

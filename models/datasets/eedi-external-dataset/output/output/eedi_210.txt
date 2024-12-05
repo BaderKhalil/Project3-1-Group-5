@@ -1,0 +1,30 @@
+###
+Question: Round this number to \( 2 \) significant figures:
+\( 0.04678 \)
+
+###
+Answers:
+(A) - \( 0.05 \)
+
+(B) - \( 0.04 \)
+
+(C) - \( 0.05 \)
+
+(D) - \( 0.06 \)
+
+###
+Misconceptions:
+(A) - Incorrectly identifies the second significant figure; assumes the leading zeros count. 
+
+(B) - Rounds to an arbitrary figure ignoring the significant figures principle.
+
+(C) - Correctly rounds to two significant figures. 
+
+(D) - Overestimates the rounding and misjudges the next digit.
+
+###
+Subject: Rounding to Significant Figures
+###
+ConstructName: Round numbers between 0 and 1 to two significant figures
+###
+CorrectAnswer: C

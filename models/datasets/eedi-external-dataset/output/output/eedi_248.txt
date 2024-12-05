@@ -1,0 +1,29 @@
+###
+Question: Which of the following equations represents a quadratic function?
+
+###
+Answers:
+(A) - \( y = 3x + 5 \)
+
+(B) - \( y = x^2 - 4x + 4 \)
+
+(C) - \( y = \sqrt{x} + 2 \)
+
+(D) - \( y = x^3 - 2x + 1 \)
+
+###
+Misconceptions:
+(A) - Incorrectly identifies a linear function as a quadratic function
+
+(B) - nan 
+
+(C) - Confuses a radical function with a quadratic function 
+
+(D) - Confuses a cubic function with a quadratic function 
+
+###
+Subject: Quadratic Functions
+###
+ConstructName: Identify a quadratic function from its equation
+###
+CorrectAnswer: B

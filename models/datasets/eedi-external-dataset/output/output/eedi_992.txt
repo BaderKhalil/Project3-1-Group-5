@@ -1,0 +1,29 @@
+###
+Question: How do you write \( 5\% \) as a decimal? 
+
+###
+Answers:
+(A) - \( 0.5 \) 
+
+(B) - \( 0.05 \) 
+
+(C) - \( 5.0 \) 
+
+(D) - \( 50 \) 
+
+###
+Misconceptions:
+(A) - Multiplied by 10 rather than divided by 100 
+
+(B) - Divided by 100 correctly, but misplaces the decimal point 
+
+(C) - Does not understand a percentage is out of 100 
+
+(D) - Multiplied by 100 rather than divided by 100 
+
+###
+Subject: Converting between Decimals and Percentages
+###
+ConstructName: Convert integer percentages with 1 digit to decimals 
+###
+CorrectAnswer: B

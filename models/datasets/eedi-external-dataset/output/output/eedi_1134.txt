@@ -1,0 +1,32 @@
+###
+Question: What number is the result of this operation?
+\(
+15 + (-9) =
+\square\) 
+
+###
+Answers:
+(A) - \( 24 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( -9 \) 
+
+###
+Misconceptions:
+(A) - Fails to account for the negative number properly and adds the absolute values incorrectly 
+
+(B) - nan 
+
+(C) - Subtracts incorrectly and miscalculates the difference 
+
+(D) - Assumes that adding a negative number results in a negative outcome without proper calculation 
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Carry out addition problems involving one negative integer
+###
+CorrectAnswer: B

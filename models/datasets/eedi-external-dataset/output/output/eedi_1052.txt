@@ -1,0 +1,29 @@
+###
+Question: Here are two consecutive square numbers: \( 64, 81, \ldots \) What is the next square number in the sequence?
+
+###
+Answers:
+(A) - \( 100 \)
+
+(B) - \( 90 \)
+
+(C) - \( 82 \)
+
+(D) - \( 85 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the sequence of square numbers and thinks they decrease linearly 
+
+(C) - Believes the next number is just the next integer after the last square, without squaring it 
+
+(D) - Miscalculates the next square by considering it to be an arithmetic progression rather than a geometric one 
+
+###
+Subject: Other Sequences
+###
+ConstructName: Continue a sequence involving square numbers
+###
+CorrectAnswer: A

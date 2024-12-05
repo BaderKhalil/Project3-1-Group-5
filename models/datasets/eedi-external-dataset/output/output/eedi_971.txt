@@ -1,0 +1,29 @@
+###
+Question: What would you calculate if the question is, "What is \( 80 \) increased by \( 15 \)?" 
+
+###
+Answers:
+(A) - Find the difference between \( 80 \) and \( 15 \).
+
+(B) - Calculate \( 80 + 15 \).
+
+(C) - Determine how many times \( 15 \) fits into \( 80 \).
+
+(D) - Multiply \( 80 \) and \( 15 \).
+
+###
+Misconceptions:
+(A) - Confuses addition with subtraction when dealing with increase or decrease terminology.
+
+(B) - nan 
+
+(C) - Misunderstands the operation required by confusing addition with division in word problems.
+
+(D) - Adds instead of multiplying when asked for a product.
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Identify command words that mean addition
+###
+CorrectAnswer: B

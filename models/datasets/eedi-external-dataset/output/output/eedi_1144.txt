@@ -1,0 +1,29 @@
+###
+Question: What is \( x^{3} \) when \( x = 4 \)?
+
+###
+Answers:
+(A) - \( 64 \)
+
+(B) - \( 12 \)
+
+(C) - \( 24 \)
+
+(D) - \( 48 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Adds the base number to its exponent 
+
+(C) - Multiplies the base number by its exponent instead of performing the power operation 
+
+(D) - Mistakes the operation for multiplication instead of exponentiation 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive integer values into expressions involving powers or roots
+###
+CorrectAnswer: A

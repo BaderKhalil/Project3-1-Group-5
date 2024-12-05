@@ -1,0 +1,30 @@
+###
+Question: If \( v = u + at \) What is the value of \( v \) when
+\[\begin{array}{l} a=2 \\ u=10 \\ t=3 \end{array}\]
+
+###
+Answers:
+(A) - \( 16 \) 
+
+(B) - \( 20 \) 
+
+(C) - \( 6 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the expression by using a subtraction instead of addition 
+
+(B) - Correctly applies the formula but mistakenly adds an incorrect value for \( a \) 
+
+(C) - Wrongly assumes that multiplying acceleration and time gives the final velocity directly without adding initial velocity 
+
+(D) - Incorrectly substitutes the values into the equation, leading to a wrong calculation 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute numbers into a kinematic equation to work out final velocity
+###
+CorrectAnswer: B

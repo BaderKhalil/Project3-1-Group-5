@@ -1,0 +1,29 @@
+###
+Question: What is the size of angle \( x \) given that it forms a linear pair with an angle measuring \( 110^{\circ} \)? ![Angles forming a linear pair where one angle is labeled 110 degrees and the other is \( x \)]() 
+
+###
+Answers:
+(A) - \( 70^{\circ} \) 
+
+(B) - \( 110^{\circ} \) 
+
+(C) - \( 80^{\circ} \) 
+
+(D) - \( 120^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Thinks that the angles are complementary and should sum to 90 
+
+(B) - Misunderstands that linear pairs are supplementary and calculates incorrectly 
+
+(C) - Incorrectly applies the rule of complementary angles instead of supplementary 
+
+(D) - Believes that angles can exceed 180 degrees in a linear pair 
+
+###
+Subject: Basic Angle Facts (straight line, opposite, around a point, etc)
+###
+ConstructName: Find missing angles using linear pairs
+###
+CorrectAnswer: A

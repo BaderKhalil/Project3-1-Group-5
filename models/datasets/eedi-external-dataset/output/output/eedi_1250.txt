@@ -1,0 +1,29 @@
+###
+Question: Use the graph to approximate the solution to \( x^{2}-4x+3>0 \) ![A set of axes with the quadratic graph y=x^2-4x+3 drawn on.]() 
+
+###
+Answers:
+(A) - \( x<1, x>3 \) 
+
+(B) - \( 1<x<3 \) 
+
+(C) - \( x=1 \) 
+
+(D) - \( x>3 \) 
+
+###
+Misconceptions:
+(A) - Selects the correct intervals but does not include the endpoints, which may lead to missing solutions if not interpreted carefully.
+
+(B) - Incorrectly selects the range between the roots rather than outside, missing values where the quadratic is positive.
+
+(C) - Identifies a single point rather than the intervals where the quadratic inequality holds true.
+
+(D) - Only includes part of the solution and ignores the left side interval, leading to an incomplete interpretation. 
+
+###
+Subject: Quadratic inequalities on Number Lines
+###
+ConstructName: Solve quadratic inequalities from the graph of the quadratic
+###
+CorrectAnswer: A

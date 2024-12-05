@@ -1,0 +1,29 @@
+###
+Question: Sarah is trying to subtract \( 45 \) from a number. Which of the following methods would give her the correct answer?
+
+###
+Answers:
+(A) - \( -50 \) then \( +5 \)
+
+(B) - \( -50 \) then \( -5 \)
+
+(C) - \( +50 \) then \( -5 \)
+
+(D) - \( +50 \) then \( +5 \)
+
+###
+Misconceptions:
+(A) - Misunderstands the relationship between addition and subtraction with negative numbers.
+
+(B) - Fails to recognize that she should not apply both negatives consecutively.
+
+(C) - Incorrectly adds instead of subtracting when solving word problems.
+
+(D) - Incorrectly assumes that adding both values results in a correct subtraction.
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Recognise and use efficient strategies for mental subtraction
+###
+CorrectAnswer: A

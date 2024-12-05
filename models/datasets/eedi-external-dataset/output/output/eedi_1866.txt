@@ -1,0 +1,32 @@
+###
+Question: What does the following equal?
+\[
+15 + 4 \times 2 - 6
+\] 
+
+###
+Answers:
+(A) - \( 23 \)
+
+(B) - \( 13 \)
+
+(C) - \( 29 \)
+
+(D) - \( 11 \)
+
+###
+Misconceptions:
+(A) - Fails to apply the order of operations, adds before multiplying 
+
+(B) - Incorrectly subtracts from the total calculated without respecting the order of operations 
+
+(C) - Misunderstands multiplication and assumes it should be added after addition 
+
+(D) - Incorrectly processes all operations from left to right without considering priority 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division
+###
+CorrectAnswer: A

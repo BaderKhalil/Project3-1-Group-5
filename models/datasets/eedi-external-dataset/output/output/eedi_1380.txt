@@ -1,0 +1,29 @@
+###
+Question: ![An image of 6 line segments on a square grid. PQ is a horizontal line measuring 5 units. RS is a diagonal line with a positive gradient of 2.5. TU is a vertical line measuring 7 units. VW is a diagonal line with a negative gradient of -1.5. XY is a vertical line measuring 4 units. ZA is a diagonal line with a positive gradient of 1.2.]() Which line segment is perpendicular to PQ? 
+
+###
+Answers:
+(A) - TU 
+
+(B) - XY 
+
+(C) - VW 
+
+(D) - RS 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses the meaning of perpendicular and horizontal  
+
+(C) - Misunderstands the orientation of slopes regarding perpendicular lines  
+
+(D) - Confuses diagonal and vertical lines with perpendicularity     
+
+###
+Subject: Parallel Lines
+###
+ConstructName: Recognise perpendicular lines
+###
+CorrectAnswer: A

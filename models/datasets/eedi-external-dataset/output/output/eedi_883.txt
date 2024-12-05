@@ -1,0 +1,38 @@
+###
+Question: Sarah is trying to simplify the equation:
+\(\frac{3y}{4} + 2 = 5.5\)
+
+James states that a correct next line of working could be: \(3y + 8 = 22\)
+
+Emily states that a correct next line of working could be: \(\frac{3y}{4} = 3.5\)
+
+Who is correct?
+
+###
+Answers:
+(A) - Only 
+James 
+
+(B) - Only 
+Emily 
+
+(C) - Both James and Emily 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Fails to recognize that 2 was added so it needs to be subtracted first before multiplying by 4. 
+
+(B) - Misunderstands the addition of 2 and believes it is applicable to the equation in its current state. 
+
+(C) - nan 
+
+(D) - Does not understand that when solving for a variable, each operation must be handled in the correct order. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve three or more step linear equations, with the variable on one side, involving positive decimals
+###
+CorrectAnswer: A

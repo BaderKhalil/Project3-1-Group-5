@@ -1,0 +1,29 @@
+###
+Question: Which of the following equations represents a linear function?
+
+###
+Answers:
+(A) - y = 2x + 3 
+
+(B) - y = x^2 - 5 
+
+(C) - y = 1/x 
+
+(D) - y = -3x + 4 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes that all polynomial equations are linear 
+
+(C) - Confuses linear functions with inverse functions 
+
+(D) - nan 
+
+###
+Subject: Linear Functions
+###
+ConstructName: Identify linear equations
+###
+CorrectAnswer: A

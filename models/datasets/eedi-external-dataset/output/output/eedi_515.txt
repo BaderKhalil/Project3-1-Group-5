@@ -1,0 +1,26 @@
+###
+Question: What is the vector that represents the translation which moves figure \( A \) to figure \( B \)? ![The image shows a set of axes with two triangles A and B. Triangle A has vertices at (1, 1), (2, 3), (3, 1). Triangle B has vertices at (4, 5), (5, 7), (6, 5).]()
+
+###
+Answers:
+(A) - \( \left(\begin{array}{c}-3 \\ -4\end{array}\right) \)
+
+(B) - \( \left(\begin{array}{c}3 \\ 4\end{array}\right) \)
+
+(C) - \( \left(\begin{array}{c}3 \\ 4\end{array}\right) \)
+
+(D) - \( \left(\begin{array}{c}-3 \\ 4\end{array}\right) \)
+
+###
+Misconceptions:
+(A) - Assumes both components of the vector must be negative, overlooking the translation direction
+(B) - Incorrectly believes that the alteration of coordinates only adds to the position, ignoring the entire movement vector 
+(C) - Identical to option B but misreads the translation direction leading to the same incorrect answer
+(D) - Confuses horizontal and vertical movements when performing the translation
+
+###
+Subject: Translation and Vectors
+###
+ConstructName: Describe a translation using vector notation where at least one value is negative
+###
+CorrectAnswer: B

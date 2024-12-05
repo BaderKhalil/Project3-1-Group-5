@@ -1,0 +1,32 @@
+###
+        Question: Lucy and Mark are trying to find the product of \( 72 \times 5 \) using mental math strategies. 
+Lucy decides to calculate \( 70 \times 5 \) and then adds \( 10 \) to her answer. 
+Mark chooses to compute \( 75 \times 5 \) and then subtracts \( 15 \) from the result. 
+Who arrives at the correct answer? 
+
+        ###
+        Answers:
+        (A) - Only Lucy 
+
+        (B) - Only Mark 
+
+        (C) - Both Lucy and Mark 
+
+        (D) - Neither is correct 
+
+        ###
+        Misconceptions:
+        (A) - Believes that her compensation method does not yield the correct result for the actual multiplication. 
+
+        (B) - Incorrectly assumes that adjusting \( 75 \) to get \( 72 \) will lead to an accurate result after subtracting \( 15 \). 
+
+        (C) - nan 
+
+        (D) - nan 
+
+        ###
+        Subject: Mental Multiplication and Division
+        ###
+        ConstructName: Recognise and use efficient methods for mental multiplication
+        ###
+        CorrectAnswer: C

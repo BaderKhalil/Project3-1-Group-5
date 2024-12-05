@@ -1,0 +1,29 @@
+###
+Question: A gardener mixes two types of fertilizer in the ratio \( 4: 1 \). What is this ratio in the form \( 1: n \)?
+
+###
+Answers:
+(A) - \( 1: 0.25 \)
+
+(B) - \( 1: 4 \)
+
+(C) - \( 1: 5 \)
+
+(D) - \( 1: 3 \)
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the smaller amount is always the second part of the ratio. 
+
+(B) - Correctly understands the conversion of the ratio from \( 4:1 \) to \( 1:4 \).
+
+(C) - Incorrectly adds the parts of the ratio instead of simplifying.
+
+(D) - Incorrectly divides the first part of the ratio without adjusting the second part proportionally.
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Write a given ratio in the form 1:n 
+###
+CorrectAnswer: B

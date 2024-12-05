@@ -1,0 +1,29 @@
+###
+Question: Simplify the expression: \( \frac{3x}{4} \div \frac{x^2 - 1}{8} \)
+
+###
+Answers:
+(A) - \( \frac{6x}{x^2 - 1} \)
+
+(B) - \( \frac{24x}{x^2 - 1} \)
+
+(C) - \( \frac{3 \cdot 8x}{4(x-1)(x+1)} \)
+
+(D) - \( \frac{6}{4} x \)
+
+###
+Misconceptions:
+(A) - Forgetting to multiply by the reciprocal of the second fraction
+
+(B) - Incorrectly multiplying both the numerator and the denominator instead of dividing
+
+(C) - Incorrectly factoring the numerator and denominator but not simplifying correctly
+
+(D) - Misunderstanding the division as just simplifying one portion of the fraction
+
+###
+Subject: Multiplying and Dividing Algebraic Fractions
+###
+ConstructName: Multiply and divide algebraic fractions where the numerators and denominators involve linear expressions
+###
+CorrectAnswer: B

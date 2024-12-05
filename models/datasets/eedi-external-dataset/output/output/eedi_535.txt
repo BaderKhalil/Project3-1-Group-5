@@ -1,0 +1,29 @@
+###
+Question: \( 5 \frac{2}{3} + 2 \frac{1}{6} = \) Leave your answer as a mixed number 
+
+###
+Answers:
+(A) - \( 7 \frac{3}{6} \) 
+
+(B) - \( 8 \frac{1}{6} \) 
+
+(C) - \( 7 \frac{1}{2} \) 
+
+(D) - \( 8 \frac{4}{6} \) 
+
+###
+Misconceptions:
+(A) - Confused the conversion from improper to mixed number  
+
+(B) - Added the whole numbers and the fractions incorrectly 
+
+(C) - Confused the addition of fractions 
+
+(D) - Combined mixed numbers directly without finding a common denominator 
+
+###
+Subject: Adding and Subtracting Fractions
+###
+ConstructName: Add fractions involving mixed number fractions with different denominators
+###
+CorrectAnswer: B

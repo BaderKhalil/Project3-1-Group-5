@@ -1,0 +1,32 @@
+###
+Question: Which answer represents the following expression using the correct algebraic convention?
+\(
+x \times x \times 4 \times y \times y \times y
+\) 
+
+###
+Answers:
+(A) - \( 4 x^{2} y^{3} \) 
+
+(B) - \( 4 x^{3} y^{2} \) 
+
+(C) - \( 4 x y^{2} x \) 
+
+(D) - \( x^{2} y^{3} \times 4 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly counts the number of \(x\) terms 
+
+(C) - Does not consolidate the \(x\) terms properly 
+
+(D) - Fails to represent the expression in a single cohesive format 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Write algebraic expressions with correct algebraic convention involving powers
+###
+CorrectAnswer: A

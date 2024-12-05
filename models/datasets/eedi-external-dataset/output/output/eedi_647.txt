@@ -1,0 +1,31 @@
+###
+Question: \(5 \sqrt{2} + 3 \sqrt{2}\)
+
+Simplify, if possible.
+
+###
+Answers:
+(A) - \(8 \sqrt{2}\)
+
+(B) - \(15 \sqrt{4}\)
+
+(C) - \(5 + 3\)
+
+(D) - \(\sqrt{10}\)
+
+###
+Misconceptions:
+(A) - Incorrectly thinks that when adding surds with the same radicand, the coefficients are added without any additional multiplication or simplification.
+
+(B) - Assumes that adding surds involves multiplying the integers and simplifying under the square root.
+
+(C) - Fails to recognize that the numbers must remain as coefficients of the surd when simplified.
+
+(D) - Misunderstands that the sum of surds results in another surd and tries to simplify inaccurately.
+
+###
+Subject: Operations with Surds
+###
+ConstructName: Add surds with the same radicand
+###
+CorrectAnswer: A

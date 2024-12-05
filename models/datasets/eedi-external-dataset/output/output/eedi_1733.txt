@@ -1,0 +1,31 @@
+###
+Question: In a survey, all the employees of a company were asked whether they have a pet cat, a pet dog, both, or neither.
+
+The Venn Diagram displays the results. ![A Venn diagram with two sets, one labelled Cat and one labelled Dog. The number 9 is written in Cat without the intersection, number 5 is in Dog without the intersection, the number 3 is in the intersection of Cat and Dog. The number 7 is outside the circles.]() How many employees participated in the survey?
+
+###
+Answers:
+(A) - \( 12 \) 
+
+(B) - \( 24 \) 
+
+(C) - \( 20 \) 
+
+(D) - \( 16 \) 
+
+###
+Misconceptions:
+(A) - Calculates incorrectly by only summing the values inside the circles, missing additional entries
+
+(B) - nan 
+
+(C) - Forgets to include the values outside the Venn diagram in the total count 
+
+(D) - Confuses total count and sum of only one subset of the Venn diagram 
+
+###
+Subject: Venn Diagrams
+###
+ConstructName: Interpret what the numbers in each region of a double Venn diagram mean
+###
+CorrectAnswer: D

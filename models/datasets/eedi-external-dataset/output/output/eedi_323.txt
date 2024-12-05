@@ -1,0 +1,29 @@
+###
+Question: Factorise \( x^{2} - 5x - 14 \)
+
+###
+Answers:
+(A) - \( (x-7)(x+2) \)
+
+(B) - \( (x+7)(x-2) \)
+
+(C) - \( (x-1)(x-14) \)
+
+(D) - \( (x-4)(x+3) \)
+
+###
+Misconceptions:
+(A) - Believes that when factorising a quadratic, they can incorrectly apply the signs without considering the required sums and products.
+
+(B) - Correctly identifies the factors that meet both criteria for sum and product.
+
+(C) - Believes that when factorising a quadratic, they can simply choose numbers based on their multiplication without checking the addition.
+
+(D) - Assumes that both factors must necessarily relate to the sum being equal to the negative coefficient of x, neglecting the constant term.
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form x² + bx + c
+###
+CorrectAnswer: A

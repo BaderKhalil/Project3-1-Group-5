@@ -1,0 +1,33 @@
+###
+Question: \(
+y_{n+1}=\frac{1}{2}y_{n} + 3
+\)
+
+Using a starting value of \( y_{1}=2 \), what is the value of \( y_{2} \) ?
+
+###
+Answers:
+(A) - 4.0
+
+(B) - 3.0
+
+(C) - 6.0
+
+(D) - 2.5
+
+###
+Misconceptions:
+(A) - Misunderstands the iterative process and uses only the initial value. 
+
+(B) - Fails to apply the iteration formula, potentially confusing it with a single computation step.
+
+(C) - Correctly applies the iteration formula and understands the process.
+
+(D) - Uses an incorrect formula or calculation, possibly ignoring the constant term.
+
+###
+Subject: Trial and Improvement and Iterative Methods
+###
+ConstructName: Carry out the first stage in an iteration solution
+###
+CorrectAnswer: C

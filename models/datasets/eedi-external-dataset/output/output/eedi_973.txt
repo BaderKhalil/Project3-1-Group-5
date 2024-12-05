@@ -1,0 +1,29 @@
+###
+Question: How do you write \( 75\% \) as a decimal? 
+
+###
+Answers:
+(A) - \( 0.75 \) 
+
+(B) - \( 7.5 \) 
+
+(C) - \( 0.0075 \) 
+
+(D) - \( 75.0 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the concept of percentage and mistakenly believes that \( 75\% \) means \( 75 \) divided by \( 10 \). 
+
+(C) - Incorrectly applies the conversion by assuming two decimal places are involved. 
+
+(D) - Thinks that the number stays the same when converting a percentage to a decimal, only adding a decimal point. 
+
+###
+Subject: Converting between Decimals and Percentages
+###
+ConstructName: Convert whole number percentages to decimals
+###
+CorrectAnswer: A

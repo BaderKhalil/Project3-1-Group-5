@@ -1,0 +1,31 @@
+###
+Question: The temperature in two cities is shown on the diagram. 
+
+At what time does City A have a higher temperature than City B? ![A graph showing Temperature (°F) on the y axis and Time (hours) on the x axis. Y axis from 0 to 100, each square goes up by 10, and x axis from 0 to 24, each square goes up by 2. A blue line slopes upward from left to right, showing temperature trends for City B. A red line slopes upward from left to right, showing temperature trends for City A.]() 
+
+###
+Answers:
+(A) - \( 18 \) 
+
+(B) - \( 15 \) 
+
+(C) - \( 12 \) 
+
+(D) - \( 21 \) 
+
+###
+Misconceptions:
+(A) - Believes City A is consistently warmer, misinterpreting the graph's peaks and valleys. 
+
+(B) - Thinks the time mentioned corresponds solely to City B's peaks instead of analyzing both lines together. 
+
+(C) - Incorrectly assumes that temperatures drop continuously rather than fluctuating throughout the day. 
+
+(D) - Misreads time values, thinking 21 hours refers to City A’s temperature rather than interpreting the graph correctly. 
+
+###
+Subject: Graphical Interpretation of Temperature Trends
+###
+ConstructName: Analyze and interpret temperature changes over time using a graph
+###
+CorrectAnswer: B

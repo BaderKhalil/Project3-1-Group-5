@@ -1,0 +1,35 @@
+###
+Question: Sarah and Jake are comparing numbers.
+
+Sarah says \( 250 \) is less than \( 300 \)
+
+Jake says \( 7000 \) is less than \( 6500 \)
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Jake 
+
+(C) - Both Sarah and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses the value of larger numbers by misinterpreting their place value 
+
+(C) - Misunderstands the ordering of numbers and the comparison based on their values 
+
+(D) - Believes all numbers starting with a lower digit are smaller regardless of the subsequent digits 
+
+###
+Subject: Place Value
+###
+ConstructName: Order integers with the same number of digits
+###
+CorrectAnswer: A

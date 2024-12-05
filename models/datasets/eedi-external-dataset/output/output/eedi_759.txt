@@ -1,0 +1,29 @@
+###
+Question: ![A triangle with a base of 12 and height of 5, labelled with dimensions 12 and 5]() Which of the following calculations would correctly find the area of the triangle?
+
+###
+Answers:
+(A) - \( \frac{1}{2} \times 12 \times 5 \)
+
+(B) - \( 12 \times 5 \)
+
+(C) - \( \frac{1}{2} \times (12 + 5) \)
+
+(D) - \( \frac{1}{2} \times 12 + 5 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Fails to apply the formula for the area of a triangle and mistakenly uses the formula for the area of a rectangle.
+
+(C) - Incorrectly assumes that the area can be calculated by averaging the base and height.
+
+(D) - Misunderstands that the area of a triangle is found using multiplication involving both the base and height, rather than simply adding the two.
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Calculate the area of a triangle where the dimensions are given in the same units
+###
+CorrectAnswer: A

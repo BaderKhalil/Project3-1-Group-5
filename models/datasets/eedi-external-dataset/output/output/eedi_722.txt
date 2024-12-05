@@ -1,0 +1,36 @@
+###
+Question: Maria and Jake are trying to solve the equation:
+\(2(y + 3) = 14\)
+
+Maria claims that a correct next step could be: \(y + 3 = 7\)
+
+Jake thinks that a correct next step could be: \(2y + 6 = 14\)
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Maria 
+
+(B) - Only Jake 
+
+(C) - Both Maria and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Overlooks the need to divide both sides by 2 correctly after distributing. 
+
+(B) - Underestimates the implications of distributing the 2, mistakenly thinking the equation can be simplified without adjusting both sides. 
+
+(C) - Fails to recognize that both operations must directly lead to a different point in solving the equation correctly. 
+
+(D) - Does not realize that isolating the variable incorrectly by skipping necessary algebraic steps leads to an invalid solution. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve multi-step linear equations with distribution
+###
+CorrectAnswer: A

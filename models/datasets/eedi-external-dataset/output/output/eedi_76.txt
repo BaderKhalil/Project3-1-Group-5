@@ -1,0 +1,29 @@
+###
+Question: The sum of the interior angles of a triangle \(_____________\) is 180 degrees. 
+
+###
+Answers:
+(A) - always 
+
+(B) - sometimes 
+
+(C) - never 
+
+(D) - I don't know 
+
+###
+Misconceptions:
+(A) - Does not realize that all triangles have the same angle sum 
+
+(B) - Might think that certain types of triangles can have different angle sums 
+
+(C) - Does not understand the fundamental properties of triangles 
+
+(D) - Does not know basic geometric properties of shapes 
+
+###
+Subject: Properties of Triangles
+###
+ConstructName: Recall and use the angle sum properties of triangles
+###
+CorrectAnswer: A

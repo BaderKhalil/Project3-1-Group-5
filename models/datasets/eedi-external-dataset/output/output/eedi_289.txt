@@ -1,0 +1,36 @@
+###
+Question: Liam is solving a long multiplication problem. What digit should be in the ones place of his final answer for \( 764 \times 3 \)?
+
+\begin{tabular}{r|r|r|r|}
+\(\space\) & \( 7 \) & \( 6 \) & \( 4 \) \\
+\( \times \) & \(\space\) & \(\space\) & \( 3 \) \\
+\hline & \(\space\) & \(\space\) & \(\bigstar\) \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 0 \) 
+
+(D) - \( 4 \) 
+
+###
+Misconceptions:
+(A) - Improperly accounts for carryover from column multiplication 
+
+(B) - nan 
+
+(C) - Misunderstands how to handle the ones digit during the multiplication process 
+
+(D) - Assumes the ones digit from the original number will directly carry over without considering multiplication 
+
+###
+Subject: Written Multiplication
+###
+ConstructName: Multiply 3 digit integers by 1 digit integers using long multiplication
+###
+CorrectAnswer: B

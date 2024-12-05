@@ -1,0 +1,32 @@
+###
+Question: Simplify:
+\(
+\frac{3}{4} \div 3
+\) 
+
+###
+Answers:
+(A) - \( \frac{1}{4} \) 
+
+(B) - \( \frac{1}{12} \) 
+
+(C) - \( \frac{3}{12} \) 
+
+(D) - \( \frac{9}{4} \) 
+
+###
+Misconceptions:
+(A) - when dividing a fraction by a whole number, incorrectly assumes the denominator remains the same
+
+(B) - fails to recognize that dividing by 3 results in a fraction lower than \( \frac{3}{4} \)
+
+(C) - mistakenly simplifies \( \frac{3}{12} \) without correctly performing the division first
+
+(D) - misunderstands the operation and treats it as a multiplication instead of division 
+
+###
+Subject: Dividing Fractions
+###
+ConstructName: Divide proper fractions in the form: Fraction ÷ Integer
+###
+CorrectAnswer: A

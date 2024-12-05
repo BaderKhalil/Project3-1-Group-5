@@ -1,0 +1,30 @@
+###
+Question: What is the solution to the following inequality?
+\(5 < 3x - 1 < 14\)
+
+###
+Answers:
+(A) - \(2 < x < 5\) 
+
+(B) - \(2 < x < 6\) 
+
+(C) - \(1 < x < 4.5\) 
+
+(D) - \(0 < x < 5\) 
+
+###
+Misconceptions:
+(A) - Assumes the correct manipulation of terms was followed 
+
+(B) - Incorrectly adds 1 to the upper limit without adjusting the lower limit accordingly 
+
+(C) - Misapplies the order of operations by incorrectly simplifying the middle expression 
+
+(D) - Fails to consider the need to isolate the variable correctly in both parts of the inequality 
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve linear inequalities involving two inequality signs
+###
+CorrectAnswer: A

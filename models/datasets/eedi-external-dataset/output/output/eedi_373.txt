@@ -1,0 +1,29 @@
+###
+Question: What is the measure of angle \( x \) if angle \( y \) measures 75 degrees and angles \( x \) and \( y \) are alternate interior angles? ![Image showing two parallel lines cut by a transversal creating two distinct angles, where angle y is labeled as 75 degrees, and angle x is vertically opposite to the angle formed on the opposite side of the transversal.](https://example.com)
+
+###
+Answers:
+(A) - 75 degrees 
+
+(B) - 105 degrees 
+
+(C) - 90 degrees 
+
+(D) - 45 degrees 
+
+###
+Misconceptions:
+(A) - Confuses alternate interior angles with corresponding angles 
+
+(B) - Mistakes the relationship between alternate interior angles and assumes a complementary angle 
+
+(C) - Confuses the angle with a right angle due to absence of explicit angle measures 
+
+(D) - Confuses alternate interior angles with angles on a straight line 
+
+###
+Subject: Angle Facts with Parallel Lines
+###
+ConstructName: Identify alternate interior angles
+###
+CorrectAnswer: A

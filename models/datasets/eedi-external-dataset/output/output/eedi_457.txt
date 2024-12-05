@@ -1,0 +1,29 @@
+###
+Question: What fraction is represented by the shaded area in the circle? ![An image of a circle divided into 8 equal parts, with 3 parts shaded]()
+
+###
+Answers:
+(A) - \( \frac{3}{8} \) 
+
+(B) - \( \frac{5}{8} \) 
+
+(C) - \( \frac{1}{2} \) 
+
+(D) - \( \frac{2}{3} \) 
+
+###
+Misconceptions:
+(A) - Correctly identifies the numerator as the shaded parts but may not recognize the total parts in the circle. 
+
+(B) - Incorrectly counts the shaded parts and believes there are more shaded segments than there actually are. 
+
+(C) - Mistakenly assumes that having half of the circle shaded equates to \( \frac{1}{2} \) regardless of the total parts. 
+
+(D) - Misinterprets the concept of equal sections in a circle and mistakenly represents the fraction with an incorrect denominator. 
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Read a fraction representing a shaded area in a divided shape
+###
+CorrectAnswer: A

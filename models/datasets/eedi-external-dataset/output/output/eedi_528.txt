@@ -1,0 +1,29 @@
+###
+Question: Which pair of numbers will help factorise \( x^{2}-8 x+15 \) ?
+
+###
+Answers:
+(A) - \( 1 \times 15 \) 
+
+(B) - \( 3 \times 5 \) 
+
+(C) - \( 2 \times 7 \) 
+
+(D) - \( 4 \times 4 \) 
+
+###
+Misconceptions:
+(A) - Believes that when factorising a quadratic, they can use any two numbers that multiply to give the constant 
+
+(B) - Correctly identifies the numbers that add to -8 and multiply to 15 
+
+(C) - Believes that both numbers should be in a larger range and does not consider the addition to -8 
+
+(D) - Assumes that for factorising a quadratic, finding two equal numbers that multiply to the constant is sufficient 
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form x² + bx + c
+###
+CorrectAnswer: B

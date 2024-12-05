@@ -1,0 +1,29 @@
+###
+Question: \( \frac{3}{8}=? \) 
+
+###
+Answers:
+(A) - \( 0.375 \) 
+
+(B) - \( 0.4 \) 
+
+(C) - \( 8.3 \) 
+
+(D) - \( 0.24 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Miscalculates by treating the numerator as if it represents the whole value rather than a part of it 
+
+(C) - Converts a fraction to a decimal by appending the denominator after a decimal point 
+
+(D) - Misunderstands how to convert fractions to decimals, likely confusing the conversion process 
+
+###
+Subject: Converting between Fractions and Decimals
+###
+ConstructName: Convert fractions less than 1 to terminating decimals of 2 decimal places
+###
+CorrectAnswer: A

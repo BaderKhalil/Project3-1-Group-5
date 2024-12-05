@@ -1,0 +1,32 @@
+###
+Question: What must Becca do to rearrange this equation before applying the quadratic formula?
+\(
+x^{2} + 5x - 20 = 0 
+\)
+
+###
+Answers:
+(A) - Factor the equation 
+
+(B) - Move \(20\) to the left side 
+
+(C) - Subtract \(5\) from both sides 
+
+(D) - Ensure the equation is in the standard form \(ax^2 + bx + c = 0\) 
+
+###
+Misconceptions:
+(A) - Does not understand that factoring is not necessary if using the quadratic formula 
+
+(B) - Misinterprets the requirement to move terms for the quadratic formula 
+
+(C) - Believes that subtracting terms can create an equation suitable for the quadratic formula 
+
+(D) - nan 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Solve quadratic equations using the quadratic formula where the coefficient of x² is 1 
+###
+CorrectAnswer: D

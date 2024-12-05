@@ -1,0 +1,34 @@
+###
+Question: \begin{tabular}{|c|c|c|}
+      & Multiple of \( 5 \) & Not a multiple of \( 5 \\
+\hline Factor of \( 45 \) & A & B \\
+\hline Not a factor of \( 45 \) & C & D \\
+\hline
+\end{tabular} In which box should you place \( \mathbf{20} \) ?
+
+###
+Answers:
+(A) - A 
+
+(B) - B 
+
+(C) - C 
+
+(D) - D 
+
+###
+Misconceptions:
+(A) - Confuses multiples with factors 
+
+(B) - nan 
+
+(C) - Does not understand the term factor 
+
+(D) - Believes that all numbers can be factors of any number 
+
+###
+Subject: Factors and Highest Common Factor
+###
+ConstructName: Identify factors of a number
+###
+CorrectAnswer: C

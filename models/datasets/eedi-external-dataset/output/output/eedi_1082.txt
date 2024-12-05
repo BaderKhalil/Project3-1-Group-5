@@ -1,0 +1,37 @@
+###
+Question: Sarah and Jake are examining the function \( \boldsymbol{y}=\boldsymbol{x}^{\mathbf{2}} \) \begin{tabular}{|l|l|}
+\hline\( x \) & \(\color{gold}\bigstar\) \\
+\hline\( y \) & \( 16 \) \\
+\hline
+\end{tabular} Sarah argues the star could be \( 4 \).
+
+Jake argues the star could be \( -4 \).
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Jake 
+
+(C) - Both Sarah and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Thinks that the function produces identical output for both positive and negative inputs due to squaring. 
+
+(B) - Believes that negative inputs cannot produce a positive output in a squared equation.
+
+(C) - Assumes that the results of a squared function can yield more than one valid input for the same output.
+
+(D) - Incorrectly thinks that there are no valid inputs that can give the stated y value of 16 for a squared function.
+
+###
+Subject: Quadratics
+###
+ConstructName: Given a positive y value, find the corresponding x values for the curve y = x²
+###
+CorrectAnswer: A

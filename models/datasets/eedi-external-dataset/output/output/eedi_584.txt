@@ -1,0 +1,29 @@
+###
+Question: A rectangle has a width labelled as 4 squares. What should the label for the length, represented by a star, be if the length is 8 squares? 
+
+###
+Answers:
+(A) - \( 4 \mathrm{~cm} \) 
+
+(B) - \( 8 \mathrm{~cm} \) 
+
+(C) - \( 6 \mathrm{~cm} \) 
+
+(D) - \( 2 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes the length and width are equal 
+
+(B) - nan 
+
+(C) - Misinterprets the measurement of squares, does not count correctly 
+
+(D) - Misunderstands the conversion from squares to centimeters 
+
+###
+Subject: Area 
+###
+ConstructName: Calculate area of rectangles given dimensions 
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: Lisa has attempted to translate the blue triangle \( \left(\begin{array}{l}5 \\ 4\end{array}\right) \) ![Image showing two identical shapes on a coordinate grid. The blue shape has the point (5,4) and the corresponding point on the yellow shape is (7,8).]() What error has Lisa made?
+
+###
+Answers:
+(A) - Lisa has not moved down the correct number of places 
+
+(B) - Lisa has gone up when she should have gone down 
+
+(C) - Lisa has not moved left the correct number of places 
+
+(D) - Lisa has not moved right the correct number of places 
+
+###
+Misconceptions:
+(A) - When describing a translation, believes moving vertically means moving down regardless of the vector's direction.
+
+(B) - Thinks a negative y value in a column vector means to move down rather than understanding it’s a matter of the translation from the initial position.
+
+(C) - When performing a translation, confuses horizontal movement with vertical displacement.
+
+(D) - When translating, does not account for the correct positive movement in the x-direction.
+
+###
+Subject: Translation and Vectors
+###
+ConstructName: Translate a shape given vector notation where all values are positive
+###
+CorrectAnswer: A

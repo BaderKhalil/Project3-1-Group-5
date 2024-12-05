@@ -1,0 +1,33 @@
+###
+        Question: A sequence is defined using the rule
+
+Multiply the position by \( 3 \) and then subtract \( 2 \)
+
+What is the second term in the sequence? 
+
+        ###
+        Answers:
+        (A) - \( 4 \) 
+
+        (B) - \( 5 \) 
+
+        (C) - \( 1 \) 
+
+        (D) - \( 2 \) 
+
+        ###
+        Misconceptions:
+        (A) - nan 
+
+        (B) - Confuses the operation and adds instead of subtracts 
+
+        (C) - Takes the previous term instead of calculating the current term 
+
+        (D) - Misremembers the operation, thinking to apply only subtraction without multiplication 
+
+        ###
+        Subject: Linear Sequences
+        ###
+        ConstructName: Given a mathematical expression for calculating terms in a sequence based on their position, determine specific terms.
+        ###
+        CorrectAnswer: A

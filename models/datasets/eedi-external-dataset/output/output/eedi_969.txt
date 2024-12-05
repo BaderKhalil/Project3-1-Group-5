@@ -1,0 +1,37 @@
+###
+Question: Which statement about the heights \( -3\) m and \( 4 \) m is true?
+
+###
+Answers:
+(A) - \( 4 \) m is \( 1 \) m 
+lower than 
+\( -3 \) m 
+
+(B) - \( 4 \) m is \( 7 \) m 
+lower than 
+\( -3 \) m 
+
+(C) - \( 4 \) m is \( 1 \) m 
+higher than 
+\( -3 \) m 
+
+(D) - \( 4 \) m is \( 7 \) m 
+higher than 
+\( -3 \) m 
+
+###
+Misconceptions:
+(A) - Misunderstands the concept of negative heights in comparison.
+
+(B) - Confuses the direction of measurement and thinks lower means more negative.
+
+(C) - Overlooks the implications of negative measurements.
+
+(D) - Correctly evaluates the higher measurement but fails to recognize negative context is also involved.
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Perform calculations with height when given in the same units
+###
+CorrectAnswer: D

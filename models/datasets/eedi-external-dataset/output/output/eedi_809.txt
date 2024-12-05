@@ -1,0 +1,34 @@
+###
+Question: Step \( 1 \)
+
+Which is the correct next step rearrangement of the following formula, making \( x \) the subject?
+\[
+4x + 5 = 2(3 - x)
+\]
+
+###
+Answers:
+(A) - \( x = \frac{1}{2} \)
+
+(B) - \( x = 1 - \frac{5}{4} \)
+
+(C) - \( x = \frac{6 - 5}{6} \)
+
+(D) - \( x = 1 - 3 \)
+
+###
+Misconceptions:
+(A) - Incorrectly simplifies the equation by ignoring the variable on one side
+
+(B) - Miscalculates the rearrangement by incorrectly handling the constants
+
+(C) - Misunderstands the distribution leading to an incorrect formulation
+
+(D) - Misunderstands the process of isolating the variable and jumps to a conclusion without proper rearrangement
+
+###
+Subject: Rearranging Formula and Equations
+###
+ConstructName: Rearrange formulae to change the subject where the subject appears once and one step is needed
+###
+CorrectAnswer: B

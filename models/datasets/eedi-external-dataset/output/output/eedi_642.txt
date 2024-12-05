@@ -1,0 +1,29 @@
+###
+Question: Which expression can be rewritten as a difference of two squares: \( x^2 - 25 \)?
+
+###
+Answers:
+(A) - \( (x-5)(x+5) \)
+
+(B) - \( (x-5)^2 \)
+
+(C) - \( x(x-25) \)
+
+(D) - \( (x+5)(x+5) \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the difference of two squares as a perfect square trinomial 
+
+(C) - Thinks that difference of two squares involves multiplying the leading term by the second term without proper factorization
+
+(D) - Misapplies the difference of two squares by using the same sign in both factors instead of opposite signs 
+
+###
+Subject: Difference of Two Squares
+###
+ConstructName: Factorise a quadratic expression in the form a² - b²
+###
+CorrectAnswer: A

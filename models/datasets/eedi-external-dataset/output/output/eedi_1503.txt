@@ -1,0 +1,37 @@
+###
+Question: Which of the following pairs of numbers round to \( 3.84 \) when rounded to two decimal places?
+
+###
+Answers:
+(A) - \( 3.845 \)
+and 
+\( 3.835 \)
+
+(B) - \( 3.841 \)
+and 
+\( 3.839 \)
+
+(C) - \( 3.847 \)
+and 
+\( 3.825 \)
+
+(D) - \( 3.8401 \)
+and 
+\( 3.8399 \)
+
+###
+Misconceptions:
+(A) - Undervalues the significance of the next digit in rounding 
+
+(B) - Confuses the rounding rule, thinking both numbers round up 
+
+(C) - Misguided by the second number not being close enough to \( 3.84 \) for rounding 
+
+(D) - Correctly rounds both numbers, but doesn't realize the second number has a too high next digit 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to two decimal places
+###
+CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: Which of the following diagrams represents \( x > 0 \) and \( x \leq 3 \) ? 
+
+###
+Answers:
+(A) - ![Number line from -1 to 4. Open circle at 0 with arrow to the right. Closed circle at 3 with arrow to the left. ]() 
+
+(B) - ![Number line from -1 to 4. Closed circle at 0 with arrow to the right. Closed circle at 3 with arrow to the left. ]() 
+
+(C) - ![Number line from -1 to 4. Open circle at 0 with arrow to the right. Open circle at 3 with arrow to the left. ]() 
+
+(D) - ![Number line from -1 to 4. Closed circle at 0 with arrow to the right. Open circle at 3 with arrow to the left. ]() 
+
+###
+Misconceptions:
+(A) - Correctly represents the boundary conditions, as it includes values greater than zero up to and including 3. 
+
+(B) - Misunderstands that \( x > 0 \) requires an open circle at 0 since 0 is not included. 
+
+(C) - Incorrectly implies that 3 is not included because it is also an open circle, which contradicts the condition \( x \leq 3 \).
+
+(D) - Confuses the meanings of the filled and unfilled circles, indicating that 3 is not included while 0 should be open. 
+
+###
+Subject: Inequalities on Number Lines
+###
+ConstructName: Represent a linear inequality in the form x ≤ a or x ≥ b (and other sign arrangements) on a numberline
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: \( 0.05^{2}= \)
+
+###
+Answers:
+(A) - \( 0.0025 \)
+
+(B) - \( 0.00025 \)
+
+(C) - \( 0.01 \)
+
+(D) - \( 0.0005 \)
+
+###
+Misconceptions:
+(A) - Correctly computes the square but misplaces the decimal point, resulting in too large an answer. 
+
+(B) - Believes squaring results in too many decimal places, misunderstanding decimal placement.
+
+(C) - Confuses squaring a number with multiplying by 2, giving an incorrect smaller result.
+
+(D) - Underestimates the value of squaring by miscalculating the decimal position.
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Multiply two decimals together with the same number of decimal places
+###
+CorrectAnswer: A

@@ -1,0 +1,31 @@
+###
+Question: ![A pair of axes: x-axis is from -4 to 3; y-axis is from -3 to 3. A triangle, labelled "Q", is formed by connecting the points (0, 0), (2, 2), and (0, 2). The point (2, 2) is marked with a red dot. Also, the following points are labelled with the following letters: E (1, 1); F (-2, -2); G (-1, -1); H (3, 3).]() Shape \( \mathrm{Q} \) is rotated \( 90^{\circ} \) counterclockwise around the origin.
+
+Where will the red point be on the rotated shape? 
+
+###
+Answers:
+(A) - E 
+
+(B) - F 
+
+(C) - G 
+
+(D) - H 
+
+###
+Misconceptions:
+(A) - Confuses clockwise and counterclockwise rotation 
+
+(B) - Rotates incorrectly, thinking the point moves in the opposite direction 
+
+(C) - Reflects the point over an axis instead of performing the required rotation 
+
+(D) - nan 
+
+###
+Subject: Rotation
+###
+ConstructName: Rotate an object or point 90° counterclockwise about a point 
+###
+CorrectAnswer: D

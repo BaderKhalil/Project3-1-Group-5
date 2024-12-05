@@ -1,0 +1,32 @@
+###
+Question: What is the first term of the sequence defined by the nth-term rule: 
+\[
+3n + 2
+\]
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 5 \) 
+
+(D) - \( 0 \) 
+
+###
+Misconceptions:
+(A) - Correct answer, as it accurately represents the first term when \( n = 1 \). 
+
+(B) - Misunderstands that the first term is represented by the coefficient of n, instead of calculating it directly.
+
+(C) - Incorrectly adds the coefficient and constant without substituting \( n = 1 \). 
+
+(D) - Fails to recognize that the sequence starts with \( n = 1 \) and mistakenly assumes the first term can be \( 0 \).
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Generate an ascending integer linear sequence from the nth term rule
+###
+CorrectAnswer: A

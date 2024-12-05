@@ -1,0 +1,29 @@
+###
+Question: Alex and Jamie share \( £ 45 \) in the ratio \( 4\;: 1 \). Which of the following diagrams best represents this situation? 
+
+###
+Answers:
+(A) - ![A bar split into 4 pink blocks and 1 blue block. All the blocks are the same size and the whole bar is labelled £45.]() 
+
+(B) - ![A pink bar split into 4 blocks, and below it a shorter blue bar split into 1 block. All the blocks are the same size. The length of the whole bar is labelled £45.]() 
+
+(C) - ![A pink bar split into 4 blocks with an arrow pointing to a blue block of equal size, labelled £45.]() 
+
+(D) - ![A pink bar split into 4 blocks and a blue bar split into 1 block. The pink block length is labelled £45.]() 
+
+###
+Misconceptions:
+(A) - Incorrectly represents the total amount as divided equally among all parts rather than maintaining the given ratio. 
+
+(B) - When drawing bar diagrams for ratios, it suggests that the total is distributed across both amounts instead of a combined total. 
+
+(C) - Incorrectly assumes that bar lengths should be equal to the total amount, without considering the specified ratio. 
+
+(D) - When drawing bar diagrams for ratios, shows only one part being labelled as the total amount instead of the combined lengths. 
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Use a bar model to express a ratio problem
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: To estimate the product of \( 0.0345 \) and \( 0.12 \), which of the following values should you use?
+
+###
+Answers:
+(A) - \( 0.03 \) 
+
+(B) - \( 0.04 \) 
+
+(C) - \( 0.12 \) 
+
+(D) - \( 0.04 \) 
+
+###
+Misconceptions:
+(A) - Rounds down too aggressively 
+
+(B) - Rounds incorrectly by using too many significant figures 
+
+(C) - Uses the second value without considering the first for proper rounding 
+
+(D) - Rounds inaccurately from both numbers leading to an improper estimate 
+
+###
+Subject: Estimation
+###
+ConstructName: Round numbers to an appropriate degree to estimate the answer to a calculation
+###
+CorrectAnswer: B

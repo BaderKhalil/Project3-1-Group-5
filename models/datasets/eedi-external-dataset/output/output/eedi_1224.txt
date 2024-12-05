@@ -1,0 +1,29 @@
+###
+Question: During a geometry class, Mark states that alternate interior angles are equal when two parallel lines are cut by a transversal. Lisa claims that interior angles on the same side of the transversal are supplementary. Who is correct?
+
+###
+Answers:
+(A) - Only Mark
+
+(B) - Only Lisa
+
+(C) - Both Mark and Lisa
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Thinks that all angles formed by a transversal with parallel lines have the same measure
+
+(B) - Misunderstands that angles on the same side of the transversal must always add up to 180 degrees
+
+(C) - Thinks that there are multiple angle relationships that are simultaneously correct
+
+(D) - Believes that alternate interior angles are not equal
+
+###
+Subject: Angle Facts with Parallel Lines
+###
+ConstructName: Identify alternate interior angles
+###
+CorrectAnswer: A

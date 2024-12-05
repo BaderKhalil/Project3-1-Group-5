@@ -1,0 +1,29 @@
+###
+Question: Round \( 45.67 \) to one decimal place 
+
+###
+Answers:
+(A) - \( 45.6 \) 
+
+(B) - \( 45 \) 
+
+(C) - \( 45.7 \) 
+
+(D) - \( 46.0 \) 
+
+###
+Misconceptions:
+(A) - Rounds down instead of up 
+
+(B) - Rounds to the wrong degree of accuracy (rounds too much) 
+
+(C) - nan 
+
+(D) - Rounds to the nearest whole number instead of the specified decimal place 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to one decimal place
+###
+CorrectAnswer: C

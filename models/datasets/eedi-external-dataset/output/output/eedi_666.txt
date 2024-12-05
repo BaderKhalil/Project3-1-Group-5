@@ -1,0 +1,32 @@
+###
+        Question: \[
+12345.6789
+\]
+What is this number rounded to the nearest \( 10 \) ? 
+
+        ###
+        Answers:
+        (A) - \( 12340 \) 
+
+        (B) - \( 12350 \) 
+
+        (C) - \( 12360 \) 
+
+        (D) - \( 12400 \) 
+
+        ###
+        Misconceptions:
+        (A) - Rounds down incorrectly by not considering the tenths place 
+
+        (B) - nan 
+
+        (C) - Rounds up incorrectly by misinterpreting the digit in the ones place 
+
+        (D) - Rounds to the wrong degree of accuracy (rounds too much) 
+
+        ###
+        Subject: Rounding to the Nearest Whole (10, 100, etc)
+        ###
+        ConstructName: Round non-integers to the nearest 10
+        ###
+        CorrectAnswer: B

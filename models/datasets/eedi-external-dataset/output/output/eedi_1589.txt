@@ -1,0 +1,29 @@
+###
+Question: When rounding the number \( 7.843 \) to one decimal place, you should use... 
+
+###
+Answers:
+(A) - \( 7.8 \) 
+
+(B) - \( 7.84 \) 
+
+(C) - \( 8 \) 
+
+(D) - \( 7.9 \) 
+
+###
+Misconceptions:
+(A) - Correctly rounds down but ignores the need for one decimal place 
+
+(B) - Rounds to two decimal places instead of one 
+
+(C) - Rounds to the nearest whole number instead of one decimal place 
+
+(D) - Rounds up incorrectly without proper consideration of the digit following 
+
+###
+Subject: Rounding
+###
+ConstructName: Round numbers to an appropriate degree 
+###
+CorrectAnswer: D

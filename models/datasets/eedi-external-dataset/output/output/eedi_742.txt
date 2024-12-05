@@ -1,0 +1,29 @@
+###
+Question: The following numbers are the first three terms of a geometric sequence \( \begin{array}{llll}2 & 6 & 18 & \ldots\end{array} \). Find an expression for the \( n \)th term of this sequence.
+
+###
+Answers:
+(A) - \( 2 \cdot 3^{n-1} \)
+
+(B) - \( 2 \cdot 3^{n} \)
+
+(C) - \( 6 \cdot 3^{n-1} \)
+
+(D) - \( 6 \cdot 3^{n} \)
+
+###
+Misconceptions:
+(A) - Correctly identifies the first term and the common ratio but misplaces the exponent in the formula.
+
+(B) - Thinks the nth term should include an extra factor due to not recognizing how indexing works.
+
+(C) - Incorrectly uses the second term as the base instead of the first term of the sequence.
+
+(D) - Confuses the base term and the power of n, adding an extra factor incorrectly.
+
+###
+Subject: Geometric Sequences (nth term)
+###
+ConstructName: Find the nth term rule for a geometric integer sequence
+###
+CorrectAnswer: A

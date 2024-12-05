@@ -1,0 +1,29 @@
+###
+Question: Factorise this expression, if possible: \( x^{2} - 144 \) 
+
+###
+Answers:
+(A) - \( (x-12)(x-12) \) 
+
+(B) - \( (x-12)(x+12) \) 
+
+(C) - \( x(x-12) \) 
+
+(D) - Does not factorise 
+
+###
+Misconceptions:
+(A) - Factorises difference of two squares incorrectly by using the same sign 
+
+(B) - nan 
+
+(C) - Misunderstands the structure of the quadratic expression and applies linear factorisation 
+
+(D) - Does not recognise difference of two squares 
+
+###
+Subject: Difference of Two Squares
+###
+ConstructName: Factorise a quadratic expression in the form x² - c
+###
+CorrectAnswer: B

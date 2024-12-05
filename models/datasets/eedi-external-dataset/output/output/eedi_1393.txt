@@ -1,0 +1,29 @@
+###
+Question: \( \left(4 \times 10^{3}\right) + \left(7 \times 10^{4}\right)= \)
+
+###
+Answers:
+(A) - \( 7.4 \times 10^{4} \) 
+
+(B) - \( 7.4 \times 10^{3} \) 
+
+(C) - \( 0.74 \times 10^{5} \) 
+
+(D) - \( 4.7 \times 10^{4} \) 
+
+###
+Misconceptions:
+(A) - Assumes that when adding numbers in standard form, the powers can be ignored if the number is larger. 
+
+(B) - Misunderstands that the exponent can't be adjusted to match those of a higher power without proper conversion of the smaller number. 
+
+(C) - Incorrectly believes that the sum can be expressed with a decimal moving in the exponential form without full addition of powers. 
+
+(D) - Assumes that when combining the two standard forms you simply keep the larger power and add the coefficients without adjusting. 
+
+###
+Subject: Standard Form
+###
+ConstructName: Perform addition calculations using standard form
+###
+CorrectAnswer: C

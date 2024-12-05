@@ -1,0 +1,29 @@
+###
+Question: Which diagram shows the fraction that is the smallest?
+
+###
+Answers:
+(A) - ![A circle divided into 8 equal sections, where 3 sections are shaded green and 5 are white.]() 
+
+(B) - ![A triangle divided into 6 smaller triangles, where 2 are shaded blue and 4 are white.]() 
+
+(C) - ![A square divided into 10 equal squares, where 1 square is shaded red and 9 are white.]() 
+
+(D) - ![A rectangle divided into 4 smaller rectangles, where 1 is shaded yellow and 3 are white.]() 
+
+###
+Misconceptions:
+(A) - Believes that even though there are more sections, it represents a smaller fraction when comparing shaded parts.
+
+(B) - Thinks that a larger number of triangles means the fraction is larger, ignoring the size of shaded parts in relation to the total.
+
+(C) - Assumes that shading more squares automatically gives a larger fraction, while not recognizing the size of the parts shaded. 
+
+(D) - Thinks that because fewer rectangles are shaded, it represents a smaller fraction without regard for the total number of sections. 
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Order fractions whose denominators are not multiples of the same number 
+###
+CorrectAnswer: C

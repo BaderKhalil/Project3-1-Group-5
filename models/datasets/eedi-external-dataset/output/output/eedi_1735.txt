@@ -1,0 +1,32 @@
+###
+Question: Solve 
+\[
+5(n - 2) < 3n + 6
+\]
+
+###
+Answers:
+(A) - \( n < 8 \) 
+
+(B) - \( n < 10 \) 
+
+(C) - \( n < 4 \) 
+
+(D) - \( n < 6 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the result of combining like terms, leading to an incorrect upper bound for \( n \).
+
+(B) - Incorrectly adds extra terms instead of subtracting them appropriately while solving the inequality.
+
+(C) - Believes that simplifying \( 5(n - 2) \) was done correctly but fails to recognize that it must be compared correctly with the \( 3n + 6 \) side.
+
+(D) - Correctly solves the inequality but misinterprets the final solution. 
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve linear inequalities in one variable that require three or more steps where the variable appears on one side of the equation 
+###
+CorrectAnswer: D

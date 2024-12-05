@@ -1,0 +1,29 @@
+###
+Question: \( 3 \frac{3}{4} - 1 \frac{1}{2} = \) Leave your answer as a mixed number
+
+###
+Answers:
+(A) - \( 2 \frac{1}{4} \)
+
+(B) - \( \frac{13}{4} \)
+
+(C) - \( 2 \frac{1}{2} \)
+
+(D) - \( 2 \frac{1}{8} \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstood the operation, treating the answer as an improper fraction directly 
+
+(C) - Incorrectly calculated the value of the fractions resulting in a different subtraction
+
+(D) - Miscalculation occurs due to an error in subtracting the fractional parts 
+
+###
+Subject: Adding and Subtracting Fractions
+###
+ConstructName: Subtract fractions involving mixed number fractions with the same denominator
+###
+CorrectAnswer: A

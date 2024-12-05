@@ -1,0 +1,32 @@
+###
+Question: How do you write this number in words?
+\(
+305070
+\) 
+
+###
+Answers:
+(A) - Three hundred and five thousand and seventy 
+
+(B) - Three million and fifty thousand and seventy 
+
+(C) - Three hundred and fifty thousand and seventy 
+
+(D) - Three hundred and five and seventy 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Mistakes the place value column of hundreds and thousands with millions 
+
+(C) - Misunderstands the placement of 'three' in the thousands column and combines values incorrectly 
+
+(D) - Does not recognize that the 'hundred' should be combined with 'thousands' for correct reading 
+
+###
+Subject: Place Value
+###
+ConstructName: Write 5 digit numbers and above as words
+###
+CorrectAnswer: A

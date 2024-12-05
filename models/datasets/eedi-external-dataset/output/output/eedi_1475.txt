@@ -1,0 +1,30 @@
+###
+Question: What is the median of the following numbers?
+\( 4, \quad 7, \quad 2, \quad 10, \quad 5, \quad 3 \)
+
+###
+Answers:
+(A) - \( 4.5 \) 
+
+(B) - \( 5 \) 
+
+(C) - \( 6 \) 
+
+(D) - \( 3 \) 
+
+###
+Misconceptions:
+(A) - Correct calculation but does not identify it correctly as the median. 
+
+(B) - Selects the mean instead of the median due to confusion between the two. 
+
+(C) - Incorrectly assumes the median is the highest number among the two middle values. 
+
+(D) - Incorrectly identifies the minimum value as the median due to misunderstanding the definition. 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Calculate the median as an average from an even numbered list of data
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+        Question: Which is the correct net for this shape? ![Net of a square pyramid]()
+
+        ###
+        Answers:
+        (A) - ![Correct net of a square pyramid]() 
+
+        (B) - ![Net of a rectangular prism]() 
+
+        (C) - ![Net of a triangular pyramid]() 
+
+        (D) - ![None of the above]() 
+
+        ###
+        Misconceptions:
+        (A) - nan 
+
+        (B) - Confuses the shape of the base with other prisms 
+
+        (C) - Confuses pyramid types and their corresponding nets 
+
+        (D) - Incorrectly believes that the pyramid must have a different structure 
+
+        ###
+        Subject: Nets
+        ###
+        ConstructName: Identify the net of a pyramid
+        ###
+        CorrectAnswer: A

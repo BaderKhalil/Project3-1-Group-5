@@ -1,0 +1,29 @@
+###
+Question: What is the area of the shaded region in this composite shape formed by two overlapping rectangles? ![A composite shape where two rectangles overlap creating a cross-like structure. The total width is 10 cm, and the total height is 8 cm. The overlapping rectangle has a width of 4 cm and a height of 4 cm which is the shaded area.]()
+
+###
+Answers:
+(A) - \( 36 \mathrm{~cm}^{2} \)  
+
+(B) - \( 24 \mathrm{~cm}^{2} \)  
+
+(C) - \( 20 \mathrm{~cm}^{2} \)  
+
+(D) - \( 32 \mathrm{~cm}^{2} \)  
+
+###
+Misconceptions:
+(A) - Assumes the area includes the overlap twice instead of recognizing it only contributes once.
+
+(B) - Incorrectly subtracts the area of one rectangle thinking it is outside the shaded region.
+
+(C) - Calculates the area of the shaded section incorrectly by failing to account for dimensions properly.
+
+(D) - nan
+
+###
+Subject: Compound Area
+###
+ConstructName: Calculate missing lengths of shapes by geometrical inference, where the lengths given are in the same units
+###
+CorrectAnswer: D

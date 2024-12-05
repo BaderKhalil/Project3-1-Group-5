@@ -1,0 +1,37 @@
+###
+Question: For the equation
+\[
+5x + 2y = 20
+\] the following table of values is provided:
+\begin{tabular}{|l|l|}
+\hline \( x \) & \( \bigstar \) \\
+\hline \( y \) & \( 5 \) \\
+\hline
+\end{tabular} What value should replace the star? 
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 5 \) 
+
+(C) - \( 6 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Thinks that any positive number can solve the equation without performing calculations to find the specific value. 
+
+(B) - Incorrectly assumes the given \( y \) value can be \( x \) value as well without considering the relationship defined by the equation. 
+
+(C) - Miscalculates by treating the equation as if the addition or subtraction can be ignored when solving for \( x \).
+
+(D) - Treats the equation incorrectly by assuming a linear behavior between \( x \) and \( y \) without considering the coefficients in the equation. 
+
+###
+Subject: Plotting Lines from Tables of Values
+###
+ConstructName: Given a y value, find a corresponding x value in a table of values for lines in the form ax + by = c
+###
+CorrectAnswer: A

@@ -1,0 +1,33 @@
+###
+Question: \(
+A = 2x^{3} - 4
+\)
+
+What is the value of \( A \) when \( x=2 \) ? 
+
+###
+Answers:
+(A) - \( 4 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 0 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Has incorrectly evaluated the expression but simplified it correctly 
+
+(B) - Incorrectly added instead of multiplying for the cubic term 
+
+(C) - Believes that components of the formula cancel each other out to zero 
+
+(D) - Has doubled the output of the cubic term without correctly substituting 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive integer values into formulae involving powers or roots
+###
+CorrectAnswer: A

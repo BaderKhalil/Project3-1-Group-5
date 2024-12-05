@@ -1,0 +1,32 @@
+###
+Question: Calculate:
+\(
+\frac{8}{12} \div 4
+\) 
+
+###
+Answers:
+(A) - \( \frac{8}{4} \) 
+
+(B) - \( \frac{2}{48} \) 
+
+(C) - \( \frac{2}{12} \) 
+
+(D) - \( \frac{2}{3} \) 
+
+###
+Misconceptions:
+(A) - When dividing a fraction by an integer, divides the numerator by the integer 
+
+(B) - When dividing a fraction by an integer, both multiplies the numerator and divides the numerator 
+
+(C) - When dividing a fraction by an integer, improperly simplifies without considering the integer 
+
+(D) - nan 
+
+###
+Subject: Dividing Fractions
+###
+ConstructName: Divide proper fractions in the form: Fraction ÷ Integer
+###
+CorrectAnswer: D

@@ -1,0 +1,32 @@
+###
+Question: \[
+5 + 2 \times 3 - 4
+\]
+Where do the brackets need to go to make the answer equal \( 15 \) ? 
+
+###
+Answers:
+(A) - \( 5 + (2 \times 3 - 4) \) 
+
+(B) - \( (5 + 2) \times 3 - 4 \) 
+
+(C) - \( 5 + 2 \times (3 - 4) \) 
+
+(D) - Does not need brackets 
+
+###
+Misconceptions:
+(A) - Confuses the multiplication with addition, underestimating the impact of brackets. 
+
+(B) - Assumes adding first will increase the overall value before multiplication. 
+
+(C) - Misunderstands how to apply the order of operations, incorrectly prioritizing subtraction before multiplication. 
+
+(D) - Confuses the order of operations, believes addition and multiplication are interchangeable without brackets. 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving powers
+###
+CorrectAnswer: B

@@ -1,0 +1,33 @@
+###
+Question: The area of this triangle is 
+\(
+24 \mathrm{~cm}^{2}
+\)
+What measurement should replace the question mark? ![A triangle with base as a question mark and height as 8cm.]() 
+
+###
+Answers:
+(A) - \( 6 \mathrm{~cm} \) 
+
+(B) - \( 4.5 \mathrm{~cm} \) 
+
+(C) - \( 8 \mathrm{~cm} \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Incorrectly divides the area by the height instead of using it in the correct formula for the area of a triangle 
+
+(B) - Miscalculates the necessary value for the area of a triangle using an incorrect formula 
+
+(C) - Thinks the height alone can be used as the base to calculate the area of the triangle 
+
+(D) - Does not remember the formula for the area of a triangle 
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Given the area of a triangle, calculate a missing dimension
+###
+CorrectAnswer: A

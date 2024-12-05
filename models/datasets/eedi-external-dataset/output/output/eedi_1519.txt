@@ -1,0 +1,32 @@
+```
+###
+Question: Aisha and Brian are analyzing a different sequence. The first term is represented by a single blue circle. The second term consists of the first term plus 2 additional blue circles. The third term consists of the second term but adds another 2 blue circles. Aisha claims that the number of blue circles in the \( 5^{\text {th }} \) term will be equal to the number of blue circles in the \( 2^{\text {nd }} \) term plus 6.
+
+Brian believes that the total number of circles in the \( 5^{\text {th }} \) term will be equal to three times the number of circles in the \( 1^{\text {st }} \) term.
+
+Who do you agree with? 
+###
+Answers:
+(A) - Only Aisha 
+
+(B) - Only Brian 
+
+(C) - Both Aisha and Brian 
+
+(D) - Neither is correct 
+###
+Misconceptions:
+(A) - Miscalculates the total increase because the pattern consists of adding a fixed number, but Aisha misjudges the increments. 
+
+(B) - Confuses the additive nature of the sequence with a multiplicative relationship, incorrectly multiplying rather than correctly adding the counts. 
+
+(C) - Incorrectly assumes both predictions are valid despite contradicting underlying rules of the sequence.
+
+(D) - May overlook the exact nature of the sequence but fails to recognize that neither Aisha nor Brian's statement aligns with the observable pattern. 
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Use a linear sequence expressed as a pattern to make a prediction about another term in the sequence other than the next one
+###
+CorrectAnswer: A
+```

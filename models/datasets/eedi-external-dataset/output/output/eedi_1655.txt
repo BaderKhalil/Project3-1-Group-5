@@ -1,0 +1,29 @@
+###
+Question: \( \sqrt[4]{81}= \) 
+
+###
+Answers:
+(A) - \( 3 \) 
+
+(B) - \( 2 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( 9 \) 
+
+###
+Misconceptions:
+(A) - Correctly calculates the fourth root 
+
+(B) - Incorrectly assumes the fourth root means taking half of the number 
+
+(C) - Misunderstands that the root operation increases the number instead of reducing it 
+
+(D) - Confuses the fourth root with simply multiplying the base number 
+
+###
+Subject: Square Roots, Cube Roots, etc
+###
+ConstructName: Calculate the fourth root of a number
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What is the value of \( 5^{3} \) ?
+
+###
+Answers:
+(A) - \( 125 \) 
+
+(B) - \( 15 \) 
+
+(C) - \( 25 \) 
+
+(D) - \( 5 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Mistakes exponentiation for addition (5 + 5 + 5) 
+
+(C) - Confuses exponentiation with squaring (5 squared) 
+
+(D) - Believes any power of a number remains the same as the base number 
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Calculate the cube of a number
+###
+CorrectAnswer: A

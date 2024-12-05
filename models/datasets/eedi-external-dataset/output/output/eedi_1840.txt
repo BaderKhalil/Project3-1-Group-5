@@ -1,0 +1,32 @@
+###
+Question: Which inequality symbol makes the following statement true?
+\(
+\frac{3}{8} ? \frac{5}{12}
+\)
+
+###
+Answers:
+(A) - \( > \)
+
+(B) - \( < \)
+
+(C) - \( = \)
+
+(D) - \( \approx \)
+
+###
+Misconceptions:
+(A) - Believes that larger numerators automatically mean larger fractions regardless of denominators 
+
+(B) - Correctly identifies the smaller fraction but miscalculates based on the denominators 
+
+(C) - Incorrectly thinks both fractions are equivalent without simplifying 
+
+(D) - Assumes fractions are close in value without proper comparison 
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Use inequality notation to order fractions whose denominators are not multiples of the same number 
+###
+CorrectAnswer: B

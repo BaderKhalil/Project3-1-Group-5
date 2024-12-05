@@ -1,0 +1,29 @@
+###
+Question: Which of the following expressions cannot be factored over the real numbers? 
+
+###
+Answers:
+(A) - \( x^2 - 9 \)
+
+(B) - \( x^2 + 4x + 4 \)
+
+(C) - \( x^2 + 1 \)
+
+(D) - \( x^2 - 5x + 6 \)
+
+###
+Misconceptions:
+(A) - Believes negative values under square roots can yield real results
+
+(B) - Understands that perfect squares can be factored but misses the context
+
+(C) - Correctly identifies that it cannot be factored due to the positive constant, but misunderstands the nature of roots 
+
+(D) - Believes all quadratic expressions can be factored regardless of their nature
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Factor quadratic expressions 
+###
+CorrectAnswer: C

@@ -1,0 +1,31 @@
+###
+Question: Which signs belong in the boxes to make the statement correct?
+
+\( 1.25 \)\[ {\color{blue}\square} \]\( 1.30 \)\[ {\color{orange}\square} \]\( 1.22 \) 
+
+###
+Answers:
+(A) - ![A blue box containing a "greater than" symbol and an orange box containing a "less than" symbol]() 
+
+(B) - ![A blue box containing a "less than" symbol and an orange box containing a "greater than" symbol]() 
+
+(C) - ![A blue box containing a "greater than" symbol and an orange box containing a "greater than" symbol]() 
+
+(D) - ![A blue box containing a "less than" symbol and an orange box containing a "less than" symbol]() 
+
+###
+Misconceptions:
+(A) - Confuses the order of decimals and uses incorrect inequality symbols. 
+
+(B) - Assumes that both decimals are less without comparing properly. 
+
+(C) - Incorrectly assumes that both decimals are greater than the third value. 
+
+(D) - Incorrectly asserts that both decimals are less than a smaller decimal when that is not the case. 
+
+###
+Subject: Ordering Decimals
+###
+ConstructName: Use inequality notation to order decimals with the same number of digits 
+###
+CorrectAnswer: A

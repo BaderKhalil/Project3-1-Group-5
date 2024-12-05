@@ -1,0 +1,29 @@
+###
+Question: What is the equation of this line? ![A graph showing a horizontal line going through a number on the y axis. The number is one box above -3, where there are 4 boxes between 0 and -3.]() 
+
+###
+Answers:
+(A) - \( y=-2 \) 
+
+(B) - \( x=3 \) 
+
+(C) - \( y=-1 \) 
+
+(D) - \( x=-1 \) 
+
+###
+Misconceptions:
+(A) - Confuses the point on the y-axis with the relationship of x at that point 
+
+(B) - Incorrectly assumes that horizontal lines can be represented by an x-coordinate 
+
+(C) - Misinterprets the position of the line with respect to the y-axis 
+
+(D) - Wraps up the line's equation incorrectly, mistaking x-coordinate related aspects 
+
+###
+Subject: Horizontal and Vertical Lines
+###
+ConstructName: Recognise the equations of horizontal lines from a diagram
+###
+CorrectAnswer: C

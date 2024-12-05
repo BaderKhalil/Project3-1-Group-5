@@ -1,0 +1,30 @@
+###
+Question: Identify what type of mathematical statement this represents:
+\(x^2 - 1 = (x - 1)(x + 1)\)
+
+###
+Answers:
+(A) - Identity 
+
+(B) - Inequality 
+
+(C) - Equation 
+
+(D) - Expression 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Mistakenly thinks the statement involves a comparison rather than equality 
+
+(C) - Confuses a specific type of equation with a more general expression 
+
+(D) - Has an incorrect belief about conditions necessary for a statement to qualify as an expression 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Recognise and name an identity
+###
+CorrectAnswer: A

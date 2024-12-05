@@ -1,0 +1,33 @@
+### 
+Question: \[
+2, 4, 8, 16, \ldots
+\]
+
+What is the name given to this sequence of numbers? 
+
+### 
+Answers:
+(A) - The prime numbers 
+
+(B) - The powers of two 
+
+(C) - The Fibonacci numbers 
+
+(D) - The composite numbers 
+
+### 
+Misconceptions:
+(A) - Confuses prime numbers with other types of numbers 
+
+(B) - nan 
+
+(C) - Mixes up the characteristics of Fibonacci numbers 
+
+(D) - Misunderstands that not all composite numbers follow a specific pattern 
+
+### 
+Subject: Other Sequences 
+### 
+ConstructName: Recognise powers of numbers 
+### 
+CorrectAnswer: B

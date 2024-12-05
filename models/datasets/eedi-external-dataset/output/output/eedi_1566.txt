@@ -1,0 +1,29 @@
+###
+Question: A rectangle has a length of \( l \) and a width of \( w \). If both the length and width are tripled, what will be the area of the enlarged rectangle? ![A rectangle]() 
+
+###
+Answers:
+(A) - \( 3lw \)
+
+(B) - \( 9lw \)
+
+(C) - \( 6lw \)
+
+(D) - \( lw + 3 \)
+
+###
+Misconceptions:
+(A) - Confuses area scaling with linear scaling, assuming only length is considered 
+
+(B) - Correct approach but miscalculates the scaling factor for area 
+
+(C) - Misunderstands the relationship between dimensions and area 
+
+(D) - Thinks area is additive rather than multiplicative when dimensions are increased 
+
+###
+Subject: Area Scale Factors in Similar Shapes
+###
+ConstructName: Solve area problems involving similar shapes where the dimensions are increased
+###
+CorrectAnswer: B

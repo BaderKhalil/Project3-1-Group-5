@@ -1,0 +1,29 @@
+###
+Question: If the pattern of circles is decreasing and follows the sequence shown in the image: the first pattern has 6 circles, the second has 4 circles, and the third has 2 circles, how many circles will the next pattern have? ![A diagram showing the first 3 patterns in a sequences. Pattern 1 contains 6 circles, pattern 2 contains 4 circles and pattern 3 contains 2 circles.]() 
+
+###
+Answers:
+(A) - \( 1 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 0 \) 
+
+(D) - \( 2 \) 
+
+###
+Misconceptions:
+(A) - Fails to correctly identify the consistent decrease in the number of circles 
+
+(B) - Misunderstands the pattern's direction and increases instead of continuing the decrease 
+
+(C) - Does not recognize the logical conclusion of the pattern resulting in zero circles 
+
+(D) - Mistakenly assumes the current pattern is being repeated rather than continued 
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Continue linear sequences expressed as patterns by drawing the next pattern
+###
+CorrectAnswer: A

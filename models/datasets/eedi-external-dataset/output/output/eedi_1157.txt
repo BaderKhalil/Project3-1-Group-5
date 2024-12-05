@@ -1,0 +1,29 @@
+###
+Question: ![A triangle with vertices labelled A, B, and C. The side AB is labelled x + 2, the side BC is labelled 4x - 6, and the side CA is labelled 2x + 1.]() Which of the following statements is incorrect? 
+
+###
+Answers:
+(A) - The perimeter \( = 7x - 3 \) 
+
+(B) - The area can be calculated using Heron's formula. 
+
+(C) - For triangle inequality, \( (x + 2) + (2x + 1) > (4x - 6) \) 
+
+(D) - \( 4x - 6 < (x + 2) + (2x + 1) \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the sum of the sides when finding perimeter. 
+
+(B) - Underestimates the requirements for applying Heron's formula. 
+
+(C) - Incorrectly applies the triangle inequality theorem. 
+
+(D) - Confuses the properties of triangle inequality with other inequalities. 
+
+###
+Subject: Expanding Single Brackets
+###
+ConstructName: Multiply a single term over a bracket where the term on the outside contains a letter and the inside contains a linear expression
+###
+CorrectAnswer: A

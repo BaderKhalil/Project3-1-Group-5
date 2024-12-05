@@ -1,0 +1,29 @@
+###
+Question: These bar graphs show the sales of two different products in two different stores over a month. The sales totals for the products are given. In which store did more products sell overall? ![A diagram showing two bar graphs with sales figures for stores A and B.]() 
+
+###
+Answers:
+(A) - Store A 
+
+(B) - Store B 
+
+(C) - Both stores sold the same amount 
+
+(D) - Cannot determine from the information 
+
+###
+Misconceptions:
+(A) - Assumes that the size of the bars alone accurately reflects total sales without considering the scale and total quantities. 
+
+(B) - Fails to recognize the importance of checking the bar heights and their corresponding values accurately. 
+
+(C) - Incorrectly thinks that both stores have identical sales without comparing their specific numbers. 
+
+(D) - Overlooks the fact that enough information is provided in the graphs to make a determination. 
+
+###
+Subject: Bar Graph
+###
+ConstructName: Compare two bar graphs
+###
+CorrectAnswer: B

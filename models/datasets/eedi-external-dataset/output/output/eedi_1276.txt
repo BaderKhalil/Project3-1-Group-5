@@ -1,0 +1,29 @@
+###
+Question: Which of the properties for a triangle cannot coexist?
+
+###
+Answers:
+(A) - An equilateral triangle with \( 3 \) lines of symmetry and \( 3 \) angles of \( 60^\circ \)
+
+(B) - An isosceles triangle with \( 1 \) line of symmetry and \( 2 \) equal sides
+
+(C) - A scalene triangle with \( 3 \) lines of symmetry and all angles different
+
+(D) - A right triangle with \( 1 \) line of symmetry and \( 1 \) angle of \( 90^\circ \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - nan
+
+(C) - Believes that a scalene triangle can have any number of lines of symmetry despite definition
+
+(D) - nan
+
+###
+Subject: Properties of Triangles
+###
+ConstructName: Identify or mark lines of symmetry on a triangle
+###
+CorrectAnswer: C

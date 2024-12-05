@@ -1,0 +1,29 @@
+###
+Question: Which of the following angles is formed at vertex D in triangle ABC? ![An image of triangle ABC with point D on side AC. The angle highlighted is at vertex D.]() 
+
+###
+Answers:
+(A) - \( \angle ADB \)
+
+(B) - \( \angle DBC \)
+
+(C) - \( \angle BDA \)
+
+(D) - \( \angle ADC \)
+
+###
+Misconceptions:
+(A) - Uses the correct format but identifies the wrong vertex for the angle.
+
+(B) - Gives an angle notation that includes vertex D in a non-central position.
+
+(C) - Uses the correct format, but does not include vertex D properly in the angle formation.
+
+(D) - nan 
+
+###
+Subject: Types, Naming and Estimating
+###
+ConstructName: Label angles using correct 3-letter notation (e.g. angle ADB)
+###
+CorrectAnswer: D

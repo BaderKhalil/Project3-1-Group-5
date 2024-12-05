@@ -1,0 +1,29 @@
+###
+Question: Simplify the following if possible: \( \frac{12 + 8n}{4} \)
+
+###
+Answers:
+(A) - \( 3 + 2n \)
+
+(B) - \( 4 + 2n \)
+
+(C) - \( 3 + 8n \)
+
+(D) - None of the options
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Incorrectly adds the result of dividing each term in the numerator by the denominator rather than simplifying the fraction as a whole
+
+(C) - Misunderstands how division applies to the terms in the numerator, mistakenly not dividing correctly
+
+(D) - Does not know how to simplify algebraic fractions 
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising the numerator
+###
+CorrectAnswer: A

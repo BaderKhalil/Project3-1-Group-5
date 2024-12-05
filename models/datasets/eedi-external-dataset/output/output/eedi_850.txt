@@ -1,0 +1,29 @@
+###
+Question: Sarah and Tim are looking at the function \( \boldsymbol{y}=\boldsymbol{3x+5} \) and are discussing possible values for \( y \) when \( x = 0 \). Sarah claims that \( y \) could be \( 5 \). Tim believes \( y \) could be \( 15 \). Who is correct?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Tim 
+
+(C) - Both Sarah and Tim 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Sarah correctly calculates \( y \) but may assume the function represents something else.
+
+(B) - Tim misapplies the formula and gets a value above what is possible for the given \( x \).
+
+(C) - Both incorrectly assume other possible values without validating with the equation.
+
+(D) - The suggestion that both are wrong reflects a misunderstanding of the linear function's output.
+
+###
+Subject: Evaluating Linear Functions
+###
+ConstructName: Evaluating a linear equation
+###
+CorrectAnswer: A

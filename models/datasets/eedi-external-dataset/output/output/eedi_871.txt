@@ -1,0 +1,29 @@
+###
+Question: Jenny, Mark, and Lisa are trying to determine the area of a garden that is shaped like a T. Who found the correct area? ![A T-shaped figure where the width at the top is 8m, the height of the vertical part is 12m, and the width of the vertical part at the bottom is 4m.]() 
+
+###
+Answers:
+(A) - Jenny: \( 8 \times 4 + 4 \times 12 \)
+
+(B) - Mark: \( 8 \times 12 - 4 \times 8 \)
+
+(C) - Lisa: \( 8 \times 12 + 4 \times 4 \)
+
+(D) - They are all correct 
+
+###
+Misconceptions:
+(A) - Misidentifies the dimensions when adding the areas of different sections.
+
+(B) - Misunderstands how to apply the area formulas correctly for composite shapes and subtracts incorrectly.
+
+(C) - Confuses the area calculation by incorrectly adding dimensions for a composite area rather than correctly applying it.
+
+(D) - Believes that all calculations must yield correct results when they do not.
+
+###
+Subject: Compound Area
+###
+ConstructName: Calculate compound area involving just rectangles and squares, where the dimensions are given in the same units
+###
+CorrectAnswer: A

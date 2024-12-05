@@ -1,0 +1,32 @@
+###
+Question: What is the first step in simplifying the expression?
+\(
+(3 + (4 \times 2) - (6 \div 3))
+\) 
+
+###
+Answers:
+(A) - \( 3 + 4 \)
+
+(B) - \( 4 \times 2 \)
+
+(C) - \( 6 \div 3 \)
+
+(D) - \( 3 - 6 \)
+
+###
+Misconceptions:
+(A) - Ignores the multiplication that should be completed first according to BIDMAS rules 
+
+(B) - nan 
+
+(C) - nan 
+
+(D) - Subtracts directly without considering the terms that need to be simplified first 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Answer decimal problems that require the use of BIDMAS
+###
+CorrectAnswer: B

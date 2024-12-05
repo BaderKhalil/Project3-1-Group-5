@@ -1,0 +1,29 @@
+###
+Question: What is the slope of the line that passes through the points (1, 2) and (3, 6)? 
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( 1 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands that the slope is calculated as rise over run and assumes incorrect values for the changes in y and x 
+
+(B) - Correctly calculates change in y but believes change in x is larger than it is 
+
+(C) - Overestimates the slope by miscalculating the rise over run 
+
+(D) - Thinks the change in y and x are equal, leading to an incorrect slope of 1 
+
+###
+Subject: Gradient as change in y over change in x
+###
+ConstructName: Given two points, calculate the slope where the slope is a positive integer
+###
+CorrectAnswer: B

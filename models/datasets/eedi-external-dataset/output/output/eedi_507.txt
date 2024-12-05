@@ -1,0 +1,33 @@
+###
+Question: If \( x \) and \( y \) are real numbers, does the identity 
+\[
+x \cdot \frac{1}{y} = \frac{x}{y}
+\]
+hold true?
+
+###
+Answers:
+(A) - always true 
+
+(B) - never true 
+
+(C) - sometimes true 
+
+(D) - need more information 
+
+###
+Misconceptions:
+(A) - Fails to recognize that multiplication by the reciprocal is equivalent to division.
+
+(B) - Misunderstands the definition of division and multiplication by non-zero numbers. 
+
+(C) - Does not grasp that the identity holds universally for all real numbers, as long as \( y \neq 0 \).
+
+(D) - Does not understand that the identity is consistent as long as \( y \) is not zero.
+
+###
+Subject: BIDMAS
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Alice and Bob are discussing quadratic sequences. Alice claims this is a quadratic sequence: ![A sequence of numbers: 1, 4, 9, 16, 25](). Bob argues that this is a quadratic sequence: ![A sequence of numbers: 2, 3, 5, 8, 12](). Who is correct?
+
+###
+Answers:
+(A) - Only Alice 
+
+(B) - Only Bob 
+
+(C) - Both Alice and Bob 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Underestimates the properties of a quadratic sequence which are related to the second differences being constant 
+
+(B) - Fails to recognize that a quadratic sequence must show a constant second difference 
+
+(C) - nan 
+
+(D) - Misunderstands the definition of a quadratic sequence and the patterns it should exhibit 
+
+###
+Subject: Quadratic Sequences (nth term)
+###
+ConstructName: Recognise that a sequence is quadratic when expressed as a series of numbers
+###
+CorrectAnswer: A

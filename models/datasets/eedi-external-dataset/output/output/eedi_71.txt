@@ -1,0 +1,32 @@
+###
+Question: ![A line graph with title "Temperature over the Day". 
+The x-axis is titled "Time in Hours" and the scale is labelled from 0 to 24 hours in steps of 6 hours.
+The y-axis is titled "Temperature in °C" and the scale is labelled from -10 to 40 in steps of 10 degrees. The following points are plotted and joined together: (0, 5), (6, 10), (12, 20), (18, 15), (24, 7).
+]() What was the change in temperature from \( 6 \) hours to \( 18 \) hours? 
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 15 \) 
+
+(C) - \( 10 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Calculates using the incorrect starting point for the difference. 
+
+(B) - Calculates the total change across all hours rather than just between two specific points. 
+
+(C) - Misunderstands the direction of change, wrongly interpreting the temperature decrease as increase. 
+
+(D) - Incorrectly assesses the temperature at one point instead of considering both specified times. 
+
+###
+Subject: Time Series and Line Graphs
+###
+ConstructName: Interpret continuous data using a line graph
+###
+CorrectAnswer: D

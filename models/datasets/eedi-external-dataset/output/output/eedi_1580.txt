@@ -1,0 +1,33 @@
+###
+Question: Maria is measuring the temperature of water over time as it heats up on a stove.
+
+At \( 5 \) minutes, the water temperature is \( 60 \) degrees Celsius.
+
+Where on the graph should Maria plot this point?
+
+###
+Answers:
+(A) - ![A graph with time (minutes) on the horizontal axis and temperature (°C) on the vertical axis. A is plotted above 5 on the horizontal axis and right of 60 on the vertical axis.]() 
+
+(B) - ![A graph with time (minutes) on the horizontal axis and temperature (°C) on the vertical axis. B is plotted above 60 on the horizontal axis and right of 5 on the vertical axis.]() 
+
+(C) - ![A graph with time (minutes) on the horizontal axis and temperature (°C) on the vertical axis. C is plotted below 60 on the horizontal axis and right of -5 on the vertical axis.]() 
+
+(D) - ![A graph with time (minutes) on the horizontal axis and temperature (°C) on the vertical axis. D is plotted below 5 on the horizontal axis and left of 60 on the vertical axis.]() 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - When reading value from graph, reads from the wrong axes. 
+
+(C) - When reading value from graph, misinterprets direction of values on axes. 
+
+(D) - Confuses the positioning of points, not understanding that both time and temperature should be positive. 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Given a situation sketch an appropriate real life graph
+###
+CorrectAnswer: A

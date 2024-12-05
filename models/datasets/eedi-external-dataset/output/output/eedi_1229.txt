@@ -1,0 +1,32 @@
+###
+Question: What is the result of 
+\(
+(3 + 5)^{2}
+\) when calculated? ![A scientific calculator]() 
+
+###
+Answers:
+(A) - \( 8 \)
+
+(B) - \( 16 \)
+
+(C) - \( 64 \)
+
+(D) - \( 18 \)
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the result of the addition is the final answer without applying the square.
+
+(B) - Correctly squares the sum, but miscalculates \( 8^2 \).
+
+(C) - Incorrectly squares \( 5 \) instead of the result of the sum.
+
+(D) - Fails to properly calculate the expression by not applying the power correctly.
+
+###
+Subject: Basic Calculator Use
+###
+ConstructName: Use the order of operations to carry out calculations involving powers
+###
+CorrectAnswer: B

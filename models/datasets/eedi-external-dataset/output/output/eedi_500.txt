@@ -1,0 +1,33 @@
+###
+Question: What is the next term in the sequence?
+
+\[
+15, 10, 5, \ldots
+\] 
+
+###
+Answers:
+(A) - The next term is \( 0 \)
+
+(B) - The next term is \( 10 \)
+
+(C) - The next term is \( 5 \)
+
+(D) - The next term is \( -5 \)
+
+###
+Misconceptions:
+(A) - Confuses the repeated application of decreasing by 5 with always subtracting an extra 5. 
+
+(B) - Misinterprets the pattern as not changing when it actually is decreasing.
+
+(C) - Incorrectly assumes that the previous term remains the next term.
+
+(D) - Sees the linear pattern but goes too far in the direction of subtraction.
+
+###
+Subject: Sequences-Others
+###
+ConstructName: Identify the next term in a descending sequence
+###
+CorrectAnswer: A

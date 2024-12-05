@@ -1,0 +1,32 @@
+###
+Question: The three vertices of a triangle are given as:
+\((1, 2), (4, 6), (1, 6)\).
+
+What are the coordinates of the fourth vertex if the triangle is to be completed as a rectangle?
+
+###
+Answers:
+(A) - \( (4, 2) \)
+
+(B) - \( (1, 8) \)
+
+(C) - \( (4, 1) \)
+
+(D) - \( (5, 6) \)
+
+###
+Misconceptions:
+(A) - Does not understand the relationship between the triangle and the required rectangle.
+
+(B) - Thinks vertices can be arbitrarily chosen without maintaining the rectangle’s properties.
+
+(C) - Miscalculates the y-coordinate based on the existing points.
+
+(D) - Assumes any next point will complete the rectangle without considering the distances.
+
+###
+Subject: Naming Co-ordinates in 2D
+###
+ConstructName: Can calculate missing coordinates in a geometric shape
+###
+CorrectAnswer: A

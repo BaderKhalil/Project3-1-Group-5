@@ -1,0 +1,31 @@
+###
+Question: Sarah is simplifying the expression from multiplying two brackets.
+
+What should she get when she multiplies the two terms highlighted with arrows? ![The brackets shown are (y-5)(y-3). The arrows are pointing at the -5 in the first bracket and the -3 in the second bracket.]() 
+
+###
+Answers:
+(A) - \( +15 \)
+
+(B) - \( -8 \)
+
+(C) - \( +8 \)
+
+(D) - \( -15 \)
+
+###
+Misconceptions:
+(A) - Believes multiplying two negatives gives a positive answer 
+
+(B) - Adds instead of multiplying when expanding brackets 
+
+(C) - Thinks the multiplication of a negative and a positive gives a positive result 
+
+(D) - nan 
+
+###
+Subject: Expanding Double Brackets
+###
+ConstructName: Carry out multiplication problems involving one negative integer
+###
+CorrectAnswer: A

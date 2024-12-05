@@ -1,0 +1,32 @@
+###
+        Question: Which of the following lines is perpendicular to
+\[
+y=-\frac{3}{2} x + 4 \text{ ? }
+\] 
+
+        ###
+        Answers:
+        (A) - \( y=\frac{2}{3} x - 1 \) 
+
+        (B) - \( y=-\frac{3}{2} x + 1 \) 
+
+        (C) - \( x=3 y + 2 \) 
+
+        (D) - \( y=-\frac{2}{3} x + 5 \) 
+
+        ###
+        Misconceptions:
+        (A) - nan 
+
+        (B) - Confuses the meaning of parallel and perpendicular 
+
+        (C) - Believes switching the x and y variables in a linear equation gives a perpendicular line 
+
+        (D) - Believes the gradients of perpendicular lines are equal in magnitude but have negative signs 
+
+        ###
+        Subject: Perpendicular Lines
+        ###
+        ConstructName: Identify perpendicular lines written in the form y = mx + c
+        ###
+        CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What is the area of the shaded section of this composite shape made from rectangles? ![A composite shape made from two rectangles that form a "T" shape. The bottom rectangle has a width of 10cm and a height of 4cm. The vertical top rectangle has a width of 6cm and a height of 10cm. The top rectangle is shaded blue.]() 
+
+###
+Answers:
+(A) - \( 40 \mathrm{~cm}^{2} \) 
+
+(B) - \( 56 \mathrm{~cm}^{2} \) 
+
+(C) - \( 34 \mathrm{~cm}^{2} \) 
+
+(D) - \( 30 \mathrm{~cm}^{2} \) 
+
+###
+Misconceptions:
+(A) - Calculates the area of one rectangle but fails to account for the overlapping sections, giving an incomplete area   
+
+(B) - Incorrectly adds the areas of both rectangles instead of finding the area of the shaded section alone 
+
+(C) - nan 
+
+(D) - Confuses area with volume, applying the formula incorrectly to yield an inappropriate value 
+
+###
+Subject: Compound Area
+###
+ConstructName: Calculate compound area involving just rectangles and squares, where the dimensions are given in the same units
+###
+CorrectAnswer: B

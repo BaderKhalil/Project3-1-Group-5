@@ -1,0 +1,29 @@
+###
+Question: \( 0.6 \times 4 = \)
+
+###
+Answers:
+(A) - \( 2.4 \)
+
+(B) - \( 0.24 \)
+
+(C) - \( 0.64 \)
+
+(D) - \( 2.0 \)
+
+###
+Misconceptions:
+(A) - Multiplies incorrectly by not accounting for the decimal place in the final answer
+
+(B) - Assumes the result of the multiplication should be a smaller decimal, leading to incorrect placement
+
+(C) - Incorrectly adds the digits instead of multiplying, leading to a result that doesn’t reflect the operation
+
+(D) - Treats the problem as if multiplying whole numbers, forgetting to adjust for the decimal
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Multiply a decimal by an integer
+###
+CorrectAnswer: A

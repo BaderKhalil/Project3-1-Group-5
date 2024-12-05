@@ -1,0 +1,30 @@
+###
+Question: Which operations should be performed in the boxes to make the equation correct?
+\( 15 \)\[ {\color{blue}\square} \]\( 5 \)\[ {\color{orange}\square} \]\( 3 \) 
+
+###
+Answers:
+(A) + and = 
+
+(B) - and = 
+
+(C) x and = 
+
+(D) / and = 
+
+###
+Misconceptions:
+(A) - Believes addition will equate to 3 
+
+(B) - Incorrectly assumes subtraction will produce 3 
+
+(C) - Misunderstands that multiplication cannot yield 3 
+
+(D) - Assumes division will output a whole number but doesn't produce the expected result 
+
+###
+Subject: Operations and Algebraic Thinking
+###
+ConstructName: Understand operations and their relationships
+###
+CorrectAnswer: D

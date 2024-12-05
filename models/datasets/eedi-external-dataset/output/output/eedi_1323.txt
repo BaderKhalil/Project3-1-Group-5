@@ -1,0 +1,32 @@
+###
+Question: Which of the following term-to-term rule describes this sequence?
+\[
+3, \quad 9, \quad 27, \quad 81 \ldots
+\] 
+
+###
+Answers:
+(A) - To get the next term you add \( 6 \) to the previous term 
+
+(B) - To get the next term you add the previous term to itself 
+
+(C) - To get the next term you multiply the previous term by \( 2 \) 
+
+(D) - To get the next term you multiply the previous term by \( 3 \) 
+
+###
+Misconceptions:
+(A) - Assumes a constant difference between terms instead of recognizing the multiplicative pattern 
+
+(B) - Mistakes the rule as a simple addition rather than a multiplication 
+
+(C) - Incorrectly applies a doubling rule, not realizing the correct multiplier is greater than \( 2 \) 
+
+(D) - nan 
+
+###
+Subject: Other Sequences
+###
+ConstructName: Describe a term-to-term sequence
+###
+CorrectAnswer: D

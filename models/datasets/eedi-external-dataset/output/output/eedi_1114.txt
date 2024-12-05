@@ -1,0 +1,29 @@
+###
+Question: Sarah is calculating the gradient of a line segment connecting the points (3, 4) and (9, 8). She determines the lengths of the sides of the triangle formed by these points. What is the gradient of the line? ![A coordinate grid with a right-angled triangle drawn on it. The hypotenuse runs between the coordinates (3,4) and (9,8). The base of the triangle measures 6 and the height measures 4.]() 
+
+###
+Answers:
+(A) - \( \frac{2}{3} \) 
+
+(B) - \( 4 \) 
+
+(C) - \( \frac{1}{2} \) 
+
+(D) - \( 12 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the gradient as simply the y-coordinate of one point 
+
+(C) - Seems to think gradient = change in y/change in x with incorrect values 
+
+(D) - Miscalculates gradient as a product of the lengths of the sides 
+
+###
+Subject: Gradient Between Two Co-ordinates
+###
+ConstructName: Calculate a positive fractional gradient between two coordinates where all values are positive
+###
+CorrectAnswer: A

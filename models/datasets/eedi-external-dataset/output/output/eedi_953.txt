@@ -1,0 +1,30 @@
+###
+ Question: \begin{tabular}{lclclclc|c|} \hline \(\bigstar\) & \( \;\) & 864 & \( \;\) &  \( \;\)\end{tabular} A descending linear sequence has a constant difference of \( 18 \) and the \( 2^{\text {nd }} \) term is \( 864 \).
+What should replace the star? 
+
+ ###
+ Answers:
+ (A) - \( 846 \) 
+
+ (B) - \( 882 \) 
+
+ (C) - \( 876 \) 
+
+ (D) - \( 826 \) 
+
+ ###
+ Misconceptions:
+ (A) - Thinks that the second term is the same as the first term subtracting the difference 
+
+ (B) - Thinks you need to add the difference instead of subtracting it for a descending sequence 
+
+ (C) - Confuses the order of terms in the sequence 
+
+ (D) - When finding the previous term in a descending linear sequence, incorrectly reduces the difference 
+
+ ###
+ Subject: Linear Sequences (nth term)
+ ###
+ ConstructName: Write a missing term of a descending integer linear sequence
+ ###
+ CorrectAnswer: A

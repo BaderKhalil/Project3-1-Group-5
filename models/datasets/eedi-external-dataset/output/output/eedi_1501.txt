@@ -1,0 +1,29 @@
+###
+Question: Simplify the following expression, if possible: \( \frac{x^2 - 9}{x - 3} \)
+
+###
+Answers:
+(A) - \( x + 3 \) 
+
+(B) - \( x - 3 \) 
+
+(C) - \( x^2 + 3 \) 
+
+(D) - Does not simplify 
+
+###
+Misconceptions:
+(A) - Believes that the expression can be simplified correctly by factoring without recognizing the removable discontinuity.
+
+(B) - Thinks that simply canceling out terms results in \((x - 3)\), neglecting the structure of the original fraction.
+
+(C) - Incorrectly assumes that the expression remains quadratic after simplification.
+
+(D) - nan 
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising both the numerator and denominator
+###
+CorrectAnswer: A

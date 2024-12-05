@@ -1,0 +1,31 @@
+###
+Question: The chart shows the rain levels in Sarah's backyard over a \( 24 \) hour period.
+
+During which \( 4 \) hour period did the rain level increase the most? ![A graph showing the rain levels in Sarah's backyard over a 24 hours period. At 00:00 the rain level is 0 mm, at 04:00 it is 5 mm, at 08:00 it is 10 mm, at 12:00 it is 20 mm, at 16:00 it is 25 mm, at 20:00 it is 30 mm and at 00:00 it is 35 mm.]() 
+
+###
+Answers:
+(A) - \( \begin{array}{c}00: 00 \text { to } \\ 04: 00\end{array} \) 
+
+(B) - \( \begin{array}{c}08: 00 \text { to } \\ 12: 00\end{array} \) 
+
+(C) - \( \begin{array}{c}12: 00 \text { to } \\ 16: 00\end{array} \) 
+
+(D) - \( \begin{aligned} 16 & : 00 \text { to } \\ 20 & : 00\end{aligned} \) 
+
+###
+Misconceptions:
+(A) - Believes that a lower starting point indicates a greater increase 
+
+(B) - Misunderstands how to interpret the scale of the increase in levels 
+
+(C) - Believes that the rain level did not change much during this time 
+
+(D) - Thinks that increase means less than the previous level instead of more 
+
+###
+Subject: Time Series and Line Graphs
+###
+ConstructName: Interpret continuous data using a line graph
+###
+CorrectAnswer: C

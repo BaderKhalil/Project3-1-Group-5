@@ -1,0 +1,29 @@
+###
+Question: \( (-6) + (-2) = \) 
+
+###
+Answers:
+(A) - \( -4 \) 
+
+(B) - \( 8 \) 
+
+(C) - \( 12 \) 
+
+(D) - \( -8 \) 
+
+###
+Misconceptions:
+(A) - Believes that adding two negative numbers results in a less negative (or more positive) number 
+
+(B) - Believes that adding negative numbers creates a positive result 
+
+(C) - Believes that the sum of two negative numbers can exceed their absolute values 
+
+(D) - nan 
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Carry out addition problems involving two negative integers 
+###
+CorrectAnswer: D

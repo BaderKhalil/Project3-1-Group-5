@@ -1,0 +1,29 @@
+###
+Question: \( 1 \) mile \( \approx 1.6 \) km \( 50 \) km \( \approx \square \) miles 
+
+###
+Answers:
+(A) - \( 25 \) 
+
+(B) - \( 31 \) 
+
+(C) - \( 35 \) 
+
+(D) - \( 20 \) 
+
+###
+Misconceptions:
+(A) - Divided \( 50 \) by the wrong scale factor 
+
+(B) - Approximated incorrectly by assuming a direct linear relation 
+
+(C) - n/a 
+
+(D) - Underestimated due to incorrect division 
+
+###
+Subject: Length Units
+###
+ConstructName: Convert from kilometers to miles
+###
+CorrectAnswer: B

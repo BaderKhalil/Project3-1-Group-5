@@ -1,0 +1,26 @@
+###
+Question: A farmer has \( 50 \) apples. He gives away \( 18 \) apples to his neighbors. How many apples does he have left? 
+
+###
+Answers:
+(A) - \( 32 \) 
+
+(B) - \( 68 \) 
+
+(C) - \( 18 \) 
+
+(D) - \( 50 \) 
+
+###
+Misconceptions:
+(A) - Correctly subtracts the apples given away but miscalculates the result. 
+(B) - Adds the apples given away instead of subtracting them from the total.
+(C) - Misunderstands the problem as asking for the number of apples given away instead of remaining.
+(D) - Fails to account for the apples given away and believes the total remains unchanged.
+
+###
+Subject: Combining Operations
+###
+ConstructName: Solve problems that combine addition and subtraction
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Tom is trying to find the area of a parallelogram using the formula: Area \( = b \times h \) ![A parallelogram with the base labelled 8cm and the height labelled 4cm.]() What is the value of \( h \) ?
+
+###
+Answers:
+(A) - \( 8 \mathrm{~cm} \) 
+
+(B) - \( 4 \mathrm{~cm} \) 
+
+(C) - \( 2 \mathrm{~cm} \) 
+
+(D) - \( 10 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - Confuses the height with the base of the parallelogram 
+
+(B) - nan 
+
+(C) - Misinterprets the dimensions and calculates incorrectly by halving the height 
+
+(D) - Incorrectly assumes height is always greater than or equal to the base 
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Calculate the area of a parallelogram where the dimensions are given in the same units
+###
+CorrectAnswer: B

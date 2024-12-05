@@ -1,0 +1,29 @@
+### 
+Question: Sandra wants to calculate \( 45.6 + 7.4 \) mentally using a strategy similar to Dora's. Which of the following shows how she could perform this calculation? 
+
+### 
+Answers:
+(A) - \( \begin{array}{c}45+7=52 \\ 0.6+0.4=1.0 \\ 52+1.0=53.0\end{array} \) 
+
+(B) - \( \begin{array}{c}45.6+7=52.6 \\ 52.6+0.4=53.0\end{array} \) 
+
+(C) - \( \begin{array}{c}45+7=52 \\ 0.6+0.4=0.10 \\ 52+0.10=52.10\end{array} \) 
+
+(D) - \( \begin{array}{c}45+7=52 \\ 0.6+0.4=1.0 \\ 52+1.0=53.0\end{array} \) 
+
+### 
+Misconceptions:
+(A) - Ignores the need to correctly combine the whole number and decimal parts through proper addition 
+
+(B) - Does not maintain proper place value when calculating mental sums 
+
+(C) - Miscalculates the sum of decimal parts by misinterpreting their values 
+
+(D) - nan 
+
+### 
+Subject: Adding and Subtracting with Decimals 
+### 
+ConstructName: Recognise and use efficient strategies for mental addition 
+### 
+CorrectAnswer: D

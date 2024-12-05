@@ -1,0 +1,29 @@
+###
+Question: Convert \( 4 \frac{2}{3} \) to an improper fraction.
+
+###
+Answers:
+(A) - \( \frac{14}{3} \)
+
+(B) - \( \frac{10}{3} \)
+
+(C) - \( \frac{12}{3} \)
+
+(D) - \( \frac{17}{3} \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Adds only the numerator instead of calculating the total value 
+
+(C) - Forgets to multiply the whole number by the denominator when converting from a mixed number to an improper fraction 
+
+(D) - Incorrectly sums the whole number and numerator without proper multiplication 
+
+###
+Subject: Converting Mixed Number and Improper Fractions
+###
+ConstructName: Convert from mixed number fractions to improper fractions
+###
+CorrectAnswer: A

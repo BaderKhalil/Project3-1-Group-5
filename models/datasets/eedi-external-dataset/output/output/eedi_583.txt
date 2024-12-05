@@ -1,0 +1,29 @@
+###
+Question: \( 3.5 kg \) is the same as ___ \( g \)
+
+###
+Answers:
+(A) - \( 3500 \)
+
+(B) - \( 350 \)
+
+(C) - \( 30.5 \)
+
+(D) - \( 30000 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Thinks there are 100 \( g \) in a \( kg \)
+
+(C) - Thinks it is a direct unit conversion based on grams rather than kilograms
+
+(D) - Thinks there are 10000 grams in a kilogram
+
+###
+Subject: Weight Units
+###
+ConstructName: Convert between kg and g
+###
+CorrectAnswer: A

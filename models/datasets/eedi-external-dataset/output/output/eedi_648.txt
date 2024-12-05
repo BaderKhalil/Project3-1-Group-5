@@ -1,0 +1,32 @@
+###
+Question: Expand and simplify:
+\(
+(5x + 3)^{2}
+\)
+
+###
+Answers:
+(A) - \( 25x^{2} + 18 \) 
+
+(B) - \( 25x^{2} + 30x + 9 \) 
+
+(C) - \( 25x^{2} + 30x + 9 \) 
+
+(D) - \( (5x + 3)(5x + 3) \) 
+
+###
+Misconceptions:
+(A) - Believes they only need to multiply the first term and the last term when expanding double brackets 
+
+(B) - nan 
+
+(C) - nan 
+
+(D) - Believes expanding a squared expression means writing it as a set of double brackets 
+
+###
+Subject: Expanding Double Brackets
+###
+ConstructName: Expand two brackets with linear terms in the form (ax + b)²
+###
+CorrectAnswer: B

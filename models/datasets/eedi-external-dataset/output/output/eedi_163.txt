@@ -1,0 +1,29 @@
+###
+Question: When factorising \( x^{2}-4x-5 \) we need two numbers that: 
+
+###
+Answers:
+(A) - Add to give \( -4 \) and multiply to give \( -5 \) 
+
+(B) - Add to give \( -4x \) and multiply to give \( -5 \) 
+
+(C) - Add to give \( -5 \) and multiply to give \( -4 \) 
+
+(D) - Add to give \( -5x \) and multiply to give \( -4 \) 
+
+###
+Misconceptions:
+(A) - Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term 
+
+(B) - Does not understand that the addition is about the constant term and not the form of the variable 
+
+(C) - Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term 
+
+(D) - Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term 
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form x² + bx + c
+###
+CorrectAnswer: A

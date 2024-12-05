@@ -1,0 +1,29 @@
+###
+Question: What is the solution set for the inequality represented by this graph? ![Graph showing the shaded area above a horizontal line that passes through the point (1, 2) and continues horizontally]() 
+
+###
+Answers:
+(A) - \( y \geq 2 \) 
+
+(B) - \( y < 2 \) 
+
+(C) - \( y > 2 \) 
+
+(D) - \( y \leq 2 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly interprets the inequality as including the line when it should include it only if it were a solid line. 
+
+(B) - Confuses the shaded area being above the line, leading to the wrong interpretation of the inequality. 
+
+(C) - Errors in understanding that the shaded region above the line indicates ‘greater than’, not ‘strictly greater than’. 
+
+(D) - Misinterpretation of the inequality, thinks the shaded area includes points below the line. 
+
+###
+Subject: Graphing Linear Inequalities (Shading Regions)
+###
+ConstructName: Describe the solution to a graphical inequality involving a horizontal line
+###
+CorrectAnswer: A

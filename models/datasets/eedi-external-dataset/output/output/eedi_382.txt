@@ -1,0 +1,38 @@
+###
+Question: Maria is attempting to simplify the expression on the right.
+Here are her steps.
+
+Which steps, if any, are correct? ![\[
+2(3 + x) = 12
+\]
+
+Step \( 1 \quad 6 + x = 12 \)
+
+Step \( 2 \quad x = 6 \]]() 
+
+###
+Answers:
+(A) - Only step \( 1 \) 
+
+(B) - Only step \( 2 \) 
+
+(C) - Both steps are correct 
+
+(D) - Both steps are incorrect 
+
+###
+Misconceptions:
+(A) - Believes that distributive property is not needed before combining terms 
+
+(B) - nan 
+
+(C) - nan 
+
+(D) - Thinks that both steps should result in a different simplification 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: C

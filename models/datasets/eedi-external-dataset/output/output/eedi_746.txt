@@ -1,0 +1,29 @@
+### 
+Question: \( 6 \times (3 + 5) - 4 = \) 
+
+### 
+Answers:
+(A) - \( 50 \)
+
+(B) - \( 38 \)
+
+(C) - \( 2 \)
+
+(D) - \( 16 \)
+
+### 
+Misconceptions:
+(A) - Misapplies multiplication across addition without evaluating the bracket first
+
+(B) - Subtracts \( 4 \) from the result of \( 6 \times 8 \) incorrectly assuming order of operations does not apply
+
+(C) - Ignores multiplication completely and only performs addition and subtraction
+
+(D) - Incorrectly evaluates the expression inside the brackets and then employs no order of operations  
+
+### 
+Subject: BIDMAS
+### 
+ConstructName: Use the order of operations to carry out calculations involving brackets
+### 
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: A recipe requires \( 4 \) cups of flour for every \( 1 \) cup of sugar. Write the ratio of flour to sugar with flour's part first.
+
+###
+Answers:
+(A) - \( 1\; : 4 \) 
+
+(B) - \( 4\; : 1 \) 
+
+(C) - \( 5\; : 1 \) 
+
+(D) - \( 4\; : 5 \) 
+
+###
+Misconceptions:
+(A) - Mixes up the order of quantities in the ratio 
+
+(B) - nan 
+
+(C) - Adds the two quantities instead of writing them as a ratio 
+
+(D) - Thinks the sugar quantity is larger than the flour quantity 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Represent written scenarios as ratios
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: What is the perimeter of this rectilinear shape? ![A square cm grid showing a shape made up of 5 small squares.]() 
+
+###
+Answers:
+(A) - \( 12 \) 
+
+(B) - \( 15 \) 
+
+(C) - \( 10 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Correct; counts all sides correctly according to the shape outlined 
+
+(B) - Miscounts the number of units by including internal sides instead of just the external perimeter 
+
+(C) - Calculates the area instead of the perimeter by mistakenly summing square units 
+
+(D) - Only counts the visible outer perimeter incorrectly and misses some sections 
+
+###
+Subject: Perimeter of Simple Shapes
+###
+ConstructName: Calculate the perimeter of rectilinear shapes
+###
+CorrectAnswer: A

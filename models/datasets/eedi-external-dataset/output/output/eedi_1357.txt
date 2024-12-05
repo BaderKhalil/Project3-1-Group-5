@@ -1,0 +1,37 @@
+###
+Question: STEP \( 2 \)
+
+Which of the options is a correct second step to express the following as a single fraction?
+\(
+\begin{array}{c}
+\frac{5}{x-2}-\frac{3}{x+4} \\
+=\frac{5(x+4)}{(x-2)(x+4)}-\frac{3(x-2)}{(x-2)(x+4)}
+\end{array}
+\) 
+
+###
+Answers:
+(A) - \( \frac{5(x+4)-3(x-2)}{(x-2)(x+4)} \) 
+
+(B) - \( \frac{5-3}{(x-2)(x+4)} \) 
+
+(C) - \( \frac{5}{x-2}-\frac{3}{x+4} \) 
+
+(D) - \( \frac{5(x+4)-3(x-2)}{(x+4)-(x-2)} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly believes that they can simply subtract the numerators without considering the fractions need a common denominator 
+
+(C) - Does not understand how to find a common denominator for performing subtraction of algebraic fractions 
+
+(D) - When subtracting fractions, believes they can subtract the denominators instead of correctly combining them 
+
+###
+Subject: Adding and Subtracting Algebraic Fractions
+###
+ConstructName: Subtract algebraic fractions where the denominators are linear expressions, eg (x + 5) and (x - 3), and the numerators are single terms
+###
+CorrectAnswer: A

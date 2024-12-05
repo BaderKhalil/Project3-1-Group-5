@@ -1,0 +1,32 @@
+###
+Question: Which sign should replace the question mark to make the following statement correct?
+\(
+\frac{3}{8} ? \frac{5}{12}
+\)
+
+###
+Answers:
+(A) - \( > \)
+
+(B) - \( < \)
+
+(C) - \( = \)
+
+(D) - \( \approx \)
+
+###
+Misconceptions:
+(A) - Assumes that the larger numerator leads to a larger fraction without considering denominators. 
+
+(B) - nan 
+
+(C) - nan 
+
+(D) - Falsely believes the fractions are too close to determine a precise inequality.
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Use inequality notation to order fractions whose denominators are not multiples of the same number 
+###
+CorrectAnswer: B

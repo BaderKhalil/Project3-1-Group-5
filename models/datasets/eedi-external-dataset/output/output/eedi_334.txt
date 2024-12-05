@@ -1,0 +1,29 @@
+###
+Question: If the probability of rolling a 3 on a fair six-sided die is \( \frac{1}{6} \), where does this probability fall on the probability scale? 
+
+###
+Answers:
+(A) - A 
+
+(B) - B 
+
+(C) - C 
+
+(D) - D 
+
+###
+Misconceptions:
+(A) - Assumes probabilities can only be whole numbers without understanding that they can be fractions. 
+
+(B) - Correct interpretation of where \( \frac{1}{6} \) lies on the scale. 
+
+(C) - Mistakenly believes \( \frac{1}{6} \) represents a 60% chance instead of correctly identifying it as approximately 16.67%. 
+
+(D) - Misunderstands the probability scale, thinking all values higher than \( \frac{1}{6} \) must be whole numbers. 
+
+###
+Subject: Probability of Single Events
+###
+ConstructName: Represent positive unit fractions on a number line
+###
+CorrectAnswer: B

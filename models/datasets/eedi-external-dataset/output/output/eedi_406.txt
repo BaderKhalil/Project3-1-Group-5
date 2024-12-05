@@ -1,0 +1,33 @@
+###
+Question: What calculation should be performed to determine the number of degrees representing action in a pie chart that displays the following data? \begin{tabular}{|c|c|c|c|}
+\hline Film Genre & Comedy & Romance & Action \\
+\hline Number of teachers & \( 10 \) & \( 5 \) & \( 6 \) \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( \frac{6}{10+5+6} \times 360 \) 
+
+(B) - \( 360 \div 6 \) 
+
+(C) - \( 360 \div 21 \times 6 \) 
+
+(D) - \( 360 - \frac{10}{5} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Thinks that finding the angle involves dividing 360 by the actual number of the selected group instead of the total. 
+
+(C) - Incorrectly assumes that to find the angle, you first divide 360 by the total number of all groups and then multiply by the number of the action group, but with wrong data. 
+
+(D) - Thinks subtracting a ratio from 360 gives the degree measurement for the action sector, which is not correct. 
+
+###
+Subject: Pie Chart
+###
+ConstructName: Calculate the sector angle on a pie chart for a given group
+###
+CorrectAnswer: A

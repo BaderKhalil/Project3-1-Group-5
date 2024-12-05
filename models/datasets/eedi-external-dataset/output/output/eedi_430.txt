@@ -1,0 +1,29 @@
+###
+Question: What is the y-intercept of the line represented by the equation \(3x + 2y = 12\)?
+
+###
+Answers:
+(A) \(6\) 
+
+(B) \(4\) 
+
+(C) \(-4\) 
+
+(D) \(0\) 
+
+###
+Misconceptions:
+(A) - Misunderstands the process of finding the y-intercept, thinking it is obtained from the coefficient of y rather than isolating y in the equation.
+
+(B) - Correctly identifies the intercept after rearranging to the form \(y = mx + b\).
+
+(C) - Incorrectly assumes the y-intercept involves a negative value without proper calculation from the equation.
+
+(D) - Incorrectly assumes the y-intercept is zero without considering the values from the equation.
+
+###
+Subject: Finding the Gradient and Intercept of a Line from the Equation
+###
+ConstructName: Finding the y-intercept of a line in the form ax + by = c
+###
+CorrectAnswer: B

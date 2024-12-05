@@ -1,0 +1,33 @@
+###
+Question: Which letter describes the region where \( \boldsymbol{2x - y < 4} \) and \( \boldsymbol{y \geq 0} \) ? ![A set of axes with a diagonal line representing 2x - y = 4 and a horizontal line representing y = 0. The area of interest is to the left of the diagonal and above the horizontal line.]
+A is the region above y=0 and below the line 2x - y = 4.
+B is the region below both lines.
+C is the region below y=0 but above 2x - y = 4.
+D is the region above y=0 and below the line 2x - y = 4. ]() 
+
+###
+Answers:
+(A) - A 
+
+(B) - B 
+
+(C) - C 
+
+(D) - D 
+
+###
+Misconceptions:
+(A) - Mixes up the regions defined by inequalities 
+
+(B) - Confuses the shading above and below the lines 
+
+(C) - Incorrectly interprets the inequality involving y 
+
+(D) - Incorrectly understands the meaning of "below" for the line 2x - y = 4 
+
+###
+Subject: Graphing Linear Inequalities (Shading Regions)
+###
+ConstructName: Represent the solution to a graphical inequality involving a combination of vertical, horizontal and diagonal lines
+###
+CorrectAnswer: A

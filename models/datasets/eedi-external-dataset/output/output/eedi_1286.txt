@@ -1,0 +1,32 @@
+###
+Question: A cylinder has a volume of 
+\[
+V \mathrm{~cm}^{3} \text {. }
+\] ![A cylinder with the height labelled '?']() What is its height given the radius is \( r \)? 
+
+###
+Answers:
+(A) - \( \frac{V}{\pi r^2} \mathrm{~cm} \) 
+
+(B) - \( \frac{V}{3 \pi r^2} \mathrm{cm} \) 
+
+(C) - \( \frac{3V}{\pi r^2} \mathrm{cm} \) 
+
+(D) - \( \frac{\pi r^2 V}{h} \mathrm{cm} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly incorporates a factor of 3 in the volume formula for a cylinder 
+
+(C) - Misinterprets the relationship between volume, height, and radius by incorrectly scaling the answer 
+
+(D) - Confuses the position of variables in the formula, not isolating height correctly 
+
+###
+Subject: Volume of Non-Prisms
+###
+ConstructName: Given the volume of a cylinder, work out missing information
+###
+CorrectAnswer: A

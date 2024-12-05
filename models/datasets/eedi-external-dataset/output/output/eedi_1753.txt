@@ -1,0 +1,29 @@
+###
+Question: \( 2.5 \div 0.5= \) 
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 1 \) 
+
+(C) - \( 10 \) 
+
+(D) - \( 2 \) 
+
+###
+Misconceptions:
+(A) - Confuses division by a decimal with multiplying by the reciprocal 
+
+(B) - Incorrectly reduces the problem to its simplest form without performing the division 
+
+(C) - Misunderstands how to handle decimals, thinks multiplying the numbers directly gives the correct answer 
+
+(D) - nan 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Divide two decimals with a different number of decimal places
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: \( 1500 m \) is the same as ____ \(km\) 
+
+###
+Answers:
+(A) - \( 1.5 \) 
+
+(B) - \( 15000 \) 
+
+(C) - \( 15 \) 
+
+(D) - \( 0.15 \) 
+
+###
+Misconceptions:
+(A) - Correct conversion, understands meters to kilometers conversion properly.
+
+(B) - Multiplies by 10 instead of dividing by 1000. 
+
+(C) - Thinks 1000m is equivalent to 10km instead of 1km.
+
+(D) - Confuses decimeters with kilometers, thinking there are 10m in a km. 
+
+###
+Subject: Length Units
+###
+ConstructName: Convert between m and km
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: The ratio of cats to dogs in a shelter is \( 3\;: 5 \). If there are \( 15 \) cats, how many dogs are there? 
+
+###
+Answers:
+(A) - \( 25 \) 
+
+(B) - \( 20 \) 
+
+(C) - \( 30 \) 
+
+(D) - \( 18 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly adds the ratio parts instead of using the proportion for dogs 
+
+(B) - Mixes up the ratio, possibly thinking it was \( 3\;: 4 \) 
+
+(C) - Multiplies by the wrong factor 
+
+(D) - Assumes a fixed number of dogs, not based on the ratio 
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Given information about one part, work out other parts
+###
+CorrectAnswer: A

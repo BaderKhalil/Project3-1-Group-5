@@ -1,0 +1,29 @@
+###
+Question: A car travels a distance of \( 120 \) miles in \( 2 \) hours. What is the average speed \( v \) of the car? ![A speed-time graph. The vertical axis is labelled Speed (mph) and has no scale, marked only with the letter v at different points. The horizontal axis is labelled Time (hours) showing 0 to 2 in even steps. The graph consists of a straight line from (0,0) to (2, v).]() 
+
+###
+Answers:
+(A) - \( 60 \mathrm{mph} \) 
+
+(B) - \( 70 \mathrm{mph} \) 
+
+(C) - \( 80 \mathrm{mph} \) 
+
+(D) - \( 30 \mathrm{mph} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes average speed is calculated as total time divided by distance 
+
+(C) - Thinks the speed must be higher due to a wrong interpretation of distance over time 
+
+(D) - Underestimates the average speed, assuming a slow travel pace 
+
+###
+Subject: Speed, Distance, Time
+###
+ConstructName: Given distance and time, calculate average speed
+###
+CorrectAnswer: A

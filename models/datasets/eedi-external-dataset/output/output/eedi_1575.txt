@@ -1,0 +1,29 @@
+###
+Question: \( \sqrt[4]{256}= \) 
+
+###
+Answers:
+(A) - \( 4 \) 
+
+(B) - \( 16 \) 
+
+(C) - \( 64 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the concept of fourth roots 
+
+(B) - Correctly identifies \( 16 \) as \( 4^2 \), not a fourth root 
+
+(C) - Believes \( 64 \) is a fourth root but confuses it with \( 4^3 \) 
+
+(D) - Miscalculates the fourth root by thinking it is similar to the square root process 
+
+###
+Subject: Square Roots, Cube Roots, etc
+###
+ConstructName: Calculate the fourth root of a number
+###
+CorrectAnswer: B

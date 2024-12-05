@@ -1,0 +1,32 @@
+###
+Question: Sarah and Tom are discussing fractions and decimals. 
+Sarah claims \( \frac{3}{4} = 0.34 \) 
+Tom insists that \( \frac{2}{5} > 0.4 \) 
+Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Tom 
+
+(C) - Both Sarah and Tom 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Confuses the decimal representation of fractions, inaccurately converting \( \frac{3}{4} \) 
+
+(B) - Incorrectly interprets the decimal equivalent of \( \frac{2}{5} \) 
+
+(C) - Assumes both statements can be true when they are not 
+
+(D) - Identifies the errors made by both Sarah and Tom 
+
+###
+Subject: Converting between Fractions and Decimals
+###
+ConstructName: Solve problems involving converting between fractions, decimals and percentages
+###
+CorrectAnswer: D

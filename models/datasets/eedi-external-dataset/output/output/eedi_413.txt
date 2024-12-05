@@ -1,0 +1,29 @@
+###
+Question: What is the perimeter of this rectangle? ![A rectangle with length 8 cm and width 5 cm.]() 
+
+###
+Answers:
+(A) - \( 26 \mathrm{~cm} \) 
+
+(B) - \( 20 \mathrm{~cm} \) 
+
+(C) - \( 40 \mathrm{~cm} \) 
+
+(D) - \( 30 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Calculates the perimeter as if it were twice the width only 
+
+(C) - Adds the length and width and multiplies by 5 instead of 2 
+
+(D) - Assumes the perimeter is the sum of length and width, then mistakenly adds an extra length 
+
+###
+Subject: Perimeter of Simple Shapes
+###
+ConstructName: Calculate the perimeter of a rectangle using its length and width
+###
+CorrectAnswer: A

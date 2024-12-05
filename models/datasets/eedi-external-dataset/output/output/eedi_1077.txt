@@ -1,0 +1,33 @@
+###
+Question: In which region would \( x=3.2 \) belong? ![A Venn diagram made up of two overlapping circles. One circle is labelled \( x - 3.2 < 0 \) and the other circle is labelled \( -3.2 < x + 1 \).
+A is in the \( x - 3.2 < 0 \) circle only.
+B is in the overlap of the two circles.
+C is in the \( -3.2 < x + 1 \) circle only.
+D is outside both circles.]()
+
+###
+Answers:
+(A) - A 
+
+(B) - B 
+
+(C) - C 
+
+(D) - D 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes that the solution of the inequality includes the endpoint leading to an incorrect overlap. 
+
+(C) - Misunderstands that being in this circle means \( x \) is less than the boundary. 
+
+(D) - nan 
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve one-step linear inequalities in one variable where the variable appears on one side of the equation
+###
+CorrectAnswer: A

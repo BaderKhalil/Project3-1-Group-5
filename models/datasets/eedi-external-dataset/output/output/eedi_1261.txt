@@ -1,0 +1,29 @@
+###
+Question: In which region would \( 3x + 4y = 12 \) belong? ![A Venn diagram with two overlapping sets. The set on the left is 'Crosses the y-axis at (0,3)' and the set on the right is 'Has a negative gradient'. A is in only 'Crosses the y-axis at (0,3)', B is in the intersection, C is in only 'Has a negative gradient', and D is outside both sets.]() 
+
+###
+Answers:
+(A) - A 
+
+(B) - B 
+
+(C) - C 
+
+(D) - D 
+
+###
+Misconceptions:
+(A) - Believes the constant term indicates the y-intercept directly without converting to slope-intercept form. 
+
+(B) - nan 
+
+(C) - Thinks a line with a positive slope can appear on the right side of the y-axis. 
+
+(D) - Assumes the line does not intersect either axis.
+
+###
+Subject: Finding the Gradient and Intercept of a Line from the Equation
+###
+ConstructName: Find the gradient of a line written in the form ax + by = c
+###
+CorrectAnswer: B

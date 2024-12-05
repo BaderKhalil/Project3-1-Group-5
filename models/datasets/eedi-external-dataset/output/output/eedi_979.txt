@@ -1,0 +1,35 @@
+###
+Question: Mark wants to estimate the result of the following division by rounding each number to \( 1 \) significant figure.
+
+\[
+45.67 \div 3.2
+\]
+
+What number should replace \( \mathbf{3.2} \) in his estimation?
+
+###
+Answers:
+(A) - \( 3 \)
+
+(B) - \( 2.0 \)
+
+(C) - \( 4 \)
+
+(D) - \( 3.5 \)
+
+###
+Misconceptions:
+(A) - Rounds down instead of up
+
+(B) - Incorrectly rounds to a decimal with unnecessary precision 
+
+(C) - Rounds up instead of down incorrectly
+
+(D) - Averages two numbers instead of rounding to one significant figure 
+
+###
+Subject: Estimation
+###
+ConstructName: Round the elements of a calculation to one significant figure to perform an estimation
+###
+CorrectAnswer: A

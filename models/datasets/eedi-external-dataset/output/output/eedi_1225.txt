@@ -1,0 +1,31 @@
+###
+Question: If we want to express 
+"\( \boldsymbol{n} \) added to \( \boldsymbol{n} \)" 
+using algebra, this would be: 
+
+###
+Answers:
+(A) - \( n \times 2 \) 
+
+(B) - \( n^2 \) 
+
+(C) - \( 2n \) 
+
+(D) - \( n + n \) 
+
+###
+Misconceptions:
+(A) - Confuses addition with multiplication. 
+
+(B) - Incorrectly squares the variable. 
+
+(C) - nan 
+
+(D) - Overly simplifies without acknowledging the operation. 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Write algebraic expressions with correct algebraic convention for addition
+###
+CorrectAnswer: C

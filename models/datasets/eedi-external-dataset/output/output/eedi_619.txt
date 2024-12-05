@@ -1,0 +1,29 @@
+###
+Question: A baker has \( 48 \) cupcakes and wants to arrange them into boxes. To find out the number of boxes he can use that hold the same number of cupcakes, he needs to determine the _________ of \( 48 \).
+
+###
+Answers:
+(A) - Divisors 
+
+(B) - Squares 
+
+(C) - Roots 
+
+(D) - Primes 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Confuses the concept of perfect squares with grouping items 
+
+(C) - Misunderstands that roots do not apply to grouping items into equal sets 
+
+(D) - Confuses prime numbers with the ability to divide a number evenly 
+
+###
+Subject: Factors and Highest Common Factor
+###
+ConstructName: Recognise when to find a factor to solve a problem
+###
+CorrectAnswer: A

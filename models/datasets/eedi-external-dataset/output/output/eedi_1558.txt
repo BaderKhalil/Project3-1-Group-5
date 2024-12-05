@@ -1,0 +1,29 @@
+###
+Question: Alex and Jamie are trying to determine which shape has opposite sides that are both parallel and equal in length. Alex claims it is a trapezoid, while Jamie claims it is a parallelogram. Who is correct?
+
+###
+Answers:
+(A) - Only Alex  
+
+(B) - Only Jamie  
+
+(C) - Both Alex and Jamie  
+
+(D) - Neither is correct  
+
+###
+Misconceptions:
+(A) - Believes that all trapezoids have equal and parallel opposite sides  
+
+(B) - nan  
+
+(C) - Believes that trapezoids and parallelograms have the same properties regarding parallel and equal sides  
+
+(D) - Believes that neither shape meets the criteria  
+
+###
+Subject: Properties of Quadrilaterals
+###
+ConstructName: Identify a parallelogram from a description of the properties
+###
+CorrectAnswer: B

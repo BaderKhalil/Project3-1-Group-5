@@ -1,0 +1,29 @@
+###
+Question: Consider a function machine ![Input \( 6 \rightarrow +4 \rightarrow \div 2 \rightarrow \) Output]() The input is \( 10 \). Which calculation provides the correct output?
+
+###
+Answers:
+(A) - \( 10 + 4 \div 2 \)
+
+(B) - \( 10 \div 2 + 4 \)
+
+(C) - \( (10 + 4) \div 2 \)
+
+(D) - \( 10 \div (2 + 4) \)
+
+###
+Misconceptions:
+(A) - Believes that operations can be performed in any order without following the function machine's sequence.
+
+(B) - Does not correctly interpret the sequence of operations in the function machine, performing them in the wrong arrangement.
+
+(C) - Follows the operations correctly but fails to place operations in the exact sequence described by the function machine.
+
+(D) - Confuses the operations and uses brackets incorrectly to change the order of calculations.
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use brackets to write function machines as calculations
+###
+CorrectAnswer: B

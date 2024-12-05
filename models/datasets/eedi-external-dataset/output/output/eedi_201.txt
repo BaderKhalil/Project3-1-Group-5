@@ -1,0 +1,38 @@
+###
+Question: Use a graphing program (e.g. Desmos) to plot the following pairs of functions.
+\[
+y = 2x + 1 \text{ and } y = -\frac{1}{2}x + 4
+\]
+
+Sarah claims both functions are parallel lines.
+
+Jack believes both functions intersect at the y-axis.
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Jack 
+
+(C) - Both Sarah and Jack 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Confuses the slopes of the lines, assuming they are the same 
+
+(B) - Incorrectly assumes that both lines have a y-intercept of 0 
+
+(C) - Misunderstands the relationship between parallel lines and their slopes 
+
+(D) - Does not know how to analyze the slopes and y-intercepts of the equations 
+
+###
+Subject: Finding the Gradient and Intercept of a Line from the Equation
+###
+ConstructName: Recognise a linear graph from its shape
+###
+CorrectAnswer: D

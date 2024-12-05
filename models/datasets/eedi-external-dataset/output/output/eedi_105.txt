@@ -1,0 +1,29 @@
+###
+Question: What is the measure of angle \( x \) ? ![Three lines intersecting. At the center of the image, two lines intersect and one of them is extended, forming two angles: 75 degrees and \( x \). The other angle adjacent to the extended line is marked 105 degrees.]()
+
+###
+Answers:
+(A) - \( 75^{\circ} \)
+
+(B) - \( 105^{\circ} \)
+
+(C) - \( 15^{\circ} \)
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Student confuses vertically opposite angles with adjacent angles 
+
+(B) - Student mistakenly believes that the sum of the angles around a point must equal 180 degrees 
+
+(C) - Student incorrectly calculates the missing angle as a direct subtraction from 180 degrees without consideration of adjacent angles 
+
+(D) - Does not realize that the angles formed at the intersection have a specific relationship 
+
+###
+Subject: Basic Angle Facts (straight line, opposite, around a point, etc) 
+###
+ConstructName: Find missing angles using vertically opposite angles 
+###
+CorrectAnswer: A

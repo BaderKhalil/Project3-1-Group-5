@@ -1,0 +1,32 @@
+###
+Question: Simplify the following ratio to its simplest form:
+\(
+\frac{3}{5}: \frac{2}{5}
+\)
+
+###
+Answers:
+(A) - \( 3: 2 \)
+
+(B) - \( 5: 3 \)
+
+(C) - \( 6: 10 \)
+
+(D) - \( 1: 2 \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Incorrectly flips the ratio
+
+(C) - Fails to simplify the ratio 
+
+(D) - Does not properly represent the ratio of the given fractions 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Reduce a ratio involving two numbers to its simplest form
+###
+CorrectAnswer: A

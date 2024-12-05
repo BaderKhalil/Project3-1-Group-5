@@ -1,0 +1,30 @@
+###
+Question: How do you write this number in words?  
+\( 245 \) 
+
+###
+Answers:  
+(A) - Two hundred and forty-five  
+
+(B) - Two hundred and fifteen  
+
+(C) - Twenty-four and five  
+
+(D) - Two thousand four hundred and five  
+
+###
+Misconceptions:  
+(A) - nan  
+
+(B) - The student confuses the tens and units place values.  
+
+(C) - The student does not understand how to separate the hundreds, tens, and units.  
+
+(D) - The student misunderstands the value of the thousands and hundreds.  
+
+###
+Subject: Place Value  
+###
+ConstructName: Write 3 digit numbers as words  
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What is \( 15 \) out of \( 60 \) expressed as a percentage? 
+
+###
+Answers:
+(A) - \( 25\% \) 
+
+(B) - \( 20\% \) 
+
+(C) - \( 30\% \) 
+
+(D) - \( 40\% \) 
+
+###
+Misconceptions:
+(A) - Assumes the calculation involves simply dividing \( 15 \) by \( 60 \) and rounding incorrectly 
+
+(B) - Assumes a simple incorrect method of calculating percentages by not simplifying fractions 
+
+(C) - Incorrectly multiplies the fraction by \( 2 \) instead of finding the percentage 
+
+(D) - Incorrectly applies the concept of percentages by assuming a larger numerator yields a higher percentage without proper calculation 
+
+###
+Subject: Percentages of an Amount
+###
+ConstructName: Express one quantity as a percentage of another mentally
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: In a parallelogram, which statement about the opposite angles is true? 
+
+###
+Answers:
+(A) - They can be supplementary.
+
+(B) - They can be equal.
+
+(C) - They can be acute.
+
+(D) - They can never be right angles.
+
+###
+Misconceptions:
+(A) - Does not understand the relationship between opposite angles in a parallelogram. 
+
+(B) - Confuses opposite angles with adjacent angles in a parallelogram.
+
+(C) - Lacks knowledge of angle properties in quadrilaterals.
+
+(D) - Misconception about angle types and properties specific to parallelograms. 
+
+###
+Subject: Properties of Quadrilaterals
+###
+ConstructName: Understand the relationships of angles in a parallelogram
+###
+CorrectAnswer: B

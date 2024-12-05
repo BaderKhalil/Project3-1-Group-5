@@ -1,0 +1,29 @@
+###
+Question: A line passes through the points (2, 3) and (6, 7). What is the slope \( \boldsymbol{m} \) of this line? 
+
+###
+Answers:
+(A) \( \frac{1}{4} \)
+
+(B) \( 1 \)
+
+(C) \( \frac{1}{2} \)
+
+(D) \( \frac{2}{3} \)
+
+###
+Misconceptions:
+(A) - Miscalculates the change in y by mistakenly using approximate differences instead of precise values. 
+
+(B) - Assumes that the line's rise must equal its run over the interval chosen without proper computation. 
+
+(C) - Confuses slope with the y-intercept, calculating \( \frac{4}{2} \) as the value of the slope. 
+
+(D) - Correctly computes the slope, but misinterprets the fractions leading to misrepresentation of the values involved.
+
+###
+Subject: Gradient as change in y over change in x
+###
+ConstructName: Work out the equation of a line from two points
+###
+CorrectAnswer: D

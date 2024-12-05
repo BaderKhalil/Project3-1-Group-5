@@ -1,0 +1,33 @@
+###
+Question: Lisa and Mark are discussing the properties of segment bisectors. 
+
+The line \( L \) is a bisector of segment \( AB \) and passes through the midpoint \( M \) of \( AB \). 
+
+Lisa asserts that if you know the position of line \( L \) and point \( A \), then there could be multiple positions for point \( B \). Mark disagrees and argues that knowing \( L \) and \( M \) allows us to find a unique position for \( B \). Who is correct?
+
+###
+Answers:
+(A) - Only Lisa
+
+(B) - Only Mark
+
+(C) - Both Lisa and Mark
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Overestimates the ambiguity of finding point \( B \) given a fixed line and point \( A \).
+
+(B) - Misunderstands the relationship between a bisector and the points it divides, assuming it leads to unique coordinates without considering the line's slope.
+
+(C) - Misconception that one property of a line can lead to multiple valid conclusions about points on it.
+
+(D) - Believes that neither the position of the bisector nor the midpoint can determine positions of the endpoints.
+
+###
+Subject: Properties of Geometric Bisectors
+###
+ConstructName: Understanding segment bisectors and their properties in coordinate geometry
+###
+CorrectAnswer: B

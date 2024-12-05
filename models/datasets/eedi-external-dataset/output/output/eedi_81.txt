@@ -1,0 +1,34 @@
+###
+Question: Which of these options shows the following numbers in descending order?
+1,024  
+563,000  
+78  
+6,400  
+450,000  
+
+###
+Answers:
+(A) - \( \begin{array}{l}563,000 \\ 450,000 \\ 6,400 \\ 1,024 \\ 78\end{array} \) 
+
+(B) - \( \begin{array}{l}6,400 \\ 1,024 \\ 450,000 \\ 78 \\ 563,000\end{array} \) 
+
+(C) - \( \begin{array}{l}78 \\ 1,024 \\ 6,400 \\ 450,000 \\ 563,000\end{array} \) 
+
+(D) - \( \begin{array}{l}450,000 \\ 563,000 \\ 6,400 \\ 1,024 \\ 78\end{array} \) 
+
+###
+Misconceptions:
+(A) - Confuses the order of large numbers by placing a smaller number ahead without considering magnitude 
+
+(B) - Confuses descending order with ascending order, placing the smallest values first 
+
+(C) - Orders numbers based solely on their last digits without considering their overall size 
+
+(D) - Orders correctly but includes one or more numbers in the wrong sequence 
+
+###
+Subject: Place Value
+###
+ConstructName: Order integers with a different number of digits
+###
+CorrectAnswer: A

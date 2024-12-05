@@ -1,0 +1,29 @@
+###
+Question: Which of the following answers shows a correct factorisation of the expression below? \( 3x^{2}-27 \)
+
+###
+Answers:
+(A) - \( 3(x^{2}-9) \)
+
+(B) - \( 3(x-3)(x-3) \) 
+
+(C) - \( 3(x-3)(x+3) \) 
+
+(D) - \( 3(x-9)^{2} \)
+
+###
+Misconceptions:
+(A) - Does not recognise difference of two squares 
+
+(B) - Factorises difference of two squares with the same sign in both brackets 
+
+(C) - nan 
+
+(D) - Uses incorrect factorisation method for a quadratic 
+
+###
+Subject: Difference of Two Squares
+###
+ConstructName: Factorise a quadratic expression in the form ax² - c
+###
+CorrectAnswer: C

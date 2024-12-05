@@ -1,0 +1,32 @@
+###
+Question: Calculate:
+\[
+0.05 \times 20
+\]
+
+###
+Answers:
+(A) - \( 0.1 \) 
+
+(B) - \( 0.1 \) 
+
+(C) - \( 1 \) 
+
+(D) - \( 10 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands that multiplying by 20 reduces the size of the number significantly because of the decimal. 
+
+(B) - Same as A; this response reflects confusion in interpreting the multiplication resulting in an incorrect calculation. 
+
+(C) - Correctly recognizes that multiplying by 20 increases the number correctly, but misplaces the decimal. 
+
+(D) - When multiplying a decimal less than 1 by an integer, mistakenly thinks the result should align with multiplying 5 by 2, ignoring the position of the decimal point. 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Multiply a decimal by an integer
+###
+CorrectAnswer: C

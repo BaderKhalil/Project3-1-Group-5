@@ -1,0 +1,29 @@
+###
+Question: What is the correct formula to find the area of a triangle with a base of \( b \) and a height of \( h \)?
+
+###
+Answers:
+(A) - \( A = \frac{1}{2} b h \) 
+
+(B) - \( A = b + h \) 
+
+(C) - \( A = b \times h \) 
+
+(D) - \( A = 2bh \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes area can be determined by simply adding the lengths of the base and height 
+
+(C) - Thinks area is calculated by multiplying the base and height without considering the triangle's geometry 
+
+(D) - Incorrectly doubles the area by using \( 2bh \) instead of finding the correct formula 
+
+###
+Subject: Writing Formula
+###
+ConstructName: Use area to write algebraic expressions
+###
+CorrectAnswer: A

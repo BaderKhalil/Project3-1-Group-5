@@ -1,0 +1,35 @@
+###
+Question: Sarah and Mike are discussing the characteristics of perpendicular lines.
+
+Sarah claims that \( \boldsymbol{y}=\mathbf{3 x}+\mathbf{4} \) and \( \boldsymbol{y}=\mathbf{-\frac{1}{3} x}+\mathbf{1} \) are perpendicular.
+
+Mike argues that \( \boldsymbol{y}=\mathbf{4 x}+3 \) and \( \boldsymbol{y}=\mathbf{-\frac{1}{4} x}-2 \) are perpendicular.
+
+Who is right?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Mike 
+
+(C) - Both Sarah and Mike 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Misunderstands that only the product of slopes must equal -1 for lines to be perpendicular 
+
+(B) - Incorrectly believes both pairs of lines meet the perpendicularity condition 
+
+(C) - Thinks that both sets of lines can meet the condition for perpendicularity 
+
+(D) - Believes neither pair of lines fulfills the requirement for perpendicularity 
+
+###
+Subject: Perpendicular Lines
+###
+ConstructName: Identify perpendicular lines written in the form y = mx + c
+###
+CorrectAnswer: A

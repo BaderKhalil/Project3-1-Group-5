@@ -1,0 +1,29 @@
+###
+Question: A rectangular garden has an area of \( 72 \mathrm{~m}^{2} \). If the length of the garden is \( 12 \mathrm{~m} \), what is the width, \( w \), of the garden? ![A rectangle with the length labeled as 12m and the width labeled with w]()
+
+###
+Answers:
+(A) - \( w=6 \mathrm{~m} \) 
+
+(B) - \( w=9 \mathrm{~m} \) 
+
+(C) - \( w=8 \mathrm{~m} \) 
+
+(D) - \( w=4 \mathrm{~m} \) 
+
+###
+Misconceptions:
+(A) - Assumes that the width is calculated by subtracting the length from the area 
+
+(B) - Incorrectly calculates width by incorrectly applying the area formula 
+
+(C) - Uses incorrect dimensions when solving for width 
+
+(D) - Uses the correct area formula but misapplies the calculation leading to an unrealistic dimension 
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Given the area of a rectangle, calculate a missing dimension
+###
+CorrectAnswer: A

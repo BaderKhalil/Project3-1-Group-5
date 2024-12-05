@@ -1,0 +1,29 @@
+###
+Question: This is the net of a... ![An image of two squares connected by four rectangles that form a box-like shape. Three rectangles are attached to the sides of one square and one rectangle attached to the other square.]() 
+
+###
+Answers:
+(A) - Cylinder 
+
+(B) - Cube 
+
+(C) - Rectangular prism 
+
+(D) - Tetrahedron 
+
+###
+Misconceptions:
+(A) - Confuses the shape with a 3D object that has curved surfaces 
+
+(B) - Mixes up cube and rectangular prism dimensions 
+
+(C) - nan 
+
+(D) - Identifies a polyhedron with triangular faces wrongly instead of a 3D shape with rectangular faces 
+
+###
+Subject: Nets
+###
+ConstructName: Identify the net of a prism
+###
+CorrectAnswer: C

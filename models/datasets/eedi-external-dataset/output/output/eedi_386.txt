@@ -1,0 +1,32 @@
+###
+Question: Simplify the following expression as a single fraction:
+\(
+\frac{3}{x-2} + \frac{4}{x+3}
+\)
+
+###
+Answers:
+(A) - \( \frac{7}{(x-2)(x+3)} \)
+
+(B) - \( \frac{3(x+3) + 4(x-2)}{(x-2)(x+3)} \)
+
+(C) - \( \frac{12}{(x-2)(x+3)} \)
+
+(D) - \( \frac{7x - 6}{(x-2)(x+3)} \)
+
+###
+Misconceptions:
+(A) - Thinks that addition of fractions simply adds the numerators without finding a common denominator
+
+(B) - Correctly multiplies out the numerators but potentially miscalculates their sum
+
+(C) - Incorrectly assumes the terms in the denominators can be ignored and just adds the numerators without addressing the denominator
+
+(D) - Has a calculation error in the combination of terms in the numerator
+
+###
+Subject: Adding and Subtracting Algebraic Fractions
+###
+ConstructName: Add algebraic fractions where the denominators are linear expressions, eg (x + 5) and (x - 3), and the numerators are single terms
+###
+CorrectAnswer: B

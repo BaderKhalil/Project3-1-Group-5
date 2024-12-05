@@ -1,0 +1,29 @@
+###
+Question: Simplify the expression: \( \frac{2x^2 - 8}{2(x - 4)} \)
+
+###
+Answers:
+(A) - \( x + 4 \) 
+
+(B) - \( 0 \) 
+
+(C) - \( x - 4 \) 
+
+(D) - \( 2(x+4) \) 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that they can just add terms outside the fraction without factoring correctly 
+
+(B) - Incorrectly thinks the entire expression evaluates to zero instead of simplifying 
+
+(C) - Incorrectly cancels one of the factors and believes the remaining expression reduces to a binomial 
+
+(D) - Incorrectly factors the denominator and does not recognize they need to factor the entire fraction first 
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising the numerator
+###
+CorrectAnswer: C

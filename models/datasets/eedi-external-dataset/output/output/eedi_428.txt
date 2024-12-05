@@ -1,0 +1,29 @@
+###
+Question: \( \sqrt[3]{27}=? \) 
+
+###
+Answers:
+(A) - \( 9 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 6 \) 
+
+(D) - \( 27 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly squares the base rather than takes the cube root 
+
+(B) - Miscalculates the cube root, thinking it equates to a lower power 
+
+(C) - Attempts to add the digits of the number instead of extracting the cube root 
+
+(D) - Believes taking a root does not alter the number when it is the same as the base 
+
+###
+Subject: Square Roots, Cube Roots, etc
+###
+ConstructName: Recognise other roots of numbers
+###
+CorrectAnswer: B

@@ -1,0 +1,31 @@
+###
+Question: The symbol \( \triangle \) indicates that this figure is a \(__________\) triangle.
+
+What word completes the sentence? ![A triangle with all three sides marked equal.]() 
+
+###
+Answers:
+(A) - Isosceles 
+
+(B) - Equilateral 
+
+(C) - Scalene 
+
+(D) - Obtuse 
+
+###
+Misconceptions:
+(A) - Confuses isosceles with other types of triangles due to a lack of understanding of side lengths. 
+
+(B) - nan 
+
+(C) - Does not recognize that a scalene triangle has no equal sides. 
+
+(D) - Misunderstands that obtuse refers to angles rather than side lengths. 
+
+###
+Subject: Properties of Triangles
+###
+ConstructName: Understand the terms equilateral, isosceles, and scalene triangles.
+###
+CorrectAnswer: B

@@ -1,0 +1,32 @@
+###
+Question: Factorise this expression, if possible:
+\(
+x^{2}+6 x+8
+\)
+
+###
+Answers:
+(A) - \( (x+2)(x+4) \)
+
+(B) - \( (x+3)(x+3) \)
+
+(C) - \( (x+8)(x-2) \)
+
+(D) - Does not factorise 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes that identical factors can only occur with a perfect square trinomial, which leads to misidentifying the factor pair.
+
+(C) - Misunderstands that the factors can involve negative numbers even when both terms are positive.
+
+(D) - nan 
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form x² + bx + c
+###
+CorrectAnswer: A

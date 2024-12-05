@@ -1,0 +1,29 @@
+###
+Question: What is the size of angle \( x \) ? ![A diagram showing 2 intersecting lines creating 4 angles, with one angle marked as \( x \) and another angle marked as \( 55^\circ \). Two angles are not marked and need to be determined.]()
+
+###
+Answers:
+(A) - \( 55^{\circ} \) 
+
+(B) - \( 125^{\circ} \) 
+
+(C) - \( 35^{\circ} \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Assumes \( x \) is equal to one of the adjacent angles rather than recognizing the relationship. 
+
+(B) - Believes that adjacent angles add up to 180 degrees without recognizing the role of vertically opposite angles. 
+
+(C) - Incorrectly calculates \( x \) believing that adjacent angles are supplementary but miscalculating the relationship. 
+
+(D) - Does not recognize that vertically opposite angles are equal and assumes more information is required. 
+
+###
+Subject: Basic Angle Facts (straight line, opposite, around a point, etc)
+###
+ConstructName: Find missing angles using vertically opposite angles
+###
+CorrectAnswer: A

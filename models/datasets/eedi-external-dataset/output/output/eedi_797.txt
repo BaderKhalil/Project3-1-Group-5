@@ -1,0 +1,29 @@
+###
+Question: Sarah and Mike are analyzing the function \( y = \mathbf{4}^{\boldsymbol{x}} \). Sarah claims that as \( x \) approaches negative infinity, \( y \) approaches zero. Mike argues that \( y \) can never be less than \( 1 \). Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Mike 
+
+(C) - Both Sarah and Mike 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes exponential functions have a minimum value greater than 1 
+
+(C) - nan 
+
+(D) - nan 
+
+###
+Subject: Graphs of Exponentials and Other Powers of x
+###
+ConstructName: Calculate questions involving the power law of indices with negative integer powers
+###
+CorrectAnswer: C

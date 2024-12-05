@@ -1,0 +1,29 @@
+###
+Question: What is the total surface area of a rectangular prism with a height of 5cm, a width of 7cm, and a length of 9cm? 
+
+###
+Answers:
+(A) - \( (5 \times 7) + (5 \times 9) + (7 \times 9) \) 
+
+(B) - \( 5 \times 7 \times 9 \) 
+
+(C) - \( (5 \times 7) \times (5 \times 9) \times (7 \times 9) \) 
+
+(D) - \( 2 \times [(5 \times 7) + (5 \times 9) + (7 \times 9)] \) 
+
+###
+Misconceptions:
+(A) - When calculating surface area, only considers the area of one face 
+
+(B) - Calculates the volume instead of the surface area 
+
+(C) - Incorrectly attempts to multiply each pair of dimensions instead of adding their products 
+
+(D) - nan 
+
+###
+Subject: Surface Area of Prisms
+###
+ConstructName: Calculate the surface area of a rectangular prism given its dimensions
+###
+CorrectAnswer: D

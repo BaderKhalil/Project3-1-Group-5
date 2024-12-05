@@ -1,0 +1,29 @@
+###
+Question: When completing the square for the equation \( x^{2} + 8x + 15 \), what value should replace the star? \( (x + \bigstar)^{2} - k \) 
+
+###
+Answers:
+(A) - \( \bigstar = 4 \) 
+
+(B) - \( \bigstar = 8 \) 
+
+(C) - \( \bigstar = 2 \) 
+
+(D) - \( \bigstar = -4 \) 
+
+###
+Misconceptions:
+(A) - Thinks the value in the parentheses is derived from dividing the x-term coefficient by 2. 
+
+(B) - Misinterprets the constant term instead of focusing on the coefficient of the x-term. 
+
+(C) - Misunderstands how to derive the linear coefficient from the original equation and fails to complete it correctly.
+
+(D) - Believes the value inside the parentheses should be negative, confusing the signs during the process. 
+
+###
+Subject: Completing the Square
+###
+ConstructName: Complete the square for expressions that end up in the form a(x + b)² + c
+###
+CorrectAnswer: A

@@ -1,0 +1,33 @@
+###
+Question: What could go in the missing gaps? \begin{tabular}{|l|l|l|l|}
+\hline \multicolumn{4}{|c|}{\( 12x + 5 \)} \\
+\hline \( 8x \) & \( -3 \) & \( ? \) & \( ? \) \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( 4x \) and \( 8 \) 
+
+(B) - \( 4x + 8 \) 
+
+(C) - \( 5x \) and \( 12 \) 
+
+(D) - \( 6x \) and \( 6 - x \) 
+
+###
+Misconceptions:
+(A) - When calculating the values for gaps, overlooks combining similar terms leading to a wrong interpretation of the sum. 
+
+(B) - Assumes the expression is already simplified correctly without checking for proper collection of like terms.
+
+(C) - Misunderstands the combination of terms, adding an extra variable term instead of maintaining equivalence. 
+
+(D) - Incorrectly applies a method of distribution instead of focusing on the need to combine like terms properly.
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just one linear variable
+###
+CorrectAnswer: A

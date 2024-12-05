@@ -1,0 +1,29 @@
+###
+Question: \( \frac{3}{4} \times 2 = \)
+
+###
+Answers:
+(A) - \( \frac{3}{2} \)
+
+(B) - \( \frac{3}{8} \)
+
+(C) - \( 4 \)
+
+(D) - \( \frac{6}{4} \)
+
+###
+Misconceptions:
+(A) - Multiplies the numerator correctly but forgets to multiply by the integer 
+
+(B) - Confuses multiplication with division resulting in a smaller fraction 
+
+(C) - Incorrectly assumes that the result of multiplying a fraction by an integer yields a whole number 
+
+(D) - Simplifies incorrectly an intermediate result without reducing properly 
+
+###
+Subject: Multiplying Fractions
+###
+ConstructName: Multiply proper fractions in the form: Fraction × Integer
+###
+CorrectAnswer: A

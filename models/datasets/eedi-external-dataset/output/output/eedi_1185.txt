@@ -1,0 +1,32 @@
+###
+Question: \(y = x^{2} - 6x + 11\)
+
+Write in the form
+\( (x+a)^{2}+b \)
+
+###
+Answers:
+(A) - \( (x-3)^{2}+2 \)
+
+(B) - \( (x-3)^{2}+5 \)
+
+(C) - \( (x-6)^{2}+11 \)
+
+(D) - \( (x-3)^{2}-2 \)
+
+###
+Misconceptions:
+(A) - When completing the square, may incorrectly adjust the constant term after factoring.
+
+(B) - When completing the square, believes the resulting expression always contains a positive constant, failing to simplify correctly.
+
+(C) - Misunderstands how to determine the constant when adjusting the expression from standard to vertex form.
+
+(D) - Confuses the signs and fails to properly account for the constant when rewriting the expression in vertex form.
+
+###
+Subject: Completing the Square
+###
+ConstructName: Complete the square for expressions that end up in the form (x + a)² + b
+###
+CorrectAnswer: A

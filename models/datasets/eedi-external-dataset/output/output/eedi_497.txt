@@ -1,0 +1,29 @@
+###
+Question: ![An equilateral triangle]() How many lines of symmetry does this shape have?
+
+###
+Answers:
+(A) - \( 1 \)
+
+(B) - \( 2 \)
+
+(C) - \( 3 \)
+
+(D) - \( 6 \)
+
+###
+Misconceptions:
+(A) - Believes that symmetry only involves horizontal or vertical lines. 
+
+(B) - Thinks that an isosceles triangle is the same as an equilateral triangle regarding symmetry.
+
+(C) - nan 
+
+(D) - Confuses rotational symmetry with line symmetry, thinking that more lines exist due to equal angles.
+
+###
+Subject: Line Symmetry
+###
+ConstructName: Identify or mark lines of symmetry on a shape
+###
+CorrectAnswer: C

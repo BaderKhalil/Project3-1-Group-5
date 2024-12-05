@@ -1,0 +1,29 @@
+###
+Question: A \( 3 \) metre long piece of pipe has \( 1.2 \) centimetres removed from one end. What is the length of the pipe that remains? Provide your answer in millimetres.
+
+###
+Answers:
+(A) - \( 2988 \mathrm{~mm} \) 
+
+(B) - \( 2987.8 \mathrm{~mm} \) 
+
+(C) - \( 2900 \mathrm{~mm} \) 
+
+(D) - \( 298.8 \mathrm{~mm} \) 
+
+###
+Misconceptions:
+(A) - Thinks that removing \( 1.2 \) cm is approximately \( 12 \) mm instead of \( 1.2 \) mm. 
+
+(B) - Correct answer.
+
+(C) - Incorrectly thinks \( 1.2 \) cm equals \( 100 \) mm instead of converting correctly to \( 12 \) mm.
+
+(D) - Incorrectly miscalculates the conversion, thinking \( 3 \) m translates to \( 300 \) mm instead of \( 3000 \) mm. 
+
+###
+Subject: Length Units
+###
+ConstructName: Convert between m and mm
+###
+CorrectAnswer: B

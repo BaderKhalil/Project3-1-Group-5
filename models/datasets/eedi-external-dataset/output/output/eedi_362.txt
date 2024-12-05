@@ -1,0 +1,29 @@
+###
+Question: A line has the equation \( 2x - 5y = 10 \). What is its gradient?
+
+###
+Answers:
+(A) - \( \frac{2}{5} \) 
+
+(B) - \( 5 \) 
+
+(C) - \( -\frac{2}{5} \) 
+
+(D) - \( -5 \) 
+
+###
+Misconceptions:
+(A) - Believes the gradient is found by taking the coefficient of \( x \) directly without considering its sign and relationship with \( y \).
+
+(B) - Thinks that for a line in the form \( ax + by = c \), the coefficient of \( y \) represents the gradient.
+
+(C) - Correctly identifies the gradient but incorrectly simplifies or retrieves the slope from the equation.
+
+(D) - Incorrectly assumes that the gradient changes with the sign of the constant term in the equation.
+
+###
+Subject: Finding the Gradient and Intercept of a Line from the Equation
+###
+ConstructName: Find the gradient of a line written in the form ax + by = c
+###
+CorrectAnswer: C

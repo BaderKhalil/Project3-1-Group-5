@@ -1,0 +1,29 @@
+###
+Question: Sarah needs to find how much is left when she subtracts \( 275 \) from a number. Which one of the following strategies would give her the correct result?
+
+###
+Answers:
+(A) - \( +300 \) then \( -25 \)
+
+(B) - \( -300 \) then \( +25 \)
+
+(C) - \( -275 \) then \( +0 \)
+
+(D) - \( +275 \) then \( -0 \)
+
+###
+Misconceptions:
+(A) - Misunderstands the order of operations and how to adjust figures.
+
+(B) - Confuses the operation of subtraction with addition when adjusting the values.
+
+(C) - Does not recognize that not making any adjustment does not subtract \( 275 \).
+
+(D) - Believes that adding then subtracting zero results in a subtraction of the original number.
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Recognise and use efficient strategies for mental subtraction
+###
+CorrectAnswer: A

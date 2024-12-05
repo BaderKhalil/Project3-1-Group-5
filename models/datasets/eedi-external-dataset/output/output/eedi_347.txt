@@ -1,0 +1,29 @@
+###
+Question: Determine the final position \( (s) \) of a car when initial position \( (s_0)=10 \) meters, initial velocity \( (u)=3 \mathrm{~ms}^{-1} \), and time \( (t) \) is \( 7 \) seconds. Use the formula \( s=s_0 + ut \).
+
+###
+Answers:
+(A) - \( \begin{array}{c}s=10 + 3 + 7 \\ s=20\end{array} \) 
+
+(B) - \( \begin{array}{c}s=10 + (3 \times 7) \\ s=31\end{array} \) 
+
+(C) - \( \begin{array}{c}s=10 + (3 + 7) \\ s=20\end{array} \) 
+
+(D) - \( \begin{array}{c}s=10 + 3 \times 7 \\ s=31\end{array} \) 
+
+###
+Misconceptions:
+(A) - Believes that all variables can simply be added without considering the correct application of the formula. 
+
+(B) - Confuses the operation of multiplication with the addition of the initial position leading to an incorrect sum.
+
+(C) - Thinks the addition inside the parentheses is the correct representation of the car's position instead of applying the formula correctly.
+
+(D) - Correctly applies the formula but misunderstands the sequence of operations resulting in the right answer.
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive non-integer values into formulae involving powers or roots
+###
+CorrectAnswer: D

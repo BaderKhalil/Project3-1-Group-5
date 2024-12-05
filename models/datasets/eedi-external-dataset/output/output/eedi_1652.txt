@@ -1,0 +1,32 @@
+###
+Question: When completing the square for the expression, what value should be placed in the box?  
+\[
+x^{2}+8x \boxed{?}
+\] 
+
+###
+Answers:
+(A) - 16 
+
+(B) - 14 
+
+(C) - 8 
+
+(D) - 12 
+
+###
+Misconceptions:
+(A) - Correctly identifies the square of half the coefficient of x but fails to apply it to the original expression. 
+
+(B) - Incorrectly believes that \( b \) in the form (x + a)² + b can be found by simply adding the coefficients without squaring. 
+
+(C) - Mistakenly uses the original coefficient as the value instead of calculating half of it. 
+
+(D) - Thinks that the square constant is achieved by just adding the x's coefficient directly without proper consideration of squaring. 
+
+###
+Subject: Completing the Square
+###
+ConstructName: Complete the square for expressions that end up in the form (x + a)² + b
+###
+CorrectAnswer: A

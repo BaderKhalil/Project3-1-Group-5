@@ -1,0 +1,29 @@
+###
+Question: \( 23.4875 \) to \( 2 \) decimal places is.... 
+
+###
+Answers:
+(A) - \( 23.49 \) 
+
+(B) - \( 23.48 \) 
+
+(C) - \( 23.50 \) 
+
+(D) - \( 23.47 \) 
+
+###
+Misconceptions:
+(A) - Rounds incorrectly by ignoring the next digit 
+
+(B) - Rounds down instead of up 
+
+(C) - Incorrectly adds one to the last decimal while ignoring the impact of the next digit 
+
+(D) - Rounds down incorrectly by changing the last place value 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to two decimal places
+###
+CorrectAnswer: A

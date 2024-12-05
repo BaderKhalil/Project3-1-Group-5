@@ -1,0 +1,33 @@
+###
+Question: \(
+5(2y + 3) - 3(4 - y) \equiv Cy + D
+\)
+
+What is the value of \( C \) ? 
+
+###
+Answers:
+(A) - \( 6 \) 
+
+(B) - \( 7 \) 
+
+(C) - \( 5 \) 
+
+(D) - \( 17 \) 
+
+###
+Misconceptions:
+(A) - Assumes the negative sign in front of the second bracket only applies to the constant term
+
+(B) - Incorrectly combines terms, miscalculating the distribution of coefficients 
+
+(C) - Fails to recognize that additional coefficients contribute to the variable term
+
+(D) - n/a
+
+###
+Subject: Expanding Single Brackets
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just one linear variable
+###
+CorrectAnswer: A

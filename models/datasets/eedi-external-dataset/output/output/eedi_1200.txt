@@ -1,0 +1,29 @@
+###
+Question: A box contains \( 6 \) blue marbles and \( 3 \) green marbles. If Jake randomly selects \( 4 \) marbles from the box, what is the denominator of the final unsimplified answer for the probability that all selected marbles are blue?
+
+###
+Answers:
+(A) - \( 72 \)
+
+(B) - \( 162 \)
+
+(C) - \( 168 \)
+
+(D) - \( 500 \)
+
+###
+Misconceptions:
+(A) - Ignores the need to account for combinations when selecting multiple items. 
+
+(B) - Miscalculates the total combinations possible rather than using the correct formula. 
+
+(C) - nan 
+
+(D) - Misunderstands that selections of items without replacement affects the total combinations. 
+
+###
+Subject: Tree Diagrams with Dependent Events
+###
+ConstructName: Calculate the probability of three or more dependent events occurring without drawing a tree diagram
+###
+CorrectAnswer: C

@@ -1,0 +1,39 @@
+###
+Question: Here are the temperatures in degrees Celsius of \( 3 \) cities:
+City A: \( -3.5^{\circ} C \)
+City B: \( -1.2^{\circ} C \)
+City C: \( -4.7^{\circ} C \)
+Arrange their temperatures in ascending order, starting with the coldest 
+
+###
+Answers:
+(A) - \( 1^{\text {st }} \) City C
+\( 2^{\text {nd }} \) City A
+\( 3^{\text {rd }} \) City B 
+
+(B) - \( 1^{\text {st }} \) City A
+\( 2^{\text {nd }} \) City C
+\( 3^{\text {rd }} \) City B 
+
+(C) - \( \begin{array}{l}1^{\text {st }} \text { City B } \\ 2^{\text {nd }} \text { City A } \\ 3^{\text {rd }} \text { City C }\end{array} \) 
+
+(D) - \( 1^{\text {st }} \) City C
+\( 2^{\text {nd }} \) City B
+\( 3^{\text {rd }} \) City A 
+
+###
+Misconceptions:
+(A) - Believes that a smaller number (more negative) can still be greater if the absolute value is larger without recognizing the context of temperature. 
+
+(B) - Incorrectly assumes all negative numbers are colder in their absolute terms and does not account for their values appropriately. 
+
+(C) - Thinks that temperatures close to zero are the coldest, disregarding the need to compare negative values accurately. 
+
+(D) - nan 
+
+###
+Subject: Ordering Negative Numbers
+###
+ConstructName: Order negative decimals with the same number of digits
+###
+CorrectAnswer: A

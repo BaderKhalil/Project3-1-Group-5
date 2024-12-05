@@ -1,0 +1,32 @@
+###
+Question: \begin{tabular}{llll|l|l}
+\( x \) & \( -2 \) & \( -1 \) & \( 0 \) & \( 1 \) & \( 2 \) \\
+\hline\( y \) &  & \( 4 \) &  &  & 
+\end{tabular} This is a table of values for \( y=x^{2}+2x \) What should replace the blank in the first row? 
+
+###
+Answers:
+(A) - \( 0 \)
+
+(B) - \( 8 \)
+
+(C) - \( 2 \)
+
+(D) - \( 6 \)
+
+###
+Misconceptions:
+(A) - Incorrectly thinks the value for \( y \) at \( x = -2 \) should simply be \( 0 \) without calculating.
+
+(B) - Overlooks the quadratic's growth leading to an exaggerated value.
+
+(C) - Fails to square the input correctly when calculating the output.
+
+(D) - Misunderstands the linear addition of the square term, leading to an erroneous value.
+
+###
+Subject: Plotting Quadratics from Tables of Values
+###
+ConstructName: Given a negative x value, find the corresponding y value for curves in the form y = x² + bx
+###
+CorrectAnswer: D

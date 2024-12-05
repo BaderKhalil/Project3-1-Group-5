@@ -1,0 +1,29 @@
+###
+Question: How many degrees are there in \( 2 \frac{1}{2} \) full turns?
+
+###
+Answers:
+(A) - \( 900^{\circ} \) 
+
+(B) - \( 720^{\circ} \) 
+
+(C) - \( 450^{\circ} \) 
+
+(D) - \( 180^{\circ} \) 
+
+###
+Misconceptions:
+(A) - Believes that 2.5 turns equate to 2 times \( 360^{\circ} \) plus an additional \( 180^{\circ} \).
+
+(B) - Calculates only two complete \( 360^{\circ} \) turns without accounting for the additional half turn.
+
+(C) - Thinks \( 450^{\circ} \) represents two and a quarter turns, mistakenly counting increments incorrectly.
+
+(D) - Incorrectly believes that any fraction of a turn only accounts for \( 180^{\circ} \) as a half turn.
+
+###
+Subject: Measuring Angles
+###
+ConstructName: Identify the number of degrees in fractions of a turn
+###
+CorrectAnswer: A

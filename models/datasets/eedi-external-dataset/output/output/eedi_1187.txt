@@ -1,0 +1,29 @@
+###
+Question: Which fraction is the largest? 
+
+###
+Answers:
+(A) - \( \frac{3}{4} \) 
+
+(B) - \( \frac{5}{6} \) 
+
+(C) - \( \frac{2}{3} \) 
+
+(D) - \( \frac{4}{5} \) 
+
+###
+Misconceptions:
+(A) - Misunderstands that all fractions with larger numerators are greater regardless of denominators. 
+
+(B) - nan 
+
+(C) - Assumes that fractions with smaller numerators are always less, without considering the denominators. 
+
+(D) - Believes that the fraction with the closest numerator to the denominator is always the largest. 
+
+###
+Subject: Comparing Fractions
+###
+ConstructName: Compare fractions with different numerators and denominators
+###
+CorrectAnswer: B

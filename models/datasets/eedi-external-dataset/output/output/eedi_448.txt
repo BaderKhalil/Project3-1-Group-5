@@ -1,0 +1,33 @@
+###
+Question: If the equation is \( y=\frac{5}{x} \), what should replace the star in the following table of values? \begin{tabular}{|l|l|}
+\hline\( x \) & \( 0.2 \) \\
+\hline\( y \) & \(\color{gold}\bigstar\) \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( 25 \) 
+
+(B) - \( 2.5 \) 
+
+(C) - \( 5 \) 
+
+(D) - \( 20 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly applies the formula leading to squaring instead of dividing 
+
+(B) - Misunderstands division as subtraction 
+
+(C) - Confuses the result of the fraction with the numerator 
+
+(D) - Believes that when the fraction bar is present, it represents multiplication 
+
+###
+Subject: Cubics and Reciprocals
+###
+ConstructName: Given a positive x value, find the corresponding y value for reciprocal graphs
+###
+CorrectAnswer: A

@@ -1,0 +1,34 @@
+###
+Question: \(2, 8, 20, 38, 62, \ldots\)
+
+When calculating the nth-term rule of this sequence, 
+what should replace the diamond?
+
+nth-term rule: \( n^{2} \)\( \color{red}\diamond \)\( n \) \( \color{purple}\square \)
+
+###
+Answers:
+(A) - \( -2 \)
+
+(B) - \( +4 \)
+
+(C) - \( +6 \)
+
+(D) - \( +8 \)
+
+###
+Misconceptions:
+(A) - Thinks that the constant term should decrease, confusing the overall pattern with subtraction rather than adding change. 
+
+(B) - Believes that the linear component of the nth-term rule is always the product of the first term's difference. 
+
+(C) - Incorrectly calculates the second difference and concludes that it suggests a smaller increment in the linear term. 
+
+(D) - nan 
+
+###
+Subject: Quadratic Sequences
+###
+ConstructName: Find the nth term rule for ascending quadratic sequences in the form x² + bx + c
+###
+CorrectAnswer: D

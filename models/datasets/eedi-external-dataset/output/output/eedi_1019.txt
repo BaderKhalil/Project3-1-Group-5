@@ -1,0 +1,29 @@
+###
+Question: Simplify the expression \( \frac{x^{2}+5x+6}{x+2} \).
+
+###
+Answers:
+(A) - \( x+3 \)
+
+(B) - \( x+1 \)
+
+(C) - \( x+2 \)
+
+(D) - None of the options
+
+###
+Misconceptions:
+(A) - Does not correctly apply factoring techniques.
+
+(B) - Incorrectly simplifies the expression without proper factorization.
+
+(C) - Misunderstands how to simplify the expression by not factoring.
+
+(D) - Fails to recognize an opportunity to simplify via factorization.
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising the numerator
+###
+CorrectAnswer: A

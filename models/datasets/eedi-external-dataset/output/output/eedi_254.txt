@@ -1,0 +1,32 @@
+###
+Question: What is the correct formula to calculate the mean of the following numbers?
+\[
+2, 5, 8, 10
+\]
+
+###
+Answers:
+(A) - \( \frac{2+5+8+10}{4} \)
+
+(B) - \( 2 + 5 + 8 + 10 \div 4 \)
+
+(C) - \( \frac{2+5+8+10+0}{5} \)
+
+(D) - None of them
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly applies order of operations by performing the division after addition 
+
+(C) - Incorrectly counts an extra zero in the data set and divides by an incorrect total 
+
+(D) - Lacks understanding of how to compute an average 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Calculate the mean as an average from a list of data
+###
+CorrectAnswer: A

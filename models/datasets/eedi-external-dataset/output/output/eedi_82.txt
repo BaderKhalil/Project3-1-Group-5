@@ -1,0 +1,29 @@
+###
+Question: Which of the following represents " \( y \) is less than or equal to \( 15 \) "? 
+
+###
+Answers:
+(A) - \( y<15 \) 
+
+(B) - \( y \geq 15 \) 
+
+(C) - \( y \leq 15 \) 
+
+(D) - \( y>15 \) 
+
+###
+Misconceptions:
+(A) - Ignores the equal part of the inequality 
+
+(B) - Confuses the direction of the inequality, thinking greater than means less than 
+
+(C) - nan 
+
+(D) - Misunderstands the inequality symbols, believing "greater than" includes all numbers 
+
+###
+Subject: Inequalities on Number Lines
+###
+ConstructName: Understand inequality notation
+###
+CorrectAnswer: C

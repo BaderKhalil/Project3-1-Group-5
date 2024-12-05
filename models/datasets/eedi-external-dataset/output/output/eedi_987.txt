@@ -1,0 +1,29 @@
+###
+Question: What number should be placed in the blank to make these two fractions equivalent? \( \frac{3}{5}=\frac{?}{15} \)
+
+###
+Answers:
+(A) - \( 6 \)
+
+(B) - \( 9 \)
+
+(C) - \( 10 \)
+
+(D) - \( 12 \)
+
+###
+Misconceptions:
+(A) - Thinks that equivalent fractions are found through simple addition rather than understanding the multiplicative relationship.
+
+(B) - Assumes that the numerator must be greater than the denominator for the fractions to be equivalent.
+
+(C) - Correctly calculates but overlooks the need for proportional scaling when determining equivalents.
+
+(D) - Misunderstands the concept of equivalent fractions by confusing multiplication with fractions.
+
+###
+Subject: Equivalent Fractions
+###
+ConstructName: Identify equivalent fractions when presented as numbers
+###
+CorrectAnswer: C

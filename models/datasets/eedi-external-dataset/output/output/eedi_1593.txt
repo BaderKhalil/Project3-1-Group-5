@@ -1,0 +1,29 @@
+###
+Question: In the diagram, lines AB and CD are shown with a line EF crossing them. What type of line is EF? ![A pair of parallel lines are shown with a straight line, EF, crossing them at an angle.]() 
+
+###
+Answers:
+(A) - Parallel 
+
+(B) - A transversal 
+
+(C) - Perpendicular 
+
+(D) - Intersecting 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes EF runs alongside AB and CD without crossing them. 
+
+(B) - nan 
+
+(C) - Believes any line that crosses another must form right angles. 
+
+(D) - Thinks intersecting lines do not have to have any specific relationship to other lines. 
+
+###
+Subject: Angle Facts with Parallel Lines
+###
+ConstructName: Identify a transversal
+###
+CorrectAnswer: B

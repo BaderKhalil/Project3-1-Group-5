@@ -1,0 +1,38 @@
+###
+Question: \begin{tabular}{|c|c|c|}
+\hline Age Group & Frequency & Age Group \( \times \) Frequency \\
+\hline \( 10-19 \) & \( 5 \) & \( 70 \) \\
+\hline \( 20-29 \) & \( 8 \) & \( 144 \) \\
+\hline \( 30-39 \) & \( 6 \) & \( 180 \) \\
+\hline \( 40-49 \) & \( 4 \) & \( 160 \) \\
+\hline
+\end{tabular} The table shows the age groups of participants in a survey.
+
+What does the "144" represent? 
+
+###
+Answers:
+(A) - The total number of participants in the \( 20-29 \) age group 
+
+(B) - The average age of the participants in the \( 8 \) households 
+
+(C) - The total age of all participants in the \( 20-29 \) age group 
+
+(D) - The mean age of participants in the \( 20-29 \) age group 
+
+###
+Misconceptions:
+(A) - Confuses the variable and frequency columns in a frequency table 
+
+(B) - Misunderstands the application of average in the context of age groups 
+
+(C) - nan 
+
+(D) - Does not grasp how to calculate the mean from frequency data 
+
+###
+Subject: Averages and Range from Frequency Table
+###
+ConstructName: Interpret numbers in a frequency table
+###
+CorrectAnswer: C

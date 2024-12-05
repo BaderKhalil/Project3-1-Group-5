@@ -1,0 +1,29 @@
+###
+Question: Rearrange the following equation to make \( x \) the subject \( A = \frac{1}{2} b h x \)
+
+###
+Answers:
+(A) - \( x = \frac{A}{b h} \)
+
+(B) - \( x = A \cdot \frac{2}{b h} \)
+
+(C) - \( x = 2 \cdot \frac{A}{b h} \)
+
+(D) - \( x = \frac{b h}{2A} \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the relationship between multiplication and division, incorrectly scales by \( 2 \) instead of simplifying. 
+
+(C) - Incorrectly applies a multiplication factor instead of isolating the variable correctly. 
+
+(D) - Confuses the operation by reversing the order of variables and operations incorrectly. 
+
+###
+Subject: Rearranging Formula and Equations
+###
+ConstructName: Rearrange formulae to change the subject where the subject appears once and two steps are needed
+###
+CorrectAnswer: A

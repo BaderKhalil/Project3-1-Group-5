@@ -1,0 +1,29 @@
+###
+Question: At a fruit market, \( \frac{2}{5} \) of the fruits are apples, \( \frac{1}{2} \) are bananas, and \( \frac{3}{10} \) are oranges. Which type of fruit is there the most of? 
+
+###
+Answers:
+(A) - Apples 
+
+(B) - Bananas 
+
+(C) - Oranges 
+
+(D) - There is the same amount of each. 
+
+###
+Misconceptions:
+(A) - Does not compare the fractions correctly because of different denominators.
+
+(B) - Fails to find a common denominator when comparing fractions. 
+
+(C) - Confuses fraction sizes without finding a common denominator. 
+
+(D) - Incorrectly assumes equality without proper comparison of fractions. 
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Order fractions whose denominators are multiples of the same number 
+###
+CorrectAnswer: B

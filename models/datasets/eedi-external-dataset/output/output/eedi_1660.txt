@@ -1,0 +1,29 @@
+###
+Question: What expression should replace the question mark in the equation? ![An equation showing 3x + 4y and ? on the left side, and 7x + 8y on the right side.]()
+
+###
+Answers:
+(A) - \( 4x + 4y \)
+
+(B) - \( 10x + 8y \)
+
+(C) - \( 4x + 5y \)
+
+(D) - \( 4x + 4y + 2y \)
+
+###
+Misconceptions:
+(A) - Believes that only one term needs to be added to reach equivalency, neglecting the overall needed coefficient adjustments.
+
+(B) - Incorrectly thinks that the operation involves adding the coefficients in a way that they should be added separately, rather than solving for the entire expression.
+
+(C) - Fails to realize that terms involving ‘y’ are not being properly combined or equated.
+
+(D) - Incorrectly adds extra terms without considering simplification or maintaining the balance of the equation.
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just two linear variables
+###
+CorrectAnswer: A

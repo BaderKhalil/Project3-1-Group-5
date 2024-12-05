@@ -1,0 +1,29 @@
+###
+Question: Which image shows the correct reflection of the shape across the vertical line of symmetry? ![A figure drawn on the left side of a vertical dashed line. ]() 
+
+###
+Answers:
+(A) - ![An incorrect reflection of the given figure. ]() 
+
+(B) - ![A correct reflection of the given figure. ]() 
+
+(C) - ![An incorrect reflection of the given figure. ]() 
+
+(D) - ![An incorrect reflection of the given figure, misaligned with the vertical line. ]() 
+
+###
+Misconceptions:
+(A) - Assumes that the left shape doesn't need to match the right side  
+
+(B) - nan  
+
+(C) - Fails to recognize that the right side should mirror the left side exactly 
+
+(D) - Misunderstands that reflections can only be exact across the line of symmetry and not just approximate  
+
+###
+Subject: Line Symmetry
+###
+ConstructName: Complete a symmetric figure with respect to a specific line of symmetry
+###
+CorrectAnswer: B

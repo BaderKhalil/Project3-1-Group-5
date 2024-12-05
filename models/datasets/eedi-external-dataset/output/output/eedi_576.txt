@@ -1,0 +1,32 @@
+###
+Question: \[
+6789.4321
+\]
+What is this number rounded to \( 2 \) decimal places? 
+
+###
+Answers:
+(A) - \( 6789.43 \) 
+
+(B) - \( 6800 \) 
+
+(C) - \( 6789.44 \) 
+
+(D) - \( 6789.40 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Rounds to the wrong degree of accuracy (rounds too much) 
+
+(C) - Rounds the second decimal incorrectly when rounding up 
+
+(D) - Rounds down instead of rounding correctly 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to two decimal places
+###
+CorrectAnswer: A

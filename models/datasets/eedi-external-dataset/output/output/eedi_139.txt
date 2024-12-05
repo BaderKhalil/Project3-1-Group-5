@@ -1,0 +1,30 @@
+###
+Question: Jacob is expanding these two brackets.
+What should he get when he multiplies the two terms indicated by the arrows? ![The two brackets are (6x + 5)(3x + 2). The arrows are pointing at the 5 in the first bracket and the 2 in the second bracket.]() 
+
+###
+Answers:
+(A) - \( 10 \)
+
+(B) - \( 12 \)
+
+(C) - \( 1 \)
+
+(D) - \( 15 \)
+
+###
+Misconceptions:
+(A) - Believes that multiplying two positive numbers gives a product that adds instead of multiplies
+
+(B) - Calculates using figures from the brackets incorrectly, misunderstanding the indicating terms
+
+(C) - Thinks he should subtract one term from another instead of multiplying them
+
+(D) - Incorrectly adds the two terms instead of multiplying
+
+###
+Subject: Expanding Double Brackets
+###
+ConstructName: Expand two brackets with linear terms in the form (ax + b)(cx + d)
+###
+CorrectAnswer: A

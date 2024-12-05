@@ -1,0 +1,29 @@
+###
+Question: If \( x=3 \) what is the value of \( 4x + 5 \) ?
+
+###
+Answers:
+(A) - \( 17 \) 
+
+(B) - \( 20 \) 
+
+(C) - \( 10 \) 
+
+(D) - \( 15 \) 
+
+###
+Misconceptions:
+(A) - Believes that they added incorrectly or miscalculated the multiplication step. 
+
+(B) - Considers \( 4x \) as \( 4 \) multiplied by \( x \) squared. 
+
+(C) - May have forgotten to substitute \( x \) into the expression completely. 
+
+(D) - Incorrectly assumes that the equation involves subtraction. 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive integer values into expressions involving no powers or roots
+###
+CorrectAnswer: A

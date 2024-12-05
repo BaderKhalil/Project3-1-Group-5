@@ -1,0 +1,29 @@
+###
+Question: Simplify the following: \( \frac{15 x^{4}}{10 x^{3}+5 x^{2}} \) 
+
+###
+Answers:
+(A) - \( \frac{3 x^{4}}{2 x+1} \) 
+
+(B) - \( \frac{3 x^{3}}{2+x} \) 
+
+(C) - \( \frac{3 x^{2}}{2+1} \) 
+
+(D) - \( \frac{3 x^{3}}{2 x+1} \) 
+
+###
+Misconceptions:
+(A) - Thinks the numerator and the denominator are simplified correctly but does not factor out correctly 
+
+(B) - Thinks you can divide terms by different factors when simplifying an algebraic fraction 
+
+(C) - Ignores the variable in the denominator; incorrect interpretation of the problem 
+
+(D) - Correctly simplifies the terms but does not fully reduce the fraction 
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising the denominator
+###
+CorrectAnswer: D

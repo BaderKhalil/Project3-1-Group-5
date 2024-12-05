@@ -1,0 +1,29 @@
+###
+Question: ![An image of several parallel lines and a transversal on a coordinate plane. The transversal forms angles with the parallels. Lines PQ and RS are parallel horizontal lines, AB and CD are vertical lines, and EF is a diagonal line cutting through them at various angles.]() Which angle is corresponding to angle \( \mathrm{EF} \)? 
+
+###
+Answers:
+(A) - Angle \( \mathrm{AB} \) 
+
+(B) - Angle \( \mathrm{PQ} \) 
+
+(C) - Angle \( \mathrm{RS} \) 
+
+(D) - Angle \( \mathrm{CD} \) 
+
+###
+Misconceptions:
+(A) - Confuses corresponding angles with alternate interior angles 
+
+(B) - Does not recognize that horizontal lines cannot correspond to angles formed by a transversal 
+
+(C) - Believes that parallel lines create angles with their direct intersections which are not corresponding 
+
+(D) - Correctly identifies the angle but misplaces the relation to transversal intersections 
+
+###
+Subject: Parallel Lines
+###
+ConstructName: Recognise corresponding angles
+###
+CorrectAnswer: D

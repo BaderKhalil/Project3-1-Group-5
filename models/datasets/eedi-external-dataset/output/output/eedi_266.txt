@@ -1,0 +1,32 @@
+###
+Question: \(
+2 \frac{1}{2} \times 3
+\)
+Which of the following is a correct way to write the answer to this calculation? 
+
+###
+Answers:
+(A) - \( 7 \frac{1}{2} \) 
+
+(B) - \( 5 \frac{1}{2} \) 
+
+(C) - \( 6 \frac{1}{2} \) 
+
+(D) - \( 5 \frac{2}{4} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - When multiplying mixed numbers, forgets to multiply the whole number part correctly 
+
+(C) - When multiplying a mixed number by an integer, adds the fraction incorrectly to the product 
+
+(D) - When converting a mixed number, confuses the simplification steps with adding fractions 
+
+###
+Subject: Multiplying Fractions
+###
+ConstructName: Multiply mixed number fractions in the form: Fraction × Integer
+###
+CorrectAnswer: A

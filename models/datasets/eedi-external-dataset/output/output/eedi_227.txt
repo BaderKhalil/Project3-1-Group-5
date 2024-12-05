@@ -1,0 +1,31 @@
+###
+Question: Which of these pairs of numbers does not satisfy the inequality \( a < b \)?
+
+Can you identify the pair?
+
+###
+Answers:
+(A) - \( \begin{array}{l}a=3 \\ b=5\end{array} \)
+
+(B) - \( \begin{array}{c}a=-2 \\ b=1\end{array} \)
+
+(C) - \( \begin{array}{c}a=4 \\ b=4\end{array} \)
+
+(D) - \( \begin{array}{c}a=-1 \\ b=0\end{array} \)
+
+###
+Misconceptions:
+(A) - Understands inequality notation correctly 
+
+(B) - Understands inequality notation correctly 
+
+(C) - Believes that equal values satisfy the inequality 
+
+(D) - Understands inequality notation correctly 
+
+###
+Subject: Inequalities on Number Lines
+###
+ConstructName: Use inequality notation to order a negative and a positive integer
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: In the diagram, PQ : QR \(= 2: 5\). What is the length of segment PQ? ![A line that begins with point P, ends with point R, and has point Q in between. The entire length of the line measures 70 m.]()
+
+###
+Answers:
+(A) - \( 10 \mathrm{~m} \)
+
+(B) - \( 20 \mathrm{~m} \)
+
+(C) - \( 14 \mathrm{~m} \)
+
+(D) - \( 28 \mathrm{~m} \)
+
+###
+Misconceptions:
+(A) - Errors in scaling the ratio by not considering the complete division of the total length.
+
+(B) - Fails to recognize the order of segments in the ratio leading to calculating the wrong segment.
+
+(C) - Calculates one part of the ratio without accounting for the total number of parts.
+
+(D) - nan 
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Divide a quantity into two parts for a given ratio, where each part is an integer
+###
+CorrectAnswer: D

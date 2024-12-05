@@ -1,0 +1,29 @@
+###
+Question: ![A number line between 0 and 1 split into 4 parts with a red arrow pointing to the marker representing the value 0.25]() What number is the arrow pointing to? 
+
+###
+Answers:
+(A) - \( 0.25 \) 
+
+(B) - \( 0.5 \) 
+
+(C) - \( 2.5 \) 
+
+(D) - \( 0.75 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misinterprets the position on the number line, thinking the arrow is pointing to the halfway mark. 
+
+(C) - Confuses the decimal with a whole number, misplacing the decimal point. 
+
+(D) - Misreads the placement on the number line, assuming it is for the larger value. 
+
+###
+Subject: Ordering Decimals
+###
+ConstructName: Read a decimal on a scale where the required measurement is marked by a dash between two numbers
+###
+CorrectAnswer: A

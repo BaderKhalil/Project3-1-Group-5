@@ -1,0 +1,29 @@
+###
+Question: What is the perimeter of this rectangle? ![A rectangle drawn on a square grid in blue with a length of 5 squares and a width of 2 squares.]() 
+
+###
+Answers:
+(A) - \( 10 \) 
+
+(B) - \( 14 \) 
+
+(C) - \( 12 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Fails to correctly add both dimensions multiple times when calculating the perimeter. 
+
+(B) - Incorrectly counts the total number of squares inside the shape as perimeter. 
+
+(C) - nan 
+
+(D) - Only calculates one set of opposite sides and omits the other in perimeter calculation. 
+
+###
+Subject: Perimeter of Simple Shapes
+###
+ConstructName: Calculate the perimeter of a rectangle using length and width
+###
+CorrectAnswer: C

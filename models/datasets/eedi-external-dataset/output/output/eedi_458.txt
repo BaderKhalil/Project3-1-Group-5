@@ -1,0 +1,29 @@
+###
+Question: A fruit salad contains apples and bananas in the ratio \( 5: 2 \). What fraction of the salad is made up of bananas? 
+
+###
+Answers:
+(A) - \( \frac{2}{7} \) 
+
+(B) - \( \frac{5}{7} \) 
+
+(C) - \( \frac{2}{5} \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Correctly identifies the fraction of bananas but miscalculates the total parts. 
+
+(B) - Confuses the ratio components and thinks more of the salad is bananas than is actually present. 
+
+(C) - Incorrectly uses the ratio of bananas directly without considering the total parts involved. 
+
+(D) - Fails to recognize the direct relationship between the ratio and the fraction composition of the salad. 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Convert ratios to fractions
+###
+CorrectAnswer: A

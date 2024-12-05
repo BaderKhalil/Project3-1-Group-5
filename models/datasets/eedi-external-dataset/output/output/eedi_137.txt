@@ -1,0 +1,38 @@
+###
+Question: Aisha is analyzing the graph of the following piecewise function:
+\(
+y=\left\{\begin{array}{c}
+5 \text { for } 0 \leq x<2 \\
+Q \text { for } 2 \leq x<5 \\
+1.5 \text { for } 5 \leq x<8
+\end{array}\right.
+\)
+
+What are the values of \( P \) and \( Q \)? ![The graph consists of three horizontal lines at heights 5, \( Q \), and 1.5 for their respective domains.]() 
+
+###
+Answers:
+(A) - \( \begin{array}{c}P=2 \\ Q=3\end{array} \) 
+
+(B) - \( \begin{array}{c}P=3 \\ Q=4\end{array} \) 
+
+(C) - \( \begin{array}{l}P=4 \\ Q=2\end{array} \) 
+
+(D) - \( \begin{array}{l}P=5 \\ Q=1\end{array} \) 
+
+###
+Misconceptions:
+(A) - Assumes the value of \( Q \) should be below the highest value instead of correctly identifying it from the graph.
+
+(B) - Incorrectly infers the heights from the graph, not taking into account the continuity of the function. 
+
+(C) - Chooses \( Q \) based on the nearest marked value without accurately determining its height from the graph.
+
+(D) - Incorrectly assumes the function continues to decrease and misreads the graph.
+
+###
+Subject: Other Graphs-Others
+###
+ConstructName: Read values from piecewise functions
+###
+CorrectAnswer: C

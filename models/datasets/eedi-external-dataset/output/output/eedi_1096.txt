@@ -1,0 +1,29 @@
+###
+Question: What is the midpoint of \( (6, 2) \) and \( (2, -4) \) ?
+
+###
+Answers:
+(A) - \( (4, -1) \) 
+
+(B) - \( (8, -1) \) 
+
+(C) - \( (4, 3) \) 
+
+(D) - \( (3, 1) \) 
+
+###
+Misconceptions:
+(A) - Correct calculation of the midpoint
+
+(B) - Incorrectly adds the coordinates instead of averaging them
+
+(C) - Misinterprets the signs of the coordinates
+
+(D) - Incorrectly averages the x-coordinates, disregarding the y-coordinates
+
+###
+Subject: Midpoint Between Two Co-ordinates
+###
+ConstructName: Calculate the midpoint between two coordinates in 2D, where all the values are integers but at least one is negative
+###
+CorrectAnswer: A

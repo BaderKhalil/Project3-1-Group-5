@@ -1,0 +1,33 @@
+###
+Question: A store sells different flavors of ice cream. The pictogram shows the number of scoops of chocolate ice cream Mary has.
+
+Mary has \( 6 \) scoops of chocolate ice cream. 
+
+How would she represent this on the pictogram? ![A pictogram showing the number of scoops of ice cream in different flavors. Vanilla has 4 symbols, strawberry has 3 symbols, and chocolate has 1 and a half symbols. Each symbol represents 4 scoops.]() 
+
+###
+Answers:
+(A) - ![\( 1.5 \)]() 
+
+(B) - ![\( 1 \)]() 
+
+(C) - ![\( 2 \)]() 
+
+(D) - ![\( 1.25 \)]() 
+
+###
+Misconceptions:
+(A) - Thinks that 1.5 symbols can represent 6 scoops when 1 symbol stands for 4 scoops.
+
+(B) - Misunderstands the scale of the pictogram, equates 1 symbol to represent only 4 scoops.
+
+(C) - Correctly identifies that \( 2 \) symbols represent \( 8 \) scoops, not \( 6 \).
+
+(D) - Fails to account for the total scoops, incorrectly believes \( 1.25 \) symbols is an appropriate representation. 
+
+###
+Subject: Pictogram
+###
+ConstructName: Construct a pictogram involving whole symbols
+###
+CorrectAnswer: C

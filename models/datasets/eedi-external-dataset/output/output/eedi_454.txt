@@ -1,0 +1,29 @@
+###
+Question: ![A function machine with 4 rectangles in a row, joined by arrows pointing from left to right. The first rectangle on the left is empty and says "input" above it. The next rectangle has "÷ 3" written inside it, the next rectangle has "+ 5" written inside it and the final rectangle on the right has "output" written above it and "11" written inside it.]() What is the input of this function machine?
+
+###
+Answers:
+(A) - \( 18 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 9 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Applies the operations incorrectly by not reversing them properly and ends up increasing the output too much.
+
+(B) - nan 
+
+(C) - Does not correctly apply the inverse operations, leading to a mistaken input result.
+
+(D) - Misunderstands the order of operations leading to an incorrect final input calculation.
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given output find the input of a function machine
+###
+CorrectAnswer: C

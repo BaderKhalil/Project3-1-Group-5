@@ -1,0 +1,29 @@
+###
+Question: Which of the following represents " \( y \) is less than \( 4 \) "? 
+
+###
+Answers:
+(A) - \( y \geq 4 \) 
+
+(B) - \( y < 4 \) 
+
+(C) - \( y \leq 4 \) 
+
+(D) - \( y > 4 \) 
+
+###
+Misconceptions:
+(A) - Confuses greater than or equal to with less than, not understanding the direction of the inequality 
+
+(B) - nan 
+
+(C) - Mixes up the "less than" symbol with "less than or equal to," incorrectly including 4 
+
+(D) - Thinks "greater than" means includes a value less than, misunderstanding the comparative nature of the symbols 
+
+###
+Subject: Inequalities on Number Lines
+###
+ConstructName: Understand inequality notation
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: What is the value of \( 2^{3} \) ?
+
+###
+Answers:
+(A) - \( 6 \) 
+
+(B) - \( 8 \) 
+
+(C) - \( 9 \) 
+
+(D) - \( 12 \) 
+
+###
+Misconceptions:
+(A) - Adds the base and the exponent 
+
+(B) - nan 
+
+(C) - Squares the base and adds the base 
+
+(D) - Multiplies the base with the exponent incorrectly 
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Calculate the cube of a number
+###
+CorrectAnswer: B

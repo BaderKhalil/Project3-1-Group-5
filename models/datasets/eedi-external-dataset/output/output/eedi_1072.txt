@@ -1,0 +1,29 @@
+###
+Question: What is the measure of the angle shown on the protractor? ![An image of a protractor with a red line at 90° and another line at 120°.]()
+
+###
+Answers:
+(A) - \( 30^{\circ} \)
+
+(B) - \( 120^{\circ} \)
+
+(C) - \( 90^{\circ} \)
+
+(D) - \( 150^{\circ} \)
+
+###
+Misconceptions:
+(A) - Assumes the angle is acute when it is actually obtuse. 
+
+(B) - nan 
+
+(C) - Confuses the angle measure at 90° as the size of the angle itself rather than recognizing it's part of the angle measurement.
+
+(D) - Misinterprets the protractor scale, mistakenly reading the measurement on the wrong side of the angle.
+
+###
+Subject: Measuring Angles
+###
+ConstructName: Use a protractor to measure angles between 90° and 180°
+###
+CorrectAnswer: B

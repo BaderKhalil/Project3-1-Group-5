@@ -1,0 +1,26 @@
+###
+Question: ![\( \begin{array}{l}\star \star \star \triangle \triangle=30 \\ \star \star \triangle \triangle=24\end{array} \)]() What is the value of a star? 
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 7 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Assumes adding or multiplying the total numbers gives the correct value 
+(B) - Believes one can simply guess and check for one equation without considering all 
+(C) - Thinks that if the results are larger, it means each shape value is also larger 
+(D) - Confuses the relationship between the symbols and their values in the equations 
+
+###
+Subject: Simultaneous Equations
+###
+ConstructName: Solve basic introduction simultaneous equation problems, often involving shapes and symbols
+###
+CorrectAnswer: B

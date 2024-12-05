@@ -1,0 +1,29 @@
+###
+Question: Tom has a quadratic function represented in vertex form \( y = (\boldsymbol{x} - \boldsymbol{a})^{2} + \boldsymbol{b} \). If the vertex of the parabola is located at \( (3, -4) \), what is the value of \( \boldsymbol{b} \)? 
+
+###
+Answers:
+(A) - \( -3 \)
+
+(B) - \( 4 \)
+
+(C) - \( -4 \)
+
+(D) - \( 3 \)
+
+###
+Misconceptions:
+(A) - Believes the y-coordinate of the vertex is obtained by subtracting instead of observing the vertex directly.
+ 
+(B) - Incorrectly thinks that the vertex's \(y\)-coordinate should always be positive.
+
+(C) - nan 
+
+(D) - Misunderstands the coordinate system and thinks the coordinates of the vertex need to be swapped.
+
+###
+Subject: Sketching from Completing the Square Form
+###
+ConstructName: Given a sketch of a quadratic graph in the form (x - a)² + b, work out its completed square form
+###
+CorrectAnswer: C

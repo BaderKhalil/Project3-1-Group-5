@@ -1,0 +1,31 @@
+###
+Question: Emily is solving the equation \( 24=\frac{3+m}{6} \). She follows these steps: Step \( 1: \) \( 144=3+m \)
+
+Step \( 2: \) \( 141=m \) Which steps, if any, are correct?
+
+###
+Answers:
+(A) - Only step \( 1 \) 
+
+(B) - Only step \( 2 \) 
+
+(C) - Both steps are correct 
+
+(D) - Both steps are incorrect 
+
+###
+Misconceptions:
+(A) - Knows how to scale the equation correctly but does not simplify correctly afterwards. 
+
+(B) - Incorrectly assumes that the addition of \( 3 \) applies the same as direct substitution in the equation. 
+
+(C) - Fails to recognize that the second step does not logically follow from the first step correctly. 
+
+(D) - Does not understand how to deal with fractions and incorrectly simplifies the equation without proper operations. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: A

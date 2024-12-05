@@ -1,0 +1,29 @@
+###
+Question: What is the area of the triangle formed by the points (0,0), (4,0), and (0,3)? 
+
+###
+Answers:
+(A) 6 
+
+(B) 12 
+
+(C) 8 
+
+(D) 10 
+
+###
+Misconceptions:
+(A) - Believes area = base × height with an incorrect formula application. 
+
+(B) - Calculates based on the formula for the area of a rectangle instead of a triangle. 
+
+(C) - Misunderstands the formula for area and calculates incorrectly with added dimensions. 
+
+(D) - Believes area is found by only considering one side without dividing by 2. 
+
+###
+Subject: Area of triangles
+###
+ConstructName: Calculate the area of a triangle using vertex coordinates
+###
+CorrectAnswer: A

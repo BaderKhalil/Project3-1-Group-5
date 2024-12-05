@@ -1,0 +1,29 @@
+###
+Question: Without using a calculator, which two integers must \( \sqrt{50} \) lie between?
+
+###
+Answers:
+(A) - \( 6 \) and \( 7 \) 
+
+(B) - \( 7 \) and \( 8 \) 
+
+(C) - \( 5 \) and \( 6 \) 
+
+(D) - \( 10 \) and \( 11 \) 
+
+###
+Misconceptions:
+(A) - Assumes that \( \sqrt{50} \) is less than \( 49 \) but does not calculate correctly. 
+
+(B) - Misunderstands that \( 8^2 \) exceeds \( 50 \), hence \( \sqrt{50} \) cannot be between these integers.
+
+(C) - Incorrectly estimates that \( \sqrt{50} \) is similar to \( 36 \) which gives \( 6 \). 
+
+(D) - Confuses square rooting with adding or miscalculating, thinking it could fit between \( 10 \) and \( 11 \). 
+
+###
+Subject: Square Roots, Cube Roots, etc
+###
+ConstructName: Calculate which two integer values the decimal equivalent of a square root must lie between
+###
+CorrectAnswer: B

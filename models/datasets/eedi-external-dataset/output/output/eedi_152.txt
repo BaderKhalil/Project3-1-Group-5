@@ -1,0 +1,29 @@
+###
+Question: What is \( 2847 \) rounded to the nearest \( 100 \) ?
+
+###
+Answers:
+(A) - \( 2800 \)
+
+(B) - \( 2900 \)
+
+(C) - \( 2840 \)
+
+(D) - \( 2850 \)
+
+###
+Misconceptions:
+(A) - Rounds to the wrong degree of accuracy (rounds too much)
+
+(B) - Rounds to the wrong degree of accuracy (rounds too much)
+
+(C) - Believes that rounding must change the number
+
+(D) - Considers only the last digit instead of the two relevant digits
+
+###
+Subject: Written Division
+###
+ConstructName: Round integers to the nearest 100
+###
+CorrectAnswer: B

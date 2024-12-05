@@ -1,0 +1,29 @@
+###
+Question: A gardener plans to plant flowers in a rectangular flower bed that measures \( 8.4 \mathrm{~m} \) in length and \( 5.6 \mathrm{~m} \) in width. Which calculation will provide the best estimate of the area of the flower bed?
+
+###
+Answers:
+(A) - \( 8 \times 6 \)
+
+(B) - \( 8 \times 5 \)
+
+(C) - \( 9 \times 6 \)
+
+(D) - \( 8 \times 5.5 \)
+
+###
+Misconceptions:
+(A) - Only rounds down and does not account for the numbers in between.
+
+(B) - Rounds down and ignores the more precise estimate.
+
+(C) - Rounds up the length incorrectly, leading to an inaccurate area.
+
+(D) - Uses a decimal in multiplication, which can lead to confusion in estimation.
+
+###
+Subject: Estimation
+###
+ConstructName: Round decimals to the nearest whole number
+###
+CorrectAnswer: A

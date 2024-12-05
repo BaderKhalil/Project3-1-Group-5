@@ -1,0 +1,29 @@
+###
+Question: Which of the following expressions would correctly calculate the area of this rectangle? ![A rectangle with length 10m and width 4m]() 
+
+###
+Answers:
+(A) - \( 10 + 4 \)
+
+(B) - \( 10 \times 4 \)
+
+(C) - \( 10 - 4 \)
+
+(D) - \( 10 \times 4 \times 2 \)
+
+###
+Misconceptions:
+(A) - Adds the dimensions instead of multiplying them to find the area
+
+(B) - nan
+
+(C) - Subtracts the dimensions, which does not apply to area calculation
+
+(D) - Multiplies by 2, incorrectly treating it as a volume calculation instead of area
+
+###
+Subject: Area of Rectangles
+###
+ConstructName: Calculate the area of a rectangle using its length and width
+###
+CorrectAnswer: B

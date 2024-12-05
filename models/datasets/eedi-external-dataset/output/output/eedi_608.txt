@@ -1,0 +1,35 @@
+###
+Question: Sarah and John are talking about prime numbers.
+
+Sarah says \(7\) and \(11\) are prime numbers.
+
+John claims \(4\) and \(6\) are also prime numbers.
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only John
+
+(C) - Both Sarah and John
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Understands what prime numbers are but may overlook some cases.
+
+(B) - Incorrectly believes that even numbers can be prime, without considering divisibility.
+
+(C) - nan
+
+(D) - Does not know the definition of prime numbers at all
+
+###
+Subject: Number Theory
+###
+ConstructName: Recognise prime numbers
+###
+CorrectAnswer: A

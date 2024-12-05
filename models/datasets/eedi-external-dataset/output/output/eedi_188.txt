@@ -1,0 +1,29 @@
+###
+Question: Sarah and Mike are trying to reflect a triangle in the horizontal line of reflection. Who has done it correctly? ![A grid with a triangle drawn in the upper half and a blue line across the middle, marked 'line of reflection'. ]() ![Sarah does this: an image of a grid with a triangle drawn in the upper half, a blue line across the middle, and a triangle drawn directly below it at the same angle. ]() ![Mike does this: an image of a grid with a triangle drawn in the upper half, a blue line across the middle, and a triangle drawn further away from the line without maintaining the angle. ]() 
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only Mike 
+
+(C) - Both Sarah and Mike 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Fails to reflect the triangle accurately across mirror line 
+
+(B) - Fails to reflect the triangle at the correct distance relative to the line of reflection 
+
+(C) - Fails to reflect the triangle accurately across mirror line 
+
+(D) - nan 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a horizontal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: D

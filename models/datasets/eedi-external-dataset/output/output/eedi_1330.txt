@@ -1,0 +1,32 @@
+###
+Question: What is the median of the following numbers?
+\[
+3, 5, 2, 8, 7
+\]
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 7 \) 
+
+(D) - \( 3 \) 
+
+###
+Misconceptions:
+(A) - Correctly identifies the median after ordering, believing the middle value is indeed the true median 
+
+(B) - Miscalculates the median by averaging the two middle numbers instead of picking the middle one directly 
+
+(C) - Incorrectly assumes the largest number is the median without considering the correct order 
+
+(D) - Chooses the smallest number, misunderstanding that the median must be in the middle of the ordered list 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Calculate the median from a list of data
+###
+CorrectAnswer: A

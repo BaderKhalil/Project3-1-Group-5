@@ -1,0 +1,29 @@
+###
+Question: \( 3^{3} \times \sqrt{9} = \)
+
+###
+Answers:
+(A) - \( 27 \)
+
+(B) - \( 18 \)
+
+(C) - \( 36 \)
+
+(D) - \( 9 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands how to properly simplify the square root before performing multiplication. 
+
+(C) - Confuses the operations and mistakenly squares the root after multiplying. 
+
+(D) - Incorrectly substitutes the square root value without understanding the exponentiation involved. 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving roots
+###
+CorrectAnswer: A

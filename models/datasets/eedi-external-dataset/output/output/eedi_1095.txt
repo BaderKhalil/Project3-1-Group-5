@@ -1,0 +1,32 @@
+###
+        Question: \[
+4500
+\]
+Write this number using standard form 
+
+        ###
+        Answers:
+        (A) - \( 4.5 \times 10^{3} \) 
+
+        (B) - \( 4.5 \times 10^{4} \) 
+
+        (C) - \( 45 \times 10^{2} \) 
+
+        (D) - \( 0.45 \times 10^{4} \) 
+
+        ###
+        Misconceptions:
+        (A) - nan 
+
+        (B) - Misunderstands the proper power of ten when expressing standard form 
+
+        (C) - Incorrectly represents the initial value by misplacing the decimal 
+
+        (D) - Incorrectly scales the number by moving the decimal point too far to the left 
+
+        ###
+        Subject: Standard Form
+        ###
+        ConstructName: Write numbers greater than 1 in standard form
+        ###
+        CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+        Question: If you translate the triangle \( 3 \) squares up and \( 1 \) square right, which letter do you land on? ![A set of axes: x-axis from 0 to 8, y-axis from 0 to 8. A red triangle is at point (3, 3). Point E is at (4, 6), Point F is at (6, 4), Point G is at (2, 5), Point H is at (4, 4).]() 
+
+        ###
+        Answers:
+        (A) - E 
+
+        (B) - F 
+
+        (C) - G 
+
+        (D) - H 
+
+        ###
+        Misconceptions:
+        (A) - Confuses the direction of up and down 
+
+        (B) - Misplaces the starting point of the triangle before applying the translation 
+
+        (C) - Incorrectly adds the values instead of applying the translate process logically 
+
+        (D) - Miscalculates the total movement along the axes 
+
+        ###
+        Subject: Translation and Vectors
+        ###
+        ConstructName: Follow simple directions to translate a shape or object using words not vectors
+        ###
+        CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: Which of the following correctly describes the angle formed by lines AB and BC? ![An image showing vertex B with lines extending from it forming two angles: one with AB and the other with BC.]() 
+
+###
+Answers:
+(A) - ABC 
+
+(B) - ACB 
+
+(C) - CBA 
+
+(D) - None of these options 
+
+###
+Misconceptions:
+(A) - Chooses the wrong order of letters to describe the angle 
+
+(B) - Uses three letters but includes the angle's endpoint incorrectly 
+
+(C) - Uses three-letter angle notation but labels the angle with the wrong points 
+
+(D) - Thinks 3-letter angle notation can include any other points not forming the angle 
+
+###
+Subject: Types, Naming and Estimating
+###
+ConstructName: Label angles using correct 3-letter notation (e.g. angle ADB)
+###
+CorrectAnswer: A

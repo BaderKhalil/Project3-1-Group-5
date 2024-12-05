@@ -1,0 +1,29 @@
+###
+Question: Which of the following sequences of button presses would correctly display the number \( 8.25 \) on your calculator? ![A scientific calculator]() 
+
+###
+Answers:
+(A) - ![The number 8, then the button labelled \(. \), then the number 25]() 
+
+(B) - ![The number 8, then the button labelled \( + \), then the number 25]() 
+
+(C) - ![The number 8, then the button labelled \( \div \), then the number 25]() 
+
+(D) - ![The number 8, then the button labelled \( \times \), then the number 25]() 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes the addition button formats the number as decimal 
+
+(C) - Believes the division button formats the number as decimal 
+
+(D) - Believes the multiplication button formats the number as decimal 
+
+###
+Subject: Basic Calculator Use
+###
+ConstructName: Know the functionality of other non-numeric buttons on a calculator
+###
+CorrectAnswer: A

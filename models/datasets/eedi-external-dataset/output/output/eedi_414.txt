@@ -1,0 +1,39 @@
+###
+Question: Maria wants to buy a sandwich and a tea. How much change should she receive from f50? 
+\begin{tabular}{|c|}
+\hline Anna's Deli \\
+Sandwich \( £ 4.50 \) \\
+Wrap \( £ 3.75 \) \\
+Soup \( £ 2.00 \) \\
+Tea \( £ 1.20 \) \\
+Coffee \( £ 2.50 \) \\
+Juice \( £ 1.80 \) \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( £ 44.30 \) 
+
+(B) - \( £ 43.50 \) 
+
+(C) - \( £ 41.30 \) 
+
+(D) - \( £ 44.50 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly applies the total amount of money without deducting the purchase cost. 
+
+(B) - Sums the cost of items incorrectly or assumes a higher purchase amount than actual. 
+
+(C) - Correctly calculates the change based on total costs but makes a simple arithmetic error. 
+
+(D) - Adds additional items to the total cost erroneously. 
+
+###
+Subject: Basic Money
+###
+ConstructName: Calculate the change from purchases between £10 and £100
+###
+CorrectAnswer: C

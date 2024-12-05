@@ -1,0 +1,33 @@
+###
+        Question: ![A linear graph showing that 15 miles = £12. ]() The graph can be used to determine how much Sarah's company compensates her for travel.
+
+Sarah's company paid her \( £ 36 \)
+
+How many miles did she travel?
+
+        ###
+        Answers:
+        (A) - \( 30 \) 
+
+        (B) - \( 27 \) 
+
+        (C) - \( 15 \) 
+
+        (D) - \( 45 \) 
+
+        ###
+        Misconceptions:
+        (A) - Miscalculates by assuming a different rate per mile. 
+
+        (B) - Correctly calculates based on the graph's direct proportion.
+        
+        (C) - Misunderstands the total amount reflecting only a smaller distance. 
+
+        (D) - Overestimates the miles due to misreading the graph's scale.
+
+        ###
+        Subject: Real Life Graphs
+        ###
+        ConstructName: Read values off a real life graph
+        ###
+        CorrectAnswer: B

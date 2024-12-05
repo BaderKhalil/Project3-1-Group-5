@@ -1,0 +1,29 @@
+###
+Question: \( 1.5 \div 0.5= \) 
+
+###
+Answers:
+(A) - \( 2 \)
+
+(B) - \( 0.75 \)
+
+(C) - \( 3 \)
+
+(D) - \( 5 \)
+
+###
+Misconceptions:
+(A) - Misunderstands that dividing by a decimal results in a smaller number 
+
+(B) - Believes that dividing a whole number by a decimal creates a fraction that is less than the divisor 
+
+(C) - Correctly performs division but miscalculates the result 
+
+(D) - Incorrectly assumes that division can dramatically increase the result like multiplication 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Divide a whole number by a decimal
+###
+CorrectAnswer: C

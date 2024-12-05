@@ -1,0 +1,29 @@
+###
+Question: \( 7 \) hours \( + 240 \) minutes \( = \)
+
+###
+Answers:
+(A) - \( 10 \) hours 
+
+(B) - \( 8 \) hours and \( 40 \) minutes 
+
+(C) - \( 9 \) hours and \( 0 \) minutes 
+
+(D) - \( 11 \) hours 
+
+###
+Misconceptions:
+(A) - Incorrectly adds hours and minutes without converting minutes to hours first
+
+(B) - Miscalculates by overlooking the minute-to-hour conversion 
+
+(C) - Correctly converts minutes but miscalculates total hours 
+
+(D) - Answers as if there are 100 minutes in an hour when changing from hours to minutes 
+
+###
+Subject: Time
+###
+ConstructName: Convert from minutes to hours
+###
+CorrectAnswer: B

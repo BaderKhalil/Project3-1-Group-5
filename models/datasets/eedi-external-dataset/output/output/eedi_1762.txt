@@ -1,0 +1,29 @@
+###
+Question: What movement would take the square to the circle? ![A set of axes: x-axis from 0 to 5, y-axis from 0 to 5. A blue square symbol is at point (4,2) and a red circle symbol is at point (2,5).]() 
+
+###
+Answers:
+(A) - \( 2 \) squares left, \( 3 \) squares up 
+
+(B) - \( 2 \) squares down, \( 3 \) squares right 
+
+(C) - \( 2 \) squares left, \( 3 \) squares down 
+
+(D) - \( 2 \) squares right, \( 3 \) squares up 
+
+###
+Misconceptions:
+(A) - Assumes the vertical movement is upwards without confirming correct direction 
+
+(B) - Mistakes the vertical direction, thinking down is needed instead of up 
+
+(C) - Confuses the vertical movement with a downward shift rather than an upward one 
+
+(D) - nan 
+
+###
+Subject: Translation and Vectors
+###
+ConstructName: Describe simple directions to translate a shape or object using words not vectors
+###
+CorrectAnswer: A

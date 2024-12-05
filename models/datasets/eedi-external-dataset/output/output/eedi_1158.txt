@@ -1,0 +1,29 @@
+###
+Question: Which of these quadratic equations has no real solutions?
+
+###
+Answers:
+(A) - \( x^{2}-4=0 \) 
+
+(B) - \( x^{2}+5x+6=0 \) 
+
+(C) - \( x^{2}+4x+5=0 \) 
+
+(D) - \( x^{2}+3x=0 \) 
+
+###
+Misconceptions:
+(A) - Believes that the equation can yield real roots despite having a negative discriminant. 
+
+(B) - Incorrectly assumes that this equation can have imaginary roots instead of realizing it has two distinct real roots.
+
+(C) - Confuses no real solutions with one real solution, not realizing the discriminant is negative.
+
+(D) - Misinterprets the solutions as having no real roots while they actually have two solutions at \( x = 0 \) and \( x = -3 \). 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Analyze the solutions of quadratic equations using the discriminant
+###
+CorrectAnswer: C

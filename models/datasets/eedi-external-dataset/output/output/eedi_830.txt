@@ -1,0 +1,36 @@
+###
+Question: Determine the value of \( y \) when \( x = 1.5 \) for the equation
+\[
+3 x - 4 y = 6
+\] \begin{tabular}{|l|l|}
+\hline\( x \) & \( 1.5 \) \\
+\hline\( y \) & \( \bigstar \) \\
+\hline
+\end{tabular} 
+
+###
+Answers:
+(A) - \( 2.25 \)
+
+(B) - \( 2.75 \)
+
+(C) - \( 1.75 \)
+
+(D) - \( 3.00 \)
+
+###
+Misconceptions:
+(A) - When solving for \( y \), incorrectly applies multiplication instead of division after isolating \( y \).
+
+(B) - Miscalculates the constant term and hence finds an incorrect \( y \) value.
+
+(C) - Uses an incorrect method to isolate \( y \), misunderstanding steps in rearranging the equation.
+
+(D) - Correctly isolates \( y \) but miscalculates the final value.
+
+###
+Subject: Plotting Lines from Tables of Values
+###
+ConstructName: Given a positive x value, find a y value in a table of values for lines in the form ax + by = c
+###
+CorrectAnswer: B

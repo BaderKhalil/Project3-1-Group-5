@@ -1,0 +1,31 @@
+###
+Question: The volume of this cylinder is \( 60 \mathrm{~cm}^{3} \)
+
+What radius should replace the star? ![A cylinder, height 4cm and radius labelled with a star.]()
+
+###
+Answers:
+(A) - \( 3 \mathrm{~cm} \)
+
+(B) - \( 2 \mathrm{~cm} \)
+
+(C) - \( 5 \mathrm{~cm} \)
+
+(D) - \( 10 \mathrm{~cm} \)
+
+###
+Misconceptions:
+(A) - Assumes the radius is half the height instead of using the volume formula.
+
+(B) - Correct calculation, correctly uses the formula for volume.
+
+(C) - Computes based on an incorrect assumption of doubling dimensions.
+
+(D) - Thinks that the volume can exceed the capacity of the cylinder based on mistakenly interpreting the formula.
+
+###
+Subject: Volume of Prisms
+###
+ConstructName: Given the volume of a cylinder, work out missing information
+###
+CorrectAnswer: B

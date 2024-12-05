@@ -1,0 +1,29 @@
+###
+Question: What should replace the star in this expression? \( x^{2} + 6x \equiv (x + \bigstar)^{2} - c \)
+
+###
+Answers:
+(A) - \(\bigstar = +3 \)
+
+(B) - \(\bigstar = +6 \)
+
+(C) - \(\bigstar = +2 \)
+
+(D) - \(\bigstar = +4 \)
+
+###
+Misconceptions:
+(A) - Incorrectly thinks that the number inside the bracket is half the coefficient of the x-term 
+
+(B) - Confuses completing the square with directly taking the coefficient of x as the value in the bracket 
+
+(C) - Incorrectly believes that dividing the coefficient of x by a smaller value than 2 is necessary 
+
+(D) - Confuses the completion process by adding an incorrect value which does not align with half the coefficient of x 
+
+###
+Subject: Completing the Square
+###
+ConstructName: Complete the square for expressions that end up in the form (x + a)² + b
+###
+CorrectAnswer: A

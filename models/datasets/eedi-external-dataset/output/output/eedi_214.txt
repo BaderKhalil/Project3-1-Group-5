@@ -1,0 +1,33 @@
+###
+Question: Simplify the following expression using the correct algebraic convention:
+
+\(
+3x + 4y + 2x + y + 5
+\) 
+
+###
+Answers:
+(A) - \( 5x + 5y + 5 \) 
+
+(B) - \( 3x + 4y + 2 + 5 \) 
+
+(C) - \( 2x + 5y + 5 \) 
+
+(D) - \( 3x + 5y + 6 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Does not recognize that the number 2 must be combined properly with like terms. 
+
+(C) - Miscounts the coefficients of like terms. 
+
+(D) - Confuses the addition of constants with coefficients of variables. 
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just two linear variables
+###
+CorrectAnswer: A

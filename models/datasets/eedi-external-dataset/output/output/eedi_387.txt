@@ -1,0 +1,32 @@
+###
+Question: Simplify the following ratio to its simplest integer form:
+\(
+\frac{3}{5}: \frac{6}{10}
+\)
+
+###
+Answers:
+(A) - \( 1: 1 \) 
+
+(B) - \( 3: 2 \) 
+
+(C) - \( 3: 5 \) 
+
+(D) - \( 6: 3 \) 
+
+###
+Misconceptions:
+(A) - Misunderstanding the simplification process; incorrectly assumes both fractions are equal. 
+
+(B) - Incorrect multiplication or division when simplifying ratios, not recognizing equivalent fractions.
+
+(C) - nan 
+
+(D) - Overlooks the importance of correct ordering in a ratio, resulting in an improper form. 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Reduce a ratio involving two numbers to its simplest form
+###
+CorrectAnswer: C

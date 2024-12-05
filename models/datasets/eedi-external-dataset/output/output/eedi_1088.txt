@@ -1,0 +1,32 @@
+###
+Question: \[
+a + b = 15
+\]
+Which pair of numbers fits the equation? 
+
+###
+Answers:
+(A) - \( \begin{array}{l}a=20 \\ b=-5\end{array} \) 
+
+(B) - \( \begin{array}{c}a=10 \\ b=5\end{array} \) 
+
+(C) - \( \begin{array}{l}a=7 \\ b=8\end{array} \) 
+
+(D) - \( \begin{array}{c}a=-3 \\ b=18\end{array} \) 
+
+###
+Misconceptions:
+(A) - Misinterprets the positive and negative relationship between variables 
+
+(B) - Correctly satisfies the equation 
+
+(C) - Changes the value of one variable without recalculating the other 
+
+(D) - Alters the given numbers incorrectly 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Identify pairs of numbers that satisfy an equation with two unknowns 
+###
+CorrectAnswer: B

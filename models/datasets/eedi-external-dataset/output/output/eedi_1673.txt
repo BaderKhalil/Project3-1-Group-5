@@ -1,0 +1,29 @@
+###
+Question: A jar contains 8 red marbles, 5 blue marbles, and 7 green marbles. What is the probability of randomly selecting a blue marble from the jar? Please provide your answer as a percentage.
+
+###
+Answers:
+(A) - \( 35 \% \)
+
+(B) - \( 20 \% \)
+
+(C) - \( 25 \% \)
+
+(D) - \( 30 \% \)
+
+###
+Misconceptions:
+(A) - Believes the number of blue marbles only is used without considering the total number of marbles. 
+
+(B) - Incorrectly calculates the total based on a smaller subset of marbles.
+
+(C) - Believes the calculation is \( \frac{5}{20} \) instead of taking into account the correct total number of marbles.
+
+(D) - Believes the total number of marbles is higher than it actually is when calculating percentage.
+
+###
+Subject: Probability of Single Events
+###
+ConstructName: Assign probabilities to single events using percentages
+###
+CorrectAnswer: A

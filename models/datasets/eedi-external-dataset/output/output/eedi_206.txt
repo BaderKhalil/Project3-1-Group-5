@@ -1,0 +1,29 @@
+###
+Question: In a shape made of points forming a regular hexagon, which other regular shape can you definitely construct using the same points?
+
+###
+Answers:
+(A) - Triangle 
+
+(B) - Rectangle 
+
+(C) - Octagon 
+
+(D) - Parallelogram 
+
+###
+Misconceptions:
+(A) - Assumes any three points will form a triangle without considering their arrangement. 
+
+(B) - Assumes that rectangles can be formed by using points from any regular polygon, when they require right angles that may not exist. 
+
+(C) - Assumes that it is possible to connect the points of a hexagon to create an octagon. 
+
+(D) - Assumes diagonal connections in a regular polygon automatically create a parallelogram. 
+
+###
+Subject: Geometric Shapes and Construction
+###
+ConstructName: Understand the relationship between different geometric shapes
+###
+CorrectAnswer: A

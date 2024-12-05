@@ -1,0 +1,29 @@
+###
+Question: Which calculation is equal to \( 30 \) ? 
+
+###
+Answers:
+(A) - \( 12 + 18 \div 3 \) 
+
+(B) - \( 5 \times(7 - 2) + 5 \) 
+
+(C) - \( 60 \div 2 + 5 \) 
+
+(D) - \( (-10) + 40 \div 2 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the order of operations, wrongly calculating division before addition 
+
+(B) - Fails to correctly distribute or simplify within the parentheses 
+
+(C) - Thinks that division and addition operate with the same priority level, leading to incorrect results 
+
+(D) - Incorrectly believes that subtracting a negative impacts the outcome of a division 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Answer negative number problems that require the use of BIDMAS
+###
+CorrectAnswer: C

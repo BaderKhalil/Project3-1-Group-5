@@ -1,0 +1,29 @@
+###
+Question: What is the correct substitution into the quadratic formula for the quadratic equation \( 3x^{2} + 6x - 12 = 0 \)?
+
+###
+Answers:
+(A) - \( \frac{-6 \pm \sqrt{(6)^{2}-4(3)(-12)}}{2(3)} \)
+
+(B) - \( \frac{6 \pm \sqrt{(6)^{2}-4(3)(-12)}}{2(3)} \)
+
+(C) - \( \frac{-6 \pm \sqrt{(-6)^{2}-4(3)(-12)}}{2(3)} \)
+
+(D) - \( \frac{6 \pm \sqrt{(-6)^{2}-4(3)(-12)}}{2(3)} \)
+
+###
+Misconceptions:
+(A) - Misremembers the sign in front of the coefficient of x when applying the formula
+
+(B) - Misremembers the sign in front of the coefficient of x when applying the formula
+
+(C) - Misremembers the sign in front of the discriminant
+
+(D) - nan 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Solve quadratic equations using the quadratic formula where the coefficient of x² is not 1 
+###
+CorrectAnswer: C

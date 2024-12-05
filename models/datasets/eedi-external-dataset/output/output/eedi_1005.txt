@@ -1,0 +1,29 @@
+###
+Question: What is \( \frac{2}{3} \) as a decimal?
+
+###
+Answers:
+(A) - \( 0.6 \)
+
+(B) - \( 0.66 \)
+
+(C) - \( 0.67 \)
+
+(D) - None of these.
+
+###
+Misconceptions:
+(A) - Rounds the decimal value of the fraction incorrectly by ignoring the repeating pattern.
+
+(B) - Incorrectly treats \( 2/3 \) as if it terminates, providing an approximation instead of the correct repeating decimal.
+
+(C) - Round the value inappropriately, thinking that it's appropriate to use a single digit after the decimal.
+
+(D) - nan 
+
+###
+Subject: Converting between Fractions and Decimals
+###
+ConstructName: Convert fractions less than 1 to repeating decimals
+###
+CorrectAnswer: D

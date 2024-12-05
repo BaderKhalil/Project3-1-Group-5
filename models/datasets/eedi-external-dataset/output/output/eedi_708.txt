@@ -1,0 +1,29 @@
+###
+Question: \( 0.75=\frac{3}{4}=? \% \) 
+
+###
+Answers:
+(A) - \( 75 \% \) 
+
+(B) - \( 50 \% \) 
+
+(C) - \( 100 \% \) 
+
+(D) - \( 25 \% \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the relationship between the decimal form and its percentage conversion 
+
+(C) - Assumes that any fraction can be treated as a whole in percentage without correct conversion 
+
+(D) - Mistakenly divides the decimal by a factor when converting to percentage instead of multiplying by 100 
+
+###
+Subject: Converting between Fractions and Percentages
+###
+ConstructName: Solve problems involving converting between fractions, decimals and percentages
+###
+CorrectAnswer: A

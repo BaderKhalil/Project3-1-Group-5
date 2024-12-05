@@ -1,0 +1,32 @@
+###
+Question: Expand:
+\[
+5(4 + 2x)
+\]
+
+###
+Answers:
+(A) - \( 20 + 10x \) 
+
+(B) - \( 20 + 5x \) 
+
+(C) - \( 15 + 10x \) 
+
+(D) - \( 25 + 2x \) 
+
+###
+Misconceptions:
+(A) - Correctly applies multiplication but makes an addition error in the first term.
+
+(B) - Only multiplies the second term in the expansion of a bracket.
+
+(C) - Mistakenly adds instead of correctly distributing the 5 throughout both terms.
+
+(D) - Misunderstands the distributive property, mistakenly adds instead of distributing 5 over the bracket.
+
+###
+Subject: Expanding Single Brackets
+###
+ConstructName: Multiply a single term over a bracket where the term on the outside is a number and the inside contains a linear expression
+###
+CorrectAnswer: A

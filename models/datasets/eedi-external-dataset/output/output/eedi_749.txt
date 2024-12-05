@@ -1,0 +1,29 @@
+###
+Question: What is \( \mathbf{7 2 3 . 4 6 5} \) rounded to the nearest hundred?
+
+###
+Answers:
+(A) - \( 700 \)
+
+(B) - \( 800 \)
+
+(C) - \( 723 \)
+
+(D) - \( 800 \)
+
+###
+Misconceptions:
+(A) - Rounds down instead of up
+
+(B) - Rounds to the wrong degree of accuracy (rounds too much)
+
+(C) - Retains the decimal value instead of rounding properly
+
+(D) - Rounds to the wrong degree of accuracy (rounds too much)
+
+###
+Subject: Rounding to the Nearest Whole (10, 100, etc)
+###
+ConstructName: Round non-integers to the nearest 100
+###
+CorrectAnswer: A

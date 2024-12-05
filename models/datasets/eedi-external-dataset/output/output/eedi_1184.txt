@@ -1,0 +1,39 @@
+###
+Question: ![Three groups of six stars]() Alex claims that the diagram above shows 
+\[
+6 \times 3 = 18
+\]
+Maria argues that it shows 
+\[
+18 \div 6 = 3
+\]
+Who is correct?
+
+###
+Answers:
+(A) - Only
+Maria 
+
+(B) - Both Alex and Maria 
+
+(C) - Only
+Alex 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes division is not the inverse of multiplication 
+
+(B) - Thinks both multiplication and division are represented correctly 
+
+(C) - Assumes that multiplication cannot be represented by groups 
+
+(D) - Misunderstands the representation of the groups in the diagram 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Recognise visual representations of division times table facts
+###
+CorrectAnswer: C

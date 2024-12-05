@@ -1,0 +1,38 @@
+###
+Question: Use a graphing program (e.g., Desmos) to plot the following pairs of functions.
+\[
+y=2x + 3 \quad \text{ and } \quad y=-x + 1
+\]
+
+Mary claims both functions have the same slope
+
+John claims the functions will cross the x-axis at the same point
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Mary 
+
+(B) - Only John 
+
+(C) - Both Mary and John 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not understand the difference between the slopes of linear functions 
+
+(B) - Misunderstands how to find the x-intercept of a linear function 
+
+(C) - Confuses the concept of slopes and intercepts 
+
+(D) - Overestimates the ability of distinct linear functions to intersect at multiple common points 
+
+###
+Subject: Finding the Gradient and Intercept of a Line from the Equation
+###
+ConstructName: Work out the y-intercept of a line from an accurate drawing
+###
+CorrectAnswer: D

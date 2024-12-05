@@ -1,0 +1,29 @@
+###
+Question: What figure do you create by connecting the midpoints of the sides of a square? ![A square drawn on a grid]()
+
+###
+Answers:
+(A) - Rectangle 
+
+(B) - Trapezoid 
+
+(C) - Triangle 
+
+(D) - Parallelogram 
+
+###
+Misconceptions:
+(A) - Does not understand that a rectangle requires only opposite sides to be equal and parallel, whereas all angles in this new figure are right angles.
+
+(B) - Incorrectly believes that a trapezoid can be formed from midpoints of a square due to a lack of understanding about parallel sides.
+
+(C) - Misunderstands that only three sides are connected instead of the four available.
+
+(D) - Does not recognize that a parallelogram formed by midpoints has equal diagonals, aligning with properties of a square.
+
+###
+Subject: Naming Co-ordinates in 2D
+###
+ConstructName: Identify a rectangle when presented non-conventionally
+###
+CorrectAnswer: D

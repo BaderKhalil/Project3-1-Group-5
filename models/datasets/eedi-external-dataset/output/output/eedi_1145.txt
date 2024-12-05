@@ -1,0 +1,33 @@
+###
+Question: \(
+2\sqrt{7} + 3\sqrt{7}
+\)
+
+Simplify, if possible. 
+
+###
+Answers:
+(A) - \( 5\sqrt{7} \) 
+
+(B) - \( \sqrt{14} \) 
+
+(C) - \( 6\sqrt{7} \) 
+
+(D) - Cannot be simplified 
+
+###
+Misconceptions:
+(A) - Correctly adds the coefficients but miscalculates the total when considering the surd. 
+
+(B) - Attempts to add the surds as individual square roots instead of recognizing them as like terms. 
+
+(C) - Incorrectly adds the coefficients of the surds, misinterpreting the addition of the numbers. 
+
+(D) - nan 
+
+###
+Subject: Simplifying Surds
+###
+ConstructName: Add surds in the form \(va + vb\)
+###
+CorrectAnswer: A

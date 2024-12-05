@@ -1,0 +1,29 @@
+###
+Question: Which of the following angles is acute?
+
+###
+Answers:
+(A) - \( 45^{\circ} \) 
+
+(B) - \( 95^{\circ} \) 
+
+(C) - \( 120^{\circ} \) 
+
+(D) - \( 30^{\circ} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Does not understand that an acute angle is less than 90 degrees 
+
+(C) - Does not understand that an acute angle is less than 90 degrees 
+
+(D) - nan 
+
+###
+Subject: Types, Naming and Estimating
+###
+ConstructName: Identify acute angles
+###
+CorrectAnswer: A

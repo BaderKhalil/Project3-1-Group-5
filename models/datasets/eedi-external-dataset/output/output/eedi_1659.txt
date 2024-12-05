@@ -1,0 +1,29 @@
+###
+Question: \( 5 \frac{1}{2} \div 3 \) Which of the following is a correct way to write the answer to this calculation? 
+
+###
+Answers:
+(A) - \( \frac{11}{6} \) 
+
+(B) - \( 1 \frac{1}{2} \) 
+
+(C) - \( \frac{10}{3} \) 
+
+(D) - \( \frac{1}{6} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands division of a mixed number results in an improper fraction 
+
+(C) - Incorrectly associates the division of a mixed number with multiplication 
+
+(D) - Misapplies reciprocal rule in division 
+
+###
+Subject: Dividing Fractions
+###
+ConstructName: Divide mixed number fraction in the form: Mixed number ÷ Integer
+###
+CorrectAnswer: A

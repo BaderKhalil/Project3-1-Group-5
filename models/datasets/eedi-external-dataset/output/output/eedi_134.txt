@@ -1,0 +1,33 @@
+###
+Question: \(
+0.034789
+\)
+
+What is this number rounded to \( 2 \) significant figures? 
+
+###
+Answers:
+(A) - \( 0.03 \) 
+
+(B) - \( 0.04 \) 
+
+(C) - \( 0.35 \) 
+
+(D) - \( 0.03 \) 
+
+###
+Misconceptions:
+(A) - Counts leading zeros in significant figures 
+
+(B) - Ignores the rounding rule for next digit (is not aware of rounding up) 
+
+(C) - Misplaces the decimal when considering significant figures 
+
+(D) - Repeats the answer without adjusting for significant figures 
+
+###
+Subject: Rounding to Significant Figures
+###
+ConstructName: Round numbers between 0 and 1 to two significant figures
+###
+CorrectAnswer: B

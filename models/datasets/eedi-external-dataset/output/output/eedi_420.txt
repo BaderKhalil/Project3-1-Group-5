@@ -1,0 +1,29 @@
+###
+Question: \( \begin{array}{llllll} \frac{3}{4} & 0.8 & \frac{15}{20} & \frac{5}{12} & \frac{20}{25} & 0.75 \end{array} \) Which value is the outlier in this set of data?
+
+###
+Answers:
+(A) - 0.8 
+
+(B) - \( \frac{5}{12} \) 
+
+(C) - \( \frac{20}{25} \) 
+
+(D) - \( \frac{15}{20} \) 
+
+###
+Misconceptions:
+(A) - Believes an outlier is a value that does not fit the same characteristics as the other values 
+
+(B) - Believes an outlier is the value that is the least simplified fraction without considering its decimal equivalent 
+
+(C) - Believes an outlier is a value that does not fit the same characteristics as the other values 
+
+(D) - Believes an outlier is the value that is visually different in fraction format, ignoring equivalent fractions 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Order fractions whose denominators are multiples of the same number 
+###
+CorrectAnswer: B

@@ -1,0 +1,29 @@
+###
+Question: Which of the following represents the area of a triangle? \( A = \frac{1}{2} b h \) ![A triangle, with the dimensions labelled b and h]() 
+
+###
+Answers:
+(A) - Equation 
+
+(B) - Expression 
+
+(C) - Formula 
+
+(D) - Variable 
+
+###
+Misconceptions:
+(A) - Confuses the definition of an area with an equation 
+
+(B) - Confuses a formula with an expression 
+
+(C) - nan 
+
+(D) - Confuses a variable or unknown with the formula representing area 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Recognise and name a formula
+###
+CorrectAnswer: C

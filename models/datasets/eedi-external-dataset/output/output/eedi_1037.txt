@@ -1,0 +1,29 @@
+###
+Question: What is \( 25\% \) of \( 160 ? \)
+
+###
+Answers:
+(A) - \( 40 \) 
+
+(B) - \( 60 \) 
+
+(C) - \( 80 \) 
+
+(D) - \( 20 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly calculates \( 25\% \) as \( \frac{1}{4} \) of the whole number but applies it incorrectly. 
+
+(B) - Incorrectly sums parts of the number without calculating the percentage. 
+
+(C) - Confuses \( 25\% \) with \( 50\% \) and assumes a larger portion of the total. 
+
+(D) - Believes that \( 25\% \) is simply a fraction of the total due to misunderstanding the concept of percentage calculation. 
+
+###
+Subject: Percentages of an Amount
+###
+ConstructName: Calculate percentage of an amount mentally where the percent is an integer
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Sarah and Mark are trying to find the area of a regular hexagon. Sarah claims it can be calculated using the formula \( \frac{3\sqrt{3}}{2} s^2 \), while Mark believes the area can be found using \( 6 \times \frac{1}{2} \times s \times h \), where \( h \) is the height. Who is correct?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Mark 
+
+(C) - Both Sarah and Mark 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes that Sarah's formula for the area of a regular hexagon is correct, but does not recognize the need for precise definitions of height and side lengths in the context.
+
+(B) - Thinks Mark's formula is applicable for calculating the area of a hexagon, misunderstanding that it relies on choosing an appropriate height.
+
+(C) - nan 
+
+(D) - nan 
+
+###
+Subject: Area of Polygons
+###
+ConstructName: Calculate the area of a regular polygon
+###
+CorrectAnswer: A

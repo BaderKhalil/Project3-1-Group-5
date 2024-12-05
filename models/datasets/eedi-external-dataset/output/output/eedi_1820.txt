@@ -1,0 +1,29 @@
+###
+Question: If a transversal line crosses two parallel lines, which angle is corresponding to angle MXQ? ![A diagram showing two parallel lines labeled AB and CD with a transversal line EF cutting through them. The intersection points are marked as M on line AB and X on line CD. The angle MXQ is marked in blue.]() 
+
+###
+Answers:
+(A) - QMB 
+
+(B) - MYE 
+
+(C) - MXY 
+
+(D) - EXC 
+
+###
+Misconceptions:
+(A) - Confuses corresponding and alternate angles 
+
+(B) - Confuses angle identification; may misinterpret the relationship 
+
+(C) - Confuses corresponding and vertically opposite angles 
+
+(D) - Confuses corresponding and co-interior angles 
+
+###
+Subject: Angle Facts with Parallel Lines
+###
+ConstructName: Identify corresponding angles
+###
+CorrectAnswer: A

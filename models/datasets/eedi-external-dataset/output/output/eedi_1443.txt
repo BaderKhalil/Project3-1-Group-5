@@ -1,0 +1,29 @@
+###
+Question: What is the equation of this line? ![A graph showing a vertical line going through 3 on the x-axis.]() 
+
+###
+Answers:
+(A) - \( x=3 \) 
+
+(B) - \( y=3 x \) 
+
+(C) - \( y=3 \) 
+
+(D) - \( x=3 y \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands that the equation of a vertical line can include the variable y in a proportional relationship 
+
+(C) - Incorrectly states the equation for a horizontal line instead of recognizing it as vertical 
+
+(D) - Incorrectly combines both variables in an equation form that does not represent a vertical line 
+
+###
+Subject: Horizontal and Vertical Lines
+###
+ConstructName: Recognise the equations of vertical lines from a diagram
+###
+CorrectAnswer: A

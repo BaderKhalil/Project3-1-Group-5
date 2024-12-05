@@ -1,0 +1,29 @@
+###
+Question: Determine the distance \( (s) \) traveled by an object under uniform acceleration \( (a)=3.5 \mathrm{~ms}^{-2} \) with initial velocity \( (u)=1.2 \mathrm{~ms}^{-1} \) and time \( (t)=4.0 \mathrm{~s} \) using the equation \( s = ut + \frac{1}{2}at^2 \).
+
+###
+Answers:
+(A) - \( \begin{array}{c}s = 1.2 \times 4.0 + \frac{1}{2} \times 3.5 \times 4.0^2 \\ s = 21.2 \mathrm{~m}\end{array} \) 
+
+(B) - \( \begin{array}{c}s = 1.2 + 4.0 + 3.5 \\ s = 8.7 \mathrm{~m}\end{array} \) 
+
+(C) - \( \begin{array}{c}s = 1.2 \times 4.0 + \frac{3.5}{2} \times 4.0^2 \\ s = 32.0 \mathrm{~m}\end{array} \) 
+
+(D) - \( \begin{array}{c}s = 1.2 \times 4.0 + \frac{1}{2} \times 3.5 \times 4.0^2 \\ s = 33.2 \mathrm{~m}\end{array} \) 
+
+###
+Misconceptions:
+(A) - Correctly applies the formula but miscalculates the operations 
+
+(B) - Mistakenly thinks that the final distance is simply the sum of the initial velocity, time, and acceleration 
+
+(C) - Incorrectly uses the value for acceleration in the wrong part of the formula leading to an erroneous distance 
+
+(D) - nan 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive non-integer values into formulae involving powers or roots
+###
+CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: What is \( \mathbf{1. 0 3 4 5 8} \) rounded to four significant figures? 
+
+###
+Answers:
+(A) - \( 1.034 \) 
+
+(B) - \( 1.035 \) 
+
+(C) - \( 1.03 \) 
+
+(D) - \( 1.04 \) 
+
+###
+Misconceptions:
+(A) - Rounds down instead of up 
+
+(B) - Misunderstands how to round when the next digit is 4 
+
+(C) - Incorrectly includes only two significant figures 
+
+(D) - Rounds too aggressively, losing important digits  
+
+###
+Subject: Rounding to Significant Figures
+###
+ConstructName: Round numbers greater than 1 to three or more significant figures
+###
+CorrectAnswer: B

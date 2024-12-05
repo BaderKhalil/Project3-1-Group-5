@@ -1,0 +1,32 @@
+###
+Question: Step 1: Factorise the following expression
+\(
+3 x^{2}+10 x+3
+\)
+
+###
+Answers:
+(A) - \( (3 x+1)(x+3) \)
+
+(B) - \( (3 x+3)(x+1) \)
+
+(C) - \( (3 x+1)(3 x+1) \)
+
+(D) - Cannot be factorised
+
+###
+Misconceptions:
+(A) - Believes that all coefficients must be used as factors, resulting in an incorrect combination.
+
+(B) - Thinks that both terms can share the same coefficient without ensuring the product matches the original expression.
+
+(C) - Assumes that the factor must be a perfect square leading to the same term used twice.
+
+(D) - Misunderstands the rules of factorisation, assuming that factorisation is impossible without checking further options.
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form ax² + bx + c where a is prime
+###
+CorrectAnswer: A

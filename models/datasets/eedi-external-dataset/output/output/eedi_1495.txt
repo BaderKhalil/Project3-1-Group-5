@@ -1,0 +1,29 @@
+###
+Question: Sarah and John are trying to simplify the expression \( 4x + 3y - 2x + y \). Sarah thinks the answer is \( 2x + 4y \) while John believes it is \( 3x + 4y \). Who has the correct simplification?
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only John 
+
+(C) - Both Sarah and John 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Misunderstands how to combine like terms by not accurately adding the coefficients of similar variables. 
+
+(B) - Incorrectly assumes that all terms must be simplified, overlooking the proper combination of like terms. 
+
+(C) - Believes that both have correctly simplified the expression, not realizing that both are incorrect in their calculations. 
+
+(D) - Assumes there are no correct simplifications available, neglecting the actual simplification process.
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms 
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just two linear variables 
+###
+CorrectAnswer: A

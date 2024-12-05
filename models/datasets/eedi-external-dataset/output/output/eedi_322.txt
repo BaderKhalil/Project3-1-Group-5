@@ -1,0 +1,32 @@
+###
+Question: Work out:
+\[
+0.5 \times 20
+\]
+
+###
+Answers:
+(A) - \( 10 \)
+
+(B) - \( 1 \)
+
+(C) - \( 0.1 \)
+
+(D) - \( 2 \)
+
+###
+Misconceptions:
+(A) - Correctly identifies the product but may confuse the operational structure with addition. 
+
+(B) - Misunderstands multiplication by incorrectly asserting the product is 1, perhaps thinking of the decimal in isolation.
+
+(C) - Overestimates the size of the product by misunderstanding how decimals affect multiplication. 
+
+(D) - Assumes the multiplication result is too diminutive due to misjudging scale with decimals.
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Multiply a decimal by an integer
+###
+CorrectAnswer: A

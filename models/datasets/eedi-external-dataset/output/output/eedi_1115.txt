@@ -1,0 +1,29 @@
+###
+Question: Which of the following equations represents a situation where the parabola opens downwards?
+
+###
+Answers:
+(A) - \( y = -2x^2 + 4x - 1 \)
+
+(B) - \( y = 3x^2 + 2x - 5 \)
+
+(C) - \( y = 0.5x^2 - x + 2 \)
+
+(D) - \( y = 4 - x^2 \)
+
+###
+Misconceptions:
+(A) - n/a
+
+(B) - Believes that the leading coefficient being positive indicates that the parabola opens downwards
+
+(C) - Believes that a quadratic function can open upwards regardless of the coefficient's value
+
+(D) - Thinks that a constant term affects the direction of the parabola's opening
+
+###
+Subject: Quadratic Functions
+###
+ConstructName: Understand the effects of the leading coefficient on the direction of a parabola
+###
+CorrectAnswer: A

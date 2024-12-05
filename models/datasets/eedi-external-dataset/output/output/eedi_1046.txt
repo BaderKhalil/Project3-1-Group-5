@@ -1,0 +1,33 @@
+###
+Question: \(
+x_{n+1}=3-\frac{1}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=1 \), what is the value of \( x_{2} \) ?
+
+###
+Answers:
+(A) - \( 2 \)
+
+(B) - \( 3 \)
+
+(C) - \( 2.0 \) 
+
+(D) - \( 1.5 \)
+
+###
+Misconceptions:
+(A) - Incorrectly assumes a direct application of the function without performing the calculation correctly.
+
+(B) - Believes that the value converges directly to the function's fixed point rather than calculating the next term.
+
+(C) - Perceives that the function simplifies to a whole number without considering the effect of the fractions.
+
+(D) - Calculates an intermediate step incorrectly or assumes simplification without actual computation.
+
+###
+Subject: Trial and Improvement and Iterative Methods
+###
+ConstructName: Carry out the first stage in an iteration solution
+###
+CorrectAnswer: A

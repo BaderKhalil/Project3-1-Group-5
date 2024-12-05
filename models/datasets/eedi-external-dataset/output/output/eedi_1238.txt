@@ -1,0 +1,29 @@
+###
+Question: A theater charges a fixed price of \( \$15 \) for a ticket plus an additional \( \$2.50 \) for each popcorn purchased. Which of the following expressions correctly represents the total cost, \( C \), of attending the theater with \( \boldsymbol{p} \) popcorns?
+
+###
+Answers:
+(A) - \( \mathrm{C}=15 + 2.50 \mathrm{~p} \) 
+
+(B) - \( \mathrm{C}=2.50 \mathrm{~p}+15.00 \) 
+
+(C) - \( \mathrm{C}=2.50(15+p) \) 
+
+(D) - \( \mathrm{C}=17.50 \mathrm{~p} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Correctly calculates the formula but doesn't recognize the importance of the order of additive components in situations with a fixed cost.
+
+(C) - Makes an order of operations mistake, incorrectly grouping constants and variables when writing a formula from a situation.
+
+(D) - Misunderstands the concept of additional costs and incorrectly assumes that the total cost is just based on the number of popcorns with no fixed entry fee.
+
+###
+Subject: Writing Formula
+###
+ConstructName: Write a formula to describe a situation
+###
+CorrectAnswer: A

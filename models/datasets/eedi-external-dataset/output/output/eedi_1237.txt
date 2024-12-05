@@ -1,0 +1,29 @@
+###
+Question: If the radius of a circle is \( 4.8 \mathrm{~cm} \), what is the diameter? 
+
+###
+Answers:
+(A) - \( 2.4 \mathrm{~cm} \) 
+
+(B) - \( 9.6 \mathrm{~cm} \) 
+
+(C) - \( 4.8 \mathrm{~cm} \) 
+
+(D) - \( 12.8 \mathrm{~cm} \) 
+
+###
+Misconceptions:
+(A) - Halves the radius instead of doubling it for diameter
+
+(B) - Multiplies the radius by an incorrect factor rather than using the correct formula
+
+(C) - Confuses radius with diameter, assuming they are the same
+
+(D) - Incorrectly adds the radius to itself multiple times 
+
+###
+Subject: Parts of a Circle
+###
+ConstructName: Recognise that the diameter is twice the radius
+###
+CorrectAnswer: B

@@ -1,0 +1,32 @@
+###
+Question: Andrew and Lisa are discussing exponents.
+Andrew claims \( 3^{4} = 81 \) 
+Lisa argues \( 3^{4} = 27 \) 
+Who is correct? 
+
+###
+Answers:
+(A) - Only Andrew 
+
+(B) - Only Lisa 
+
+(C) - Both Andrew and Lisa 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Correctly computes the power 
+
+(B) - Misinterprets the value of \( 3^{3} \) as \( 3^{4} \) 
+
+(C) - nan 
+
+(D) - Thinks all powers of 3 must be less than or equal to 27 
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Change an integer base number to another integer base number with a positive integer power
+###
+CorrectAnswer: A

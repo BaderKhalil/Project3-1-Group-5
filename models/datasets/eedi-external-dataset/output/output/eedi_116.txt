@@ -1,0 +1,29 @@
+###
+        Question: \( ? \times \frac{1}{4} = \frac{3}{8} \)
+
+        ###
+        Answers:
+        (A) - \( \frac{3}{2} \) 
+
+        (B) - \( \frac{3}{2} \) 
+
+        (C) - \( \frac{5}{8} \) 
+
+        (D) - \( \frac{2}{3} \)
+
+        ###
+        Misconceptions:
+        (A) - Confuses the operation needed; believes that the answer should be greater than both fractions without conducting proper calculation 
+
+        (B) - Incorrectly applies the multiplication of fractions and thinks increasing the denominator will yield the correct result 
+
+        (C) - Does not realize that to find the missing factor, you need to use division instead of thinking it’s a simple addition problem 
+
+        (D) - Misinterprets the concept of what a fraction of a number represents, assuming it should be a whole number 
+
+        ###
+        Subject: Multiplying Fractions
+        ###
+        ConstructName: Find missing numbers in a fraction multiplication
+        ###
+        CorrectAnswer: C

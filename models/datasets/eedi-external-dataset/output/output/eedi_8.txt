@@ -1,0 +1,32 @@
+###
+Question: \(
+\frac{3}{4}+\frac{1}{6}=\frac{\bigstar}{12}
+\)
+What should replace the star? 
+
+###
+Answers:
+(A) - \( 5 \) 
+
+(B) - \( 9 \) 
+
+(C) - \( 7 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Does not find a common denominator when adding fractions 
+
+(B) - Incorrectly adds or miscalculates the fractions 
+
+(C) - Fails to convert the fractions appropriately before adding 
+
+(D) - Mistakenly adds whole numbers instead of the fractional parts 
+
+###
+Subject: Adding and Subtracting Fractions
+###
+ConstructName: Add proper fractions with different denominators which do not share a common factor
+###
+CorrectAnswer: C

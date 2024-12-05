@@ -1,0 +1,35 @@
+###
+Question: Alex and Jamie are debating multiples.
+
+Alex claims that \( 4 \) is a multiple of \( 20 \) and \( 8 \).
+
+Jamie asserts that \( 5y \) is a multiple of \( 10y \) and \( 2y \).
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Alex 
+
+(B) - Only Jamie 
+
+(C) - Both Alex and Jamie 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes that a smaller number can be a multiple of a larger number 
+
+(B) - Thinks that any multiplication involving a common variable always results in a valid multiple 
+
+(C) - Incorrectly assumes both claims are valid. 
+
+(D) - Recognizes that both statements are false. 
+
+###
+Subject: Multiples and Least Common Multiple
+###
+ConstructName: Identify multiples of algebraic expressions
+###
+CorrectAnswer: D

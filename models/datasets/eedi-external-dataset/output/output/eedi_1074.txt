@@ -1,0 +1,29 @@
+###
+Question: Which of the following is a factor of: \( 12x^{2} - 8x \) 
+
+###
+Answers:
+(A) - \( 4 \) 
+
+(B) - \( 12x \) 
+
+(C) - \( 2x \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - When asked for factors, thinks a number can be a factor without considering it divides the whole expression 
+
+(B) - When asked for factors, thinks a term can be equated as a factor without verifying if it divides the expression correctly 
+
+(C) - When asked for factors, thinks substituting parts from the expression without verifying the entire term can be a factor 
+
+(D) - When asked for factors, thinks a component of the expression is sufficient to be called a factor without the whole expression being divisible 
+
+###
+Subject: Factorising into a Single Bracket
+###
+ConstructName: Identify factors of algebraic expressions
+###
+CorrectAnswer: A

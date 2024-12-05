@@ -1,0 +1,31 @@
+###
+Question: Jessica needs to find the volume of a triangular prism with a triangular base that has a height of 5 cm and a base length of 4 cm. To do this, which length does she need to find the area of first?
+
+Which area should she calculate? ![The diagram shows a right-angled triangular prism with arrows pointing to the triangular base and two rectangular faces.]() 
+
+###
+Answers:
+(A) - ![A points to 'the rectangular face' which is the side face of the prism]() 
+
+(B) - ![B points to 'the base' which is the triangular face that forms the bottom of the prism]() 
+
+(C) - ![C points to 'the front' which is the rectangular face adjacent to the triangular base]() 
+
+(D) - ![D points to 'the back' which is another rectangular face opposite to the front face]() 
+
+###
+Misconceptions:
+(A) - Thinks any face can be used to find the volume of a prism, not realizing the importance of the base area. 
+
+(B) - nan 
+
+(C) - Thinks the volume can be calculated using the area of a rectangular face instead of the triangular base. 
+
+(D) - Thinks any rectangular face will suffice for volume calculation, confusing the base area requirement. 
+
+###
+Subject: Volume of Prisms
+###
+ConstructName: Calculate the volume of a triangular-based prism when the dimensions are given in the same units
+###
+CorrectAnswer: B

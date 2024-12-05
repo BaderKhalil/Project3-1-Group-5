@@ -1,0 +1,29 @@
+###
+Question: Which letter represents the area where \( \boldsymbol{2x - y \leq 4} \) and \( \boldsymbol{x + y \geq 2} \) ? ![Image is a graph showing the line 2x - y = 4 (dashed) and x + y = 2 (solid). The area is shaded according to the inequalities. Letter A is the area above both lines. Letter B is the area below the line 2x - y = 4. Letter C is the area below the line x + y = 2. Letter D is the area that satisfies both inequalities.]() 
+
+###
+Answers:
+(A) - D 
+
+(B) - A 
+
+(C) - B 
+
+(D) - C 
+
+###
+Misconceptions:
+(A) - Correctly identifies the solution area 
+
+(B) - Incorrectly assumes that the area above both lines satisfies the inequalities 
+
+(C) - Confuses the direction of the inequalities for the first line 
+
+(D) - Believes the area below the second line satisfies the second inequality 
+
+###
+Subject: Graphing Linear Inequalities (Shading Regions)
+###
+ConstructName: Represent the solution to a graphical inequality involving a combination of vertical, horizontal and diagonal lines
+###
+CorrectAnswer: A

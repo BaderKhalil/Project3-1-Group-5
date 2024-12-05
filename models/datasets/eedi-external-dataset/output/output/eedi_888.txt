@@ -1,0 +1,32 @@
+###
+Question: Expand the expression:
+\[
+(2x + 3)(x - 4)
+\] 
+
+###
+Answers:
+(A) - \( 2x^{2} - 5x - 12 \) 
+
+(B) - \( 2x^{2} - 5x + 12 \) 
+
+(C) - \( 2x^{2} + 5x - 12 \) 
+
+(D) - \( 2x^{2} + 5x + 12 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the signs when multiplying the second binomial term 
+
+(B) - Believes that the product of terms can lead to a positive result when combining opposites 
+
+(C) - Confuses adding to the coefficients of the terms instead of applying the distributive property correctly 
+
+(D) - Misapplies the operation leading to incorrect signs in the constants 
+
+###
+Subject: Expanding Double Brackets
+###
+ConstructName: Expand two brackets with linear terms in the form (ax + b)(cx + d)
+###
+CorrectAnswer: A

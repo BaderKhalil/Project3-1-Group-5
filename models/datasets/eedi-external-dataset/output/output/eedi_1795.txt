@@ -1,0 +1,29 @@
+###
+Question: \( \frac{5}{6} + \frac{1}{3} = \) 
+
+###
+Answers:
+(A) - \( \frac{7}{6} \) 
+
+(B) - \( \frac{10}{6} \) 
+
+(C) - \( \frac{2}{9} \) 
+
+(D) - \( \frac{1}{2} \) 
+
+###
+Misconceptions:
+(A) - Correct 
+
+(B) - Doubles the denominator instead of finding a common denominator 
+
+(C) - Incorrect addition due to misunderstanding how to align fractions 
+
+(D) - Miscalculates by assuming both fractions must be combined directly 
+
+###
+Subject: Adding and Subtracting Fractions
+###
+ConstructName: Add proper fractions with different denominators where one is a multiple of the other
+###
+CorrectAnswer: A

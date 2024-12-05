@@ -1,0 +1,29 @@
+###
+Question: What is the volume of a cylinder with a height of 12 cm and a radius of 3 cm? ![A cylinder with height 12cm and radius 3cm.]() 
+
+###
+Answers:
+(A) - \( 27 \pi\ \mathrm{cm}^{3} \) 
+
+(B) - \( 108 \pi\ \mathrm{cm}^{3} \) 
+
+(C) - \( 36 \pi\ \mathrm{cm}^{3} \) 
+
+(D) - \( 72 \pi\ \mathrm{cm}^{3} \) 
+
+###
+Misconceptions:
+(A) - Calculates the area of the base instead of the volume 
+
+(B) - Correct volume calculation 
+
+(C) - Miscalculates by using circumference formula instead of volume 
+
+(D) - Confuses height with radius in the volume formula 
+
+###
+Subject: Volume of Prisms
+###
+ConstructName: Calculate the volume of a cylinder when the dimensions are given in the same units
+###
+CorrectAnswer: B

@@ -1,0 +1,32 @@
+###
+Question: Solve the equation:
+\[
+4q - 8 = 12
+\] 
+
+###
+Answers:
+(A) - \( q = 5 \) 
+
+(B) - \( q = 2 \) 
+
+(C) - \( q = 3 \) 
+
+(D) - \( q = 8 \) 
+
+###
+Misconceptions:
+(A) - When solving, adds 8 to both sides and incorrectly interprets the result. 
+
+(B) - Correctly adds 8 to isolate \( 4q \) but incorrectly divides by 2 instead of 4. 
+
+(C) - Misunderstands the division operation, not recognizing the correct divisor was 4. 
+
+(D) - Incorrectly assumes that adding 8 gives the answer directly without further division. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve one-step linear equations requiring multiplication or division, involving positive integers
+###
+CorrectAnswer: C

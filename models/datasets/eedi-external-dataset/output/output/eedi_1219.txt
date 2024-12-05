@@ -1,0 +1,33 @@
+###
+Question: This is a part of the table of values for the equation \( y = 2x + 1 \) ![\begin{tabular}{|c|c|}
+\hline\( x \) & \( \bigstar \) \\
+\hline\( y \) & \( 5 \) \\
+\hline
+\end{tabular}]() What should replace the star? 
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 1 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( 3 \) 
+
+###
+Misconceptions:
+(A) - Believes that to find x, you just use \( y \) directly. 
+
+(B) - Misunderstands that the correct calculation results in a higher value. 
+
+(C) - Assumes multiplication precedes addition without checking the calculation. 
+
+(D) - Correctly calculates but incorrectly identifies the table value. 
+
+###
+Subject: Plotting Lines from Tables of Values
+###
+ConstructName: Given a positive y value, find an x value in a table of values for lines in the form y = mx + b 
+###
+CorrectAnswer: D

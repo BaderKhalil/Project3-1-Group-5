@@ -1,0 +1,33 @@
+###
+Question: \(
+3 \sqrt{12} + \sqrt{75} \equiv d \sqrt{3}
+\)
+
+What is the value of \( d \) ? 
+
+###
+Answers:
+(A) - \( 10 \)
+
+(B) - \( 6 \)
+
+(C) - \( 12 \)
+
+(D) - \( 4 \)
+
+###
+Misconceptions:
+(A) - When simplifying surds, fails to properly combine like terms after simplifying each surd.
+
+(B) - When simplifying surds, incorrectly adds the coefficients without simplifying the surds first.
+
+(C) - When simplifying surds, does not recognize the need to factor out the largest square under the square root.
+
+(D) - When simplifying surds, mistakenly assumes that addition can occur before simplifying the surds.
+
+###
+Subject: Operations with Surds
+###
+ConstructName: Add surds in the form mva + nvb
+###
+CorrectAnswer: B

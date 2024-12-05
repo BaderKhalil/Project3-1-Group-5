@@ -1,0 +1,29 @@
+###
+Question: To find the volume of a cube with side length \( s \), you need to do...
+
+###
+Answers:
+(A) - \( s + s + s \) 
+
+(B) - \( s \times s \times s \) 
+
+(C) - \( s^2 \) 
+
+(D) - \( s \times 4 \) 
+
+###
+Misconceptions:
+(A) - Adds the side lengths together instead of calculating volume 
+
+(B) - nan 
+
+(C) - Only calculates the area of one face, not the volume 
+
+(D) - Multiplies by an arbitrary factor instead of cubing the side length 
+
+###
+Subject: Volume and Surface Area
+###
+ConstructName: Understand the formula for the volume of a cube
+###
+CorrectAnswer: B

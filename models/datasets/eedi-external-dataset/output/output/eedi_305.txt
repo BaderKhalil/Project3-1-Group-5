@@ -1,0 +1,32 @@
+###
+Question: Solve the equation:
+\(
+3 x = \frac{3}{4}
+\) 
+
+###
+Answers:
+(A) - \( x = \frac{1}{4} \) 
+
+(B) - \( x = \frac{1}{2} \) 
+
+(C) - \( x = 1 \) 
+
+(D) - \( x = \frac{1}{8} \) 
+
+###
+Misconceptions:
+(A) - Assumes that \( x \) can be found by directly dividing numerator or ignoring the operation's effect on the equation. 
+
+(B) - Confuses the relationship between multiplication and division, assuming a miscalculation in manipulating the equation. 
+
+(C) - Misinterprets the solution by not correctly applying the multiplicative inverse to both sides of the equation. 
+
+(D) - Miscalculates the fraction and fails to apply the correct division of both sides appropriately. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve one-step linear equations requiring multiplication or division, involving positive fractions
+###
+CorrectAnswer: A

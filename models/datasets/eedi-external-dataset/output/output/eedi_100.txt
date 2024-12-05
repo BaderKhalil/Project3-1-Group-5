@@ -1,0 +1,29 @@
+###
+Question: A bar graph illustrates the number of hours students study each week. If the graph shows that 5 students study 10 hours, 7 study 15 hours, and 3 study 20 hours, what is the average number of hours studied by the students?
+
+###
+Answers:
+(A) - 15 hours 
+
+(B) - 12.5 hours 
+
+(C) - 10 hours 
+
+(D) - 13 hours 
+
+###
+Misconceptions:
+(A) - Misinterprets the average as the highest frequency of study hours instead of calculating it properly. 
+
+(B) - Incorrectly computes the average by not accounting for the number of students for each category. 
+
+(C) - Assumes the average is the lowest value without doing any calculation. 
+
+(D) - Believes that the average cannot be determined without additional data. 
+
+###
+Subject: Bar Graph
+###
+ConstructName: Analyze data from a bar graph
+###
+CorrectAnswer: B

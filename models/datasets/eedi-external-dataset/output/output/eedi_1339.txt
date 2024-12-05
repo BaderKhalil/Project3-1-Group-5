@@ -1,0 +1,29 @@
+###
+Question: If two angles around a point \( g \) and \( g+30 \) are given, what equation represents their relationship? ![Angles around a point made up of two angles labelled: g and g + 30]()
+
+###
+Answers:
+(A) - \( g + (g + 30) = 360 \) 
+
+(B) - \( g + (g + 30) = 180 \) 
+
+(C) - \( g + (g + 30) = g \) 
+
+(D) - \( 2g + 30 = 360 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Thinks angles around a point sum to 180 
+
+(C) - Misunderstands that angles cannot equal one of the angles directly 
+
+(D) - Incorrect assumption that doubling the angle results in the equality with the total angle around a point 
+
+###
+Subject: Basic Angle Facts (straight line, opposite, around a point, etc)
+###
+ConstructName: Use angles around a point to form and solve algebraic equations
+###
+CorrectAnswer: A

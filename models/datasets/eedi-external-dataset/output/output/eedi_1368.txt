@@ -1,0 +1,31 @@
+###
+Question: What is the value of \( x \) when \( y=0 \) ?
+
+Give your answer(s) to \( 1 \) decimal place ![A parabolic graph opening upwards. The graph intersects the x-axis at (-3, 0), (1, 0) and goes through the point (0, -3).]()
+
+###
+Answers:
+(A) - \( \begin{array}{c} x=-3 \\ \text{ and } x=1 \end{array} \)
+
+(B) - \( x=0 \) 
+
+(C) - \( \begin{array}{c} x=0 \\ \text{ and } x=3 \end{array} \) 
+
+(D) - \( x=1.5 \) 
+
+###
+Misconceptions:
+(A) - Correctly identifies both x-intercepts but does not represent them as a single answer choice. 
+
+(B) - Incorrectly assumes that \( y=0 \) corresponds to \( x=0 \) without checking the graph. 
+
+(C) - Misreads the graph, thinking there are x-intercepts at positive x-values without validating against the graph. 
+
+(D) - Wrongly selects a value that does not correspond to any x-intercept where \( y=0 \). 
+
+###
+Subject: Quadratic Graphs-Others
+###
+ConstructName: Given a y value, find the corresponding x value from a non-linear graph
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What is \( \frac{7}{25} \) expressed as a percentage?
+
+###
+Answers:
+(A) - \( 28\% \)
+
+(B) - \( 30\% \)
+
+(C) - \( 25\% \)
+
+(D) - \( 35\% \)
+
+###
+Misconceptions:
+(A) - Believes that to convert to a percentage you simply divide the numerator by the denominator and multiply by 100 accurately.
+
+(B) - Miscalculates by thinking \( 30 \% \) is obtained by rounding the fraction to the nearest whole number incorrectly.
+
+(C) - Incorrectly assumes \( 25\% \) is the value because they see the denominator as a common conversion point (1/4).
+
+(D) - Misunderstands that they are multiplying the fraction out of 25 instead of consistently converting to a percentage out of 100.
+
+###
+Subject: Converting between Fractions and Percentages
+###
+ConstructName: Convert fractions to percentages containing 1 decimal place
+###
+CorrectAnswer: A

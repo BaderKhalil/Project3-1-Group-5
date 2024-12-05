@@ -1,0 +1,32 @@
+###
+Question: Simplify the following expression, if possible
+\(
+\frac{6x^2 - 12x}{3x^2 - 6x + 9}
+\)
+
+###
+Answers:
+(A) - \( \frac{6}{3} \) 
+
+(B) - \( \frac{6x(x - 2)}{3(x^2 - 2x + 3)} \) 
+
+(C) - \( \frac{2x}{x - 1} \)
+
+(D) - Does not simplify 
+
+###
+Misconceptions:
+(A) - Ignores that the numerator and denominator need to be factored first before canceling out terms.
+
+(B) - Incorrectly factors the numerator but doesn't simplify the fraction properly.
+
+(C) - Correctly simplifies the expression. 
+
+(D) - Fails to recognize that the expression can be simplified through factoring.
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising both the numerator and denominator
+###
+CorrectAnswer: C

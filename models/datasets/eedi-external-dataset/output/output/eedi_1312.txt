@@ -1,0 +1,31 @@
+###
+Question: A box contains \( 5 \) green marbles and \( 4 \) blue marbles. John randomly selects four marbles without replacement.
+
+What is the denominator of the final unsimplified probability that all marbles selected are green?
+
+###
+Answers:
+(A) - \( 36 \)
+
+(B) - \( 126 \)
+
+(C) - \( 210 \)
+
+(D) - \( 9 \)
+
+###
+Misconceptions:
+(A) - Calculates the denominator by finding the total number of green marbles only, not considering the total number of marbles in the box.
+
+(B) - Recognizes the total combinations incorrectly, perhaps adding instead of multiplying.
+
+(C) - Recognizes the need for combinations but makes a calculation error related to the sequential nature of the selections.
+
+(D) - Adds rather than multiplies for the combined probabilities without taking into account the changes in total marbles after each draw.
+
+###
+Subject: Tree Diagrams with Dependent Events
+###
+ConstructName: Calculate the probability of three or more dependent events occurring without drawing a tree diagram
+###
+CorrectAnswer: C

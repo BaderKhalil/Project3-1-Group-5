@@ -1,0 +1,29 @@
+###
+Question: If \( a=5.5 \) and \( b=3 \), what is the value of \( c \) when \( b = 2a - 3c \)?
+
+###
+Answers:
+(A) - \( 5 \)
+
+(B) - \( -5 \)
+
+(C) - \( 4 \)
+
+(D) - \( 2 \)
+
+###
+Misconceptions:
+(A) - The student forgot to correctly isolate the variable \( c \) when simplifying the equation. 
+
+(B) - The student incorrectly assumes the equation can be solved directly without rearranging and isolating \( c \).
+
+(C) - The student may have miscalculated after substituting values and did not check their work thoroughly. 
+
+(D) - The calculation for \( c \) was performed correctly, assuming there was a mistake in interpreting the coefficients. 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive non-integer values into formulae involving no powers or roots where you need to find a value that is not the subject
+###
+CorrectAnswer: D

@@ -1,0 +1,33 @@
+###
+Question: \[
+2, 5, 8, 11, 14, \ldots
+\]
+
+When calculating the nth-term rule of this sequence, what should replace the star? nth-term rule: ![\( \hat{\omega}^{n} \)]() 
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 4 \) 
+
+(D) - \( 1 \) 
+
+###
+Misconceptions:
+(A) - When finding the nth term of a linear sequence, thinks the first term is the total output rather than identifying the common difference. 
+
+(B) - Incorrectly identifies the common difference as the starting point of the sequence rather than the amount added with each step. 
+
+(C) - Thinks the common difference should be the same as the last increment of the sequence, failing to see the pattern accurately. 
+
+(D) - Believes the addition in the sequence decreases, resulting in misunderstanding the pattern of the sequence. 
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Find the nth term rule for an ascending integer linear sequence
+###
+CorrectAnswer: B

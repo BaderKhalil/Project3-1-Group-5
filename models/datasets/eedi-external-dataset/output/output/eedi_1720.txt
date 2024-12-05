@@ -1,0 +1,29 @@
+###
+Question: What is the lowest common multiple of \( 8 \) and \( 12 \) ?
+
+###
+Answers:
+(A) - \( 24 \)
+
+(B) - \( 48 \)
+
+(C) - \( 96 \)
+
+(D) - \( 1 \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Believes that the lowest common multiple is found by multiplying the two numbers together 
+
+(C) - Misunderstands the concept and thinks it must be a higher multiplicative value 
+
+(D) - Confuses the lowest common multiple with the greatest common divisor 
+
+###
+Subject: Multiples and Lowest Common Multiple
+###
+ConstructName: Identify the Lowest Common Multiple of two numbers
+###
+CorrectAnswer: A

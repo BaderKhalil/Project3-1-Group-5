@@ -1,0 +1,29 @@
+###
+Question: \( 8 - 3 \times 2 + 4 = \)
+
+###
+Answers:
+(A) - \( 6 \) 
+
+(B) - \( 10 \) 
+
+(C) - \( 2 \) 
+
+(D) - \( 8 \) 
+
+###
+Misconceptions:
+(A) - Believes subtraction comes before multiplication and performs operations incorrectly 
+
+(B) - Fails to apply the order of operations and adds without considering the multiplication 
+
+(C) - Computes the operations out of order, treating all as left-to-right without adhering to BIDMAS
+
+(D) - Incorrectly adds and subtracts without proper multiplication, thinking all steps are equal 
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division
+###
+CorrectAnswer: A

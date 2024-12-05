@@ -1,0 +1,29 @@
+###
+Question: ![A horizontal number-line with 8 vertical, equally spaced, dashes representing the position of numbers. "0" above the 1st dash and "4" above the 9th dash are the only numbers marked on the line. A red arrow is pointing to the 5th dash.]() What number is the arrow pointing to? 
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 1.5 \) 
+
+(C) - \( 1 \) 
+
+(D) - \( 2.5 \) 
+
+###
+Misconceptions:
+(A) - Assumes the distance between '0' and '4' is divided into whole numbers only, ignoring decimals. 
+
+(B) - Confuses positions on a number line with fractions instead of decimals. 
+
+(C) - Believes the arrow indicates the closest whole number rather than the exact position. 
+
+(D) - Estimates a measurement instead of calculating the precise value based on the number line.
+
+###
+Subject: Ordering Decimals
+###
+ConstructName: Read a decimal on a scale where the required measurement is marked by a dash between two numbers
+###
+CorrectAnswer: D

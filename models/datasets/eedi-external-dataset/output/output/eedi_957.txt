@@ -1,0 +1,29 @@
+###
+Question: Sarah and Mike are trying to solve \( \frac{3}{4} - \frac{1}{2} \). Sarah suggests converting both fractions to have a denominator of \( 4 \), while Mike thinks they should convert to a denominator of \( 8 \). Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only Mike
+
+(C) - Both Sarah and Mike
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Believes that a common denominator can only be the smallest one, not realizing that larger denominators can also work.
+
+(B) - Thinks that the common denominator must be the direct multiplication of the two different denominators only.
+
+(C) - nan
+
+(D) - Does not understand how to find equivalent fractions correctly.
+
+###
+Subject: Adding and Subtracting Fractions
+###
+ConstructName: Subtract proper fractions with different denominators which do not share a common factor
+###
+CorrectAnswer: C

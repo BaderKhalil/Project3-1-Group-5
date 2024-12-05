@@ -1,0 +1,29 @@
+###
+Question: \( (36)^{\frac{3}{2}}=? \) 
+
+###
+Answers:
+(A) - \( 216 \) 
+
+(B) - \( 18 \) 
+
+(C) - \( 72 \) 
+
+(D) - \( 54 \) 
+
+###
+Misconceptions:
+(A) - Ignores the proper application of the fractional exponent 
+
+(B) - Assumes they take the square root before cubing 
+
+(C) - Incorrectly multiplies without accounting for the exponent's effects 
+
+(D) - Miscalculates final value by misapplying index rules 
+
+###
+Subject: Laws of Indices
+###
+ConstructName: Raise an integer to a positive non-unit fraction power
+###
+CorrectAnswer: A

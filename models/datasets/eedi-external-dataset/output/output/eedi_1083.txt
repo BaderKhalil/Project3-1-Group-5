@@ -1,0 +1,32 @@
+###
+Question: What should replace the box when these two parentheses are expanded and simplified?
+\(
+(x + 3)(x - 2) \equiv x^{2} \triangle x \bigbox
+\)
+
+###
+Answers:
+(A) - \( \bigbox=+6 \)
+
+(B) - \( \bigbox=+1 \)
+
+(C) - \( \bigbox=-6 \)
+
+(D) - \( \bigbox=-3 \)
+
+###
+Misconceptions:
+(A) - Miscalculates by adding the constants instead of multiplying them
+
+(B) - Incorrectly believes that adding the product of the coefficients leads to a positive answer
+
+(C) - Accepts the correct sign of the product but calculates it incorrectly
+
+(D) - Mistakenly selects the sum of the first coefficient and the second constant
+
+###
+Subject: Expanding Double Brackets
+###
+ConstructName: Expand two brackets with linear terms in the form (x + a)(x + b)
+###
+CorrectAnswer: C

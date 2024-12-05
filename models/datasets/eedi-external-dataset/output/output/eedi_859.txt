@@ -1,0 +1,30 @@
+###
+Question: Solve the equation:
+\(8 x + 4 = 12 - 2 x\)
+
+###
+Answers:
+(A) - \( x = 1 \)
+
+(B) - \( x = 2 \)
+
+(C) - \( x = 0 \)
+
+(D) - \( x = -1 \)
+
+###
+Misconceptions:
+(A) - Mistakenly applies the wrong operation when isolating the variable. 
+
+(B) - Correctly isolates the variable but makes an arithmetic error in calculation.
+
+(C) - Misunderstands that adding or subtracting the same number can lead to an invalid solution when balancing the equation.
+
+(D) - Assumes that a negative value automatically satisfies the equation without verifying. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve linear equations with the variable appearing on both sides, with all positive integers
+###
+CorrectAnswer: B

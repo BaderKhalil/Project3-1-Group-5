@@ -1,0 +1,33 @@
+###
+Question: What is the result of this subtraction problem? ![\begin{tabular}{r|r|}
+\( 722 \) \\
+\( -\quad 436 \) \\
+\hline
+\end{tabular}]() 
+
+###
+Answers:
+(A) - \( 286 \) 
+
+(B) - \( 296 \) 
+
+(C) - \( 285 \) 
+
+(D) - \( 376 \) 
+
+###
+Misconceptions:
+(A) - Correctly performed the subtraction but made a mistake in the final calculation. 
+
+(B) - Misunderstood the borrowing process, leading to an incorrect value for the hundred's place. 
+
+(C) - nan 
+
+(D) - Tried to subtract the tens digit from the hundred's digit instead of performing the full written subtraction. 
+
+###
+Subject: Written Subtraction
+###
+ConstructName: Subtract integers up to 3 digits using a written method where carrying is needed
+###
+CorrectAnswer: A

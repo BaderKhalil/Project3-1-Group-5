@@ -1,0 +1,29 @@
+###
+Question: What should replace the star and triangle when this expression is fully factorised? \( 15x + 20 \equiv {\bigstar}(\triangle x + \bigcirc) \)
+
+###
+Answers:
+(A) - \( \begin{array}{l}{\bigstar}=5 \\ \Delta=3\end{array} \)
+
+(B) - \( \begin{array}{l}{\bigstar}=5 \\ \Delta=4\end{array} \)
+
+(C) - \( \begin{array}{l}{\bigstar}=15 \\ \Delta=1\end{array} \)
+
+(D) - \( \begin{array}{l}{\bigstar}=10 \\ \Delta=1\end{array} \)
+
+###
+Misconceptions:
+(A) - Believes only one term can be factored out of the expression
+
+(B) - Correctly identifies the common factor but miscalculates what remains after factorisation
+
+(C) - Thinks the largest coefficient must always be bought out as the factor
+
+(D) - Misunderstands that the expression can be factored further and assumes an arbitrary numeric factor
+
+###
+Subject: Factorising into a Single Bracket
+###
+ConstructName: Factorise a single bracket containing a linear expression by taking out a single numeric common factor (e.g. 6)
+###
+CorrectAnswer: B

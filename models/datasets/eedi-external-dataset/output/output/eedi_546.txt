@@ -1,0 +1,37 @@
+###
+Question: The following data represents the number of books read by a group of students over a month. How many students participated in the reading program? ![\begin{tabular}{|c|c|}
+\hline Books read & Frequency \\
+\hline \( 0 \) & \( 4 \) \\
+\hline \( 1 \) & \( 8 \) \\
+\hline \( 2 \) & \( 6 \\
+\hline \( 3 \) & \( 5 \) \\
+\hline \( 4 \) & \( 2 \) \\
+\hline
+\end{tabular}]() 
+
+###
+Answers:
+(A) - \( 25 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 15 \) 
+
+(D) - \( 30 \) 
+
+###
+Misconceptions:
+(A) - Believes total frequency is found by adding frequencies correctly 
+
+(B) - Thinks the total number of students is equal to the highest frequency recorded 
+
+(C) - Believes total frequency in the table is the sum of individual categories without regard to multiplication by their corresponding frequency 
+
+(D) - Assumes that the total frequency includes all possible categories presented, without counting the specific frequencies 
+
+###
+Subject: Averages and Range from Frequency Table
+###
+ConstructName: Interpret numbers in a frequency table
+###
+CorrectAnswer: A

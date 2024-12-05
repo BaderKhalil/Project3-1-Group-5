@@ -1,0 +1,29 @@
+###
+Question: What are the values of \( a \) and \( b \) in the area formula for this trapezoid? ![Diagram of a trapezoid with its two parallel sides labeled as 5m and 12m. The lengths of the two non-parallel sides are not specified, and the perpendicular height is labeled as 4m.]() Area \( =\left(\frac{a+b}{2}\right) h \)
+
+###
+Answers:
+(A) - \( 5+12 \)
+
+(B) - \( 4+12 \)
+
+(C) - \( 5+4 \)
+
+(D) - \( 5+5 \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Mistakes height for one of the parallel sides to find area of a trapezoid
+
+(C) - Uses height instead of parallel sides to find area of a trapezoid
+
+(D) - Uses incorrect values for the parallel sides which are not reflective of the trapezoid's dimensions
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Calculate the area of a trapezoid where the dimensions are given in the same units
+###
+CorrectAnswer: A

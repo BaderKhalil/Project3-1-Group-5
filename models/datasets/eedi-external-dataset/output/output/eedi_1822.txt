@@ -1,0 +1,29 @@
+###
+Question: What vector describes the translation that moves point A at (2, 5) to point B at (5, 8)? 
+
+###
+Answers:
+(A) - \( \left(\begin{array}{c}3 \\ 3\end{array}\right) \) 
+
+(B) - \( \left(\begin{array}{c}-3 \\ -3\end{array}\right) \) 
+
+(C) - \( \left(\begin{array}{c}1 \\ 1\end{array}\right) \) 
+
+(D) - \( \left(\begin{array}{c}2 \\ 2\end{array}\right) \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands directionality and believes that the translation vector is reverse of the actual movement 
+
+(C) - Fails to account for the correct distances moved in both dimensions 
+
+(D) - Incorrectly concludes the change in coordinates without calculating the differences accurately 
+
+###
+Subject: Translation and Vectors
+###
+ConstructName: Describe a translation using vector notation
+###
+CorrectAnswer: A

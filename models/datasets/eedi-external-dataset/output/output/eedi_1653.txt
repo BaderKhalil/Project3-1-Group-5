@@ -1,0 +1,31 @@
+###
+Question: ![A pair of axes: x-axis is from -3 to 3; y-axis is from -3 to 3. A triangle, labelled "T", is formed by connecting the following vertices: (-1, -1), (2, -1), (0, 2), and back to (-1, -1). The point (0, 2) is marked with a blue dot. Additionally, points are plotted and labelled as follows: P (-3, -3); Q (2, 3); R (-2, 3); S (3, -2).]() Triangle \( \mathrm{T} \) is rotated \( 180^{\circ} \) through the point (0, 0).
+
+Where will the blue point be on the rotated triangle? 
+
+###
+Answers:
+(A) - R 
+
+(B) - S 
+
+(C) - Q 
+
+(D) - P 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Moves in the wrong direction after rotation 
+
+(C) - Confuses angles with coordinates 
+
+(D) - Reflects instead of rotates 
+
+###
+Subject: Rotation
+###
+ConstructName: Rotate an object or point 180° about a point, where the point lies on the edge or outside of the object 
+###
+CorrectAnswer: A

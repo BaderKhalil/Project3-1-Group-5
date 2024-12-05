@@ -1,0 +1,33 @@
+###
+Question: Sarah and Alex are discussing corresponding angles.
+Sarah claims angles \( a \) and \( b \) are corresponding.
+Alex argues angles \( a \) and \( b \) are not corresponding angles but rather alternate angles. Who is correct? ![Shows two parallel lines intersected by a transversal. Angles A and B are positioned in corresponding positions relative to the parallel lines.]() 
+
+###
+Answers:
+(A) - Only
+Sarah 
+
+(B) - Only
+Alex 
+
+(C) - Both Sarah and Alex 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Thinks corresponding angles are only equal if lines are cut by a transversal 
+
+(B) - Thinks alternate angles can never be found in corresponding positions 
+
+(C) - Thinks both types of angles can represent the same physical angles in different situations 
+
+(D) - Thinks angles cannot correspond if they are on different sides of the transversal 
+
+###
+Subject: Angle Facts with Parallel Lines
+###
+ConstructName: Identify corresponding angles
+###
+CorrectAnswer: A

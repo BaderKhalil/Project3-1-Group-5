@@ -1,0 +1,29 @@
+###
+Question: What is \( \mathbf{2.7489} \) rounded to \( 3 \) decimal places? 
+
+###
+Answers:
+(A) - \( 2.748 \) 
+
+(B) - \( 2.749 \) 
+
+(C) - \( 3.748 \) 
+
+(D) - \( 2.750 \) 
+
+###
+Misconceptions:
+(A) - Rounds down incorrectly by not considering the digit following the rounding place 
+
+(B) - nan 
+
+(C) - Rounds incorrectly by changing multiple place values 
+
+(D) - Rounds up incorrectly from the last digit without calculating correctly 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to three decimal places
+###
+CorrectAnswer: B

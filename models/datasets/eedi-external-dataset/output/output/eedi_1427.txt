@@ -1,0 +1,29 @@
+###
+Question: Maria is trying to isolate the variable y in the equation. Here is a step from her working. She has written \(3y + 5 = 20\). What operation should replace the star to continue isolating y? ![The image shows the equation with an arrow pointing to a blank space next to it where the operation would be labelled.]
+
+###
+Answers:
+(A) - \( +5 \)
+
+(B) - \( \times 5 \)
+
+(C) - \( -5 \)
+
+(D) - \( \div 3 \)
+
+###
+Misconceptions:
+(A) - Believes that adding 5 would help in isolating y as the next step. 
+
+(B) - Thinks to isolate y, she needs to multiply by 5 rather than perform the inverse operation. 
+
+(C) - Correctly identifies that subtraction might be the step needed, but misunderstands the specific operation required.
+
+(D) - nan
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve one-step linear equations requiring addition or subtraction, with all positive integers
+###
+CorrectAnswer: C

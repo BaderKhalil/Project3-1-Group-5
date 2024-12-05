@@ -1,0 +1,29 @@
+###
+Question: What will be the result when \( x^{2}-5x+6 \) is factorised? ![Bracket (x-2) and a rectangular box beside it where the second bracket should be.]() 
+
+###
+Answers:
+(A) - \( (x-3) \) 
+
+(B) - \( (x-4) \) 
+
+(C) - \( (x+3) \) 
+
+(D) - \( (x-2) \) 
+
+###
+Misconceptions:
+(A) - Incorrectly calculates the sum and product of terms leading to the wrong second bracket 
+
+(B) - Misjudges the factors of the constant term not considering both signs for factors 
+
+(C) - Mistakes the factorisation process and incorrectly adds instead of using subtraction 
+
+(D) - nan 
+
+###
+Subject: Factorising into a Double Bracket
+###
+ConstructName: Factorise a quadratic expression in the form x² + bx + c
+###
+CorrectAnswer: D

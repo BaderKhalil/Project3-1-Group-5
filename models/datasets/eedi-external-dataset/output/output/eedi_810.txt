@@ -1,0 +1,29 @@
+###
+Question: \( 2.75 \) hours \( = _______\) minutes 
+
+###
+Answers:
+(A) - \( 165 \) 
+
+(B) - \( 150 \) 
+
+(C) - \( 135 \) 
+
+(D) - \( 120 \) 
+
+###
+Misconceptions:
+(A) - Mistakes the calculation by thinking \( 2.75 \) is equivalent to \( 2.5 \) hours and then fails to convert correctly. 
+
+(B) - Calculates thinking there are 60 minutes in 2 hours only and disregards the decimal. 
+
+(C) - Correctly understands the conversion and performs the calculation accurately. 
+
+(D) - Incorrectly assumes there are 40 minutes left after converting 2 hours. 
+
+###
+Subject: Time
+###
+ConstructName: Change decimals of hours into minutes
+###
+CorrectAnswer: A

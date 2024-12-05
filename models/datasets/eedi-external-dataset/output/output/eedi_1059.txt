@@ -1,0 +1,33 @@
+###
+Question: \(
+0.004567
+\)
+
+What is the second significant figure in the number above?
+
+###
+Answers:
+(A) - \( 0 \)
+
+(B) - \( 4 \)
+
+(C) - \( 5 \)
+
+(D) - \( 6 \)
+
+###
+Misconceptions:
+(A) - Does not recognize that leading zeros do not count as significant figures 
+
+(B) - Correctly identifies a significant figure but miscounts its position 
+
+(C) - Confuses the position of significant figures due to counting from the decimal place instead of the first non-zero digit 
+
+(D) - Identifies a digit that is not the second significant figure based on misreading the number 
+
+###
+Subject: Rounding to Significant Figures
+###
+ConstructName: Round numbers less than 1 to two significant figures
+###
+CorrectAnswer: D

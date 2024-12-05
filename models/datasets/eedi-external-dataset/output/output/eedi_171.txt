@@ -1,0 +1,32 @@
+###
+Question: What is a correct way to set up this problem to solve it using long multiplication?
+\[
+351 \times 47
+\] 
+
+###
+Answers:
+(A) - ![351 multiplied by 47 set out to perform long multiplication. 351 is written in 3 columns with 300 in the first column, 50 in the second column, and 1 in the third column. 47 is written underneath this, with 40 under 300 and 7 under 50.]() 
+
+(B) - ![351 multiplied by 47 set out to perform long multiplication. 47 is written under 351. The 4 of 47 is under the 3 of 351 and the 7 of 47 is under the 1 of 351.]() 
+
+(C) - ![351 multiplied by 47 set out to perform long multiplication. 47 is written under 351. The 4 of 47 is under the 5 of 351 and the 7 of 47 is under the 1 of 351.]() 
+
+(D) - ![351 multiplied by 47 set out to perform long multiplication. 351 is written in 3 columns with 300 in the first column, 50 in the second column, and 1 in the third column. 47 is written underneath this, with 40 under 50 and 7 under 1.]() 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Hasn't lined up the place value columns when writing out the calculation 
+
+(C) - Hasn't lined up the place value columns when writing out the calculation 
+
+(D) - Has partitioned the digits when doing long multiplication 
+
+###
+Subject: Written Multiplication
+###
+ConstructName: Multiply 3 digit integers by 2 digit integers using long multiplication
+###
+CorrectAnswer: A

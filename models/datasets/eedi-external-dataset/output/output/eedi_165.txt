@@ -1,0 +1,29 @@
+###
+Question: What is \( 15 \) divided by \( 3 \)?
+
+###
+Answers:
+(A) - \( 5 \)
+
+(B) - \( 12 \)
+
+(C) - \( 4 \)
+
+(D) - \( 7 \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Misunderstands division and adds instead of dividing 
+
+(C) - Incorrectly subtracts the numbers rather than dividing 
+
+(D) - Confuses multiplication with division, thinking an approximate middle number is correct 
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Division of Numbers
+###
+CorrectAnswer: A

@@ -1,0 +1,30 @@
+###
+Question: When \( r=5 \) which of the following statements is true?
+
+###
+Answers:
+(A) - \( 2 \pi r = 10\pi \)  
+\( \pi r^2 = 25\pi \)  
+
+(B) - \( \begin{array}{l}2 \pi r = 10\pi \\ \pi r^2 = 50\pi\end{array} \)  
+
+(C) - \( \begin{array}{l}2 \pi r = 20\pi \\ \pi r^2 = 25\pi\end{array} \)  
+
+(D) - \( \begin{array}{l}2 \pi r = 10\pi \\ \pi r^2 = 25\pi\end{array} \)  
+
+###
+Misconceptions:
+(A) - Incorrectly calculates the area by confusing the radius with the diameter.  
+
+(B) - Incorrectly calculates the area using the wrong formula for the radius.  
+
+(C) - Incorrectly computes the circumference by multiplying the radius by 4 instead of 2.  
+
+(D) - Correctly calculates the area but incorrectly answers for the circumference.  
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive integer values into expressions involving powers or roots
+###
+CorrectAnswer: D

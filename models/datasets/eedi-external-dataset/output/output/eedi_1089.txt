@@ -1,0 +1,29 @@
+###
+Question: What number is \( 5,000 \) less than \( 125,300 \) ? 
+
+###
+Answers:
+(A) - \( 130,300 \) 
+
+(B) - \( 120,300 \) 
+
+(C) - \( 125.3 \) 
+
+(D) - \( 120,800 \) 
+
+###
+Misconceptions:
+(A) - Misunderstands the concept of 'less than' and adds instead of subtracting 
+
+(B) - Correctly subtracts but fails to account for the proper number of digits, leading to confusion in place value 
+
+(C) - Incorrectly interprets the operation to mean decimal division 
+
+(D) - Adds incorrectly when subtracting a smaller number resulting in an improper total 
+
+###
+Subject: Place Value
+###
+ConstructName: Find another power of 10 less than a given number
+###
+CorrectAnswer: B

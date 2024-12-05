@@ -1,0 +1,29 @@
+###
+Question: A subscription service charges a monthly fee of \( £10 \) and then \( £2 \) for each movie streamed. Emma makes a graph showing the total cost based on the number of movies watched. Which of the following graphs would best represent Emma's sketch?
+
+###
+Answers:
+(A) - ![A graph with movies on the horizontal axis and total cost on the vertical axis. The graph starts at the origin and shows a straight line that has a gradual upward slope.]() 
+
+(B) - ![A graph with movies on the horizontal axis and total cost on the vertical axis. The graph starts at a point on the positive vertical axis and shows a straight line traveling upwards but not horizontally.]() 
+
+(C) - ![A graph with movies on the horizontal axis and total cost on the vertical axis. The graph starts at a point on the positive vertical axis and travels upwards but never actually steps downwards.]() 
+
+(D) - ![A graph with movies on the horizontal axis and total cost on the vertical axis. The graph starts at a point on the vertical axis and travels upwards in a straight line with a slope.]() 
+
+###
+Misconceptions:
+(A) - Assumes there are no fixed charges involved in the cost calculation
+
+(B) - Believes that the graph can start at the fixed cost but does not account for the cost accumulating with each movie
+
+(C) - Misunderstands that the total cost will always be greater than the fixed monthly fee without consideration of additional charges 
+
+(D) - nan 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Given a situation sketch an appropriate real life graph
+###
+CorrectAnswer: D

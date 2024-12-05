@@ -1,0 +1,29 @@
+###
+Question: Sarah and Mike are comparing their approaches to simple calculations. Sarah states that if \( 5678 + 432 = 6110 \), then \( 5678 + 434 \) must equal \( \mathbf{6 1 1 2} \). Mike claims that if \( 5678 - 432 = 5246 \), then \( 5678 - 434 \) must equal \( \mathbf{5 2 4 4} \). Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Mike 
+
+(C) - Both Sarah and Mike 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Misunderstands that adding a larger number increases the sum accordingly. 
+
+(B) - Miscalculates the subtraction by not recognizing that subtracting a slightly larger number reduces the total accurately. 
+
+(C) - nan 
+
+(D) - nan 
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Given the solution to one problem, deduce the answer to a related problem using the same operation
+###
+CorrectAnswer: D

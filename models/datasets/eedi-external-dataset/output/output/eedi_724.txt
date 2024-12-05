@@ -1,0 +1,30 @@
+###
+Question: A rectangle is reflected in the dashed line. What are the new coordinates of point \( Q \) after the reflection? ![A set of axes: x-axis from -2 to 6, y-axis from -2 to 5. A rectangle is defined with corners at (2, 4), (4, 4), (4, 2), and (2, 2). Point (4, 4) is labelled with the letter "Q". The line y=3 is shown with a purple dashed line.]
+() 
+
+###
+Answers:
+(A) - \( (4,4) \) 
+
+(B) - \( (4,2) \) 
+
+(C) - \( (4,6) \) 
+
+(D) - \( (4,0) \) 
+
+###
+Misconceptions:
+(A) - Fails to reflect across mirror line 
+
+(B) - Fails to reflect across mirror line 
+
+(C) - Incorrectly calculates the new y-coordinate outside of the relevant area 
+
+(D) - Incorrectly calculates the new y-coordinate, ignoring the extension of the reflection 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a horizontal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: B

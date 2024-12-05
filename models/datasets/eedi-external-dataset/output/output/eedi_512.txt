@@ -1,0 +1,27 @@
+###
+Question: Which of the following function machines correctly represents the operations applied to the input?
+
+###
+Answers:
+(A) - ![2 function machines both with 3 rectangles in a row and joined by arrows pointing from left to right. The first function machine has "x" written inside the first rectangle on the left and "input" written above it; it has "✕ 3" written inside the next rectangle, "- 5" written inside the final rectangle on the right and has "output" written above it with "3x - 5" written inside it.
+The second function machine has "x" written inside the first rectangle on the left and "input" written above it; it has "- 5" written inside the next rectangle, "✕ 3" written inside the final rectangle on the right and has "output" written above it with "3(x - 5)" written inside it.]()  
+
+(B) - ![2 function machines both with 3 rectangles in a row and joined by arrows pointing from left to right. The first function machine has "x" written inside the first rectangle on the left and "input" written above it; it has "✕ 3" written inside the next rectangle, "- 5" written inside the final rectangle on the right and has "output" written above it with "3x - 5" written inside it. The second function machine has "x" written inside the first rectangle on the left and "input" written above it; it has "✕ 3" written inside the next rectangle, "- 5" written inside the final rectangle on the right and has "output" written above it with "3x - 5" written inside it.]()  
+
+(C) - ![2 function machines both with 3 rectangles in a row and joined by arrows pointing from left to right. The first function machine has "x" written inside the first rectangle on the left and "input" written above it; it has "- 5" written inside the next rectangle, "✕ 3" written inside the final rectangle on the right and has "output" written above it with "3x - 5" written inside it. The second function machine has "x" written inside the first rectangle on the left and "input" written above it; it has "✕ 3" written inside the next rectangle, "- 5" written inside the final rectangle on the right and has "output" written above it with "3(x - 5)" written inside it.]()  
+
+(D) - ![2 function machines both with 3 rectangles in a row and joined by arrows pointing from left to right. The first function machine has "x" written inside the first rectangle on the left and "input" written above it; it has "✕ 3" written inside the next rectangle, "- 5" written inside the final rectangle on the right and has "output" written above it with "3x - 5" written inside it. The second function machine has "x" written inside the first rectangle on the left and "input" written above it; it has "- 5" written inside the next rectangle, "✕ 3" written inside the final rectangle on the right and has "output" written above it with "3(x - 5)" written inside it.]() 
+
+###
+Misconceptions:
+(A) - Follows the correct order of operations but fails to represent an alternate valid sequence of operations.  
+(B) - nan  
+(C) - Does not follow the arrows through a function machine, changing the order of operations incorrectly.  
+(D) - Does not follow the arrows through a function machine, changing the order of operations incorrectly.  
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given algebraic input, find the output of a function machine
+###
+CorrectAnswer: B

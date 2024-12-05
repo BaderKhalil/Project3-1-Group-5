@@ -1,0 +1,35 @@
+###
+Question: Lisa and Mark are working on adding decimals.
+
+Lisa claims \( 4.6 + 2.9 = 6.5 \)
+
+Mark argues \( 4.6 + 2.9 = 7.5 \)
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Lisa
+
+(B) - Only Mark
+
+(C) - Both Lisa and Mark
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Incorrectly sums the decimals and does not carry over correctly
+
+(B) - Incorrectly sums the decimals without properly adding the tenths
+
+(C) - Assumes both answers can be correct for the same operation 
+
+(D) - Believes addition of decimals does not follow the same rules as addition of whole numbers
+
+###
+Subject: Adding Decimals
+###
+ConstructName: Add a decimal to a decimal
+###
+CorrectAnswer: D

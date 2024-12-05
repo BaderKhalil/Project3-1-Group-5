@@ -1,0 +1,32 @@
+###
+Question: \[
+250 \text{ grams = }
+\square \, kilograms
+\]
+
+###
+Answers:
+(A) - \( 25 \)
+
+(B) - \( 2.5 \)
+
+(C) - \( 0.25 \)
+
+(D) - \( 0.025 \)
+
+###
+Misconceptions:
+(A) - Thinks 250g is equivalent to 25kg 
+
+(B) - Thinks 100g = 1kg and calculates mistakenly 
+
+(C) - nan 
+
+(D) - Thinks the conversion factor is 1000g to a kg and divides incorrectly 
+
+###
+Subject: Mass Units
+###
+ConstructName: Convert between g and kg 
+###
+CorrectAnswer: C

@@ -1,0 +1,33 @@
+###
+Question: Without using a calculator, what is the mean of the following numbers?
+
+\[
+5, 7, 8, 7, 9
+\] 
+
+###
+Answers:
+(A) - \( 7 \) 
+
+(B) - A little more than \( 8 \) 
+
+(C) - \( 8 \) 
+
+(D) - A little less than \( 8 \) 
+
+###
+Misconceptions:
+(A) - Believes the mean is the middle number 
+
+(B) - Assumes that a majority of numbers being higher results in a mean above \( 8 \) 
+
+(C) - When asked for the mean of a list of data, provides the mode instead 
+
+(D) - Assumes that since the numbers are nearly \( 8 \), the average must be lower than it due to balancing 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Calculate the mean as an average from a list of data
+###
+CorrectAnswer: B

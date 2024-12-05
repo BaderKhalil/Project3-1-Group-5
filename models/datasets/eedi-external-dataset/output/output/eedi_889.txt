@@ -1,0 +1,38 @@
+###
+Question: Lisa and Mark are debating the outcome of the inequality:
+\[
+15 < 3y
+\]
+
+Lisa claims \( y \) could be \( 5 \)
+
+Mark argues \( y \) could be \( 3 \)
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Lisa 
+
+(B) - Only Mark 
+
+(C) - Both Lisa and Mark 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly believes that the value of \( y \) must be lower than the threshold established by the inequality 
+
+(C) - nan 
+
+(D) - Fails to understand that the condition requires \( y \) to be greater than a certain value rather than equal or less 
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve one-step linear inequalities in one variable where the variable appears on one side of the equation
+###
+CorrectAnswer: A

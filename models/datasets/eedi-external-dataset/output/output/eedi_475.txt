@@ -1,0 +1,29 @@
+###
+Question: Mia has a certain number of apples. She triples that number and then subtracts \( 9 \). She then divides the result by \( 3 \) and gets \( 5 \). What was the original number of apples she had? ![An illustration of a girl named Mia, holding an apple, with a thought bubble containing a '?' indicating she is calculating the number of apples she started with.]() 
+
+###
+Answers:
+(A) - \( 10 \) 
+
+(B) - \( 6 \) 
+
+(C) - \( 12 \) 
+
+(D) - \( 1 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Mixes up the sequence of operations, failing to apply all steps correctly. 
+
+(C) - Assumes that each operation needs to be done more than once when it’s not necessary. 
+
+(D) - Does not consider that the operations performed lead to a larger number than the original. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve three or more step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: A

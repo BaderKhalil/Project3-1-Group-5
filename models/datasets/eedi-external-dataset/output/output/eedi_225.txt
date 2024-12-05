@@ -1,0 +1,29 @@
+###
+Question: The ratio of apples to oranges in a fruit basket is \( 3: 4 \). If there are \( \mathbf{36} \) apples, how many fruits (apples and oranges) are there in total?
+
+###
+Answers:
+(A) - \( 72 \) 
+
+(B) - \( 60 \) 
+
+(C) - \( 108 \) 
+
+(D) - \( 45 \) 
+
+###
+Misconceptions:
+(A) - Thinks that the total is simply \( 36 \) multiplied by the total parts of the ratio without considering the number of apples.
+
+(B) - Thinks that the ratio proportion was misunderstood, resulting in the wrong total count of fruits.
+
+(C) - Thinks that oranges were counted incorrectly in excess of the actual ratio, inflating the total.
+
+(D) - Incorrectly assumes fewer fruits are represented due to misunderstanding the ratios involved.
+
+###
+Subject: Sharing in a Ratio
+###
+ConstructName: Given information about one part, work out the whole
+###
+CorrectAnswer: A

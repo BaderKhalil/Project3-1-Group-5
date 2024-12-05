@@ -1,0 +1,35 @@
+###
+Question: Lisa and Mark are discussing how to round numbers properly.
+
+Lisa claims that \( \mathbf{0.002467} \) rounded to \( 2 \) significant figures is \( \mathbf{0.0025} \).
+
+Mark argues that \( 0.002467 \) rounded to \( 2 \) decimal places is \( \mathbf{0.00} \).
+
+Who is correct?
+
+###
+Answers:
+(A) - Only Lisa 
+
+(B) - Only Mark 
+
+(C) - Both Lisa and Mark 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Rounds to correct number of significant figures but with a misunderstanding of rounding rules. 
+
+(B) - Incorrectly believes that decimal places can lead to a value of zero regardless of the number. 
+
+(C) - Misunderstands the definition of significant figures and decimal places. 
+
+(D) - Confuses the rules of rounding for significant figures and decimal places entirely. 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers between 0 and 1 to two significant figures
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: What number must be squared to obtain \( 64 \)? 
+
+###
+Answers:
+(A) - \( 6 \) 
+
+(B) - \( 8 \) 
+
+(C) - \( 10 \) 
+
+(D) - \( 16 \) 
+
+###
+Misconceptions:
+(A) - Believes that squaring a number near the target value means it must be correct without checking the actual square 
+
+(B) - nan 
+
+(C) - Assumes that numbers ending in zero automatically yield a higher square, neglecting to verify 
+
+(D) - Thinks larger numbers will always yield larger squares without calculation 
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Calculate the square of a number
+###
+CorrectAnswer: B

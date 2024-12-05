@@ -1,0 +1,30 @@
+###
+Question: Simplify the following expression by collecting like terms
+\(4a + 3b - 2a + 5b\)
+
+###
+Answers:
+(A) - \(2a + 8b\) 
+
+(B) - \(6a + 2b\) 
+
+(C) - \(1a + 8b\) 
+
+(D) - \(2a + 2b\) 
+
+###
+Misconceptions:
+(A) - When collecting like terms, adds the coefficients incorrectly, leading to an inflated output for \(b\). 
+
+(B) - Fails to combine like terms properly and ends up adding instead of simplifying. 
+
+(C) - Misunderstands the correct combination of terms, treating the process as merely addition rather than simplification. 
+
+(D) - When collecting like terms, misassigns the coefficients resulting in an incorrect final expression. 
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just two linear variables
+###
+CorrectAnswer: A

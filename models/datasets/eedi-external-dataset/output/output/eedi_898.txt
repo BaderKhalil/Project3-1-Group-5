@@ -1,0 +1,29 @@
+###
+Question: What is the difference in temperature between \( -10^{\circ} \mathrm{C} \) and \( 5^{\circ} \mathrm{C} \)?
+
+###
+Answers:
+(A) - \( 5^{\circ} \mathrm{C} \) is \( 15^{\circ} \mathrm{C} \) colder than \( -10^{\circ} \mathrm{C} \)
+
+(B) - \( -10^{\circ} \mathrm{C} \) is \( 15^{\circ} \mathrm{C} \) colder than \( 5^{\circ} \mathrm{C} \)
+
+(C) - The difference is \( 15^{\circ} \mathrm{C} \) hotter than \( -10^{\circ} \mathrm{C} \)
+
+(D) - \( -10^{\circ} \mathrm{C} \) is \( 5^{\circ} \mathrm{C} \) hotter than \( 5^{\circ} \mathrm{C} \)
+
+###
+Misconceptions:
+(A) - Confuses the concept of colder and hotter, not calculating the actual difference correctly.
+
+(B) - nan 
+
+(C) - Incorrectly adds temperatures instead of finding the difference.
+
+(D) - Misunderstands the comparison of temperatures and the meaning of "hotter" and "colder."
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Perform calculations with temperature when given in the same units
+###
+CorrectAnswer: B

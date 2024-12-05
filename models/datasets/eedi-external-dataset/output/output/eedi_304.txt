@@ -1,0 +1,33 @@
+###
+Question: \[
+5 + 3 \times (2 + 6) =
+\]
+
+What is the first step you should take to solve this expression?
+
+###
+Answers:
+(A) - \( 5 + 3 \)
+
+(B) - \( 3 \times 2 \)
+
+(C) - \( 2 + 6 \)
+
+(D) - Calculate everything from left to right
+
+###
+Misconceptions:
+(A) - Treats addition as the highest priority without considering the brackets
+
+(B) - Misunderstands the role of multiplication, thinking it should be done before evaluating the contents of the brackets
+
+(C) - nan 
+
+(D) - Believes that the sequence of operations does not matter, leading to potentially incorrect results
+
+###
+Subject: BIDMAS
+###
+ConstructName: Use the order of operations to carry out calculations involving brackets
+###
+CorrectAnswer: C

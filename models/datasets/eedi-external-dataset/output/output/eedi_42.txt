@@ -1,0 +1,31 @@
+###
+        Question: A line has a gradient of \( -3 \)
+
+A line perpendicular to this line would have a gradient of...
+
+        ###
+        Answers:
+        (A) - \( 3 \)
+
+        (B) - \( -\frac{1}{3} \)
+
+        (C) - \( \frac{1}{3} \)
+
+        (D) - Not enough information
+
+        ###
+        Misconceptions:
+        (A) - Believes perpendicular lines have gradients that are the same but with opposite signs
+        
+        (B) - Believes the gradients of perpendicular lines multiply to give 1
+
+        (C) - understands correctly that perpendicular lines have negative reciprocal gradients
+        
+        (D) - Does not know that the gradient can be calculated from a given gradient
+
+        ###
+        Subject: Parallel and Perpendicular Lines
+        ###
+        ConstructName: Given a gradient, state the gradient of a line perpendicular to it
+        ###
+        CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: A bar graph displays the sales numbers for a bakery over a week. What is the average number of sales per day? ![A bar graph with bars representing the daily sales: Monday - 20 sales, Tuesday - 25 sales, Wednesday - 30 sales, Thursday - 15 sales, Friday - 10 sales, Saturday - 35 sales, Sunday - 40 sales.]() 
+
+###
+Answers:
+(A) - \( 25 \) 
+
+(B) - \( 150 \) 
+
+(C) - \( 5 \) 
+
+(D) - \( 30 \) 
+
+###
+Misconceptions:
+(A) - When calculating an average, forgets to divide by the total number of days 
+
+(B) - Does not understand the need to average a dataset, simply adds all sales 
+
+(C) - Misinterprets the scale of the graph, assuming each bar represents only 1 sale 
+
+(D) - Incorrectly calculates the average by only considering the highest value 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Interpret a bar graph involving multiple data points
+###
+CorrectAnswer: A

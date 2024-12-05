@@ -1,0 +1,29 @@
+###
+Question: \( 2, 4, 8, 16, 32, 64 \ldots \) What is the common name for this sequence of numbers?
+
+###
+Answers:
+(A) - The square numbers 
+
+(B) - The powers of two 
+
+(C) - The prime numbers 
+
+(D) - The Fibonacci numbers 
+
+###
+Misconceptions:
+(A) - Believes square numbers increase in a similar pattern to powers of two 
+
+(B) - nan 
+
+(C) - Thinks prime numbers are formed by doubling each previous number 
+
+(D) - Believes Fibonacci numbers follow the same exponential pattern as powers of two 
+
+###
+Subject: Other Sequences
+###
+ConstructName: Identify powers of two
+###
+CorrectAnswer: B

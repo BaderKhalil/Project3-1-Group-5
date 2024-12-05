@@ -1,0 +1,29 @@
+###
+Question: In an isosceles triangle, one of the equal angles measures \( y \) degrees. If the third angle measures \( 40^\circ \), what is the value of \( y \)? ![An isosceles triangle with angles labelled y, y, and 40 degrees [not to scale]]() 
+
+###
+Answers:
+(A) - \( 70^{\circ} \) 
+
+(B) - \( 80^{\circ} \) 
+
+(C) - \( 20^{\circ} \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Forgets to account for the third angle when calculating the equal angles in an isosceles triangle. 
+
+(B) - Incorrectly assumes that the sum of the angles does not affect the calculation of equal angles in the triangle. 
+
+(C) - Miscalculates the angles by possibly doubling the third angle or misinterpreting the sum of angles theorem. 
+
+(D) - nan 
+
+###
+Subject: Angles in Triangles
+###
+ConstructName: Find missing angles in an isosceles triangle
+###
+CorrectAnswer: A

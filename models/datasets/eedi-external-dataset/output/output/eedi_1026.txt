@@ -1,0 +1,29 @@
+###
+Question: Maria and Tom are discussing which value can fill the blank in this equation: \( 3x + 5 = ? + 7 \). Maria believes it could be \( 2x - 2 \) while Tom thinks it could be \( 3x - 2 \). Who has the correct answer? 
+
+###
+Answers:
+(A) - Only Maria 
+
+(B) - Only Tom 
+
+(C) - Both Maria and Tom 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Assumes that the value must directly correspond to a single linear transformation rather than an equation balance. 
+
+(B) - Assumes the solution is found through manipulation without understanding the equation equality requirements. 
+
+(C) - Assumes both provided values could satisfy the equation without verifying the correctness of either. 
+
+(D) - Assumes all proposed values are incorrect without considering the possibility of one being valid. 
+
+###
+Subject: Simplifying Expressions by Collecting Like Terms
+###
+ConstructName: Simplify algebraic expressions to maintain equivalence by collecting like terms involving just two linear variables
+###
+CorrectAnswer: D

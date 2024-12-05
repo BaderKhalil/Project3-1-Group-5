@@ -1,0 +1,29 @@
+###
+Question: What should replace the triangle when this expression is fully factorised? \( 4x^2 - 12x \equiv \bigstar(x - \triangle) \)
+
+###
+Answers:
+(A) - \( \triangle=3 \) 
+
+(B) - \( \triangle=4 \) 
+
+(C) - \( \triangle=1 \) 
+
+(D) - \( \triangle=0 \) 
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Believes that the second number in the factorisation needs to match the first coefficient instead of finding the common factor.
+
+(C) - Misunderstands the need to factor out the greatest common factor and miscalculates.
+
+(D) - Assumes the expression can be simplified to zero without considering the original coefficients.
+
+###
+Subject: Factorising into a Single Bracket
+###
+ConstructName: Factorise a single bracket containing a non-linear expression by taking out a single algebraic common factor (e.g. x)
+###
+CorrectAnswer: A

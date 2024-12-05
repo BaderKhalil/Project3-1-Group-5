@@ -1,0 +1,32 @@
+###
+Question: Simplify, if possible:
+\(
+b^{4} \div b^{2}
+\) 
+
+###
+Answers:
+(A) - \( b^{6} \) 
+
+(B) - \( b^{2} \) 
+
+(C) - \( b^{0} \) 
+
+(D) - Does not simplify 
+
+###
+Misconceptions:
+(A) - Incorrectly adds the exponents during division 
+
+(B) - Correct understand of division but misapplies the exponent rule 
+
+(C) - Misunderstands how to apply the exponent rule leading to incorrect simplification 
+
+(D) - Does not understand how to simplify expressions involving powers 
+
+###
+Subject: Dividing Terms
+###
+ConstructName: Write algebraic expressions with correct algebraic convention involving powers
+###
+CorrectAnswer: B

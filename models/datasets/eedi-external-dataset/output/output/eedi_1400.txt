@@ -1,0 +1,29 @@
+###
+Question: Which of the following fractions would lie between \( \frac{2}{7} \) and \( \frac{3}{8} \) on a number line? 
+
+###
+Answers:
+(A) - \( \frac{5}{28} \) 
+
+(B) - \( \frac{3}{14} \) 
+
+(C) - \( \frac{13}{56} \) 
+
+(D) - There are no fractions between these two 
+
+###
+Misconceptions:
+(A) - Believes \( \frac{5}{28} \) is less than \( \frac{2}{7} \) because the denominator is larger 
+
+(B) - Incorrectly adds fractions without finding a common denominator 
+
+(C) - Nan 
+
+(D) - Thinks that fractions with denominators that are not multiples of each other cannot have values in between 
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Order fractions whose denominators are not multiples of the same number 
+###
+CorrectAnswer: A

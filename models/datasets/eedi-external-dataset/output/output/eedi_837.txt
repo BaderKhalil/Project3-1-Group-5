@@ -1,0 +1,32 @@
+###
+Question: \[
+\text { When } a=5 \text{ and } b=3
+\]
+Which of the following pairs of statements is true? 
+
+###
+Answers:
+(A) - \( \begin{array}{l}a(b+1)=30 \\ a(1+b)=15\end{array} \) 
+
+(B) - \( \begin{array}{l}a(b+1)=40 \\ a(1+b)=25\end{array} \) 
+
+(C) - \( \begin{array}{l}a(b+1)=25 \\ a(1+b)=15\end{array} \) 
+
+(D) - \( \begin{array}{l}a(b+1)=30 \\ a(1+b)=24\end{array} \) 
+
+###
+Misconceptions:
+(A) - Does not realise addition is associative 
+
+(B) - Does not realise addition is associative 
+
+(C) - Does not realise addition is associative 
+
+(D) - Does not realise multiplication is distributive over addition 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute positive integer values into expressions involving no powers or roots
+###
+CorrectAnswer: A

@@ -1,0 +1,32 @@
+###
+Question: Expand:
+\[
+4(3x + 5)
+\] 
+
+###
+Answers:
+(A) - \( 12x + 20 \)
+
+(B) - \( 7x + 5 \)
+
+(C) - \( 12x + 5 \)
+
+(D) - \( 4x + 4 \)
+
+###
+Misconceptions:
+(A) - Correctly multiplies both terms but states only the first term in the expression is multiplied 
+
+(B) - Fails to multiply the outside term with the terms inside the brackets
+
+(C) - Correctly multiplies the first term but forgets to properly multiply by the outer number for the second term 
+
+(D) - Only adds together the terms without proper multiplication of the number outside the brackets 
+
+###
+Subject: Expanding Single Brackets
+###
+ConstructName: Multiply a single term over a bracket where the term on the outside is a number and the inside contains a linear expression
+###
+CorrectAnswer: A

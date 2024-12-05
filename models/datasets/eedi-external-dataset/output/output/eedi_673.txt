@@ -1,0 +1,29 @@
+###
+Question: A square is reflected in the dashed line. What are the new coordinates of point \( \mathrm{Q} \) ? ![A coordinate grid with the reflection line y=-x drawn and a square with the coordinates (1,1), (1,3), (3,1), and (3,3). Q is the point (1,3)]() 
+
+###
+Answers:
+(A) - \( (-3,1) \) 
+
+(B) - \( (-1,-3) \) 
+
+(C) - \( (-3,-1) \) 
+
+(D) - \( (-1,3) \) 
+
+###
+Misconceptions:
+(A) - Misinterprets the reflection process resulting in inversion of points 
+
+(B) - Confuses the coordinates when reflecting, leading to incorrect signs being assigned 
+
+(C) - Reflects one coordinate correctly but fails on the other coordinate 
+
+(D) - Changes the y-coordinate incorrectly without reflecting across the line 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a diagonal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: C

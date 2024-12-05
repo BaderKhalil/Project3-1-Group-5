@@ -1,0 +1,29 @@
+###
+Question: A box contains \( 5 \) blue marbles and \( 4 \) green marbles. If Tom randomly selects two marbles without replacement, what is the probability that both marbles are blue?
+
+###
+Answers:
+(A) - \( \frac{20}{36} \)
+
+(B) - \( \frac{10}{36} \) 
+
+(C) - \( \frac{15}{36} \) 
+
+(D) - \( \frac{8}{36} \)
+
+###
+Misconceptions:
+(A) - Miscalculates the total outcomes when selecting multiple marbles without considering the reduction in options after the first selection.
+
+(B) - Correct setup but incorrectly cancels the probabilities.
+
+(C) - Computes the joint probability incorrectly by not accounting for the order of selection.
+
+(D) - Incorrectly assumes both marbles can be selected independently and multiplies instead of considering the dependency.
+
+###
+Subject: Tree Diagrams with Dependent Events
+###
+ConstructName: Calculate the probability of two dependent events occurring without drawing a tree diagram
+###
+CorrectAnswer: B

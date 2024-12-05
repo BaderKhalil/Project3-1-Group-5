@@ -1,0 +1,29 @@
+###
+Question: \( 0.5 \times 0.4 = \)
+
+###
+Answers:
+(A) - \( 0.20 \)
+
+(B) - \( 2 \)
+
+(C) - \( 0.02 \)
+
+(D) - \( 0.2 \)
+
+###
+Misconceptions:
+(A) - Incorrectly applies the multiplication rule and misplaces the decimal point 
+
+(B) - Misunderstands the concept of multiplication and assumes the product is greater than either factor
+
+(C) - Fails to recognize the effect of multiplying two decimals, leading to an incorrect decimal placement 
+
+(D) - Correctly multiplies but makes an error in expressing the answer with the correct number of decimal places 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Multiply two decimals together with the same number of decimal places
+###
+CorrectAnswer: D

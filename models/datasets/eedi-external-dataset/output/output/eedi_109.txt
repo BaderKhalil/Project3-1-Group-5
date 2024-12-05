@@ -1,0 +1,33 @@
+### 
+Question: Sarah and Mike are analyzing the properties of linear equations.
+
+Sarah claims that all linear equations cross the \( y \) axis. Mike argues that a linear equation that does not cross the \( y \) axis must be horizontal.
+
+Who is correct? 
+
+### 
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Mike 
+
+(C) - Both Sarah and Mike 
+
+(D) - Neither is correct 
+
+### 
+Misconceptions:
+(A) - They think that linear equations must have an intercept with the \( y \) axis, not understanding that vertical lines (undefined slope) do not conform to this rule.
+
+(B) - They confuse horizontal lines with vertical lines, thinking if an equation doesn't cross the \( y \) axis, it must be horizontal.
+
+(C) - They are mistakenly combining correct statements about different types of linear equations.
+
+(D) - nan 
+
+### 
+Subject: Analyzing Linear Equations
+### 
+ConstructName: Understand the concept of intercepts in linear equations
+### 
+CorrectAnswer: B

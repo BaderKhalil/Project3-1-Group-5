@@ -1,0 +1,29 @@
+###
+Question: Which of the following equations represents a linear function?
+
+###
+Answers:
+(A) - \( y = 3x + 5 \) 
+
+(B) - \( y = x^{2} - 4 \)
+
+(C) - \( y = -2x + 1 \)
+
+(D) - \( y = \frac{1}{x} \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the definition of linearity, thinking quadratic equations can be linear 
+
+(C) - nan 
+
+(D) - Confuses linear functions with rational functions, believing that all equations with variables in the denominator are linear 
+
+###
+Subject: Algebra
+###
+ConstructName: Identify linear equations
+###
+CorrectAnswer: A

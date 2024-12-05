@@ -1,0 +1,29 @@
+###
+Question: \( 5 \) kilometers is the same as ___________ meters 
+
+###
+Answers:
+(A) - \( 500 \) 
+
+(B) - \( 50 \) 
+
+(C) - \( 5000 \) 
+
+(D) - \( 1000 \) 
+
+###
+Misconceptions:
+(A) - Thinks there are 100 meters in a kilometer 
+
+(B) - Thinks there are 10 meters in a kilometer 
+
+(C) - nan 
+
+(D) - Thinks that kilometers convert to meters in increments of 200 
+
+###
+Subject: Distance
+###
+ConstructName: Convert from kilometers to meters
+###
+CorrectAnswer: C

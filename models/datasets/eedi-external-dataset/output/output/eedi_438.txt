@@ -1,0 +1,32 @@
+###
+Question: This temperature-time graph shows the temperature change in a room over the first \( 6 \) hours.
+
+At what time did the temperature first reach \( 25^{\circ}C \)? ![The image is of a graph. Its vertical axis is labelled Temperature (°C) and has the scale 20, 22, 24, 26, 28 marked in even steps. Its horizontal axis is labelled Time (hours) and has the scale 0, 1, 2, 3, 4, 5, 6 marked in even steps. 
+The graph consists of three sections. The first section is a straight slanted line from (0,20) to (2, 25). The second section is a horizontal line from (2, 25) to (4, 25). The third section is a slanted line from (4, 25) to (6, 20).]()
+
+###
+Answers:
+(A) - \( 2 \mathrm{hours} \) 
+
+(B) - \( 3 \mathrm{hours} \) 
+
+(C) - \( 4 \mathrm{hours} \) 
+
+(D) - \( 5 \mathrm{hours} \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Assumes the temperature increase continuously after reaching \( 25^{\circ}C \) and does not check the horizontal section. 
+
+(C) - Misreads the graph, thinking that temperature can only be recorded at the peaks. 
+
+(D) - Reads the graph incorrectly, thinking the temperature continuously decreased after \( 25^{\circ}C \). 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Read values off a temperature-time graph
+###
+CorrectAnswer: A

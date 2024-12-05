@@ -1,0 +1,29 @@
+###
+Question: What is the solution for this equation? \( 5(2x + 3) = 15 + 10x \)
+
+###
+Answers:
+(A) - \( x=1 \)
+
+(B) - \( x=0 \)
+
+(C) - This equation has no solution
+
+(D) - \( x=3 \)
+
+###
+Misconceptions:
+(A) - Assumes the solution is obtained by incorrectly simplifying the equation
+
+(B) - Believes every equation simplifies to have a solution at zero if it involves constants 
+
+(C) - Misunderstands that the equation can have solutions that cancel out leading terms
+
+(D) - Miscalculates while rearranging and simplifying the equation, reaching an incorrect conclusion
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve linear equations with the variable appearing on both sides, with all positive integers
+###
+CorrectAnswer: C

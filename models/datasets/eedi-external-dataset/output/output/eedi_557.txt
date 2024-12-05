@@ -1,0 +1,31 @@
+###
+Question: The bar chart displays the number of apples and oranges sold at a fruit stand over a week.
+
+How many oranges were sold on Friday? ![A dual bar chart showing the number of apples and oranges sold from Monday to Sunday. The vertical scale indicating the number of fruits sold has 10 small boxes between 0 and 100. The bar for apples on Friday reaches 6 small boxes above 70. The bar for oranges on Friday reaches 4 small boxes above 50.]() 
+
+###
+Answers:
+(A) - \( 56 \) 
+
+(B) - \( 45 \) 
+
+(C) - \( 70 \) 
+
+(D) - \( 50 \) 
+
+###
+Misconceptions:
+(A) - Confuses the height of the bar with a nearby value instead of the actual value represented 
+
+(B) - Incorrectly adds values of adjacent bars instead of identifying the specific one for oranges 
+
+(C) - Reads the bar for apples instead of oranges, leading to an incorrect interpretation 
+
+(D) - Devices a rough estimate but overlooks precise measurement on the vertical scale 
+
+###
+Subject: Block Graphs and Bar Charts
+###
+ConstructName: Interpret a bar chart
+###
+CorrectAnswer: A

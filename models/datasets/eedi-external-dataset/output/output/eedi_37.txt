@@ -1,0 +1,32 @@
+###
+Question: Write this fraction as simply as possible:
+\(
+\frac{16}{20}
+\)
+
+###
+Answers:
+(A) - \( \frac{4}{5} \)
+
+(B) - \( \frac{8}{10} \)
+
+(C) - \( \frac{2}{5} \)
+
+(D) - \( \frac{16}{20} \)
+
+###
+Misconceptions:
+(A) - Correctly simplifies to the lowest terms, recognizing the greatest common divisor but may lose track of the initial numbers. 
+
+(B) - Thinks a fraction can be simplified simply by dividing both numerator and denominator by the same number without reducing to the simplest form.
+
+(C) - Believes the fraction can be simplified incorrectly without considering the greatest common divisor.
+
+(D) - Does not recognize when a fraction can be simplified, unaware that simplification is necessary.
+
+###
+Subject: Simplifying Fractions
+###
+ConstructName: Simplify fractions that simplify to a unit fraction
+###
+CorrectAnswer: A

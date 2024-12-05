@@ -1,0 +1,29 @@
+###
+Question: \( 1.25 - 0.75 = \)
+
+###
+Answers:
+(A) - \( 0.50 \) 
+
+(B) - \( 0.60 \) 
+
+(C) - \( 0.70 \) 
+
+(D) - \( 0.40 \) 
+
+###
+Misconceptions:
+(A) - Correctly subtracts the whole number but miscalculates the decimal part. 
+
+(B) - Incorrectly adds the decimal parts instead of subtracting them. 
+
+(C) - Does not align the decimals properly and makes an arithmetic error. 
+
+(D) - Completely miscalculates the final result. 
+
+###
+Subject: Adding and Subtracting with Decimals
+###
+ConstructName: Subtract decimals where the numbers involved have a different number of decimal places
+###
+CorrectAnswer: A

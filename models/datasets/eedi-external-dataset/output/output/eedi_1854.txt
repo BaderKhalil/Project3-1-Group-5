@@ -1,0 +1,29 @@
+###
+Question: ![A speed-time graph. The vertical axis is labelled Speed (mph), with no scale labelled but 5 squares up is marked w. The horizontal axis is labelled Time (hours) and the scale is 0, 1, 2, 3 in even steps. The graph has an initial sloped line from (0,0) to (2,w), then a horizontal line from (2,w) to (3,w).]() Work out the speed \( w \) if the total distance travelled is \( 60 \) miles.
+
+###
+Answers:
+(A) - \( 15 \mathrm{mph} \) 
+
+(B) - \( 20 \mathrm{mph} \) 
+
+(C) - \( 30 \mathrm{mph} \) 
+
+(D) - \( 75 \mathrm{mph} \) 
+
+###
+Misconceptions:
+(A) - Misunderstands how to compute the area under the graph for distance when speed is not constant.
+
+(B) - Correctly computes the area under the graph but miscalculates the base of the trapezoid/triangle.
+
+(C) - Believes the speed stays constant for the entire duration, not recognizing the change in speed.
+
+(D) - Overestimates the speed, possibly confusing units of speed with distance.
+
+###
+Subject: Speed, Distance, Time
+###
+ConstructName: Given the distance travelled, complete missing values on a speed-time graph
+###
+CorrectAnswer: B

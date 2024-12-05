@@ -1,0 +1,29 @@
+###
+Question: Which calculation gives the fraction that replaces the question mark? ![A rectangle divided into 6 equal sections with horizontal lines. The top left section is shaded blue and further divided into 3 equal sections with vertical dotted lines. A curly bracket shows that the width of one of these blue sections is denoted by a question mark.]() 
+
+###
+Answers:
+(A) - \( \frac{1}{2} \div \frac{1}{3} \) 
+
+(B) - \( \frac{3}{6} \times \frac{1}{3} \) 
+
+(C) - \( \frac{1}{6} \times 3 \) 
+
+(D) - \( \frac{1}{2} \times \frac{1}{3} \) 
+
+###
+Misconceptions:
+(A) - Uses division instead of multiplication for fractions  
+
+(B) - Does not understand that multiplying requires the parts to be considered as a whole  
+
+(C) - Misunderstands how to correctly represent fractions in multiplication  
+
+(D) - nan 
+
+###
+Subject: Multiplying Fractions
+###
+ConstructName: Multiply proper fractions in the form: Fraction × Fraction
+###
+CorrectAnswer: D

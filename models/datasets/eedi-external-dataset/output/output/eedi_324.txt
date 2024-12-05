@@ -1,0 +1,29 @@
+###
+Question: Which of the following shapes is not a type of parallelogram?
+
+###
+Answers:
+(A) - Rectangle 
+
+(B) - Rhombus 
+
+(C) - Triangle 
+
+(D) - Square 
+
+###
+Misconceptions:
+(A) - Misunderstands that all rectangles are parallelograms but fails to recognize what does not classify as one. 
+
+(B) - Confuses the properties of a rhombus with those of parallelograms. 
+
+(C) - Misidentifies shapes and includes triangles in the category of parallelograms.
+
+(D) - Does not recognize that squares are a subset of parallelograms. 
+
+###
+Subject: Properties of Polygons
+###
+ConstructName: Identify a non-parallelogram shape from a list
+###
+CorrectAnswer: C

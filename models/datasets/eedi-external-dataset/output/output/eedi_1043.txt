@@ -1,0 +1,32 @@
+###
+Question: Fill in the boxes with appropriate signs to make the statement correct?
+\(
+\frac{3}{4} \;\square\; \frac{5}{8}\; \square \;\frac{7}{12}
+\) 
+
+###
+Answers:
+(A) < \( < \)
+
+(B) > \( < \)
+
+(C) < \( > \)
+
+(D) > \( > \)
+
+###
+Misconceptions:
+(A) - Believes that fractions with smaller numerator values are always less regardless of denominators
+
+(B) - Confuses the relationship between the fractions due to misunderstanding of the impact of different denominators
+
+(C) - Incorrectly assumes that all fractions can be compared directly without finding a common denominator
+
+(D) - Fails to realize that greater numerators do not necessarily indicate a greater fraction value if the denominators are different
+
+###
+Subject: Ordering Fractions
+###
+ConstructName: Use inequality notation to order fractions with different numerators
+###
+CorrectAnswer: B

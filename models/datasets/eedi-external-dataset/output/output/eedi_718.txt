@@ -1,0 +1,32 @@
+###
+Question: Sarah and Lucas are analyzing the expression \( \mathbf{2x^2 + 8x} \). 
+Sarah claims that \( 2x \) is a factor of \( 2x^2 + 8x \). 
+Lucas argues that \( 4 \) is a factor of \( 2x^2 + 8x \). 
+Who do you agree with? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Lucas 
+
+(C) - Both Sarah and Lucas 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Does not realize that both numerical and variable components can be factors of expressions. 
+
+(B) - Incorrectly thinks that factors can only be numbers and not dependent on the variable part.
+
+(C) - nan 
+
+(D) - Does not understand what constitutes a factor in a polynomial expression. 
+
+###
+Subject: Factors and Highest Common Factor
+###
+ConstructName: Identify factors of algebraic expressions
+###
+CorrectAnswer: C

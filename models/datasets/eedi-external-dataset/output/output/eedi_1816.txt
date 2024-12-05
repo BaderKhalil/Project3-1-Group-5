@@ -1,0 +1,29 @@
+###
+Question: What number is represented by the arrow on the number line? ![Number line from 300 to 400 with an arrow pointing to the value 365]() 
+
+###
+Answers:
+(A) - \( 365 \) 
+
+(B) - \( 360 \) 
+
+(C) - \( 370 \) 
+
+(D) - \( 358 \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the increments between numbers, thinking each segment is 5 instead of 10 
+
+(C) - Misreads the number line, overestimating the value by interpreting a segment as being around 5 more than actual 
+
+(D) - Incorrectly counts backwards on the number line or misplaces the decimal point 
+
+###
+Subject: Place Value
+###
+ConstructName: Read an integer on a scale where the required measurement is marked by a dash between two numbers
+###
+CorrectAnswer: A

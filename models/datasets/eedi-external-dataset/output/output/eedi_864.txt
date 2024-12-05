@@ -1,0 +1,29 @@
+###
+Question: This is the graph of \( y=2x+3 \). According to the graph, what is the solution to: \( 2x+3=9 \) ![Graph showing straight line with y intercept (0,3) and x intercept (-1.5,0)]() 
+
+###
+Answers:
+(A) - \( x=3 \) 
+
+(B) - \( x=4 \) 
+
+(C) - \( x=2 \) 
+
+(D) - \( x=0 \) 
+
+###
+Misconceptions:
+(A) - Believes that the solution to \( f(x) = n \) can simply be calculated by manipulating the equation rather than balancing it first. 
+
+(B) - Thinks the solution corresponds to the x-intercept of the graph instead of solving the equation itself. 
+
+(C) - Assumes incorrectly that the solution is found by just picking the y-coordinate given \( n \) without solving the equation. 
+
+(D) - Assumes that \( 2x + 3 = 9 \) can be solved by plugging in arbitrary values instead of performing the necessary algebraic manipulation. 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Given a sketch of a linear graph solve f(x) = n
+###
+CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: \( 2 \frac{1}{4} \times 1 \frac{1}{2}=\bigstar\frac{1}{8} \) What should replace the star?
+
+###
+Answers:
+(A) - \( 2 \) 
+
+(B) - \( 3 \) 
+
+(C) - \( 5 \) 
+
+(D) - \( 7 \) 
+
+###
+Misconceptions:
+(A) - When multiplying mixed numbers, forgets to convert to improper fractions. 
+
+(B) - When multiplying mixed numbers thinks they only multiply the whole numbers. 
+
+(C) - When multiplying mixed numbers thinks the fraction part is ignored and just adds the whole numbers. 
+
+(D) - nan 
+
+###
+Subject: Multiplying Fractions
+###
+ConstructName: Multiply mixed number fraction in the form: Fraction × Fraction
+###
+CorrectAnswer: C

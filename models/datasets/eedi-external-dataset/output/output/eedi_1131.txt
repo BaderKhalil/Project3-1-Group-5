@@ -1,0 +1,33 @@
+###
+Question: Jamie claims that:
+
+"If you multiply \( \mathbf{3} \times \mathbf{5} \) and then \( \mathbf{5} \times \mathbf{3} \), you'll end up with different results."
+
+What do you think? 
+
+###
+Answers:
+(A) - Jamie is correct because multiplication is not commutative 
+
+(B) - Jamie is incorrect because multiplication is not commutative 
+
+(C) - Jamie is correct because multiplication is commutative 
+
+(D) - Jamie is incorrect because multiplication is commutative 
+
+###
+Misconceptions:
+(A) - Misunderstands the concept of commutativity in multiplication  
+
+(B) - Incorrectly believes that multiplication is not commutative  
+
+(C) - Believes that the order of multiplication does not affect the result  
+
+(D) - Does not understand the meaning of the word commutative  
+
+###
+Subject: Mental Multiplication and Division
+###
+ConstructName: Understand the commutativity of multiplication
+###
+CorrectAnswer: D

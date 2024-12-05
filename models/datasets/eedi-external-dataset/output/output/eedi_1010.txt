@@ -1,0 +1,35 @@
+###
+Question: Sarah and Jake are exploring the properties of division in mathematics.
+
+Sarah claims that \( 144 \div 12 = 12 \div 144 \).
+
+Jake argues that \( 144 \div 12 = 144 \div 12 \).
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Sarah 
+
+(B) - Only Jake 
+
+(C) - Both Sarah and Jake 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Believes division is commutative, misapplying the rules of division. 
+
+(B) - Incorrectly thinks Jake's statement is valid though it's a tautology and doesn't show understanding of division properties. 
+
+(C) - Assumes both statements hold true without understanding the principles of division. 
+
+(D) - nan 
+
+###
+Subject: Written Division
+###
+ConstructName: Understand the non-commutativity of division
+###
+CorrectAnswer: D

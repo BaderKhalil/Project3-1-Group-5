@@ -1,0 +1,29 @@
+###
+Question: How many centimetres are there in \( 250 \) metres?
+
+###
+Answers:
+(A) - Two thousand 
+
+(B) - Twenty thousand 
+
+(C) - Two hundred thousand 
+
+(D) - Two million 
+
+###
+Misconceptions:
+(A) - Thinks there are 100 cm in a m 
+
+(B) - Thinks there are 1000 cm in a m 
+
+(C) - nan 
+
+(D) - Thinks there are 100 cm in 1 km 
+
+###
+Subject: Length Units
+###
+ConstructName: Complete multi-step conversions of length that use multiplication
+###
+CorrectAnswer: B

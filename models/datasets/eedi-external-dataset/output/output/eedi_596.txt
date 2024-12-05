@@ -1,0 +1,29 @@
+###
+Question: Simplify the following expression: \( \frac{2x^{2} - 8}{4x - 16} \)
+
+###
+Answers:
+(A) - \( \frac{x - 4}{2} \)
+
+(B) - \( \frac{x + 4}{2} \)
+
+(C) - \( \frac{2(x - 4)}{4(x - 4)} \)
+
+(D) - \( 2 \)
+
+###
+Misconceptions:
+(A) - Thinks that simplification can only occur by dividing by a constant factor instead of recognizing common factors in expressions.
+
+(B) - Believes that the expression simplifies to add constants in the numerator rather than factorising correctly.
+
+(C) - Assumes that factors in the numerator and denominator cancel completely, forgetting about the remaining factors.
+
+(D) - Misunderstands that directly equating the expression to a constant without simplification is valid.
+
+###
+Subject: Simplifying Algebraic Fractions
+###
+ConstructName: Simplify an algebraic fraction by factorising both the numerator and denominator
+###
+CorrectAnswer: A

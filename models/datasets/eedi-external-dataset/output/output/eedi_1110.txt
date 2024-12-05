@@ -1,0 +1,29 @@
+###
+Question: Sarah believes that there is no positive integer \( k \) such that \( 4^{k} \) ends with digit \( 2 \). John argues that there is no positive integer \( l \) such that \( 3^{l} \) ends with digit \( 4 \). Who is correct?
+
+###
+Answers:
+(A) - Only Sarah
+
+(B) - Only John
+
+(C) - Both Sarah and John
+
+(D) - Neither is correct
+
+###
+Misconceptions:
+(A) - Assumes a fact without testing multiple values of \( k \).
+
+(B) - Assumes a fact without testing multiple values of \( l \).
+
+(C) - nan 
+
+(D) - Assumes a fact without testing multiple values of \( k \) and \( l \).
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Raise a positive integer to a positive integer power
+###
+CorrectAnswer: D

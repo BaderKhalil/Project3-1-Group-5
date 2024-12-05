@@ -1,0 +1,32 @@
+###
+Question: Which of the following is the best measure of central tendency for the data set?
+\[
+3, 3, 4, 4, 5, 100
+\] 
+
+###
+Answers:
+(A) - Mean 
+
+(B) - Median 
+
+(C) - Mode 
+
+(D) - All of the above 
+
+###
+Misconceptions:
+(A) - Believes that the mean accurately represents the majority of the data despite outliers 
+
+(B) - Incorrectly assumes that the median is always affected by extreme values 
+
+(C) - Thinks the mode alone provides a full picture without considering the distribution of data 
+
+(D) - Believes all measures of central tendency are equally valid regardless of the data distribution 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Understand the limitations of the mean
+###
+CorrectAnswer: B

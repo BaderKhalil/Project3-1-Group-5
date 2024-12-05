@@ -1,0 +1,29 @@
+###
+Question: Here are two points and their midpoint. What should replace the star? ![A set of axis showing all four quadrants. Two points are marked in a straight line with a positive gradient. One lilac circle marks a point in the 2nd quadrant and is labelled (2, 3). One red circle marks a point in the 1st quadrant and is labelled (4, 1). Another lilac circle marks a point in the 4th quadrant and is labelled (gold star icon, green triangle icon) as the coordinates are unknown.]() 
+
+###
+Answers:
+(A) - \(\color{gold}\bigstar\) = -2
+
+(B) - \(\color{gold}\bigstar\) = 5
+
+(C) - \(\color{gold}\bigstar\) = 1
+
+(D) - \(\color{gold}\bigstar\) = 0 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the midpoint can be calculated by simply averaging the x or y coordinates without considering the need to find the corresponding endpoint.
+
+(B) - Believes that the other endpoint can be determined by simply adding the values of the coordinates already provided.
+
+(C) - Assumes that the y-coordinate of the midpoint can be determined without proper calculation from the given points.
+
+(D) - Assumes the midpoint calculation would yield zero without accounting for the end points' actual positions.
+
+###
+Subject: Midpoint Between Two Co-ordinates
+###
+ConstructName: Given a midpoint and a coordinate work out the position of the other coordinate, where all the values are integers but at least one is negative
+###
+CorrectAnswer: B

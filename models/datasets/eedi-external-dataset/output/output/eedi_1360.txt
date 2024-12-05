@@ -1,0 +1,29 @@
+###
+Question: Which of the following fractions is equivalent to \( \frac{15}{20} \) ?
+
+###
+Answers:
+(A) - \( \frac{3}{4} \)
+
+(B) - \( \frac{15}{25} \)
+
+(C) - \( \frac{30}{40} \)
+
+(D) - None of these 
+
+###
+Misconceptions:
+(A) - Believes there are multiple ways to express the same fraction that are not equivalent
+
+(B) - Assumes that fractions can be made equivalent by adding the same number to both numerator and denominator
+
+(C) - Thinks that multiplying both parts of a fraction by a number always creates equivalent fractions, without checking for simplification
+
+(D) - nan 
+
+###
+Subject: Equivalent Fractions
+###
+ConstructName: Identify equivalent fractions when presented as numbers
+###
+CorrectAnswer: A

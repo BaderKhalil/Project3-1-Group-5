@@ -1,0 +1,32 @@
+###
+Question: Expand:
+\(
+3(4 - x)
+\)
+
+###
+Answers:
+(A) \( 12 - 3x \) 
+
+(B) \( 12 + 3x \) 
+
+(C) \( 3x - 4 \) 
+
+(D) \( 12 - 4x \) 
+
+###
+Misconceptions:
+(A) - Incorrectly multiplies the first term, forgetting to apply the multiplication to the \( -x \) 
+
+(B) - Thinks that multiplying a negative term results in a positive answer 
+
+(C) - Confuses the distribution of terms and incorrectly rearranges the expression 
+
+(D) - Ignores the multiplication of the coefficient outside the bracket 
+
+###
+Subject: Expanding Single Brackets
+###
+ConstructName: Multiply a single term over a bracket where the term on the outside is a number and the inside contains a linear expression
+###
+CorrectAnswer: A

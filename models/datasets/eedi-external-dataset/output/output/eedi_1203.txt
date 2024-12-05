@@ -1,0 +1,29 @@
+###
+Question: If you reflect the triangle in the vertical line, where does the marked vertex end up? ![Square paper with a blue triangle drawn, a mirror line and then the labels P, Q, R, and S. P is left of Q which is below R, and S is two spaces above R. The blue triangle has its top vertex highlighted with a green circle.]() 
+
+###
+Answers:
+(A) - P 
+
+(B) - Q 
+
+(C) - R 
+
+(D) - S 
+
+###
+Misconceptions:
+(A) - Fails to reflect across mirror line 
+
+(B) - Fails to reflect across mirror line 
+
+(C) - nan 
+
+(D) - Reflects vertically but miscalculates distance 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a vertical line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: R

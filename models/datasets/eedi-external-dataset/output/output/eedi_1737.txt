@@ -1,0 +1,29 @@
+###
+Question: What is the formula to calculate the area of a triangle with base \( b \) and height \( h \)? 
+
+###
+Answers:
+(A) - \( \frac{1}{2} b h \)
+
+(B) - \( b + h \)
+
+(C) - \( b \times h \)
+
+(D) - \( 2(b + h) \)
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands area as a sum of lengths rather than a measure of space 
+
+(C) - Confuses area with the method of calculating perimeter by multiplication 
+
+(D) - Misapplies the concept of area by doubling the perimeter calculation 
+
+###
+Subject: Area
+###
+ConstructName: Use area to write algebraic expressions
+###
+CorrectAnswer: A

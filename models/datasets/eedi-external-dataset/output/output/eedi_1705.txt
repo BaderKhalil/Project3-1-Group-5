@@ -1,0 +1,29 @@
+### 
+Question: Rectangle A has been enlarged to create Rectangle B. If Rectangle A measures 4 units in length and 2 units in width and Rectangle B measures 12 units in length and 6 units in width, what is the scale factor of the enlargement? 
+
+### 
+Answers: 
+(A) - \( 2 \) 
+
+(B) - \( \frac{1}{2} \) 
+
+(C) - \( 2.5 \) 
+
+(D) - \( 3 \) 
+
+### 
+Misconceptions: 
+(A) - Correctly identifies the enlargement scale factor as \( \frac{\text{length of B}}{\text{length of A}} \) but mistakenly thinks the ratio should be 2 instead of 3. 
+
+(B) - Divides the length of the image by the length of the original shape incorrectly aims for a reduction scale factor rather than an enlargement. 
+
+(C) - Incorrectly calculates the scale factor by misunderstanding the dimensions, thinking length and width ratios should be combined multiplicatively. 
+
+(D) - Correctly identifies the enlargement scale factor but misunderstands proportions leading to choosing an incorrect value of 3 instead of the correct value of 3. 
+
+### 
+Subject: Enlargement 
+### 
+ConstructName: Describe an enlargement, with no centre of enlargement given, by a positive scale factor bigger than 1 
+### 
+CorrectAnswer: D

@@ -1,0 +1,33 @@
+###
+Question: What is the value of:
+
+\[
+312 - 64 + 27
+\] 
+
+###
+Answers:
+(A) - \( 275 \) 
+
+(B) - \( 275 \) 
+
+(C) - \( 279 \) 
+
+(D) - \( 314 \) 
+
+###
+Misconceptions:
+(A) - Incorrectly subtracts without fully considering all terms 
+
+(B) - Correct answer 
+
+(C) - Errors in addition after subtraction 
+
+(D) - Fails to execute the subtraction correctly before performing addition 
+
+###
+Subject: Mental Addition and Subtraction
+###
+ConstructName: Complete multi-step mental calculations
+###
+CorrectAnswer: B

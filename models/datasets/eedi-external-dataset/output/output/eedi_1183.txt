@@ -1,0 +1,29 @@
+###
+Question: \( -3 \times 7 = \)
+
+###
+Answers:
+(A) - \( -21 \)
+
+(B) - \( 21 \)
+
+(C) - \( -10 \)
+
+(D) - \( 10 \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Believes multiplying a negative by a positive gives a positive answer
+
+(C) - Adds the numbers instead of multiplying them
+
+(D) - Believes multiplying a negative by a positive gives a positive answer
+
+###
+Subject: Multiplying and Dividing Negative Numbers
+###
+ConstructName: Carry out multiplication problems involving one negative integer
+###
+CorrectAnswer: A

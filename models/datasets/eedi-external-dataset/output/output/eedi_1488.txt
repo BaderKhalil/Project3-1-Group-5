@@ -1,0 +1,29 @@
+###
+Question: To find the value of \( 7^{3} \) you should...
+
+###
+Answers:
+(A) - \( 7 + 7 + 7 \)
+
+(B) - \( 7 \times 7 \)
+
+(C) - \( 7 \times 7 \times 7 \)
+
+(D) - \( 7 \times 3 \)
+
+###
+Misconceptions:
+(A) - Confuses squaring with simple addition of the base
+
+(B) - Mistakes cubing for just squaring the base
+
+(C) - nan 
+
+(D) - Confuses power with simple multiplication of the base by the exponent
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Understand the notation for powers
+###
+CorrectAnswer: C

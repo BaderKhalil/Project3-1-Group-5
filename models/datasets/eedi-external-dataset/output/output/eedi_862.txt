@@ -1,0 +1,31 @@
+###
+Question: This is a graph of 
+\(y=-2x+3\) ![A set of axes with y=-2x+3 drawn on.]() Use the graph to solve 
+\(-2x+3=1\)
+
+###
+Answers:
+(A) - \( x=1 \)
+
+(B) - \( x=0 \)
+
+(C) - \( x=1 \)
+
+(D) - \( x=2 \)
+
+###
+Misconceptions:
+(A) - Believes the solution to mx + c = a is found at the y-intercept rather than considering the entire equation.
+
+(B) - Believes that the output of the function at x=0 gives the solution to -2x + c = a.
+
+(C) - nan 
+
+(D) - Believes that simply using the constant from the equation provides the correct x-value without solving for x.
+
+###
+Subject: Graphical Solution of Simultaneous Equations
+###
+ConstructName: Given a sketch of a linear graph solve f(x) = n
+###
+CorrectAnswer: A

@@ -1,0 +1,32 @@
+###
+Question: Which option is the best estimate for
+\[
+23,456 + 5,678 ?
+\] 
+
+###
+Answers:
+(A) - \( 20,000 + 5,000 \) 
+
+(B) - \( 30,000 + 6,000 \) 
+
+(C) - \( 23,000 + 5,000 \) 
+
+(D) - \( 24,000 + 6,000 \) 
+
+###
+Misconceptions:
+(A) - Rounds down too much 
+
+(B) - Rounds up too much 
+
+(C) - nan 
+
+(D) - Rounds one number down but the other up 
+
+###
+Subject: Estimation
+###
+ConstructName: Round numbers to an appropriate degree to estimate the answer to a calculation
+###
+CorrectAnswer: C

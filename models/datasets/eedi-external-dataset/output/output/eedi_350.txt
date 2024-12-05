@@ -1,0 +1,29 @@
+###
+Question: If the probability of a certain event happening is \( \frac{3}{8} \), what is the probability that the event does not happen?
+
+###
+Answers:
+(A) - \( \frac{3}{8} \)
+
+(B) - \( \frac{5}{8} \) 
+
+(C) - \( \frac{1}{3} \)
+
+(D) - \( \frac{8}{3} \)
+
+###
+Misconceptions:
+(A) - Believes that probabilities for the event and its complement are equal 
+
+(B) - nan 
+
+(C) - Misunderstands the relationship between probabilities and believes the sum must equal a simple fraction 
+
+(D) - Does not recognize that probabilities must be between 0 and 1, and presents an incorrect fraction 
+
+###
+Subject: Probability of Single Events
+###
+ConstructName: Know that the probabilities of exhaustive events must sum to 1
+###
+CorrectAnswer: B

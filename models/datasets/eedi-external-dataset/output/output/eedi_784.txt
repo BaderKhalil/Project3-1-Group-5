@@ -1,0 +1,29 @@
+###
+Question: Factorize the expression \( x^{2} - 25 \).
+
+###
+Answers:
+(A) - \( (x+5)(x-5) \)
+
+(B) - \( x(x-25) \)
+
+(C) - \( (x-5)(x-5) \)
+
+(D) - \( x(x-5) \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Does not recognize difference of two squares
+
+(C) - Factorizes difference of two squares with the same sign in both brackets
+
+(D) - Assumes a linear factorization instead of recognizing it as a difference of squares
+
+###
+Subject: Difference of Two Squares
+###
+ConstructName: Factorise a quadratic expression in the form x² - c
+###
+CorrectAnswer: A

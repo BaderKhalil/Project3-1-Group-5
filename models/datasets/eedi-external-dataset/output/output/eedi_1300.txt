@@ -1,0 +1,29 @@
+###
+Question: How many minutes are there in \( 3 \) hours?
+
+###
+Answers:
+(A) - \( 3 \times 60 \)
+
+(B) - \( 3 \times 50 \)
+
+(C) - \( 180 \)
+
+(D) - \( 4 \times 60 \)
+
+###
+Misconceptions:
+(A) - nan
+
+(B) - Incorrectly uses a factor of 50 instead of 60 for conversion
+
+(C) - nan
+
+(D) - Incorrectly calculates the total based on an incorrect number of hours 
+
+###
+Subject: Time
+###
+ConstructName: Convert from hours to minutes
+###
+CorrectAnswer: A

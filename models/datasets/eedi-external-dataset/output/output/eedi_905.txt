@@ -1,0 +1,29 @@
+###
+Question: This angle measures 45 degrees. What type of angle is it? ![An image of an angle that is smaller than 90 degrees.]() 
+
+###
+Answers:
+(A) - Obtuse 
+
+(B) - Acute 
+
+(C) - Straight 
+
+(D) - Right angle 
+
+###
+Misconceptions:
+(A) - Confuses acute and obtuse angles, thinking that a smaller angle can be obtuse. 
+
+(B) - nan 
+
+(C) - Confuses a smaller angle with a straight angle which is 180 degrees. 
+
+(D) - Does not understand that a right angle measures exactly 90 degrees.
+
+###
+Subject: Types, Naming and Estimating
+###
+ConstructName: Identify acute angles
+###
+CorrectAnswer: B

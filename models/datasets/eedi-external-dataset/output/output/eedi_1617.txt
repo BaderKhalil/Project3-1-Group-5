@@ -1,0 +1,32 @@
+###
+Question: Calculate:
+\(
+\frac{5}{8} \div 2
+\)
+
+###
+Answers:
+(A) - \( \frac{10}{8} \)
+
+(B) - \( \frac{5}{16} \)
+
+(C) - \( \frac{5}{4} \)
+
+(D) - \( \frac{5}{10} \)
+
+###
+Misconceptions:
+(A) - When dividing a fraction by an integer, it is incorrectly thought to multiply the numerator by the integer. 
+
+(B) - Correctly calculates the division but assumes that the result can be simplified incorrectly. 
+
+(C) - Mistakenly thinks that dividing a fraction by an integer results in increasing the value of the fraction.
+
+(D) - Confuses division with multiplication, mistakenly thinking the result simplifies directly by changing the denominator.
+
+###
+Subject: Dividing Fractions
+###
+ConstructName: Divide proper fractions in the form: Fraction ÷ Integer
+###
+CorrectAnswer: B

@@ -1,0 +1,39 @@
+###
+Question: A student is trying to solve the equation below.
+
+What is the next correct step to simplify the equation?
+\(
+(2x+3)^{2}-25=0
+\)
+
+Step \( 1 \)
+\(
+(2x+3)^{2}=25
+\)
+
+###
+Answers:
+(A) - \( 2x+3=5 \) 
+
+(B) - \( 2x+3= \pm 5 \) 
+
+(C) - \( 4x^{2}+12x+9=25 \)
+
+(D) - \( 2x-3=25 \)
+
+###
+Misconceptions:
+(A) - Only considers the positive solution when taking the square root 
+
+(B) - nan 
+
+(C) - Incorrectly thinks the expression should be expanded before solving 
+
+(D) - Misunderstands how to isolate the variable correctly 
+
+###
+Subject: Quadratic Equations
+###
+ConstructName: Solve quadratic equations using balancing
+###
+CorrectAnswer: B

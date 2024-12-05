@@ -1,0 +1,29 @@
+###
+Question: Mark wants to estimate the total cost of painting his bedroom, which measures \( 3.7 \mathrm{~m} \) by \( 4.5 \mathrm{~m} \). What calculation will best estimate the area to be painted?
+
+###
+Answers:
+(A) - \( 4 \times 4 \)
+
+(B) - \( 4 \times 5 \)
+
+(C) - \( 3 \times 5 \)
+
+(D) - \( 3 \times 4 \)
+
+###
+Misconceptions:
+(A) - Uses incorrect rounding that assumes both dimensions are too small.
+
+(B) - Rounds one measurement up, assuming an inaccurate excess in area.
+
+(C) - Rounds one length down too far, underestimating the painted area.
+
+(D) - Rounds down both dimensions, leading to a significant underestimation.
+
+###
+Subject: Estimation
+###
+ConstructName: Round decimals to the nearest whole number
+###
+CorrectAnswer: B

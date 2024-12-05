@@ -1,0 +1,29 @@
+###
+Question: Given the function \( y=(x+3)(x-2) \), where does this curve intercept the \( y \) axis?
+
+###
+Answers:
+(A) - \( (0, -6) \) 
+
+(B) - \( (0, 6) \) 
+
+(C) - \( (0, -3) \) 
+
+(D) - \( (0, 0) \) 
+
+###
+Misconceptions:
+(A) - Miscalculates the \( y \) value by incorrectly expanding the expression. 
+
+(B) - Confuses the \( y \) intercept with the roots of the equation.
+
+(C) - Applies the incorrect logic that \( y \) value is determined by adding the constants. 
+
+(D) - Fails to understand that the intercept does not equal zero in this function. 
+
+###
+Subject: Sketching from Factorised Form
+###
+ConstructName: Sketch curves in the form (x + a)(x + b) indicating where they cross the axes
+###
+CorrectAnswer: A

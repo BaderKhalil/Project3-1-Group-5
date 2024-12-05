@@ -1,0 +1,29 @@
+###
+Question: What number is this DCCCXLIV? 
+
+###
+Answers:
+(A) - \( 844 \) 
+
+(B) - \( 844 \) 
+
+(C) - \( 844 \) 
+
+(D) - \( 844 \) 
+
+###
+Misconceptions:
+(A) - Misinterprets the value of 'D' and combines it incorrectly with the remaining symbols, leading to confusion. 
+
+(B) - Misunderstands the combination of symbols as adding each symbol without properly accounting for subtraction rules in Roman numerals. 
+
+(C) - NaN (the correct interpretation could be misrepresented due to cumulative addition errors).
+
+(D) - NaN (the correct interpretation could be misrepresented due to cumulative addition errors).
+
+###
+Subject: Place Value
+###
+ConstructName: Can read Roman numerals between 100 and 1000
+###
+CorrectAnswer: A

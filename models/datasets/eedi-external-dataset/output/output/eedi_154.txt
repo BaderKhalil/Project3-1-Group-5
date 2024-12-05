@@ -1,0 +1,29 @@
+###
+Question: A speed-time graph shows the motion of a car over a duration of 10 seconds. If the car reaches a speed of \( 30 \mathrm{~m/s} \) at the 5-second mark, what are the coordinates of the point where the car has a speed of \( 30 \mathrm{~m/s} \)?
+
+### 
+Answers:
+(A) - \( (3,30) \) 
+
+(B) - \( (5,30) \) 
+
+(C) - \( (7,30) \) 
+
+(D) - \( (10,30) \) 
+
+###
+Misconceptions:
+(A) - Assumes the speed reaches \( 30 \mathrm{~m/s} \) earlier than it actually does 
+
+(B) - nan 
+
+(C) - Incorrectly thinks the speed continues to increase beyond \( 30 \mathrm{~m/s} \) before reaching that point 
+
+(D) - Misinterprets the graph duration, thinking the speed is constant until the end of 10 seconds 
+
+###
+Subject: Real Life Graphs
+###
+ConstructName: Identify coordinates from speed-time relationship
+###
+CorrectAnswer: B

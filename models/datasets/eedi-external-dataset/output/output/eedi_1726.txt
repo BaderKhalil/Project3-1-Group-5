@@ -1,0 +1,29 @@
+###
+Question: What distance should be labeled as \( \color{green}\bigstar \)? ![A diagram showing a trapezoid. The top base is labeled \( 2x+5 \), one leg is labeled \( 3 \), the bottom base is \( 4x \), and the other leg is labeled \( 2x-1 \]. There is a green star marked on the left leg at the bottom of the trapezoid.]() 
+
+###
+Answers:
+(A) - \( 2x + 3 \) 
+
+(B) - \( 3x - 1 \) 
+
+(C) - \( 4x - (2x + 5) \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Confuses the relationship between the sides and bases of a trapezoid 
+
+(B) - Incorrectly applies the properties of a trapezoid's sides 
+
+(C) - nan 
+
+(D) - Does not recognize how to derive missing lengths based on given dimensions 
+
+###
+Subject: Missing Lengths
+###
+ConstructName: Calculate missing lengths of shapes by geometrical inference, where the lengths involve algebraic expressions
+###
+CorrectAnswer: C

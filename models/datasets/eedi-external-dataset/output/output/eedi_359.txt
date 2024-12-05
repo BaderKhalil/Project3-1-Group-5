@@ -1,0 +1,31 @@
+###
+        Question: If we want to express 
+"\( x \) decreased by \( x \) decreased by \( x \)" 
+using algebra, how would we write that?
+
+        ###
+        Answers:
+        (A) - \( x - x - x \) 
+
+        (B) - \( 2x \) 
+
+        (C) - \( 3x \) 
+
+        (D) - \( -3x \) 
+
+        ###
+        Misconceptions:
+        (A) - Correctly sets up the expression but fails to simplify 
+      
+        (B) - Incorrectly adds the subtracted quantities
+
+        (C) - Misunderstands the operation, thinking it involves addition instead of subtraction 
+
+        (D) - Uses the correct negation but incorrectly combines the terms 
+
+        ###
+        Subject: Writing Expressions
+        ###
+        ConstructName: Write algebraic expressions with correct algebraic convention involving subtraction
+        ###
+        CorrectAnswer: A

@@ -1,0 +1,29 @@
+###
+Question: Which of the following describes the area of a rectangle formed by a sequence of increasingly larger squares? For example, if the first square has a side length of 1, the second square has a side length of 2, and the third square has a side length of 3, what is the general formula for the area of the rectangles formed?
+
+###
+Answers:
+(A) - n 
+
+(B) - n^2 
+
+(C) - n(n + 1) 
+
+(D) - 2n 
+
+###
+Misconceptions:
+(A) - Does not recognize that the area is related to the square of the side length, not just the length itself
+
+(B) - Correctly identifies the relationship between the side length and area for squares, but fails to understand the nature of rectangles formed by increasing side lengths
+
+(C) - Misunderstands the relationship of consecutive side lengths in terms of area growth, as this formula incorrectly represents the area of rectangles with length and width
+
+(D) - Misinterprets the area formula by introducing an incorrect multiplier, thinking of it as linear instead of quadratic
+
+###
+Subject: Quadratic Sequences
+###
+ConstructName: Recognise the relationship between side lengths and area for quadratic growth
+###
+CorrectAnswer: B

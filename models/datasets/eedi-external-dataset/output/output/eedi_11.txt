@@ -1,0 +1,29 @@
+###
+Question: This is the net of a... ![A net resembling a rectangular prism]() 
+
+###
+Answers:
+(A) - Cube 
+
+(B) - Rectangular pyramid 
+
+(C) - Cylinder 
+
+(D) - Triangular prism 
+
+###
+Misconceptions:
+(A) - Confuses the nets of cubes with rectangular prisms due to similar shapes. 
+
+(B) - Misidentified due to the triangular base being confused with a rectangle. 
+
+(C) - Misunderstands that the circular base is essential for a cylinder, which is not present in the net. 
+
+(D) - Struggles to visualize the net of 3D shapes, specifically distinguishing prisms based on their bases. 
+
+###
+Subject: Nets
+###
+ConstructName: Identify the net of a prism
+###
+CorrectAnswer: A

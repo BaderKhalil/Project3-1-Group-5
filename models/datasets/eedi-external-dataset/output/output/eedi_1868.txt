@@ -1,0 +1,35 @@
+###
+Question: Mia and Kevin are discussing the transformation of shape \( R \) to shape \( S \)
+
+Mia states: "It’s a \( 180^{\degree} \) rotation clockwise"
+
+Kevin argues: "No, it’s a rotation of \( -180^{\degree} \) about the point \( (2,-3) \)"
+
+Which one of them is correct? ![A coordinate plane showing two pentagons with a center of rotation clearly marked at (2,-3). Pentagonal shape R has the coordinates: (0,0), (2,0), (3,1), (1,2), and (0,1). Pentagonal shape S has the coordinates: (4,-3), (2,-3), (1,-2), (3,-1), and (4,-2).]()
+
+###
+Answers:
+(A) - Only Mia
+
+(B) - Only Kevin 
+
+(C) - Both Mia and Kevin 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Misunderstands the angle and direction of rotation 
+
+(B) - Correctly identifies the negative rotation but fails to recognize that both +- and -180° represent the same physical rotation 
+
+(C) - Misunderstands the angle and direction of rotation 
+
+(D) - Does not consider the relation between clockwise and counterclockwise rotations 
+
+###
+Subject: Rotation
+###
+ConstructName: Describe a 180° rotation giving the angle and direction of rotation, and the coordinates of the centre of rotation, where the centre of rotation lies on the edge or outside of the object 
+###
+CorrectAnswer: B

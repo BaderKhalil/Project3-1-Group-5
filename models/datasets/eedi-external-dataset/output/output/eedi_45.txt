@@ -1,0 +1,29 @@
+###
+Question: ![A function machine with 3 rectangles in a row, joined by arrows pointing from left to right. The first rectangle on the left has "input" written above it and "3x - 4" written inside it. The middle rectangle has "✕ 3" written inside it and the final rectangle is empty and has "output" written above it.]() What is the output of this function machine?
+
+###
+Answers:
+(A) - \( 9x - 4 \)
+
+(B) - \( 3x - 12 \)
+
+(C) - \( 3x - 1 \)
+
+(D) - \( 9x - 12 \)
+
+###
+Misconceptions:
+(A) - Only multiplies the first term in the expansion of a bracket
+
+(B) - Misunderstands how constants affect the operation
+
+(C) - Incorrectly modifies the algebraic expression instead of applying the multiplication properly
+
+(D) - nan
+
+###
+Subject: Function Machines
+###
+ConstructName: For a given algebraic input, find the output of a function machine
+###
+CorrectAnswer: D

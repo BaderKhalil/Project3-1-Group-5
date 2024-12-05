@@ -1,0 +1,31 @@
+###
+Question: \(y_{n+1}=\frac{2}{y_{n}+1}\)
+
+Using a starting value of \( y_{1}=1 \), what is the value of \( y_{2} \) ? 
+
+###
+Answers:
+(A) - \( 1 \)
+
+(B) - \( 1.3333 \ldots \)
+
+(C) - \( 0.6666 \ldots \)
+
+(D) - \( 1.5 \)
+
+###
+Misconceptions:
+(A) - Misunderstanding of the iteration process, reusing the starting value instead of applying the formula
+
+(B) - Incorrectly believes they need to add rather than apply the formula correctly 
+
+(C) - Incorrect application of the formula resulting from arithmetic errors
+
+(D) - Mistakes the sequence iteration as a different operation, leading to an unrelated answer 
+
+###
+Subject: Trial and Improvement and Iterative Methods
+###
+ConstructName: Carry out the first stage in an iteration solution
+###
+CorrectAnswer: B

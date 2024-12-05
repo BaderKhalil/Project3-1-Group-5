@@ -1,0 +1,39 @@
+###
+Question: A survey was conducted to find out how many pets students have. The table below shows some results. 
+
+\begin{tabular}{|c|c|c|}
+\hline Number of pets & Frequency & Angle on a pie chart \\
+\hline  0  & \( 5 \) & \(  \) \\
+\hline 1  & \( 8 \) & \(  \) \\
+\hline 2  & \( 7 \) & \(  \bigstar \) \\
+\hline 3  & \( 2 \) & \(  \) \\
+\hline 4 or more  & \(  \) & \(  \) \\
+\hline  TOTAL  & 30  & \(  \) \\
+\end{tabular} Mark wants to calculate the angle for the number of students who have 2 pets. What should replace the star?
+
+###
+Answers:
+(A) - \( 84^\circ \) 
+
+(B) - \( 60^\circ \) 
+
+(C) - \( 28^\circ \) 
+
+(D) - Not enough information 
+
+###
+Misconceptions:
+(A) - Believes that to find the angle for a pie chart, you can just multiply the frequency by the number of sections in the chart. 
+
+(B) - Believes each pet category takes an equal share of the circle regardless of frequency. 
+
+(C) - Believes that the angle is calculated simply by dividing the frequency by the total and multiplying by \( 360^\circ \). 
+
+(D) - Believes that there needs to be more data provided in order to calculate the angle. 
+
+###
+Subject: Pie Chart
+###
+ConstructName: Calculate the sector angle on a pie chart for a given group
+###
+CorrectAnswer: A

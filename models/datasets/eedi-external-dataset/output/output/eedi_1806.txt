@@ -1,0 +1,29 @@
+###
+Question: Write the expression for the sum of three times \( a \) and \( b \) using correct algebraic notation. 
+
+###
+Answers:
+(A) - \( 3a + b \) 
+
+(B) - \( ab + 3 \) 
+
+(C) - \( 3(a + b) \) 
+
+(D) - \( 3ab \) 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Incorrectly adds 3 instead of multiplying \( a \) by 3 and then adding \( b \) 
+
+(C) - Incorrectly groups \( a \) and \( b \) together instead of summing the product 
+
+(D) - Incorrectly multiplies \( 3 \) and \( a \) with \( b \) without adding 
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Given the description of an algebraic term with no powers, write the term using algebra 
+###
+CorrectAnswer: A

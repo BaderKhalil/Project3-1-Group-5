@@ -1,0 +1,45 @@
+###
+Question: Which representation does not accurately illustrate the expression?
+\(3(m + 4)\)
+
+###
+Answers:
+(A) - ![\begin{tabular}{|c|c|c|}
+\hline \(m\) & \(4\) & \(4\) \\
+\hline \(m\) & \(4\) & \(4\) \\
+\hline
+\end{tabular}]() 
+
+(B) - ![\begin{tabular}{|l|l|l|l|}
+\hline \(m\) & \(m\) & \(4\) & \(4\) \\
+\hline
+\end{tabular}]() 
+
+(C) - ![\begin{tabular}{|l|l|l|}
+\hline \(3\) & \(m\) & \(4\) \\
+\hline
+\end{tabular}]() 
+
+(D) - ![\begin{tabular}{|c|c|}
+\hline \(m\) & \(3\) \\
+\hline \(m\) & \(3\) \\
+\hline \(m\) & \(3\) \\
+\hline
+\end{tabular}]() 
+
+###
+Misconceptions:
+(A) - Misunderstands how to apply multiplication in bar models
+
+(B) - Incorrectly applies the distributive property by not separating terms correctly
+
+(C) - Fails to recognize how to utilize the scalar multiplication 
+
+(D) - Does not grasp bar modelling in algebra
+
+###
+Subject: Writing Expressions
+###
+ConstructName: Create a situation to match an algebraic expression
+###
+CorrectAnswer: C

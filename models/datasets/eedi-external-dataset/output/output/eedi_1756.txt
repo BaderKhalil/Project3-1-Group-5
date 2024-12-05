@@ -1,0 +1,29 @@
+###
+Question: How do you write \( 45\% \) as a decimal? 
+
+###
+Answers:
+(A) - \( 4.5 \) 
+
+(B) - \( 0.45 \) 
+
+(C) - \( 45 \) 
+
+(D) - \( 0.045 \) 
+
+###
+Misconceptions:
+(A) - Divided by 10 rather than 100 
+
+(B) - nan 
+
+(C) - Thinks you need to just remove the percentage sign to convert from a percentage to a decimal 
+
+(D) - Misunderstands that moving the decimal point involves an incorrect number of places 
+
+###
+Subject: Converting between Decimals and Percentages
+###
+ConstructName: Convert integer percentages with 2 digits to decimals 
+###
+CorrectAnswer: B

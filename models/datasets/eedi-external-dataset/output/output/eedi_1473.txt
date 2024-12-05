@@ -1,0 +1,29 @@
+###
+Question: A recipe requires \( 2 \) cups of flour for every \( 1 \) cup of sugar. If you want to use \( 5 \) cups of sugar, how many cups of flour will you need?
+
+###
+Answers:
+(A) - \( 10 \)
+
+(B) - \( 12 \)
+
+(C) - \( 5 \)
+
+(D) - \( 7 \)
+
+###
+Misconceptions:
+(A) - Incorrectly thinks that the relationship is additive rather than proportional 
+
+(B) - Assumes a different scale for the ingredients that doesn't reflect the given ratio
+
+(C) - Fails to recognize the need to apply the ratio properly 
+
+(D) - Misunderstands multiplication by a fraction due to confusion with addition 
+
+###
+Subject: Writing Ratios
+###
+ConstructName: Divide a quantity into two parts for a given ratio, where each part is an integer
+###
+CorrectAnswer: A

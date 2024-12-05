@@ -1,0 +1,32 @@
+###
+Question: Convert this fraction to a percentage
+\(
+\frac{3}{8}
+\)
+
+###
+Answers:
+(A) - \( 37.5 \% \)
+
+(B) - \( 24 \% \)
+
+(C) - \( 75 \% \)
+
+(D) - This fraction cannot be expressed as a percentage
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the conversion process and estimates too low 
+
+(C) - Does not understand that the whole must be represented as 100% 
+
+(D) - Incorrect belief that a fraction cannot be converted to a percentage 
+
+###
+Subject: Converting between Fractions and Percentages
+###
+ConstructName: Convert fractions to percentages containing 1 decimal place
+###
+CorrectAnswer: A

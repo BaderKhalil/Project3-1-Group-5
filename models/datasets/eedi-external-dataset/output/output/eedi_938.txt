@@ -1,0 +1,29 @@
+###
+Question: Sarah has a collection of stamps. She starts with \( -5 \) stamps and receives \( 4 \) new stamps each week. How many stamps does she have after \( 3 \) weeks? 
+
+###
+Answers:
+(A) \( -5 \)
+
+(B) \( 7 \)
+
+(C) \( -11 \)
+
+(D) \( -2 \)
+
+###
+Misconceptions:
+(A) - Thinks she starts with \( 0 \) stamps because she receives new stamps. 
+
+(B) - Incorrectly adds the total number of stamps after \( 3 \) weeks without considering the negative starting point.
+
+(C) - Miscalculates the total by erroneously subtracting instead of adding new stamps received each week.
+
+(D) - Thinks her total remains negative without proper addition of the incoming stamps.
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Carry out addition problems involving one negative integer
+###
+CorrectAnswer: B

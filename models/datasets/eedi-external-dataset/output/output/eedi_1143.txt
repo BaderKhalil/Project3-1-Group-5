@@ -1,0 +1,29 @@
+###
+Question: If you connect the vertices of a shape with exactly 6 sides using straight lines, which of the following options describes the polygon effectively? ![A diagram with 6 vertices connected to form a hexagon]()
+
+###
+Answers:
+(A) - A heptagon 
+
+(B) - A quadrilateral 
+
+(C) - A hexagon 
+
+(D) - An octagon 
+
+###
+Misconceptions:
+(A) - Confuses heptagon with hexagon 
+
+(B) - Misunderstands the definition of a quadrilateral 
+
+(C) - nan 
+
+(D) - Confuses octagon with hexagon due to the number of sides 
+
+###
+Subject: Properties of Polygons
+###
+ConstructName: Given the number of sides of a polygon identify the name
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: \( 9^{2}= \)
+
+###
+Answers:
+(A) - \( 18 \) 
+
+(B) - \( 81 \) 
+
+(C) - \( 72 \) 
+
+(D) - \( 99 \) 
+
+###
+Misconceptions:
+(A) - Confuses squaring a number with simply multiplying by 2 
+
+(B) - nan 
+
+(C) - Completes the multiplication incorrectly or misunderstands the process of squaring 
+
+(D) - Incorrectly adds digits or misunderstands place value when calculating the square 
+
+###
+Subject: Square Roots, Cube Roots, etc
+###
+ConstructName: Calculate the square of a number
+###
+CorrectAnswer: B

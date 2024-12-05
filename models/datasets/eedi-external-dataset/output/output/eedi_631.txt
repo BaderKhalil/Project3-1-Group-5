@@ -1,0 +1,37 @@
+###
+Question: Sarah and Tom are debating properties of roots.
+
+Sarah claims there is no value of \( p \) that makes \( \sqrt{p} \) a negative number.
+
+Tom states there is no value of \( q \) such that \( \sqrt{q^2} \) is not equal to \( q \).
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only
+Sarah 
+
+(B) - Only
+Tom 
+
+(C) - Both Sarah and Tom 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Assumes that the square root of a positive number cannot be negative, ignoring the definition of real numbers.
+
+(B) - Assumes that the square root function always returns the same sign as the input, neglecting negative inputs.
+
+(C) - nan
+
+(D) - Assumes facts without considering the mathematical definitions of square roots and absolute values.
+
+###
+Subject: Squares, Cubes, etc
+###
+ConstructName: Understand properties of square roots
+###
+CorrectAnswer: C

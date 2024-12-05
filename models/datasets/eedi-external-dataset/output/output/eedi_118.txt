@@ -1,0 +1,31 @@
+###
+Question: What value should replace the question mark to solve the area of this rectangle?
+Area \( = \text{length} \times \text{width} \) \( = 12 \times \) \(\color{gold}?\)
+![Rectangle with length of 12cm and width of 8cm.]() 
+
+###
+Answers:
+(A) - \( 8 \)
+
+(B) - \( 96 \)
+
+(C) - \( 4 \)
+
+(D) - \( 20 \)
+
+###
+Misconceptions:
+(A) - Correctly identifies length but assumes width is equal to the perimeter instead of focusing on dimensions for area calculation
+
+(B) - Multiplies the dimensions incorrectly, leading to confusion between area and multiplication of dimensions
+
+(C) - Incorrectly calculates a fraction of dimensions rather than applying the formula for area directly
+
+(D) - Misunderstands the relationship between the dimensions and incorrectly adds instead of multiplying them for area
+
+###
+Subject: Area of Simple Shapes
+###
+ConstructName: Calculate the area of a rectangle given the appropriate dimensions
+###
+CorrectAnswer: A

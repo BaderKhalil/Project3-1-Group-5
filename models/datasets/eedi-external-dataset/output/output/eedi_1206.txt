@@ -1,0 +1,33 @@
+###
+Question: \(
+A = 2^{n}
+\)
+
+What is the value of \( A \) when \( n=-2 \) ? 
+
+###
+Answers:
+(A) - \( -4 \) 
+
+(B) - \( 0 \) 
+
+(C) - \( \frac{1}{4} \) 
+
+(D) - \( -\frac{1}{4} \) 
+
+###
+Misconceptions:
+(A) - Has multiplied the base number and the power 
+
+(B) - Believes that any exponent can lead to zero if it is negative 
+
+(C) - nan 
+
+(D) - Believes a negative exponent results in a negative answer 
+
+###
+Subject: Substitution into Formula
+###
+ConstructName: Substitute negative integer values into formulae involving powers or roots
+###
+CorrectAnswer: C

@@ -1,0 +1,29 @@
+###
+Question: \( 12 - (-5) = \)
+
+###
+Answers:
+(A) - \( 17 \)
+
+(B) - \( -17 \)
+
+(C) - \( 7 \)
+
+(D) - \( -7 \)
+
+###
+Misconceptions:
+(A) - Correct calculation but confuses the operation with a different mathematical interpretation
+
+(B) - Incorrect assumption that the result must be negative 
+
+(C) - Misunderstands the rules of subtracting negative numbers, thinking it’s similar to regular subtraction
+
+(D) - Fails to recognize that subtracting a negative is equivalent to adding its positive counterpart
+
+###
+Subject: Adding and Subtracting Negative Numbers
+###
+ConstructName: Carry out subtraction problems involving one negative integer
+###
+CorrectAnswer: A

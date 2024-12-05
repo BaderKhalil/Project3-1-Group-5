@@ -1,0 +1,35 @@
+###
+Question: ![A diagram showing a horizontal line across the middle of a grid, intersecting a green triangle located below the line. The triangle has vertices A (1 unit left from the vertical center line, 2 units down), B (2 units right from the vertical center line, 2 units down), and C (0 units from the vertical center line, 5 units down). The horizontal line acts as a mirror. The triangle is being reflected across the horizontal line. ]() Sam and Alex are discussing reflections.
+
+Sam claims that if the triangle is reflected in the horizontal line, Point \( A \) moves to the same vertical position as Point \( C \).
+
+Alex argues that when the triangle is reflected in the horizontal line, Point \( B \) stays in the same position.
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Sam
+
+(B) - Only Alex 
+
+(C) - Both Sam and Alex 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Fails to account for the vertical movement of Point A after reflection 
+
+(B) - Assumes that points on the mirror line do not change position when reflected 
+
+(C) - Fails to recognize the rules of reflection properly
+
+(D) - Fails to recognize the rules of reflection properly 
+
+###
+Subject: Reflection
+###
+ConstructName: Reflect an object or a point in a horizontal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object
+###
+CorrectAnswer: A

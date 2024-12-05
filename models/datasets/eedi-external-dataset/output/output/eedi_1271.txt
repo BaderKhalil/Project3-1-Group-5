@@ -1,0 +1,36 @@
+###
+Question: Maria and Tom are discussing the solution to this inequality:
+\(x - 5 < 10\)
+
+Maria claims \(x\) could be \(2\)
+
+Tom argues that \(x\) could be \(15\)
+
+Who is correct? 
+
+###
+Answers:
+(A) - Only Maria 
+
+(B) - Only Tom 
+
+(C) - Both Maria and Tom 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Misinterprets the inequality and does not consider the correct range of values 
+
+(B) - Assumes any number greater than 10 is the only solution 
+
+(C) - Misunderstands that numbers can be both less than 10 and greater than the value obtained, leading to confusion 
+
+(D) - Doesn't realize that some valid solutions exist, but both presented are incorrect 
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve one-step linear inequalities in one variable where the variable appears on one side of the equation
+###
+CorrectAnswer: B

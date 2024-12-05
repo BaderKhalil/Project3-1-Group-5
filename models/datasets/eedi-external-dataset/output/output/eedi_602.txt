@@ -1,0 +1,29 @@
+###
+Question: \( \frac{2}{3} \) of \( 45 = \)
+
+###
+Answers:
+(A) - \( 15 \) 
+
+(B) - \( 25 \) 
+
+(C) - \( 30 \) 
+
+(D) - \( 27 \) 
+
+###
+Misconceptions:
+(A) - Calculates the fraction by finding the unit fraction instead of the correct non-unit fraction 
+
+(B) - Adds the numerator and denominator together as if they are separate values instead of applying them correctly to find the fraction of the total 
+
+(C) - Multiplies instead of dividing when calculating a fraction of an amount 
+
+(D) - nan 
+
+###
+Subject: Fractions of an Amount
+###
+ConstructName: Calculate non-unit fractions of an amount
+###
+CorrectAnswer: D

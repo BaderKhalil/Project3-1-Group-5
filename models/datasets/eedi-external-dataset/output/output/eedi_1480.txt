@@ -1,0 +1,29 @@
+###
+Question: \( 7.25 \div 100= \)
+
+###
+Answers:
+(A) - \( 0.725 \)
+
+(B) - \( 0.0725 \)
+
+(C) - \( 0.00725 \)
+
+(D) - \( 0.7250 \)
+
+###
+Misconceptions:
+(A) - Believes that moving the decimal point does not apply accurately when dividing by 100
+
+(B) - Correct understanding of dividing by 100
+
+(C) - Misplaced the decimal point two positions instead of moving it to the left
+
+(D) - Incorrectly assumes that zeros after a decimal point are significant and affect the value
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Divide decimals by 100
+###
+CorrectAnswer: B

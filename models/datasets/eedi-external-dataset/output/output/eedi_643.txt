@@ -1,0 +1,29 @@
+###
+Question: \( \frac{(4) \times(-5)}{(-1)}= \)
+
+###
+Answers:
+(A) - \( 20 \)
+
+(B) - \( -20 \)
+
+(C) - \( -4 \)
+
+(D) - \( 4 \)
+
+###
+Misconceptions:
+(A) - Believes that multiplying two numbers with different signs results in a positive number, ignores the signs in multiplication.
+
+(B) - Believes that a negative number divided by a negative number results in a negative, failing to apply the rule correctly.
+
+(C) - Mistakes the operation as addition instead of division, leading to an incorrect answer.
+
+(D) - Assumes that division by a negative only affects the second number, forgetting multiplication rules.
+
+###
+Subject: Multiplying and Dividing Negative Numbers
+###
+ConstructName: Carry out division problems involving negative non-integers
+###
+CorrectAnswer: A

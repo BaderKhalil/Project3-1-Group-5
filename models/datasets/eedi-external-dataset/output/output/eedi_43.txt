@@ -1,0 +1,29 @@
+###
+Question: Simplify: \( \frac{6}{12} \div 3 \) 
+
+###
+Answers:
+(A) - \( \frac{2}{12} \) 
+
+(B) - \( \frac{1}{2} \) 
+
+(C) - \( \frac{3}{6} \) 
+
+(D) - \( \frac{2}{6} \) 
+
+###
+Misconceptions:
+(A) - Mistakenly thinks that dividing by 3 means reducing the numerator only 
+
+(B) - Correctly simplifies the fraction 
+
+(C) - Confuses division with simplification, incorrectly reducing the fraction but ignoring the division 
+
+(D) - When dividing a fraction by an integer, mistakenly reduces the numerator by the integer 
+
+###
+Subject: Dividing Fractions
+###
+ConstructName: Divide proper fractions in the form: Fraction ÷ Integer
+###
+CorrectAnswer: B

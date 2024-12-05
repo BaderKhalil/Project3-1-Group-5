@@ -1,0 +1,29 @@
+###
+Question: The first four terms of a sequence are \( \begin{array}{llll}23 & 18 & 13 & 8 & \ldots\end{array} \) Find an expression for the nth term of this sequence.
+
+###
+Answers:
+(A) - \( -5n + 28 \) 
+
+(B) - \( -5n + 23 \) 
+
+(C) - \( -5n \) 
+
+(D) - \( 5n + 18 \) 
+
+###
+Misconceptions:
+(A) - Assumes the initial value is incorrect and overestimates the positive term influence on the sequence.
+
+(B) - Understands the sequence decreases but miscalculates the starting value in the nth term expression.
+
+(C) - Incorrectly believes that the terms in a linear sequence don't consider a y-intercept value.
+
+(D) - Confuses the relationship of terms and wrongly applies a positive coefficient for a decreasing sequence. 
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Find the nth term rule for a descending integer linear sequence
+###
+CorrectAnswer: B

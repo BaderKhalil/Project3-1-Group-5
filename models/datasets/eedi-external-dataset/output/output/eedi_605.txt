@@ -1,0 +1,29 @@
+###
+Question: A pie chart represents the percentage of different fruit sales at a local market. If the section representing Apples takes up 30% of the pie, what percentage of the pie is allocated to Bananas if the section for Bananas is twice the size of the section for Apples?
+
+###
+Answers:
+(A) - \( 20\% \)
+
+(B) - \( 60\% \)
+
+(C) - \( 30\% \)
+
+(D) - \( 50\% \)
+
+###
+Misconceptions:
+(A) - Incorrectly calculates by misunderstanding the proportion of sections in the pie chart.
+
+(B) - Misinterprets the relationship between sections, thinking Bananas should occupy more than double Apples.
+
+(C) - Misunderstands the question, assuming that the percentage for Bananas is the same as Apples.
+
+(D) - Incorrectly assumes the rest of the pie chart after Apples accounts for 50%, without calculating the specific section for Bananas.
+
+###
+Subject: Pie Charts
+###
+ConstructName: Interpret a pie chart
+###
+CorrectAnswer: D

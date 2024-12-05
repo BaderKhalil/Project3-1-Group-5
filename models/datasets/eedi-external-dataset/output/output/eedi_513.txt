@@ -1,0 +1,35 @@
+###
+Question: Maria is attempting to solve the equation below.
+
+Here are her steps.
+
+Which steps, if any, are correct? ![An equation 7 = 3x + 1 on the first line. 
+On the second line, Step 1 : 6 = 3x. 
+On the third line, Step 2: x = 2]() 
+
+###
+Answers:
+(A) - Only step \( 1 \)
+
+(B) - Only step \( 2 \)
+
+(C) - Both steps are correct 
+
+(D) - Both steps are incorrect 
+
+###
+Misconceptions:
+(A) - Incorrectly assumes that the equation is solved after the first operation without checking the final value of \( x \). 
+
+(B) - Incorrectly calculates the value of \( x \) due to a misunderstanding of balancing the equation. 
+
+(C) - Incorrectly believes both steps maintained the equality of the equation properly. 
+
+(D) - nan 
+
+###
+Subject: Linear Equations
+###
+ConstructName: Solve two-step linear equations, with the variable on one side, with all positive integers
+###
+CorrectAnswer: D

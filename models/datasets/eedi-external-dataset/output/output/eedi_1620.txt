@@ -1,0 +1,29 @@
+###
+Question: What is the 6th term of this sequence? \( u_{n} = 3n - 8 \)
+
+###
+Answers:
+(A) - \( 10 \)
+
+(B) - \( 10 \)
+
+(C) - \( 5 \)
+
+(D) - \( 15 \)
+
+###
+Misconceptions:
+(A) - Correct calculation but used the wrong term number and thus miscalculated the term.
+
+(B) - Incorrectly multiplied 3 by 6 but did not subtract the constant correctly.
+
+(C) - Calculated the first term correctly but did not account for the position of the term in the sequence correctly.
+
+(D) - Added 3 and 8 rather than multiplying and then subtracting the constant.
+
+###
+Subject: Linear Sequences (nth term)
+###
+ConstructName: Use the nth term rule for ascending integer linear sequences to find another term in the sequence.
+###
+CorrectAnswer: A

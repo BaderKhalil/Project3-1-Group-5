@@ -1,0 +1,33 @@
+###
+Question: Without using a calculator, what is the mean of the following numbers?
+
+\[
+4, 4, 5, 5, 4
+\] 
+
+###
+Answers:
+(A) - \( 4 \) 
+
+(B) - A little less than \( 4 \) 
+
+(C) - \( 5 \) 
+
+(D) - A little more than \( 4 \) 
+
+###
+Misconceptions:
+(A) - When asked for the mean of a list of data, gives the mode 
+
+(B) - Calculates incorrectly or misinterprets the data as having less total value 
+
+(C) - Believes the mean is the middle number 
+
+(D) - Thinks the average will always be higher than all the numbers in the dataset 
+
+###
+Subject: Averages (mean, median, mode) from a List of Data
+###
+ConstructName: Calculate the mean as an average from a list of data
+###
+CorrectAnswer: A

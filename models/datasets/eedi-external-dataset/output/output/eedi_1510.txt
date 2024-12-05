@@ -1,0 +1,32 @@
+###
+Question: Calculate:
+\[
+0.25 \times 36
+\] 
+
+###
+Answers:
+(A) - \( 9.00 \) 
+
+(B) - \( 0.09 \) 
+
+(C) - \( 8.25 \) 
+
+(D) - \( 0.825 \) 
+
+###
+Misconceptions:
+(A) - When multiplying a decimal less than 1 by an integer, does not correctly account for the decimal point, resulting in an answer that is too large. 
+
+(B) - Assumes the decimal should be placed two places to the left, underestimating the value of the product. 
+
+(C) - Correctly places the decimal but makes a computational error in multiplication. 
+
+(D) - When multiplying a decimal less than 1 by an integer, overlooks the multiplication and places the decimal too far left, resulting in a total that is too small. 
+
+###
+Subject: Multiplying and Dividing with Decimals
+###
+ConstructName: Multiply a decimal by an integer
+###
+CorrectAnswer: C

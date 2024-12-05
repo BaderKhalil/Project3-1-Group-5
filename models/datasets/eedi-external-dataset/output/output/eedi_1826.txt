@@ -1,0 +1,29 @@
+###
+Question: Evaluate the following expression: \( \boldsymbol{y}=\mathbf{3}^{\boldsymbol{x}} \) for \( x = -3 \). What does \( y \) equal? 
+
+###
+Answers:
+(A) - \( 27 \) 
+
+(B) - \( 9 \) 
+
+(C) - \( \frac{1}{27} \) 
+
+(D) - \( -\frac{1}{9} \) 
+
+###
+Misconceptions:
+(A) - Thinks negative exponents lead to positive outcomes based on multiplying by the base 
+
+(B) - Believes the output is calculated incorrectly, assuming reduction by squaring the base 
+
+(C) - Correctly understands the concept of negative exponents but miscalculates the fraction 
+
+(D) - Thinks negative exponents result in negative answers 
+
+###
+Subject: Graphs of Exponentials and Other Powers of x
+###
+ConstructName: Calculate coordinates of points on the graph of y = ax, where x is a negative integer 
+###
+CorrectAnswer: C

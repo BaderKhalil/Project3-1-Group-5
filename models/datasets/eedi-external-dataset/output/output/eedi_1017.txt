@@ -1,0 +1,30 @@
+###
+Question: Solve the inequality:
+\( 2x + 3 < 11 \)
+
+###
+Answers:
+(A) - \( x < 4 \)
+
+(B) - \( x < 3 \)
+
+(C) - \( x > 4 \)
+
+(D) - \( x > 3 \)
+
+###
+Misconceptions:
+(A) - Misunderstands how to isolate the variable correctly and ends up with an incorrect boundary.
+
+(B) - Incorrectly believes that \(2x + 3\) can be simplified by only subtracting 3 from both sides without considering the coefficient of \(x\).
+
+(C) - Incorrectly thinks that the inequality sign flips when subtracting a number from one side.
+
+(D) - Believes that the problem has more than one solution direction when it does not.
+
+###
+Subject: Solving Linear Inequalities
+###
+ConstructName: Solve one-step linear inequalities in one variable where the variable appears on one side of the equation
+###
+CorrectAnswer: B

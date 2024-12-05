@@ -1,0 +1,35 @@
+###
+Question: The formula for converting temperature from Celsius to Fahrenheit is 
+
+\(
+F = \frac{9}{5}C + 32
+\)
+
+Which of the following equations are not correct? 
+
+###
+Answers:
+(A) - \( C = \frac{5}{9}(F - 32) \) 
+
+(B) - \( F = \frac{5}{9}C + 32 \) 
+
+(C) - \( C = \frac{9}{5}F - 32 \) 
+
+(D) - All are incorrect 
+
+###
+Misconceptions:
+(A) - nan 
+
+(B) - Misunderstands the process of inverting the formula correctly 
+
+(C) - Confuses the operations needed to isolate C in terms of F 
+
+(D) - nan 
+
+###
+Subject: Rearranging Formula and Equations
+###
+ConstructName: Rearrange formulae to change the subject where the subject appears once and two steps are needed
+###
+CorrectAnswer: B

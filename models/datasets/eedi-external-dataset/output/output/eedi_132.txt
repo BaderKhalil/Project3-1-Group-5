@@ -1,0 +1,32 @@
+###
+Question: Lucy and Ben are solving equations involving absolute values.
+Lucy states that \( |x - 3| = 5 \) yields \( x = 8 \) and \( x = -2 \).
+Ben claims that \( |x + 4| = 6 \) produces \( x = 2 \) and \( x = -10 \).
+Who is correct?
+
+###
+Answers:
+(A) - Only Lucy 
+
+(B) - Only Ben 
+
+(C) - Both Lucy and Ben 
+
+(D) - Neither is correct 
+
+###
+Misconceptions:
+(A) - Thinks Lucy has correctly identified both solutions of her absolute value equation when she actually missed one. 
+
+(B) - Believes Ben's solutions are accurate, when in fact he has miscalculated one solution. 
+
+(C) - Assumes both pairs of solutions from Lucy and Ben are correct without verifying the absolute value principles. 
+
+(D) - Is unaware that both made mistakes regarding the solutions of absolute value equations. 
+
+###
+Subject: Solving Absolute Value Equations
+###
+ConstructName: Solve equations involving absolute values in one variable
+###
+CorrectAnswer: A

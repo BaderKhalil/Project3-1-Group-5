@@ -1,0 +1,31 @@
+###
+Question: In a survey of a group of people, they were asked whether they prefer cats, dogs, both, or neither.
+
+The Venn Diagram shows the results. ![A Venn diagram with two sets, one labelled Cats and one labelled Dogs. The number 15 is written in Cats without the intersection, number 10 is in Dogs without the intersection, the number 8 is in the intersection of Cats and Dogs. The number 12 is outside the circles.]() How many people participated in the survey?
+
+###
+Answers:
+(A) - \( 45 \) 
+
+(B) - \( 30 \) 
+
+(C) - \( 25 \) 
+
+(D) - \( 35 \) 
+
+###
+Misconceptions:
+(A) - Counts an incorrect total by doubling the intersection numbers instead of understanding the Venn diagram correctly.
+
+(B) - Fails to account for all regions including those outside the circles.
+
+(C) - Miscalculates by excluding the total outside value and focusing only on the intersections.
+
+(D) - Correctly adds all values and accounts for all regions in the Venn diagram. 
+
+###
+Subject: Venn Diagrams
+###
+ConstructName: Interpret what the numbers in each region of a double Venn diagram mean
+###
+CorrectAnswer: D

@@ -1,0 +1,29 @@
+###
+Question: What is \( 0.45678 \) rounded to \( 2 \) decimal places? 
+
+###
+Answers:
+(A) - \( 0.46 \) 
+
+(B) - \( 0.45 \) 
+
+(C) - \( 0.457 \) 
+
+(D) - \( 0.46 \) 
+
+###
+Misconceptions:
+(A) - Rounds correctly but confuses the place to round to 
+
+(B) - Rounds down when it should round up 
+
+(C) - Includes an extra digit that is not necessary 
+
+(D) - Rounds correctly but mislabels as rounded to three decimal places 
+
+###
+Subject: Rounding to Decimal Places
+###
+ConstructName: Round numbers to two or more decimal places
+###
+CorrectAnswer: A

@@ -1,0 +1,33 @@
+###
+Question: Describe the movements to get from
+
+\[
+(2,3) \text{ to }(5,-2)
+\] 
+
+###
+Answers:
+(A) - Right \( 3 \) squares, down \( 5 \) squares 
+
+(B) - Right \( 3 \) squares, up \( 5 \) squares 
+
+(C) - Left \( 3 \) squares, down \( 5 \) squares 
+
+(D) - Right \( 5 \) squares, down \( 2 \) squares 
+
+###
+Misconceptions:
+(A) - Confuses vertical movement direction when translating between different coordinates 
+
+(B) - Confuses the correct direction of movement when translating coordinates by misplacing the y-values 
+
+(C) - Misinterprets the starting coordinate's direction when subtracting positive numbers 
+
+(D) - Fails to calculate the proper distance moved in both x and y directions 
+
+###
+Subject: Translation and Vectors
+###
+ConstructName: Describe simple directions to translate a shape or object using words not vectors
+###
+CorrectAnswer: A
